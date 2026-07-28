@@ -1,0 +1,580 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/paychex
+
+slug:
+paychex
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:55:49.243459Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Paychex Embraces Zero Trust and Accelerates M&A
+
+subtitle:
+With Zscaler Private Access
+
+customer_name:
+Paychex
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Protect customers’ and employees’ data on or off the network with end-to-end zero trust
+
+## results
+
+- Enables first-day access to internal systems for acquired companies
+- Quickly integrates services for new locations without MPLS or VPN
+- Provides manageable security and a common user experience
+- Delivers secure access from any location, on any device
+
+====================================================
+# customer_snapshot
+
+title:
+Paychex
+
+description:
+Paychex, Inc. is a provider of human resource, payroll, and benefits outsourcing services for small- to medium-sized businesses. The company serves around 670,000 payroll clients in the US and Europe. In 2019, Paychex ranked 700th on the Fortune 500 list of largest corporations by revenue.
+
+industry:
+Services
+
+headquarters:
+Rochester, New York, USA
+
+size:
+15,000+ employees in 100+ locations worldwide
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/4l7vetahyx
+
+provider:
+wistia
+
+video_id:
+4l7vetahyx
+
+title:
+Paychex Embraces Zero Trust and Accelerates M&amp;A with ZPA
+
+description:
+a Paychex video
+
+duration_seconds:
+231.999
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/fd23b569b48643e5a57b99c38fe61696.png
+
+### transcript
+
+language:
+eng
+
+#### sentences
+
+1.
+So Paychex is a human cap management organization.
+
+2.
+We've been around for over forty five years.
+
+3.
+We have fifteen thousand plus employees across the country, and we also have a presence in the EU.
+
+4.
+Our workforce is changing too.
+
+5.
+And that not everybody's sitting in brick and mortar anymore, they're working where it's most convenient for them.
+
+6.
+So when you're on the network or off the network, primary driver here was to make sure that we were protecting our customer's data and our employees' data.
+
+7.
+To me, the vision is to have zero trust enabled across the board, everywhere from the land to the land out to the internet.
+
+8.
+If we've got users that are, you know, happen to be kinda thing from Starbucks.
+
+9.
+We don't have to worry about them getting hijacked, you know, using ZPA.
+
+10.
+Right?
+
+11.
+You know, they can come in and get access to they need.
+
+12.
+It becomes more of a a manageable experience from from a security perspective where we're at, and it becomes a common user experience for for them regardless where they happen to be working from.
+
+13.
+It's kind of decoupling the application layer from the network layer.
+
+14.
+Right?
+
+15.
+I don't have to worry about someone being a node on our network.
+
+16.
+They can simply use access the application, like they would if they were on our network, but we don't have to worry about propagation of ransomware.
+
+17.
+We don't have to worry about scanning of our network IP space.
+
+18.
+Don't have to worry about a lot of the traditional, impediments that we would, sort of using a traditional site to site VPN or even remote access VPN.
+
+19.
+One of the sort challenges with traditional VPN is you're a node on the network.
+
+20.
+Right?
+
+21.
+You can access anything via the network that you can get access to.
+
+22.
+I like being able to isolate at the application layer.
+
+23.
+So being able to put in place probably a lot more around process in the future around how do you get access to those things, making sure that we have the right controls around who can access which applications.
+
+24.
+That way we're not really worried about, okay, you can kinda scan everything or you can access this front end.
+
+25.
+You you can't even get to that application if you don't have access to it.
+
+26.
+We purchased, our biggest acquisition, to date, which is Oasis HR, and we needed a way to onboard our employees and give them the best experience possible.
+
+27.
+We would have to vet out the security of the systems that were not our systems.
+
+28.
+So to get access to that, to work with the the recently purchased, company, and it would take us months to make sure that everything was in order.
+
+29.
+In order to give them access to our systems.
+
+30.
+With ZPA, we're now able to offer it to them first day.
+
+31.
+We are very quickly able to, give them access to our internal internet in a secure way so that they can log in to their HR benefits, to their, time cards and a whole bunch of services that we wouldn't normally be able to give them access to without them being on our domain and our our assets.
+
+32.
+So it's it's really been a game changer for us.
+
+33.
+We can start to integrate, I'm gonna say, classic paychecks locations with new oasis locations or other M and A's, I can I can create, like, a hybrid office, and provide all those services out of that office as opposed to having to home run everything or create a bunch of separate network and PLF circuits to to perform that functionality?
+
+34.
+From a ZPA perspective, you know, we're looking at a long term strategy as a potential VPN replacement for Paychex.
+
+35.
+We really want the experience to be that no matter where you are, as long as you have a Zscaler on your desktop or your endpoint, you should be able access to tools or the sites that you need in order for you to be productive.
+
+36.
+It doesn't matter if you're in the office or if you're across the country in London on application and you just need to happen to do some work.
+
+37.
+You shouldn't have to VPN in using RSA token or any of those things.
+
+38.
+It should be ease of access so that you can have maximum productivity.
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+Carlos Cong (Enterprise Cyber & Information Security, Paychex)
+
+tag:
+self_introduction
+
+topic:
+Introduction to Paychex
+
+text:
+So Paychex is a human cap management organization. We've been around for over forty five years. We have fifteen thousand plus employees across the country, and we also have a presence in the EU.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+Carlos Cong (Enterprise Cyber & Information Security, Paychex)
+
+tag:
+challenges
+
+topic:
+Changing workforce and data protection
+
+text:
+Our workforce is changing too. And that not everybody's sitting in brick and mortar anymore, they're working where it's most convenient for them. So when you're on the network or off the network, primary driver here was to make sure that we were protecting our customer's data and our employees' data.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+Carlos Cong (Enterprise Cyber & Information Security, Paychex)
+
+tag:
+products_and_solutions
+
+topic:
+Vision for zero trust and ZPA
+
+text:
+To me, the vision is to have zero trust enabled across the board, everywhere from the land to the land out to the internet. If we've got users that are, you know, happen to be kinda thing from Starbucks. We don't have to worry about them getting hijacked, you know, using ZPA. Right?
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+Carlos Cong (Enterprise Cyber & Information Security, Paychex)
+
+tag:
+products_and_solutions
+
+topic:
+Decoupling application and network layers
+
+text:
+You know, they can come in and get access to they need. It becomes more of a a manageable experience from from a security perspective where we're at, and it becomes a common user experience for for them regardless where they happen to be working from. It's kind of decoupling the application layer from the network layer. Right?
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+Carlos Cong (Enterprise Cyber & Information Security, Paychex)
+
+tag:
+challenges
+
+topic:
+Issues with traditional VPNs
+
+text:
+I don't have to worry about someone being a node on our network. They can simply use access the application, like they would if they were on our network, but we don't have to worry about propagation of ransomware. We don't have to worry about scanning of our network IP space. Don't have to worry about a lot of the traditional, impediments that we would, sort of using a traditional site to site VPN or even remote access VPN.
+
+Segment 6
+
+segment_id:
+6
+
+speaker:
+Carlos Cong (Enterprise Cyber & Information Security, Paychex)
+
+tag:
+challenges
+
+topic:
+Limitations of traditional VPN access
+
+text:
+One of the sort challenges with traditional VPN is you're a node on the network. Right? You can access anything via the network that you can get access to. I like being able to isolate at the application layer.
+
+Segment 7
+
+segment_id:
+7
+
+speaker:
+Carlos Cong (Enterprise Cyber & Information Security, Paychex)
+
+tag:
+products_and_solutions
+
+topic:
+Future process improvements for access
+
+text:
+So being able to put in place probably a lot more around process in the future around how do you get access to those things, making sure that we have the right controls around who can access which applications.
+
+Segment 8
+
+segment_id:
+8
+
+speaker:
+Carlos Cong (Enterprise Cyber & Information Security, Paychex)
+
+tag:
+challenges
+
+topic:
+Concerns about application access
+
+text:
+That way we're not really worried about, okay, you can kinda scan everything or you can access this front end. You you can't even get to that application if you don't have access to it.
+
+Segment 9
+
+segment_id:
+9
+
+speaker:
+Carlos Cong (Enterprise Cyber & Information Security, Paychex)
+
+tag:
+challenges
+
+topic:
+Acquisition challenges with Oasis HR
+
+text:
+We purchased, our biggest acquisition, to date, which is Oasis HR, and we needed a way to onboard our employees and give them the best experience possible. We would have to vet out the security of the systems that were not our systems. So to get access to that, to work with the the recently purchased, company, and it would take us months to make sure that everything was in order. In order to give them access to our systems.
+
+Segment 10
+
+segment_id:
+10
+
+speaker:
+Carlos Cong (Enterprise Cyber & Information Security, Paychex)
+
+tag:
+products_and_solutions
+
+topic:
+ZPA for onboarding and integration
+
+text:
+With ZPA, we're now able to offer it to them first day. We are very quickly able to, give them access to our internal internet in a secure way so that they can log in to their HR benefits, to their, time cards and a whole bunch of services that we wouldn't normally be able to give them access to without them being on our domain and our our assets. So it's it's really been a game changer for us. We can start to integrate, I'm gonna say, classic paychecks locations with new oasis locations or other M and A's, I can I can create, like, a hybrid office, and provide all those services out of that office as opposed to having to home run everything or create a bunch of separate network and PLF circuits to to perform that functionality?
+
+Segment 11
+
+segment_id:
+11
+
+speaker:
+Carlos Cong (Enterprise Cyber & Information Security, Paychex)
+
+tag:
+products_and_solutions
+
+topic:
+ZPA as a VPN replacement
+
+text:
+From a ZPA perspective, you know, we're looking at a long term strategy as a potential VPN replacement for Paychex.
+
+Segment 12
+
+segment_id:
+12
+
+speaker:
+Carlos Cong (Enterprise Cyber & Information Security, Paychex)
+
+tag:
+quote
+
+topic:
+Ease of access and productivity
+
+text:
+We really want the experience to be that no matter where you are, as long as you have a Zscaler on your desktop or your endpoint, you should be able access to tools or the sites that you need in order for you to be productive. It doesn't matter if you're in the office or if you're across the country in London on application and you just need to happen to do some work. You shouldn't have to VPN in using RSA token or any of those things. It should be ease of access so that you can have maximum productivity.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+43348845
+
+created_at:
+1560896564
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+The vision is to have zero trust enabled across the board, everywhere from the LAN, to the WAN, out to the internet.
+
+## speaker
+
+name:
+Carlos Cong
+
+title:
+Enterprise Cyber & Information Security
+
+company:
+Paychex
+
+====================================================
+# customer_case_study
+
+title:
+null
+
+sections:
+[]
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 2
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 3
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 2
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 3
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 4
+
+name:
+Accelerate M&A and Divestitures
+
+url:
+https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+32666
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Paychex Paychex Embraces Zero Trust and Accelerates M&A with With Zscaler Private Access.
+
+og_title:
+Paychex Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/paychex

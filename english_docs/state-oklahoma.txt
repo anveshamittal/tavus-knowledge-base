@@ -1,0 +1,830 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/state-oklahoma
+
+slug:
+state-oklahoma
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:56:41.416013Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+State of Oklahoma Consolidates 100+ Agencies with Zero Trust and Accelerates Private App Access by 600%
+
+subtitle:
+Expansion of the Zscaler Platform Blocks Hidden Threats in Encrypted Traffic and Speeds Policy Rollout from Weeks to Minutes
+
+customer_name:
+State of Oklahoma
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Enable secure work from anywhere, keep pace with the cybersecurity landscape, simplify infrastructure, and shift to the cloud
+
+## results
+
+- Helped deliver $875 million in cost savings from consolidation and standardization
+- Consolidated distributed infrastructures: 100+ agencies unified with a zero trust architecture
+- Reduced risk by blocking 34,342 threats hiding in encrypted traffic in 90 days
+- Improved cyber protection, preventing 17.6M policy violations and blocking 394,652 threats in 3 months
+- Accelerates access to private applications, up to 5x faster than VPN
+- Enables fast policy rollout in minutes vs. weeks or months with traditional solutions
+
+====================================================
+# customer_snapshot
+
+title:
+State of Oklahoma
+
+description:
+The State of Oklahoma has over 30,000 employees across more than 180 agencies providing government services to nearly 4 million state residents. These agencies focus on health and human services, education, elections, agriculture and forestry, emergency management, taxation, and other areas.
+
+industry:
+Federal and Government
+
+headquarters:
+Oklahoma City, Oklahoma, USA
+
+size:
+30,000+ employees across 180+ agencies statewide 
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+The Zero Trust Exchange has significantly improved cybersecurity, decreased risk, and increased visibility enterprise-wide for our state agencies.
+
+## speaker
+
+name:
+Michael Toland
+
+title:
+CISO
+
+company:
+State of Oklahoma
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+oklahoma-is-a-trailblazer-in-digital-modernization
+
+title:
+Oklahoma is a trailblazer in digital modernization
+
+### paragraphs
+
+Paragraph 1
+
+- For over a decade, the State of Oklahoma has been on a digital modernization path for its complex environment spanning more than 180 agencies, each with unique technology requirements.
+- Adoption of a zero trust architecture has been a critical part of meeting the state’s goals: enabling safe remote access for more than 30,000 employees, protecting vital applications and data from cyberthreats, consolidating IT operations, and driving cloud migration.
+
+Paragraph 2
+
+- The Oklahoma Office of Management and Enterprise Services (OMES), the state government’s central technology and cybersecurity agency, began its zero trust journey with the Zscaler Zero Trust Exchange.
+- OMES accelerated its zero trust implementation during the COVID-19 pandemic, replacing its legacy VPN with Zscaler solutions to enable employees to work securely from anywhere on any device.
+
+Paragraph 3
+
+- The state continues to expand its zero trust architecture to further fortify its security posture and support its cloud-first initiatives.
+- With the state government’s IT infrastructure currently 85% on premises and 15% in the cloud, CISO Michael Toland has his sights set on reversing those percentages within less than two years.
+
+Paragraph 4
+
+- “Our zero trust architecture has evolved organically.
+- We’ve been progressively building on the successes we’ve experienced firsthand with the Zero Trust Exchange.
+- Zscaler is integral to our long-term digital transformation strategy as we continue to support our users and citizens while protecting our valuable data and application assets,” said Toland.
+
+### quotes
+
+Quot 1
+
+quote:
+Our zero trust architecture has evolved organically. We’ve been progressively building on the successes we’ve experienced firsthand with the Zero Trust Exchange. Zscaler is integral to our long-term digital transformation strategy as we continue to support our users and citizens while protecting our valuable data and application assets.
+
+#### speaker
+
+name:
+Toland
+
+title:
+
+
+company:
+State of Oklahoma
+
+Section 2
+
+id:
+turning-on-a-dime-to-provide-remote-workers-with-six-times-faster-app-access-and-consistent-protection
+
+title:
+Turning on a dime to provide remote workers with six times faster app access and consistent protection
+
+### paragraphs
+
+Paragraph 1
+
+- Shortly before the pandemic, OMES deployed Zscaler on a limited basis to protect a legacy application that had a known vulnerability that could not easily be patched or repaired.
+
+Paragraph 2
+
+- When the pandemic hit, OMES needed to act quickly to support remote work for more than 30,000 employees and over 100 agencies.
+- As Toland points out, the organization’s traditional VPNs from three different vendors were faltering under the user load.
+- This resulted in network outages, hundreds of VPN help-desk tickets daily, and increased cybersecurity risk.
+
+Paragraph 3
+
+- “We needed to get people back to work as quickly as possible.
+- Necessity dictated that we do something fundamentally different, and Zscaler was there to help us,” said Toland.
+- “One of the important things the Zscaler deployment provided during the pandemic was the beginning of a consistent approach to security and user access across the state—regardless of the agency or location of users.”
+
+Paragraph 4
+
+- The state immediately deployed Zscaler Internet Access (ZIA) to provide simpler, more secure remote access to the internet and SaaS applications, such as Microsoft 365, which nearly all employees use.
+
+Paragraph 5
+
+- Soon after, OMES replaced its costly, high-maintenance VPNs with Zscaler Private Access (ZPA) at more than 110 state agencies.
+- “We were able to get ZPA up and running in just two days so everyone could securely access critical private applications hosted in the data center.
+- With Zscaler, access to private applications was up to six times faster than it was with VPN,” explained Toland.
+- “Not only that, but when you take into account the combined costs of VPN—the initial investment in hardware and software, maintenance, loss of productivity due to performance issues, and potential security problems—ZPA was the more economical and productivity-enhancing solution.”
+
+Paragraph 6
+
+- Overall, Zscaler simplified policy creation and enforcement across all users and devices, reduced costs, and vastly improved the user experience.
+
+### quotes
+
+Quot 1
+
+quote:
+We needed to get people back to work as quickly as possible. Necessity dictated that we do something fundamentally different, and Zscaler was there to help us. One of the important things the Zscaler deployment provided during the pandemic was the beginning of a consistent approach to security and user access across the state—regardless of the agency or location of users.
+
+#### speaker
+
+name:
+Toland
+
+title:
+
+
+company:
+State of Oklahoma
+
+Quot 2
+
+quote:
+We were able to get ZPA up and running in just two days so everyone could securely access critical private applications hosted in the data center. With Zscaler, access to private applications was up to six times faster than it was with VPN. Not only that, but when you take into account the combined costs of VPN—the initial investment in hardware and software, maintenance, loss of productivity due to performance issues, and potential security problems—ZPA was the more economical and productivity-enhancing solution.
+
+#### speaker
+
+name:
+Toland
+
+title:
+
+
+company:
+State of Oklahoma
+
+Quot 3
+
+quote:
+The Zscaler-CrowdStrike integration provides us with the telemetry to stop a threat from moving laterally and accessing critical systems.
+
+#### speaker
+
+name:
+Michael Toland
+
+title:
+CISO
+
+company:
+State of Oklahoma
+
+Section 3
+
+id:
+upleveling-cybersecurity-to-keep-pace-with-the-threat-landscape
+
+title:
+Upleveling cybersecurity to keep pace with the threat landscape
+
+### paragraphs
+
+Paragraph 1
+
+- Implementing the Zero Trust Exchange during the pandemic set the stage for further expansion of the OMES Zscaler deployment.
+- Like most state governments, Oklahoma is the target of a wide spectrum of threats such as phishing, credential compromise, and ransomware.
+
+Paragraph 2
+
+- When Toland joined the organization in 2022, one of his goals was to enhance security.
+- He and his team continue to rely on Zscaler to prevent compromise with AI-powered threat detection, which includes phishing detection and prevention and browser isolation.
+- Built-in TLS/SSL traffic inspection, critical now that over 95% of today’s web traffic is encrypted, also helps prevent compromise and loss of sensitive personal and health data at scale.
+- Hardware-based security appliances, with inherent processing limitations, cannot do the same.
+
+Paragraph 3
+
+- Adding another layer of protection, Toland’s team recently deployed Zscaler CASB to gain granular visibility into user activity as well as sensitive data in motion or at rest in SaaS applications.
+- CASB works across both sanctioned and unsanctioned (shadow IT) cloud services and SaaS.
+- Advanced data classification and file-sharing controls, along with monitoring SaaS application configurations, help prevent data breaches and maintain compliance with stringent government regulations.
+
+Paragraph 4
+
+- “On any given day, my team sees as many as 17 million potential threats—and they manage to stay on top of them.
+- Thanks to advanced automation and AI-powered threat protection, Zscaler helps make that possible,” said Toland.
+- “Overall, the Zero Trust Exchange has significantly improved cybersecurity, decreased risk, and increased visibility enterprise-wide for most of our state agencies."
+
+### quotes
+
+Quot 1
+
+quote:
+On any given day, my team sees as many as 17 million potential threats—and they manage to stay on top of them. Thanks to advanced automation and AI-powered threat protection, Zscaler helps make that possible. Overall, the Zero Trust Exchange has significantly improved cybersecurity, decreased risk, and increased visibility enterprise-wide for most of our state agencies.
+
+#### speaker
+
+name:
+Toland
+
+title:
+
+
+company:
+State of Oklahoma
+
+Section 4
+
+id:
+user-experience-monitoring-resolves-support-tickets-faster-and-boosts-productivity
+
+title:
+User experience monitoring resolves support tickets faster and boosts productivity
+
+### paragraphs
+
+Paragraph 1
+
+- To further elevate the user experience and make life easier for his team, OMES deployed Zscaler Digital Experience (ZDX) to continuously monitor performance across applications, networks, and devices, regardless of where employees work.
+- Toland pointed out that ZDX has improved the speed and quality of issue resolution, as evidenced by fewer support ticket callbacks and reopens.
+
+Paragraph 2
+
+- “Our team can run diagnostics and get real-time, usable data that helps us get to the root causes of problems, such as poor Wi-Fi connections, network outages, or improper device configurations,” remarked Toland.
+- “Zscaler allows us to measure performance parameters, eliminate the guesswork, and resolve support tickets faster.
+- I really like it, and I know our users do, too."
+
+### quotes
+
+Quot 1
+
+quote:
+Our team can run diagnostics and get real-time, usable data that helps us get to the root causes of problems, such as poor Wi-Fi connections, network outages, or improper device configurations. Zscaler allows us to measure performance parameters, eliminate the guesswork, and resolve support tickets faster. I really like it, and I know our users do, too.
+
+#### speaker
+
+name:
+Toland
+
+title:
+
+
+company:
+State of Oklahoma
+
+Quot 2
+
+quote:
+We were able to get ZPA up and running in just two days ... access to private applications was up to six times faster than it was with VPN.
+
+#### speaker
+
+name:
+Michael Toland
+
+title:
+CISO
+
+company:
+State of Oklahoma
+
+Section 5
+
+id:
+integration-with-crowdstrike-curbs-lateral-movement-of-threats
+
+title:
+Integration with CrowdStrike curbs lateral movement of threats
+
+### paragraphs
+
+Paragraph 1
+
+- Integrations are another important aspect of achieving a holistic approach to cybersecurity.
+- The Zscaler-CrowdStrike integration empowers Toland’s Cyber Command team of dedicated security professionals to be more proactive and effective by feeding Zscaler with continuous threat intelligence and Falcon Zero Trust Assessment (ZTA) scores for all devices.
+- Based on this real-time data, Zscaler swiftly adapts, enforces access policy, and adds malicious URLs, IP addresses, and domains to its block list.
+
+Paragraph 2
+
+- A major advantage of the integration is preventing lateral movement of threats.
+- When Zscaler detects a potential piece of malware that has never been seen before, a sample is detonated and analyzed in the Zscaler Sandbox.
+- The data collected by the sandbox is then correlated with CrowdStrike to identify and quarantine infected devices, stopping threats in their tracks.
+
+Paragraph 3
+
+- “The Zscaler-CrowdStrike integration provides us with the telemetry to stop a threat from moving laterally and accessing critical systems like a database server with citizens’ and employees’ sensitive financial information,” explained Toland.
+
+### quotes
+
+Quot 1
+
+quote:
+The Zscaler-CrowdStrike integration provides us with the telemetry to stop a threat from moving laterally and accessing critical systems like a database server with citizens’ and employees’ sensitive financial information.
+
+#### speaker
+
+name:
+Toland
+
+title:
+
+
+company:
+State of Oklahoma
+
+Section 6
+
+id:
+splunk-serves-as-the-hub-of-zero-trust-protection
+
+title:
+Splunk serves as the hub of zero trust protection
+
+### paragraphs
+
+Paragraph 1
+
+- The Zscaler-Splunk integration is another crucial element of OMES’s zero trust defense-in-depth strategy.
+- The integration provides Toland’s team with a centralized view into the state’s security posture and enriches investigations and proactive threat-hunting activity.
+
+Paragraph 2
+
+- Since Zscaler data logs correspond to Splunk’s schema, correlation searches are easy.
+- Rich metadata and connection activity information from Zscaler combine with Splunk analytics, giving the team increased visibility and enriched telemetry to monitor and identify threats while automating controls for access across the entire environment.
+
+Paragraph 3
+
+- “The seamless integration between Zscaler and Splunk provides my team with actionable data within Splunk, so they have real-time visibility into threats, policy violations, and vulnerabilities.
+- They no longer have to swivel between multiple security consoles,” said Toland.
+- “Because of this single-pane-of-glass view, our security team has experienced significant gains in efficiency and speed."
+
+### quotes
+
+Quot 1
+
+quote:
+The seamless integration between Zscaler and Splunk provides my team with actionable data within Splunk, so they have real-time visibility into threats, policy violations, and vulnerabilities. They no longer have to swivel between multiple security consoles. Because of this single-pane-of-glass view, our security team has experienced significant gains in efficiency and speed.
+
+#### speaker
+
+name:
+Toland
+
+title:
+
+
+company:
+State of Oklahoma
+
+Quot 2
+
+quote:
+When you take into account the combined costs of VPN—the initial investment ... maintenance ... performance issues ... security problems—ZPA was the more economical and productivity-enhancing solution.
+
+#### speaker
+
+name:
+Michael Toland
+
+title:
+CISO
+
+company:
+State of Oklahoma
+
+Section 7
+
+id:
+quantifiable-business-outcomes-stronger-security-posture-cost-savings-and-simplified-compliance
+
+title:
+Quantifiable business outcomes: stronger security posture, cost savings, and simplified compliance
+
+### paragraphs
+
+Paragraph 1
+
+- The expanded Zscaler has had a measurable, positive impact in many areas of the state’s operations.
+
+Paragraph 2
+
+- The robust, scalable Zero Trust Exchange, delivered from more than 150 data centers worldwide, is built to support any volume of traffic.
+- In 2023, Zscaler processed 545.9 TB in traffic operational bandwidth for the state, up 562% from the year before, at 82.4 TB.
+- It also prevented 17.6 million policy violations and blocked 394,652 threats in a single three-month period.
+- Moreover, Zscaler reduced business risk by detecting 34,342 threats hidden in encrypted traffic over 90 days.
+
+Paragraph 3
+
+- Alignment with the state government’s budgetary constraints is another area where Zscaler has proven its value.
+- When evaluating a security technology, Toland takes into account not only the initial purchase cost, but also maintenance costs, operational and management complexity, and the potential costs of a tool failing to get the job done.
+
+Paragraph 4
+
+- “We are looking very closely at every dollar we spend to determine if a product is bringing value.
+- Rather than having to acquire separate tools for zero trust, identity management, and access, the unified Zscaler platform can do all those things well and more efficiently,” said Toland.
+- “In the past, I would have needed three to five different solutions to accomplish what Zscaler and its integrations can do on their own.
+- With Zscaler, we haven’t found a problem we can’t solve—and it certainly aids in the ongoing challenge to do more with less.”
+
+Paragraph 5
+
+- Zscaler’s platform-agnostic processes also save time and money by eliminating the need to hire professionals with product-specific skill sets or invest in additional staff training.
+- For example, with Zscaler, one person can write a policy to protect more than 30,000 employees in just minutes.
+- Traditional methods would require a dedicated specialist to create a policy, manually duplicate policies across unintegrated tools, and do weeks of testing before rolling it out.
+
+Paragraph 6
+
+- Finally, Zscaler has helped the state successfully navigate the increasingly complex regulatory environment, which drives a need for stronger security measures and best practices.
+
+Paragraph 7
+
+- “Zscaler’s alignment with government and commercial security frameworks gives us greater assurance in meeting regulatory compliance requirements.
+- Additionally, Zscaler’s comprehensive security and data protection and role and policy-based access rules help ensure a better risk posture, which also contributes to these efforts, ” said Toland.
+
+### quotes
+
+Quot 1
+
+quote:
+We are looking very closely at every dollar we spend to determine if a product is bringing value. Rather than having to acquire separate tools for zero trust, identity management, and access, the unified Zscaler platform can do all those things well and more efficiently. In the past, I would have needed three to five different solutions to accomplish what Zscaler and its integrations can do on their own. With Zscaler, we haven’t found a problem we can’t solve—and it certainly aids in the ongoing challenge to do more with less.
+
+#### speaker
+
+name:
+Toland
+
+title:
+
+
+company:
+State of Oklahoma
+
+Quot 2
+
+quote:
+Zscaler’s alignment with government and commercial security frameworks gives us greater assurance in meeting regulatory compliance requirements. Additionally, Zscaler’s comprehensive security and data protection and role and policy-based access rules help ensure a better risk posture, which also contributes to these efforts.
+
+#### speaker
+
+name:
+Toland
+
+title:
+
+
+company:
+State of Oklahoma
+
+Section 8
+
+id:
+evolving-a-sustainable-zero-trust-architecture
+
+title:
+Evolving a sustainable zero trust architecture
+
+### paragraphs
+
+Paragraph 1
+
+- By methodically building out its zero trust architecture, the State of Oklahoma has made significant progress toward security maturity and digital transformation.
+- Toland reported that most state agencies now leverage zero trust architecture from Zscaler, enabling comprehensive and consistent security across the state.
+
+Paragraph 2
+
+- “As we bring on new agencies, the Zero Trust Exchange meets their needs with minimal downtime and security friction,” he said.
+
+Paragraph 3
+
+- The underlying zero trust concept of “never trust, always verify” is especially important as the State of Oklahoma transitions from a data center environment to a multi-cloud environment.
+- Zero trust capabilities such as real-time traffic inspection, continuous verification of users and their devices, direct-to-application connectivity, and granular context-based policies are essential for protecting any organization.
+
+Paragraph 4
+
+- “Because our intention is to move as much of our infrastructure to the cloud as we can, secure access to sensitive data and strong zero trust is vital,” said Toland.
+- “The Zero Trust Exchange has helped us evolve that over the last few years and will play an even more critical role as we shift more fully to the cloud."
+
+### quotes
+
+Quot 1
+
+quote:
+As we bring on new agencies, the Zero Trust Exchange meets their needs with minimal downtime and security friction.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+State of Oklahoma
+
+Quot 2
+
+quote:
+Because our intention is to move as much of our infrastructure to the cloud as we can, secure access to sensitive data and strong zero trust is vital. The Zero Trust Exchange has helped us evolve that over the last few years and will play an even more critical role as we shift more fully to the cloud.
+
+#### speaker
+
+name:
+Toland
+
+title:
+
+
+company:
+State of Oklahoma
+
+Section 9
+
+id:
+securing-cloud-workloads-and-ai
+
+title:
+Securing cloud workloads and AI
+
+### paragraphs
+
+Paragraph 1
+
+- Toland envisions migrating most of the state’s workloads out of the data center and into the cloud over the course of about 18 months.
+- The state will be relying heavily on Zscaler to further strengthen its security posture.
+- The biggest hurdle will be re-engineering legacy applications that were built 25 or 30 years ago to make them cloud-ready.
+
+Paragraph 2
+
+- As cloud usage picks up momentum, Toland plans to utilize Zscaler Workload Communications to extend consistent threat and data protection to cloud workloads across all major public cloud providers, including Amazon Web Services, Microsoft Azure, and Google Cloud Platform.
+
+Paragraph 3
+
+- “Zscaler’s ability to mitigate a threat, whether it’s on-premises or in a cloud environment, is not just a nice-to-have, it’s a must.
+- Zscaler has successfully handled every challenge we’ve had to deal with—and I'm very pleased with that,” said Toland.
+
+Paragraph 4
+
+- Looking further into the future, Toland’s team is also exploring how generative AI applications and tools can help improve workflows and productivity.
+- With that in mind, Toland is interested in evaluating Zscaler’s AI-powered innovations to prevent data loss and enable secure use of AI applications like ChatGPT.
+- He and his team continue to leverage Zscaler’s AI-powered advanced threat protection, application segmentation, automated data classification, root cause analysis, and cloud browser isolation.
+
+Paragraph 5
+
+- “Attackers are coming up with new and creative ways to do bad things, and we will be relying more and more on our Zscaler defense so we can move at the speed of AI,” remarked Toland.
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler’s ability to mitigate a threat, whether it’s on-premises or in a cloud environment, is not just a nice-to-have, it’s a must. Zscaler has successfully handled every challenge we’ve had to deal with—and I'm very pleased with that.
+
+#### speaker
+
+name:
+Toland
+
+title:
+
+
+company:
+State of Oklahoma
+
+Quot 2
+
+quote:
+Attackers are coming up with new and creative ways to do bad things, and we will be relying more and more on our Zscaler defense so we can move at the speed of AI.
+
+#### speaker
+
+name:
+Toland
+
+title:
+
+
+company:
+State of Oklahoma
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 4
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Secure Remote Access
+
+url:
+https://www.zscaler.com/products-and-solutions/vpn-alternative
+
+Solution 2
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 3
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 4
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 5
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+43986
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how State of Oklahoma State of Oklahoma Consolidates 100+ Agencies with Zero Trust and Accelerates Private App Access by 600% with Expansion of the Zscaler Platform Blocks Hidden Threats in Encrypted Traffic and Speeds Policy Rollout from Weeks to Minutes.
+
+og_title:
+State of Oklahoma Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/state-oklahoma

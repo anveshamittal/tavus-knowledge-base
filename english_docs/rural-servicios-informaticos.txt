@@ -1,0 +1,801 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/rural-servicios-informaticos
+
+slug:
+rural-servicios-informaticos
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:54.111399Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Rural Servicios Informáticos Elevates Security Resilience with 100% Zero Trust Visibility and AI Tools
+
+subtitle:
+Zscaler secures work-from-anywhere, creates a positive user experience, reduces time to remediation, and simplifies compliance for European financial services IT provider
+
+customer_name:
+Rural Servicios Informáticos
+
+## metrics
+
+Metric 1
+
+value:
+16,000
+
+label:
+Users protected against advance threats
+
+Metric 2
+
+value:
+1.4M
+
+label:
+policy violations prevented in one quarter
+
+Metric 3
+
+value:
+21,000+
+
+label:
+security threats blocked in 90 days
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Legacy VPN expanded the attack surface, enabled lateral movement of threats, and provided a poor user experience
+- Lack of visibility into user activity and device security posture and inconsistent access policies increased risk of advanced threats and data loss
+- On-premises security stack was costly and complex, lacked scalability, and did not meet protection and compliance requirements
+
+## results
+
+- Delivers more robust security by replacing legacy VPN, firewalls, and on-premises proxies
+- Provides secure, seamless connectivity with direct zero trust access to apps and the internet
+- Reduces complexity and costs by consolidating security with a single unified zero trust platform
+
+====================================================
+# customer_snapshot
+
+title:
+Rural Servicios Informáticos
+
+description:
+Rural Servicios Informáticos S.L. (RSI) is a leading innovator and IT service provider offering comprehensive banking services and solutions for over 34 entities in Spain
+
+industry:
+High Tech
+
+headquarters:
+Madrid, Spain
+
+size:
+16,000+ users
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Zscaler was at the right place at the right time for us in our modernization journey. No other vendor came close to the broad scope and scalability of the Zscaler Zero Trust Exchange platform.
+
+## speaker
+
+name:
+Ivan Sanchez Lopez
+
+title:
+CISO
+
+company:
+Rural Servicios Informáticos
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+digital-transformation-to-increase-cyber-resilience-demands-a-zero-trust-approach
+
+title:
+Digital transformation to increase cyber resilience demands a zero trust approach
+
+### paragraphs
+
+Paragraph 1
+
+- Rural Servicios Informáticos S.L.
+- (RSI) provides core banking services to Caja Rural Group, one of the leading banking groups in Spain, which has a network of more than 34 cooperative banks and rural financial entities.
+- Numerous other financial institutions outside this group also outsource banking operations to RSI.
+- The organization serves 6.5 million end user customers and executes 7 billion transactions annually for 34 local and regional entities in this group and a number of non-group financial institutions.
+- Like all IT service providers in the financial sector, RSI aims to ensure safe transactions, maintain uptime, and protect sensitive financial and customer data.
+
+Paragraph 2
+
+- With plans to further broaden its network of community banks and branches, RSI knew it was time to modernize its operations by gradually transitioning from its legacy on-premises architecture to a cloud business model.
+- The security team was aware that successful migration to the cloud required improved digital identity management and stronger cyber resilience.
+- At the time, RSI’s security stack consisted of multivendor on-premises solutions, including firewalls, VPNs, and proxy servers.
+
+Paragraph 3
+
+- “As part of our digital transformation, we had three top cybersecurity priorities: replacing our legacy VPN, providing a superior work-from-anywhere user experience for our mobile workforce, and staying on top of Europe’s evolving financial compliance regulations,” said CISO Ivan Sanchez Lopez.
+- “To achieve these objectives and support our business goals, we recognized the critical need to adopt a zero trust approach to security.”
+
+### quotes
+
+Quot 1
+
+quote:
+As part of our digital transformation, we had three top cybersecurity priorities: replacing our legacy VPN, providing a superior work-from-anywhere user experience for our mobile workforce, and staying on top of Europe’s evolving financial compliance regulations. To achieve these objectives and support our business goals, we recognized the critical need to adopt a zero trust approach to security.
+
+#### speaker
+
+name:
+Ivan Sanchez Lopez
+
+title:
+CISO
+
+company:
+Rural Servicios Informáticos
+
+Section 2
+
+id:
+zscaler-s-unified-approach-to-zero-trust-offers-scalability-and-multilayered-security
+
+title:
+Zscaler’s unified approach to zero trust offers scalability and multilayered security
+
+### paragraphs
+
+Paragraph 1
+
+- In his quest for a zero trust security partner, Sanchez Lopez evaluated a number of solutions.
+- None measured up to his expectations until he discovered Zscaler, which combines multiple advanced technologies into a single, unified platform with the ability to expand functionality to accommodate future needs.
+
+Paragraph 2
+
+- “Zscaler was at the right place at the right time for us in our modernization journey.
+- We decided to move forward with Zscaler based on its capabilities, customer successes, and its commitment to innovation,” said Sanchez Lopez.
+- “No other vendor came close to the broad scope and scalability of the Zscaler Zero Trust Exchange platform.”
+
+Paragraph 3
+
+- He saw how Zscaler could help RSI reduce complexity and costs by consolidating its security stack, support secure connectivity to applications and the internet based on least-privileged access, apply consistent security policies for mobile users, and create a better user experience for internal employees and clients.
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler was at the right place at the right time for us in our modernization journey. We decided to move forward with Zscaler based on its capabilities, customer successes, and its commitment to innovation. No other vendor came close to the broad scope and scalability of the Zscaler Zero Trust Exchange platform.
+
+#### speaker
+
+name:
+Sanchez
+
+title:
+
+
+company:
+Rural Servicios Informáticos
+
+Section 3
+
+id:
+phase-1-replacing-vpn-enables-mobile-work-with-seamless-identity-based-connectivity-to-private-apps
+
+title:
+Phase 1: Replacing VPN enables mobile work with seamless identity-based connectivity to private apps
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- RSI launched its modernization journey by deploying Zscaler Private Access (ZPA) to replace its risk-prone and unreliable on-premises VPN solution.
+- Since VPNs allow users to freely access the entire corporate network, Sanchez Lopez and his team were concerned about credential compromise and lateral movement.
+- If attackers got access to the network, they could exfiltrate sensitive data and disrupt operations for RSI and its client banks.
+- In addition, VPN implementation for RSI’s distributed MPLS network expanded the attack surface and increased management complexity and costs.
+- RSI’s VPN also impacted the productivity of mobile/remote users with its slow performance and latency.
+
+Paragraph 2
+
+- Cloud native ZPA, on the other hand, reduces RSI’s reliance on site-to-site VPNs in MPLS networks.
+- Instead, ZPA provides true zero trust access by verifying user identity and device security posture.
+- It grants users direct access to only the applications they need to do their jobs.
+- Zscaler Branch Connector has made it easy for Sanchez Lopez to set up new locations, as the company scales its services to additional rural banks and their branches.
+
+Paragraph 3
+
+- “ZPA has not only boosted our security posture, but also improved the user experience.
+- It’s transparent to the user—they don’t even know it’s there.
+- Logging in is easy, and users are seamlessly and quickly connected to the apps they need, regardless of where they work,” remarked Sanchez Lopez.
+
+### quotes
+
+Quot 1
+
+quote:
+ZPA has not only boosted our security posture, but also improved the user experience. It’s transparent to the user—they don’t even know it’s there. Logging in is easy, and users are seamlessly and quickly connected to the apps they need, regardless of where they work.
+
+#### speaker
+
+name:
+Sanchez
+
+title:
+
+
+company:
+Rural Servicios Informáticos
+
+Quot 2
+
+quote:
+Zscaler has been a truly supportive partner throughout our implementation. When you’re involved in a mission-critical project, you need someone like that on your side.
+
+#### speaker
+
+name:
+Ivan Sanchez Lopez
+
+title:
+CISO
+
+company:
+Rural Servicios Informáticos
+
+Section 4
+
+id:
+phase-2-consistent-security-policies-traffic-inspection-and-other-advanced-defenses-result-in-secure-internet-browsing
+
+title:
+Phase 2: Consistent security policies, traffic inspection, and other advanced defenses result in secure internet browsing
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- The next step in RSI’s transformation was deploying Zscaler Internet Access (ZIA), which Sanchez Lopez describes as a “must-have in furthering our organization’s zero trust journey and staying compliant with current and future regulations.”
+
+Paragraph 2
+
+- ZIA provides users with direct access to the internet and SaaS applications anywhere and on any device.
+- It eliminates the need for expensive and complex site-to-site MPLS setups at rural banks and their branches that access RSI’s banking platform in its data center.
+- Unlike MPLS, which relies on high-maintenance physical infrastructure and an appliance-based security stack, ZIA operates in the cloud, enabling users to securely access the internet through the Zero Trust Exchange platform.
+- Security policies follow users wherever they work.
+
+Paragraph 3
+
+- ZIA’s advanced threat protection, such as URL filtering to detect malicious sites used in phishing campaigns, cloud sandbox analysis to detect unknown threats, and AI-driven real-time threat analysis increases RSI’s cyber resilience by blocking potential threats, thereby reducing risk.
+- ZIA’s continuous TLS/SSL traffic monitoring enables Sanchez Lopez and his team to gain visibility into potential threats and data exfiltration activity hidden in encrypted traffic.
+
+Paragraph 4
+
+- “When measured against the competition in the proof of concept, ZIA emerged as the technically superior solution,” said Sanchez Lopez.
+- “Its multilayered approach to security, which maps to the MITRE ATT&CK framework, has already proven itself by keeping our business and our clients safe from harmful and disruptive threats.
+- Not only that, but users are thrilled with a vastly improved browsing experience.”
+
+### quotes
+
+Quot 1
+
+quote:
+must-have in furthering our organization’s zero trust journey and staying compliant with current and future regulations.
+
+#### speaker
+
+name:
+Sanchez
+
+title:
+
+
+company:
+Rural Servicios Informáticos
+
+Quot 2
+
+quote:
+When measured against the competition in the proof of concept, ZIA emerged as the technically superior solution. Its multilayered approach to security, which maps to the MITRE ATT&CK framework, has already proven itself by keeping our business and our clients safe from harmful and disruptive threats. Not only that, but users are thrilled with a vastly improved browsing experience.
+
+#### speaker
+
+name:
+Sanchez
+
+title:
+
+
+company:
+Rural Servicios Informáticos
+
+Section 5
+
+id:
+phase-3-ai-powered-technologies-improve-the-user-experience-reduce-mttr-and-safeguard-sensitive-data
+
+title:
+Phase 3: AI-powered technologies improve the user experience, reduce MTTR, and safeguard sensitive data
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- As an IT service provider for the banking sector, continuity of service is critical.
+- To that end, Sanchez Lopez has implemented Zscaler Digital Experience (ZDX) to enable his team to actively monitor user experience issues onsite and at client banks in any location.
+
+Paragraph 2
+
+- With ZDX, the IT team can quickly diagnose and resolve issues related to SaaS application availability, device health, Wi-Fi performance, outages, and network bottlenecks using AI-powered root cause analysis.
+
+Paragraph 3
+
+- “When a bank teller at one of the banks we service faces a slow-performing laptop or Wi-Fi connectivity issue, ZDX helps us rapidly and accurately identify the root cause and fix it, enabling them to resume their work seamlessly,” said Sanchez Lopez.
+- “We are making the most of our current deployment and look forward to expanding that in the near future, so that we can continue improving our quality of service.”
+
+Paragraph 4
+
+- Zscaler Data Protection is another recent addition to RSI’s security stack.
+- Zscaler Data Protection protects RSI and its client banks against internal and external data exfiltration by securing data distributed across multiple channels: the internet, SaaS, email, endpoint, and private apps.
+- With AI-powered automated data discovery, RSI reduces risk response time by locating sensitive data like credit card and account information across endpoints, inline, and in the cloud with just a few clicks.
+
+Paragraph 5
+
+- To further improve RSI’s cybersecurity posture and the user experience, Sanchez Lopez has implemented Zscaler Zero Trust Browser, which is part of ZIA.
+- Zero Trust Browser protects against web-based threats by rendering web content accessed by users—via SaaS and private app sessions—as pixels in an isolated browser.
+- It allows users with managed or unmanaged BYOD devices to safely view and use web applications while restricting copy, paste, and print to prevent data leakage and theft.
+
+Paragraph 6
+
+- “Zero Trust Browser further elevates our security by protecting data and apps while maintaining a great user experience by not blocking anything,” pointed out Sanchez Lopez.
+
+### quotes
+
+Quot 1
+
+quote:
+When a bank teller at one of the banks we service faces a slow-performing laptop or Wi-Fi connectivity issue, ZDX helps us rapidly and accurately identify the root cause and fix it, enabling them to resume their work seamlessly. We are making the most of our current deployment and look forward to expanding that in the near future, so that we can continue improving our quality of service.
+
+#### speaker
+
+name:
+Sanchez
+
+title:
+
+
+company:
+Rural Servicios Informáticos
+
+Quot 2
+
+quote:
+Zero Trust Browser further elevates our security by protecting data and apps while maintaining a great user experience by not blocking anything.
+
+#### speaker
+
+name:
+Sanchez
+
+title:
+
+
+company:
+Rural Servicios Informáticos
+
+Section 6
+
+id:
+next-steps-securing-atms-with-zero-trust-ot-security-and-quantifying-cyber-risk
+
+title:
+Next steps: Securing ATMs with zero trust OT security and quantifying cyber risk
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- Looking ahead, Sanchez Lopez is exploring how Zscaler zero trust can better secure and manage risk for the 2,500 ATMs that RSI oversees across Spain.
+- These ATMs, which are considered operational technology (OT) devices, can benefit from Zscaler’s agentless technology, device segmentation to eliminate lateral movement of threats, privileged remote access for maintenance and troubleshooting, and other capabilities.
+
+Paragraph 2
+
+- Down the line, Sanchez Lopez also plans to evaluate the Zscaler Risk360™ cyber risk assessment tool.
+- He foresees that it will provide clear and accurate data-driven visibility into RSI’s security posture.
+- This will improve his team’s ability to remediate security gaps and fine-tune policy while giving executives a view into the financial impact of risk through board-ready presentation slides.
+
+### quotes
+
+Quot 1
+
+quote:
+I can say with confidence that Zscaler provides us with 100% visibility into devices, whether they are in- or out-of-network.
+
+#### speaker
+
+name:
+Ivan Sanchez Lopez
+
+title:
+CISO
+
+company:
+Rural Servicios Informáticos
+
+Section 7
+
+id:
+integrations-streamline-identity-management-and-accelerate-threat-response
+
+title:
+Integrations streamline identity management and accelerate threat response
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- Beyond providing a unified zero trust platform, Zscaler integrations further contribute to RSI’s security consolidation efforts.
+
+Paragraph 2
+
+- In conjunction with ZPA and ZIA, RSI uses Microsoft Entra identity management to authenticate users.
+- Integration with Zscaler enables streamlined single sign-on (SSO) using Microsoft Entra credentials, providing users with fast and secure zero trust connectivity to private applications, SaaS, and the internet.
+- This streamlines account administration and Zscaler policy enforcement for security administrators while providing a positive user experience.
+
+Paragraph 3
+
+- The security team also leverages the Zscaler integration with Google Security Operations (formerly Google Chronicle) SIEM solution, which correlates security and threat data to provide analysis and context on risky activity.
+- Ingesting Zscaler security telemetry and logs enriches Google SIEM data, empowering the security team to more efficiently and effectively surface, investigate, and respond to potential threats.
+
+Section 8
+
+id:
+elevating-user-satisfaction-and-productivity-while-optimizing-security
+
+title:
+Elevating user satisfaction and productivity while optimizing security
+
+### paragraphs
+
+Paragraph 1
+
+- For RSI, improving the user experience was paramount.
+- Sanchez Lopez finds that Zscaler’s flexible access policies offers greater granular control over access while promoting productivity and user satisfaction.
+- Security is no longer an obstacle, but rather a business enabler.
+- Users connect quickly and seamlessly to the applications and resources that they need to do their jobs.
+
+Paragraph 2
+
+- “Zscaler makes it easy to fine-tune access policies based on location, device posture, and user identity.
+- From a business perspective, we are able to not only adjust our security dynamically, we also get less resistance from users because they are more productive and can still access what they need safely,” said Sanchez Lopez.
+- “Our legacy solutions were more rigid and intrusive, with strict block and allow policies that resulted in unnecessary restrictions.
+- With Zscaler, for example, we can allow a certain level of access to personal email, depending on whether users work from home or the office.”
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler makes it easy to fine-tune access policies based on location, device posture, and user identity. From a business perspective, we are able to not only adjust our security dynamically, we also get less resistance from users because they are more productive and can still access what they need safely. Our legacy solutions were more rigid and intrusive, with strict block and allow policies that resulted in unnecessary restrictions. With Zscaler, for example, we can allow a certain level of access to personal email, depending on whether users work from home or the office.
+
+#### speaker
+
+name:
+Sanchez
+
+title:
+
+
+company:
+Rural Servicios Informáticos
+
+Quot 2
+
+quote:
+ZPA has not only boosted our security posture, but also improved the user experience. It’s transparent to the user—they don’t even know it’s there.
+
+#### speaker
+
+name:
+Ivan Sanchez Lopez
+
+title:
+CISO
+
+company:
+Rural Servicios Informáticos
+
+Section 9
+
+id:
+full-visibility-contributes-to-an-improved-security-posture
+
+title:
+Full visibility contributes to an improved security posture
+
+### paragraphs
+
+Paragraph 1
+
+- One of the biggest benefits RSI has reaped from Zscaler is full visibility across its entire environment.
+- Previously, the security team had zero visibility into device and user activity.
+- Zscaler now provides them with uninterrupted oversight into all user internet and application activity—whether they work at home, on the road, at bank branches, or at the office.
+
+Paragraph 2
+
+- TLS/SSL monitoring shines a light on potential threats buried in encrypted traffic, accelerating detection and remediation.
+- ZDX further extends visibility to application, network, and device performance to help expedite troubleshooting and issue resolution.
+- And Zscaler DLP helps locate sensitive data at rest and in motion across multiple channels, helping RSI’s security team take proactive security measures to prevent exfiltration.
+
+Paragraph 3
+
+- “I can say with confidence that Zscaler provides us with 100% visibility into devices, whether they are in- or out-of-network,” said Sanchez Lopez.
+- “This alone has significantly improved our security posture by reducing blind spots and enabling us to block threats before they become a problem.”
+
+Paragraph 4
+
+- The proof is in the statistics.
+- In just one quarter, Zscaler prevented 1.4 million policy violations and blocked more than 21,000 security threats, nearly 10% of which were hidden in encrypted traffic.
+
+Paragraph 5
+
+- Zscaler also helps RSI comply with the strict cybersecurity standards of the European Union’s Digital Operational Resilience Act (DORA), which focuses on the security resilience of financial services organizations.
+
+### quotes
+
+Quot 1
+
+quote:
+I can say with confidence that Zscaler provides us with 100% visibility into devices, whether they are in- or out-of-network. This alone has significantly improved our security posture by reducing blind spots and enabling us to block threats before they become a problem.
+
+#### speaker
+
+name:
+Sanchez
+
+title:
+
+
+company:
+Rural Servicios Informáticos
+
+Section 10
+
+id:
+zscaler-s-role-as-a-change-agent-enabling-a-smooth-shift-to-zero-trust
+
+title:
+Zscaler’s role as a change agent, enabling a smooth shift to zero trust
+
+### paragraphs
+
+Paragraph 1
+
+- Zscaler zero trust has paved a clear path for RSI’s ongoing digital transformation and cybersecurity resilience by successfully addressing the organization’s critical near-term initiatives: replacing legacy VPN, creating an outstanding and secure work-from-anywhere user experience, and staying compliant with ever-changing regulations.
+
+Paragraph 2
+
+- “Zscaler is an agent of transformation for us, enabling us to maintain a consistently strong security posture across our entire banking group.
+- It has reduced the risks associated with mobile and remote work with zero trust security controls while providing an excellent user experience,” said Sanchez Lopez.
+- “Zscaler has been a truly supportive partner throughout our implementation.
+- When you’re involved in a mission-critical project, you need someone like that on your side.”
+
+Paragraph 3
+
+- By evolving its infrastructure from on premises to Zscaler zero trust, RSI is also making strides toward supporting its strategic corporate sustainability (ESG) goals.
+- Enabling a more productive and secure mobile/remote workforce is having a direct impact on reducing the carbon footprint from transportation emissions, energy consumption at offices, and waste management.
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler is an agent of transformation for us, enabling us to maintain a consistently strong security posture across our entire banking group. It has reduced the risks associated with mobile and remote work with zero trust security controls while providing an excellent user experience. Zscaler has been a truly supportive partner throughout our implementation. When you’re involved in a mission-critical project, you need someone like that on your side.
+
+#### speaker
+
+name:
+Sanchez
+
+title:
+
+
+company:
+Rural Servicios Informáticos
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 2
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Product 3
+
+name:
+Web and Email DLP
+
+url:
+https://www.zscaler.com/products-and-solutions/data-loss-prevention
+
+Product 4
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 5
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 2
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+96616
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Rural Servicios Informáticos Rural Servicios Informáticos Elevates Security Resilience with 100% Zero Trust Visibility and AI Tools with Zscaler secures work-from-anywhere, creates a positive user experience, reduces time to remediation, and simplifies compliance for European financial services IT provider.
+
+og_title:
+Rural Servicios Informáticos Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/rural-servicios-informaticos

@@ -1,0 +1,529 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/city-boston
+
+slug:
+city-boston
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:14.231181Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+The City of Boston Moves Securely to the Cloud
+
+subtitle:
+to Modernize Its Services
+
+customer_name:
+City of Boston
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Deliver secure, scalable, cost-effective cloud access for users to improve workflow efficiency and user experience
+
+## results
+
+- Meets demands of rapidly growing web traffic—47% more in the first quarter alone
+- Blocks millions of threats and tens of millions of access policy violations each quarter
+- Provides visibility into user activity and all applications running in the environment
+- Reduces support tickets with more consistent filtering—from 10–15/week to 2/month
+
+====================================================
+# customer_snapshot
+
+title:
+City of Boston
+
+description:
+Founded in 1630, Boston is one of the oldest cities in the US, with a rich history that has made it a hub of American shipping and manufacturing, culture, and higher education. Today, the city provides infrastructure and services for a population of nearly 700,000.
+
+industry:
+Federal and Government
+
+headquarters:
+Boston, Massachusetts, USA
+
+size:
+5,500 users
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Our zero trust approach and ZIA have helped us improve security and reduce user frustration. Ultimately, that’s what it’s all about—delivering secure, modern citizen services to the City of Boston.
+
+## speaker
+
+name:
+Greg McCarthy
+
+title:
+Chief Information Security Officer
+
+company:
+City of Boston
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+modern-infrastructure-demands-modern-security
+
+title:
+Modern infrastructure demands modern security
+
+### paragraphs
+
+Paragraph 1
+
+- Like cities across the country, Boston’s IT team has worked to reduce its data center footprint and shift its infrastructure, applications, and data to the cloud.
+
+Paragraph 2
+
+- Leading the effort is Greg McCarthy, the City of Boston’s Chief Information Security Officer.
+- “Our goal is to provide responsive, modern citizen services,” he said.
+- “We have taken steps to modernize our infrastructure and shift to a ‘cloud first’ mindset—when and where it makes sense.
+- Today we manage fewer on-premise servers, we can scale to meet new compute demand more quickly, and we’ve reduced costs and energy consumption.”
+
+Paragraph 3
+
+- The team made progress, but as the city relied more and more on web-based applications and infrastructure, new challenges followed—including an inefficient and unreliable internet security solution.
+- It is now increasingly important to ensure employees can safely access web-based applications and data.
+
+### quotes
+
+Quot 1
+
+quote:
+Our goal is to provide responsive, modern citizen services. We have taken steps to modernize our infrastructure and shift to a ‘cloud first’ mindset—when and where it makes sense. Today we manage fewer on-premise servers, we can scale to meet new compute demand more quickly, and we’ve reduced costs and energy consumption.
+
+#### speaker
+
+name:
+Greg McCarthy
+
+title:
+Chief Information Security Officer
+
+company:
+City of Boston
+
+Section 2
+
+id:
+reducing-risk-with-zero-trust
+
+title:
+Reducing risk with zero trust
+
+### paragraphs
+
+Paragraph 1
+
+- The city needed secure, scalable, cost-effective cloud access for its 5,500 users to improve workflow efficiency and reduce user frustration.
+
+Paragraph 2
+
+- “As we considered options, we wanted to shift to a cloud security platform and take a zero trust approach,” said McCarthy.
+- Zero trust models are built around the idea that an organization should not inherently trust any user or network.
+
+Paragraph 3
+
+- The City of Boston issued an RFP to support the continued shift from an on-premises infrastructure to cloud, and, after evaluation, selected Zscaler Internet Access (ZIA), a cloud security platform that includes a secure internet and web gateway solution.
+
+Paragraph 4
+
+- “ZIA gives us a security stack as a service from the cloud—so we are not managing additional hardware,” explained McCarthy.
+- “We are connecting through our firewall, proxying our traffic.
+- This means we can connect authorized users directly to externally managed applications (our SaaS applications, internet destinations) without placing them on the network.”
+
+Paragraph 5
+
+- As a result of deploying ZIA, the security team has reduced the opportunity for malware and other threats to get onto the internal network or move laterally across it.
+- ZIA also provides visibility into user activity and is helping to keep Boston’s cyber team aware of all applications running in the environment.
+
+Paragraph 6
+
+- The Boston team also rolled out a new identity management solution and deployed a new access portal, working with SailPoint, Bing, and Radiant Logic, and will continue to evolve cyber defenses to meet employee and mission needs.
+
+### quotes
+
+Quot 1
+
+quote:
+As we considered options, we wanted to shift to a cloud security platform and take a zero trust approach.
+
+#### speaker
+
+name:
+McCarthy
+
+title:
+
+
+company:
+City of Boston
+
+Quot 2
+
+quote:
+ZIA gives us a security stack as a service from the cloud—so we are not managing additional hardware. We are connecting through our firewall, proxying our traffic. This means we can connect authorized users directly to externally managed applications (our SaaS applications, internet destinations) without placing them on the network.
+
+#### speaker
+
+name:
+McCarthy
+
+title:
+
+
+company:
+City of Boston
+
+Quot 3
+
+quote:
+[We] want to be focused on tools … We need to focus our efforts on securing Boston’s systems, end users, and data.
+
+#### speaker
+
+name:
+Greg McCarthy
+
+title:
+Chief Information Security Officer
+
+company:
+City of Boston
+
+Section 3
+
+id:
+reliable-web-filtering-blocked-security-threats-efficient-teams
+
+title:
+Reliable web filtering + blocked security threats = efficient teams
+
+### paragraphs
+
+Paragraph 1
+
+- The security team has made significant strides thanks to the updated infrastructure, and can keep up with rapidly growing web traffic.
+
+Paragraph 2
+
+- In the first quarter of 2019, the total bandwidth consumption grew 47% over the same period in 2018.
+- In the first quarter of 2019 alone, the Zscaler cloud security platform blocked 1.2 million security threats and prevented 33.1 million web access policy violations, keeping the city’s applications and data safe.
+
+Paragraph 3
+
+- More consistent filtering has resulted in a significant decrease in IT trouble tickets.
+- Previously, the help desk managed 10–15 tickets per week related to website misclassification; tickets have been reduced to one or two per month.
+
+### quotes
+
+Quot 1
+
+quote:
+ZIA gives us a security stack as a service from the cloud—so we are not managing additional hardware.
+
+#### speaker
+
+name:
+Greg McCarthy
+
+title:
+Chief Information Security Officer
+
+company:
+City of Boston
+
+Section 4
+
+id:
+advice-collaborate-early
+
+title:
+Advice: collaborate early
+
+### paragraphs
+
+Paragraph 1
+
+- McCarthy suggests that cyber teams carefully consider requirements and goals before exploring potential web security solutions.
+- “Know what you want—having clear business requirements is important.”
+
+Paragraph 2
+
+- He also recommends including cross-functional teams in decisions and planning early in the process.
+- “Include the networking team from the very beginning,” said McCarthy.
+- “Ultimately, you are now routing traffic a different way, so it is important they are involved early, as well as the security team.”
+
+Paragraph 3
+
+- Collaboration is also important as the organization defines the in-depth threat protection needed.
+- “From a policy perspective, you need to have HR, legal, and labor relations teams in the room to help define what you are blocking and the policies you are applying,” recommended McCarthy.
+- “The security team will consider the security operations perspective, which will be different from HR or legal perspectives.”
+
+Paragraph 4
+
+- “Like every city and government agency, we need to provide access to web-based shared services and the open internet,” said McCarthy.
+- “And we need to support users working from multiple devices and many locations including remote locations.
+- Our zero trust approach and ZIA have helped us improve security and reduce user frustration.
+- Ultimately, that’s what it’s all about—delivering secure, modern citizen services to the City of Boston.”
+
+### quotes
+
+Quot 1
+
+quote:
+Know what you want—having clear business requirements is important.
+
+#### speaker
+
+name:
+McCarthy
+
+title:
+
+
+company:
+City of Boston
+
+Quot 2
+
+quote:
+Include the networking team from the very beginning. Ultimately, you are now routing traffic a different way, so it is important they are involved early, as well as the security team.
+
+#### speaker
+
+name:
+McCarthy
+
+title:
+
+
+company:
+City of Boston
+
+Quot 3
+
+quote:
+From a policy perspective, you need to have HR, legal, and labor relations teams in the room to help define what you are blocking and the policies you are applying. The security team will consider the security operations perspective, which will be different from HR or legal perspectives.
+
+#### speaker
+
+name:
+McCarthy
+
+title:
+
+
+company:
+City of Boston
+
+Quot 4
+
+quote:
+Like every city and government agency, we need to provide access to web-based. And we need to support users working from multiple devices and many locations including remote locations. Our zero trust approach and ZIA have helped us improve security and reduce user frustration. Ultimately, that’s what it’s all about—delivering secure, modern citizen services to the City of Boston.
+
+#### speaker
+
+name:
+McCarthy
+
+title:
+
+
+company:
+City of Boston
+
+Quot 5
+
+quote:
+[We] can connect authorized users directly to externally managed apps (our SaaS apps, internet destinations).
+
+#### speaker
+
+name:
+Greg McCarthy
+
+title:
+Chief Information Security Officer
+
+company:
+City of Boston
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 3
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 4
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+31296
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how City of Boston The City of Boston Moves Securely to the Cloud with to Modernize Its Services.
+
+og_title:
+City of Boston Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/city-boston

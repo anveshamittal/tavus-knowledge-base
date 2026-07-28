@@ -1,0 +1,922 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/guaranteed-rate
+
+slug:
+guaranteed-rate
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:27.825720Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Guaranteed Rate Blocks Millions of Threats and Accelerates M&A Integration From Months to Days
+
+subtitle:
+Zscaler replaces security hardware, delivering superior resiliency; always-on security and a reduced attack surface
+
+customer_name:
+Guaranteed Rate
+
+## metrics
+
+Metric 1
+
+value:
+97%
+
+label:
+of encrypted traffic inspected
+
+Metric 2
+
+value:
+2.5M
+
+label:
+threats blocked in 3 months
+
+Metric 3
+
+value:
+2-3x
+
+label:
+faster access to apps
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Using VPN to connect to hundreds of private apps on-premises and in AWS opened up the attack surface
+- Backhauling traffic from 500+ branch offices to the data center hindered performance and productivity
+- Legacy firewall couldn't detect zero-day threats entering the network from the internet and moving laterally
+
+## results
+
+- Minimizes the attack surface by giving users direct, least-privileged access while boosting detection and response
+- Reduces risk of compromise with inline TLS/SSL traffic monitoring and AI-powered advanced threat protection
+- Prevents lateral movement with deception technology to lure attackers away from sensitive resources and contain threats in real time
+
+====================================================
+# customer_snapshot
+
+title:
+Guaranteed Rate
+
+description:
+Second-largest retail mortgage leader in the US, with 500+ branches across 50 states
+
+industry:
+Financial Services and Insurance
+
+headquarters:
+Chicago, Illinois, USA
+
+size:
+6,000+ employees 
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Zscaler provides us with the data loss prevention capabilities we need to prevent bad actors and insiders from exfiltrating our vital data and to maintain compliance with financial services data protection regulations.
+
+## speaker
+
+name:
+Darin Hurd
+
+title:
+Chief Information Security Officer
+
+company:
+Guaranteed Rate
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+security-gaps-and-a-shift-to-remote-work-prompt-a-phased-zero-trust-rollout
+
+title:
+Security gaps and a shift to remote work prompt a phased zero trust rollout
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- Guaranteed Rate was aware that its architecture—consisting of three on-premises data centers, legacy VPNs and firewalls, and three cloud platforms—expanded the attack surface, made it more vulnerable to cyber risk, and increased complexity.
+- In addition, the organization transitioned from on-site work to a hybrid environment, with loan officers constantly on the go, working from one of 500+ branch offices, customer sites, or real estate firms.
+
+Paragraph 2
+
+- “As we embarked on our cloud-first journey, we knew it was time to reevaluate our security architecture.
+- To access private apps, remote workers depended on VPN, which was slow and unreliable.
+- We lacked an enterprise proxy to filter and inspect internet traffic—and that left the network vulnerable to malicious activity.
+- Security technologies were inconsistent across our many branches, and management was time- and resource-intensive,” said Darin Hurd, Chief Information Security Officer, Guaranteed Rate.
+
+### quotes
+
+Quot 1
+
+quote:
+As we embarked on our cloud-first journey, we knew it was time to reevaluate our security architecture. To access private apps, remote workers depended on VPN, which was slow and unreliable. We lacked an enterprise proxy to filter and inspect internet traffic—and that left the network vulnerable to malicious activity. Security technologies were inconsistent across our many branches, and management was time- and resource-intensive.
+
+#### speaker
+
+name:
+Darin Hurd
+
+title:
+Chief Information Security Officer
+
+company:
+Guaranteed Rate
+
+Section 2
+
+id:
+safeguarding-sensitive-data-and-complying-with-finserv-regulations
+
+title:
+Safeguarding sensitive data and complying with finserv regulations
+
+### paragraphs
+
+Paragraph 1
+
+- Along with maturing its security program, protecting sensitive data and meeting stringent compliance mandates were also top priorities.
+- Preventing wire fraud, for example, was an ongoing concern for the mortgage lender, as the loan process requires sharing sensitive data among clients, mortgage companies, borrowers, and others.
+- Hurd and his team were always on the lookout for bad actors who could potentially target one of those entities and change wiring instructions to route data or funds away from intended recipients to their own systems or accounts.
+
+Paragraph 2
+
+- These were among the many reasons Guaranteed Rate made a strategic decision to adopt a zero trust architecture.
+- The organization’s vendor selection was driven by three considerations: partnering with an innovative industry-leading vendor, implementing a unified platform instead of point products, and achieving rapid time-to-value.
+- The Zscaler Zero Trust Exchange met all these criteria.
+
+### quotes
+
+Quot 1
+
+quote:
+With Risk360, we are able to gain visibility into cyber risk blind spots. This visibility lets us reduce the most pressing cyber risks.
+
+#### speaker
+
+name:
+Darin Hurd
+
+title:
+Chief Information Security Officer
+
+company:
+Guaranteed Rate
+
+Section 3
+
+id:
+phase-1-securing-internet-and-saas-with-always-on-protection
+
+title:
+Phase 1: Securing internet and SaaS with always-on protection
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- Guaranteed Rate launched its zero trust journey by deploying Zscaler Internet Access (ZIA) to every device to inspect all internet traffic for encrypted content and identify and block threats utilizing its AI-driven engine.
+
+Paragraph 2
+
+- “Before Zscaler, I couldn't prevent users from attaching emails or data to their private email and exfiltrating that data.
+- Nor could I block users from uploading sensitive data to Dropbox and Google Drive.
+- Zscaler provides us with the data loss prevention capabilities we need to prevent bad actors and insiders from exfiltrating our vital data and to maintain compliance with financial services data protection regulations,” said Hurd.
+
+Paragraph 3
+
+- Using Zscaler’s URL filtering technology, his team sets policies to block traffic to potentially malicious and inappropriate websites as well as to countries the company doesn’t do business with.
+- They utilize the AI-driven Zscaler Sandbox to quarantine unknown or suspicious files before they reach devices and users to prevent compromise.
+- Zscaler Sandbox leverages ML and behavioral analysis to identify and detect zero-day threat​​s by analyzing the behavior of files in a secure environment.
+- Traditional signature-based methods, on the other hand, are often unable to recognize these emerging threats.
+
+Paragraph 4
+
+- “We benefit greatly from the scale of its AI-driven malware protection.
+- It’s important to partner with companies that lead the way in innovation—and that’s what Zscaler brings to the table,” said Hurd.
+
+### quotes
+
+Quot 1
+
+quote:
+Before Zscaler, I couldn't prevent users from attaching emails or data to their private email and exfiltrating that data. Nor could I block users from uploading sensitive data to Dropbox and Google Drive. Zscaler provides us with the data loss prevention capabilities we need to prevent bad actors and insiders from exfiltrating our vital data and to maintain compliance with financial services data protection regulations.
+
+#### speaker
+
+name:
+Hurd
+
+title:
+
+
+company:
+Guaranteed Rate
+
+Quot 2
+
+quote:
+We benefit greatly from the scale of its AI-driven malware protection. It’s important to partner with companies that lead the way in innovation—and that’s what Zscaler brings to the table.
+
+#### speaker
+
+name:
+Hurd
+
+title:
+
+
+company:
+Guaranteed Rate
+
+Section 4
+
+id:
+phase-2-secure-access-to-hundreds-of-private-apps-across-500-locations
+
+title:
+Phase 2: Secure access to hundreds of private apps across 500+ locations
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- Loan officers are often on the road and need to access internal applications, such as proprietary loan origination systems, to finalize home loans.
+- The legacy VPN technology resulted in application downtime, login friction, sluggish onboarding processes, and excessive permissions.
+- These constant problems frustrated users and impacted their productivity.
+
+Paragraph 2
+
+- Soon after the ZIA deployment, Hurd’s team rolled out Zscaler Private Access (ZPA) for secure, seamless, and faster access to the more than 500 private applications residing in data centers and on AWS.
+- This dramatically improved the user experience and protection, as did a simpler login process.
+- When the COVID-19 pandemic hit, transitioning to remote work was seamless.
+- Today, corporate employees and loan officers have the flexibility to work securely from anywhere, without experiencing lagging application performance.
+
+Paragraph 3
+
+- “Zscaler makes access to applications snappier for our users because it has many points of presence.
+- Since we don’t have to backhaul traffic to our data centers and users are connected directly to apps, response time is two to three times faster,” noted Hurd.
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler makes access to applications snappier for our users because it has many points of presence. Since we don’t have to backhaul traffic to our data centers and users are connected directly to apps, response time is two to three times faster.
+
+#### speaker
+
+name:
+Hurd
+
+title:
+
+
+company:
+Guaranteed Rate
+
+Quot 2
+
+quote:
+Zscaler is the one security technology stack to rule them all.
+
+#### speaker
+
+name:
+Darin Hurd
+
+title:
+Chief Information Security Officer
+
+company:
+Guaranteed Rate
+
+Section 5
+
+id:
+phase-3-optimize-employee-digital-experience
+
+title:
+Phase 3: Optimize employee digital experience
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- Next, Hurd and his team deployed Zscaler Digital Experience (ZDX) to monitor the user experience, identify connectivity and application issues, and resolve support tickets faster.
+
+Paragraph 2
+
+- “What I like about ZDX is that it gives us real-time insight into network, application, and device performance issues from a single dashboard,” he explained.
+- “Armed with these insights, our help desk team reduces mean time to resolution by quickly identifying bottlenecks.” He plans to expand use of ZDX in the near future.
+
+Paragraph 3
+
+- Additionally, the security team utilizes Zscaler Risk360 to identify potential exposure areas in order to help prioritize remediation efforts and manage risk overall.
+
+Paragraph 4
+
+- “The visibility Zscaler provides lets us be more focused on where we spend our time so we address and reduce the most pressing cyber risks,” said Hurd.
+
+Paragraph 5
+
+- He further observed: "There's no shortage of things to do, and, ultimately, we have a limited set of resources to work on a growing set of challenges—and not all those challenges and risks are equal.
+- Risk360 helps us target where we spend our time so we’re more efficient and effective in addressing the most important risks.”
+
+Paragraph 6
+
+- ZDX and Risk360, part of the AI-powered Zscaler ​​Business Analytics portfolio, provide Hurd with the latest real-time data from the company’s entire infrastructure, enabling his team to generate actionable insights that help lower risk, improve the user experience, and optimize SaaS spend and office utilization.
+
+### quotes
+
+Quot 1
+
+quote:
+What I like about ZDX is that it gives us real-time insight into network, application, and device performance issues from a single dashboard. Armed with these insights, our help desk team reduces mean time to resolution by quickly identifying bottlenecks.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Guaranteed Rate
+
+Quot 2
+
+quote:
+The visibility Zscaler provides lets us be more focused on where we spend our time so we address and reduce the most pressing cyber risks.
+
+#### speaker
+
+name:
+Hurd
+
+title:
+
+
+company:
+Guaranteed Rate
+
+Section 6
+
+id:
+next-up-detect-sophisticated-threats-and-prevent-lateral-movement
+
+title:
+Next Up: Detect sophisticated threats and prevent lateral movement
+
+### paragraphs
+
+Paragraph 1
+
+- Taking another step toward security maturity, Hurd tested Zscaler Deception, which uses endpoint lures and decoy applications, servers, users, or enterprise resources to silently detect threats and attacker activity.
+- It prevents lateral movement of threats by proactively diverting attackers away from sensitive resources and containing threats in real time.
+- Zscaler Deception reduces risk across the entire environment—endpoints, identity systems, networks, applications, and the cloud—and will help Guaranteed Rate disrupt difficult-to-detect threats like user credential compromise and evasive threats like ransomware that typically target sensitive data and can lead to breaches.
+
+Paragraph 2
+
+- “We’re excited about putting in more ‘canary objects’ as bait to detect the presence of an attacker—whether it’s files, processes, fake applications—to see what they might catch,” said Hurd.
+- “ZDX is another way we can leverage Zscaler to fortify our defenses and better protect our sensitive data.”
+
+### quotes
+
+Quot 1
+
+quote:
+We’re excited about putting in more ‘canary objects’ as bait to detect the presence of an attacker—whether it’s files, processes, fake applications—to see what they might catch. ZDX is another way we can leverage Zscaler to fortify our defenses and better protect our sensitive data.
+
+#### speaker
+
+name:
+Hurd
+
+title:
+
+
+company:
+Guaranteed Rate
+
+Quot 2
+
+quote:
+The Zscaler Zero Trust Exchange makes securing devices, people, and data much easier.
+
+#### speaker
+
+name:
+Darin Hurd
+
+title:
+Chief Information Security Officer
+
+company:
+Guaranteed Rate
+
+Section 7
+
+id:
+integration-with-crowdstrike-reduces-security-management-to-a-fraction-a-full-time-person
+
+title:
+Integration with CrowdStrike reduces security management to a fraction a full-time person
+
+### paragraphs
+
+Paragraph 1
+
+- Prior to deploying ZIA, Guaranteed Rate had deployed CrowdStrike to all endpoints.
+- By leveraging the Zscaler with CrowdStrike integration, they have a robust end-to-end solution that checks all the boxes: threat intelligence enrichment, risk reduction, improved user experience, and operational efficiency.
+
+Paragraph 2
+
+- “With the Zscaler-CrowdStrike integration, we are looking forward to real-time posture assessments for all devices.
+- The CrowdStrike posture score will be fed to Zscaler live.
+- If that score drops below a specified threshold, we can contain the device and investigate the issue more thoroughly,” said Hurd.
+
+Paragraph 3
+
+- Threat intelligence enrichment flows in both directions, bringing increased awareness to device activity.
+- The integrated solution monitors indicators of compromise, blocks lateral movement of threats, and executes incident response tasks more quickly.
+
+Paragraph 4
+
+- Zscaler also shares log files with CrowdStrike.
+- The combined visibility containing telemetry from endpoints, networks, and cloud applications provide better visibility to potential threats and security events.
+- The security team uses a pre-built Zscaler dashboard to view log data and detect anomalies to pinpoint issues and accelerate investigations.
+
+Paragraph 5
+
+- “Before Zscaler, multiple team members were needed to manage an overly complicated security technology stack.
+- Today, that job is done by fewer resources: a fraction of a person’s time is spent managing CrowdStrike and Zscaler,” asserted Hurd.
+- “Zscaler has helped us more efficiently allocate resources to reduce risk.
+- As part of a lean team, I can’t stress enough how big of an impact that has on our operations,” said Hurd.
+
+### quotes
+
+Quot 1
+
+quote:
+With the Zscaler-CrowdStrike integration, we are looking forward to real-time posture assessments for all devices. The CrowdStrike posture score will be fed to Zscaler live. If that score drops below a specified threshold, we can contain the device and investigate the issue more thoroughly.
+
+#### speaker
+
+name:
+Hurd
+
+title:
+
+
+company:
+Guaranteed Rate
+
+Quot 2
+
+quote:
+Before Zscaler, multiple team members were needed to manage an overly complicated security technology stack. Today, that job is done by fewer resources: a fraction of a person’s time is spent managing CrowdStrike and Zscaler. Zscaler has helped us more efficiently allocate resources to reduce risk. As part of a lean team, I can’t stress enough how big of an impact that has on our operations.
+
+#### speaker
+
+name:
+Hurd
+
+title:
+
+
+company:
+Guaranteed Rate
+
+Section 8
+
+id:
+seamless-integrations-with-aws-and-okta-reduce-risk-and-boost-user-satisfaction
+
+title:
+Seamless integrations with AWS and Okta reduce risk and boost user satisfaction
+
+### paragraphs
+
+Paragraph 1
+
+- To further consolidate its infrastructure around zero trust, Hurd and his team integrated Zscaler with AWS and Okta.
+- Now, Zscaler securely connects users directly to applications and workloads on AWS—without having to pass through a data center or route users to the corporate network.
+- This minimizes the attack surface, eliminates the risk of lateral threat movement, protects data, and provides a low-latency user experience.
+
+Paragraph 2
+
+- The Zscaler-Okta integration provides as automated provisioning and deprovisioning of users and groups via the system for cross-domain identity management (SCIM) integration, to ensure real-time enforcement of zero trust policies.
+
+Paragraph 3
+
+- Security Assertion Markup Language (SAML) integration has improved the user login experience, providing seamless authentication.
+- “Now, users just log in once a week, instead of multiple times a day,” said Hurd.
+- “To make it even easier, we will soon be rolling out passwordless authentication for laptops.
+- This means less friction for the user when they access the 500+ applications we have under single sign-on.”
+
+Paragraph 4
+
+- Zscaler and Okta also streamline the onboarding process for M&A transactions, regardless of the identity provider of an acquired company, to enable faster time to value following an acquisition.
+
+### quotes
+
+Quot 1
+
+quote:
+Now, users just log in once a week, instead of multiple times a day. To make it even easier, we will soon be rolling out passwordless authentication for laptops. This means less friction for the user when they access the 500+ applications we have under single sign-on.
+
+#### speaker
+
+name:
+Hurd
+
+title:
+
+
+company:
+Guaranteed Rate
+
+Section 9
+
+id:
+zero-trust-shows-measurable-benefits
+
+title:
+Zero trust shows measurable benefits
+
+### paragraphs
+
+Paragraph 1
+
+- Since deploying Zscaler, Guaranteed Rate has seen significant improvements in its risk profile.
+- Zscaler’s full TLS/SSL inspection detected and blocked 420,071 threats hidden in encrypted traffic in just 90 days.
+- It has also boosted threat detection and response, preventing 44.9 million policy violations and stopping 2.5 million security threats in three months.
+
+Paragraph 2
+
+- Hurd also pointed out that Zscaler helps identify and block wire fraud attempts.
+- “With Zscaler, we find the original email that the borrower received and check that against any indicators of compromise matching communication with the borrower.
+- In the past, there was no way we could seamlessly and efficiently do that,” said Hurd.
+
+Paragraph 3
+
+- Other security benefits derived from the Zero Trust Exchange, such as micro-segmentation, and role- and policy-based application access, are helping the security team do more with less.
+
+Paragraph 4
+
+- “We needed a way to enable exponential business growth and transformation while simultaneously reducing our security risks and making the changes transparent to our users and borrowers.
+- The Zscaler Zero Trust Exchange makes securing devices, people, and data much easier so we can focus on achieving our expansion targets,” said Darin Hurd, Chief Information Security Officer, Guaranteed Rate.
+
+### quotes
+
+Quot 1
+
+quote:
+With Zscaler, we find the original email that the borrower received and check that against any indicators of compromise matching communication with the borrower. In the past, there was no way we could seamlessly and efficiently do that.
+
+#### speaker
+
+name:
+Hurd
+
+title:
+
+
+company:
+Guaranteed Rate
+
+Quot 2
+
+quote:
+We needed a way to enable exponential business growth and transformation while simultaneously reducing our security risks and making the changes transparent to our users and borrowers. The Zscaler Zero Trust Exchange makes securing devices, people, and data much easier so we can focus on achieving our expansion targets.
+
+#### speaker
+
+name:
+Darin Hurd
+
+title:
+Chief Information Security Officer
+
+company:
+Guaranteed Rate
+
+Section 10
+
+id:
+zscaler-standardizes-security-for-m-a-activity
+
+title:
+Zscaler standardizes security for M&A activity
+
+### paragraphs
+
+Paragraph 1
+
+- Guaranteed Rate operates 13 companies, among them several joint ventures, an insurance company, and a title company.
+- When it acquires a new business, integrating two networks can take months before secure access to company resources is established, but senior-level employees often need access to key resources much sooner.
+
+Paragraph 2
+
+- Recently, the team found themselves in this predicament with a newly acquired title services company.
+- Senior executives needed access to certain applications on day one before the companies were ready to connect the networks.
+- To address this, the security team leveraged ZPA to enable immediate access to business-critical systems without having to wait months.
+
+Paragraph 3
+
+- “Zscaler allowed us to quickly integrate companies early in the process.
+- We installed ZPA on the endpoints of the acquired companies so they could access a specific Guaranteed Rate application.
+- This was ahead of a larger effort to connect our networks,” said Hurd.
+- “Zscaler is the one security technology stack to rule them all.
+- Now, it’s in our playbook: the day after we close, we already have a plan to roll out Zscaler.”
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler allowed us to quickly integrate companies early in the process. We installed ZPA on the endpoints of the acquired companies so they could access a specific Guaranteed Rate application. This was ahead of a larger effort to connect our networks. Zscaler is the one security technology stack to rule them all. Now, it’s in our playbook: the day after we close, we already have a plan to roll out Zscaler.
+
+#### speaker
+
+name:
+Hurd
+
+title:
+
+
+company:
+Guaranteed Rate
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 4
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 5
+
+name:
+Risk360
+
+url:
+https://www.zscaler.com/products-and-solutions/zscaler-risk-360
+
+Product 6
+
+name:
+BYOD Security
+
+url:
+https://www.zscaler.com/demo/byod
+
+Product 7
+
+name:
+Sandbox
+
+url:
+https://www.zscaler.com/technology/cloud-sandbox
+
+Product 8
+
+name:
+Web and Email DLP
+
+url:
+https://www.zscaler.com/products-and-solutions/data-loss-prevention
+
+Product 9
+
+name:
+Deception
+
+url:
+https://www.zscaler.com/products/deception-technology
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 3
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 4
+
+name:
+Secure Remote Access
+
+url:
+https://www.zscaler.com/products-and-solutions/vpn-alternative
+
+Solution 5
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 6
+
+name:
+Accelerate M&A and Divestitures
+
+url:
+https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+
+Solution 7
+
+name:
+Stop Cyberattacks
+
+url:
+https://www.zscaler.com/products-and-solutions/zscaler-risk-360
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+73606
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Guaranteed Rate Guaranteed Rate Blocks Millions of Threats and Accelerates M&A Integration From Months to Days with Zscaler replaces security hardware, delivering superior resiliency; always-on security and a reduced attack surface.
+
+og_title:
+Guaranteed Rate Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/guaranteed-rate

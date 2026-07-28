@@ -1,0 +1,626 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/lifelabs
+
+slug:
+lifelabs
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:55:36.053729Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+LifeLabs Reduces Risk, Drives Tenfold ROI with Exposure Management Transformation
+
+subtitle:
+With Zscaler, LifeLabs implemented a Cyber Threat Exposure Management (CTEM) program that systematically addresses vulnerabilities, aligns threat management with business goals, and enhances operational efficiency.
+
+customer_name:
+LifeLabs
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- LifeLabs’s previous approach to vulnerability management relied on scanning for CVEs, leaving out misconfigurations, code flaws, business logic gaps, and more.
+- With siloed across separate tools, the team spent countless hours on manual correlations only to lack a complete, up-to-date view of their risk profile.
+- Inventorying assets was also labor intensive and inaccurate, further contributing to gaps in LifeLabs’s incomplete understanding of its risk landscape.
+
+## results
+
+- Reduces risk through targeted, effective actions that focus on assets and risks most pertinent to their operations, avoiding the inefficiencies caused by treating all vulnerabilities equally.
+- Maximizes effectiveness of cybersecurity efforts through a sophisticated prioritization framework that emphasizes exploitability and business impact over traditional criticality scores.
+- Stronger stakeholder engagement and mobilization through clearly communicated, prioritized remediation plans grounded in a common language for business risk.
+
+====================================================
+# customer_snapshot
+
+title:
+LifeLabs
+
+description:
+LifeLabs is Canada’s leading provider of laboratory diagnostic information and digital health connectivity systems, serving more than 15 million customers with actionable intelligence through health information analytics.
+
+industry:
+Healthcare and Pharmaceutical
+
+headquarters:
+Toronto, Canada
+
+size:
+6,500 employees, 15 million customers
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/vuro6api3u
+
+provider:
+wistia
+
+video_id:
+vuro6api3u
+
+title:
+LIfeLabs’ Exposure Management Journey with Zscaler: Effectively Managing Exposures to Drive Impactful Risk Reduction
+
+description:
+Mike Mello, the CISO of LifeLabs, discusses the importance of unified vulnerability management in understanding the risk landscape for the largest medical lab diagnostic company in Canada. By leveraging Zscaler's solutions, LifeLabs has shifted from simply assessing CVE scores to a more comprehensive view that includes exposure and exploit scores. This approach has transformed how Mello communicates security risks in a business context, allowing for more impactful discussions with stakeholders. The consistency in reporting provided by Zscaler Exposure Management has significantly improved their vulnerability management efforts, leading to a tenfold increase in ROI and accomplishments over the past two years.
+
+duration_seconds:
+209.049
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/a78a46f7dde48162ee3999207ac2580f.png
+
+### transcript
+
+language:
+eng
+
+#### sentences
+
+1.
+Hi.
+
+2.
+I'm Mike Mello, and I'm the chief information security officer and the vice president of IT shared services with LifeLabs.
+
+3.
+LifeLabs is the largest medical lab diagnostic company in Canada, servicing over fifteen million customers.
+
+4.
+Part of my accountabilities is that I own cybersecurity services, data center services, the ITSM practice, and end user compute.
+
+5.
+One of the common challenges that we face as security professionals and IT professionals is truly understanding our risk landscape.
+
+6.
+If you're not doing unified vulnerability management, you're doing security wrong.
+
+7.
+You really need to focus and be able to prioritize your team's efforts.
+
+8.
+We don't have unlimited or infinite resources, whether that's time or money.
+
+9.
+Look.
+
+10.
+Time is of the essence when we're dealing with security and vulnerability management.
+
+11.
+And leveraging Zscaler's solutions, we're able to not only understand our true holistic viewpoint on vulnerability management, we're able to level up.
+
+12.
+Right?
+
+13.
+We're able to go from looking at CVE scores to looking at exposure and exploit scores.
+
+14.
+And now, we're also able to ingest mitigating controls, our different security telemetry from different tools and technologies, and also business data, and truly give us a contextualized representation of our security threat and vulnerability management program.
+
+15.
+I'd say that some of the biggest challenges for CISOs is how do we really elevate the security discussion into business risk context.
+
+16.
+Unifying vulnerability management has changed the game for how I'm able to talk and communicate with the business on what kind of risk position they have with their systems and their business organizational unit.
+
+17.
+One of the things that I dislike the most about vulnerability management programs is the metrics and reporting.
+
+18.
+But with Zscaler solution, I have now the confidence in consistency of reporting and also the data that we're reporting on, allowing us to have a continued conversation on how we're addressing the threats that are coming in consistently into our organization.
+
+19.
+It gives me a very prescriptive methodology in how I can have these different types of conversations and really drive impactful and meaningful relationships with other stakeholders in the organization.
+
+20.
+And it truly allows us to realize and rationalize the ROI of the vulnerability management program investment, which is something that has taken a really long time for us to get to.
+
+21.
+With Zscaler, we've been able to maximize our ROI and our CTEM journey tenfold.
+
+22.
+We've ultimately done and accomplished way more in the past two years than we have in the last seven with our vulnerability management CTEM journey.
+
+23.
+And we're doing that because we have not only the best viewpoint into all of our data, we're also able to now truly layer in that business context, and we're also getting much better in our ability to demonstrate and narrate the story of the journey when we talk about vulnerability management and threat exposure management.
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+Mike Melo (CISO and VP of IT Shared Services, LifeLabs)
+
+tag:
+self_introduction
+
+topic:
+Introduction and role at LifeLabs
+
+text:
+Hi. I'm Mike Mello, and I'm the chief information security officer and the vice president of IT shared services with LifeLabs.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+Mike Melo (CISO and VP of IT Shared Services, LifeLabs)
+
+tag:
+self_introduction
+
+topic:
+Company background and responsibilities
+
+text:
+LifeLabs is the largest medical lab diagnostic company in Canada, servicing over fifteen million customers. Part of my accountabilities is that I own cybersecurity services, data center services, the ITSM practice, and end user compute.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+Mike Melo (CISO and VP of IT Shared Services, LifeLabs)
+
+tag:
+challenges
+
+topic:
+Understanding the risk landscape
+
+text:
+One of the common challenges that we face as security professionals and IT professionals is truly understanding our risk landscape. If you're not doing unified vulnerability management, you're doing security wrong. You really need to focus and be able to prioritize your team's efforts. We don't have unlimited or infinite resources, whether that's time or money.
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+Mike Melo (CISO and VP of IT Shared Services, LifeLabs)
+
+tag:
+products_and_solutions
+
+topic:
+Leveraging Zscaler for vulnerability management
+
+text:
+Look. Time is of the essence when we're dealing with security and vulnerability management. And leveraging Zscaler's solutions, we're able to not only understand our true holistic viewpoint on vulnerability management, we're able to level up. Right?
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+Mike Melo (CISO and VP of IT Shared Services, LifeLabs)
+
+tag:
+products_and_solutions
+
+topic:
+Enhanced vulnerability management with Zscaler
+
+text:
+We're able to go from looking at CVE scores to looking at exposure and exploit scores. And now, we're also able to ingest mitigating controls, our different security telemetry from different tools and technologies, and also business data, and truly give us a contextualized representation of our security threat and vulnerability management program.
+
+Segment 6
+
+segment_id:
+6
+
+speaker:
+Mike Melo (CISO and VP of IT Shared Services, LifeLabs)
+
+tag:
+challenges
+
+topic:
+Elevating security to business risk context
+
+text:
+I'd say that some of the biggest challenges for CISOs is how do we really elevate the security discussion into business risk context.
+
+Segment 7
+
+segment_id:
+7
+
+speaker:
+Mike Melo (CISO and VP of IT Shared Services, LifeLabs)
+
+tag:
+products_and_solutions
+
+topic:
+Unified vulnerability management with Zscaler
+
+text:
+Unifying vulnerability management has changed the game for how I'm able to talk and communicate with the business on what kind of risk position they have with their systems and their business organizational unit.
+
+Segment 8
+
+segment_id:
+8
+
+speaker:
+Mike Melo (CISO and VP of IT Shared Services, LifeLabs)
+
+tag:
+challenges
+
+topic:
+Dislike for traditional vulnerability metrics
+
+text:
+One of the things that I dislike the most about vulnerability management programs is the metrics and reporting. But with Zscaler solution, I have now the confidence in consistency of reporting and also the data that we're reporting on, allowing us to have a continued conversation on how we're addressing the threats that are coming in consistently into our organization.
+
+Segment 9
+
+segment_id:
+9
+
+speaker:
+Mike Melo (CISO and VP of IT Shared Services, LifeLabs)
+
+tag:
+products_and_solutions
+
+topic:
+Prescriptive methodology with Zscaler
+
+text:
+It gives me a very prescriptive methodology in how I can have these different types of conversations and really drive impactful and meaningful relationships with other stakeholders in the organization.
+
+Segment 10
+
+segment_id:
+10
+
+speaker:
+Mike Melo (CISO and VP of IT Shared Services, LifeLabs)
+
+tag:
+metrics_and_results
+
+topic:
+Maximizing ROI and CTEM journey
+
+text:
+And it truly allows us to realize and rationalize the ROI of the vulnerability management program investment, which is something that has taken a really long time for us to get to. With Zscaler, we've been able to maximize our ROI and our CTEM journey tenfold. We've ultimately done and accomplished way more in the past two years than we have in the last seven with our vulnerability management CTEM journey.
+
+Segment 11
+
+segment_id:
+11
+
+speaker:
+Mike Melo (CISO and VP of IT Shared Services, LifeLabs)
+
+tag:
+metrics_and_results
+
+topic:
+Improved data and business context
+
+text:
+And we're doing that because we have not only the best viewpoint into all of our data, we're also able to now truly layer in that business context, and we're also getting much better in our ability to demonstrate and narrate the story of the journey when we talk about vulnerability management and threat exposure management.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+133230387
+
+created_at:
+1746308052
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+With Zscaler, we've been able to maximize our ROI and our CTEM journey tenfold. We've ultimately done and accomplished way more in the past two years than we have in the last seven with our vulnerability management CTEM journey.
+
+## speaker
+
+name:
+Mike Melo
+
+title:
+CISO and VP of IT Shared Services
+
+company:
+LifeLabs
+
+Hero Quote 2
+
+quote:
+We can take in all these inputs, contextualize the prioritization, and get a holistic view that is actionable that also takes into account our mitigating controls… UVM is magic for us.
+
+## speaker
+
+name:
+Mike Melo
+
+title:
+CISO and VP of IT Shared Services
+
+company:
+LifeLabs
+
+Hero Quote 3
+
+quote:
+Executives ask: ‘How secure are we? Right now, today?’ To have something like UVM that is dynamically trustworthy allows me to answer that question. I can, at any given time, provide an up-to-date, real-time readout on where our risk is.
+
+## speaker
+
+name:
+Mike Melo
+
+title:
+CISO and VP of IT Shared Services
+
+company:
+LifeLabs
+
+Hero Quote 4
+
+quote:
+Previous CAASM tools lacked the policy management features we needed to pinpoint risky or non-compliant assets [...] we expect to save hundreds of hours of manual work, and because it’s built on the Zscaler Data Fabric for Security, which is already serving our exposure management program, we’ll see value in just a week, with no extra effort required.
+
+## speaker
+
+name:
+Mike Melo
+
+title:
+CISO and VP of IT Shared Services
+
+company:
+LifeLabs
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+section-1
+
+title:
+
+
+### paragraphs
+
+Paragraph 1
+
+- LifeLabs is the largest medical laboratory diagnostic company in Canada, with 370 locations servicing over 15 million customers, providing actionable intelligence through health information analytics that empower customers to take their health outcomes into their own hands and live healthier lives.
+
+Paragraph 2
+
+- Mike Melo, CISO and VP of IT Shared Services at LifeLabs, joined the company in 2018 and has witnessed significant transformation since coming on board.
+- “We are a heavily regulated organization with different privacy mandates across the board,” Melo explains.
+- “We want to be at the forward charge of cyber security practices in healthcare.
+- Healthcare organizations across the globe are increasingly targeted by adversaries due to the sensitive nature of public health information (PHI) we manage.
+- We want to do right by our customers to ensure that we are ultimately holding their information and custodianship in the most secure practice as possible.”
+
+Paragraph 3
+
+- Melo has led the charge with various stakeholders to address the challenges of vulnerability management (VM) while staying strictly in alignment with industry standards and regulatory requirements.
+- The traditional approach of scanning for CVEs was not working.
+- “We needed to get to a place where my team and I could truly map business contextualization into vulnerabilities and drive risk-rated outcomes, and move that needle down based on what is truly exposing us.”
+
+Paragraph 4
+
+- This push led Melo to engage with Avalor, which has since been acquired by Zscaler and rebranded as Zscaler Unified Vulnerability Management (UVM).
+- Zscaler UVM ingests traditional vulnerability findings, exploitability feeds, and dozens of other findings and business context.
+- It then correlates and enriches the information to create a prioritized, contextualized list of actions needed to reduce risk.
+
+Paragraph 5
+
+- “One of the biggest areas I wanted to act on was pen test results.
+- I want those efforts not in a silo but integrated into our VM management program.
+- With UVM, we can take in all these inputs, contextualize the prioritization, and get a holistic view that is actionable that also takes into account our mitigating controls.
+- Zscaler UVM is just kind of magic for us.”
+
+Paragraph 6
+
+- UVM provides risk calculations that combine factors that increase and decrease priority, and customers can refine and change the weighting of the factors that create the risk score.
+- Melo loves the ability to change the factors and weighting.
+
+Paragraph 7
+
+- “Some of our data isn’t perfectly reliable, and UVM lets us modify the math in the tool, which is powerful.
+- I don’t have to muck around doing any reporting outside of the platform, and that’s been game changing.”
+
+Paragraph 8
+
+- LifeLabs has used Zscaler UVM to focus on understanding the risk associated with crown-jewel applications.
+- That’s entirely changed how security and the business teams interact.
+- “Now we can go to the business and have a conversation about seeing risk elevate for their crown jewel app, and we can make the case that we need some changes—maybe some different maintenance windows, or rethink a business process, or maybe do more training because the risk score is going up because your users are failing on phishing campaigns.
+- We’re able to broker conversations with the business that are way more meaningful.”
+
+Paragraph 9
+
+- Zscaler UVM is also helping Melo improve reporting to the board.
+- He’s customized more meaningful metrics into the platform to show cybersecurity performance, with risk scores tied to business context in real time.
+- “Executives ask: ‘How secure are we?
+- Right now, today?’ To have something like UVM that is dynamically trustworthy allows me to answer that question.
+- I can, at any given time, provide an up-to-date, real-time readout on where our risk is.”
+
+### quotes
+
+Quot 1
+
+quote:
+We are a heavily regulated organization with different privacy mandates across the board. We want to be at the forward charge of cyber security practices in healthcare. Healthcare organizations across the globe are increasingly targeted by adversaries due to the sensitive nature of public health information (PHI) we manage. We want to do right by our customers to ensure that we are ultimately holding their information and custodianship in the most secure practice as possible.
+
+#### speaker
+
+name:
+Mike Melo
+
+title:
+CISO and VP of IT Shared Services
+
+company:
+LifeLabs
+
+====================================================
+# products
+
+Product 1
+
+name:
+Asset Exposure Management
+
+url:
+null
+
+Product 2
+
+name:
+Unified Vulnerability Management
+
+url:
+https://www.zscaler.com/products-and-solutions/vulnerability-management
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Exposure Management
+
+url:
+null
+
+Solution 2
+
+name:
+SecOps & Endpoint Security
+
+url:
+null
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+97871
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how LifeLabs LifeLabs Reduces Risk, Drives Tenfold ROI with Exposure Management Transformation with With Zscaler, LifeLabs implemented a Cyber Threat Exposure Management (CTEM) program that systematically addresses vulnerabilities, aligns threat management with business goals, and enhances operational efficiency..
+
+og_title:
+LifeLabs Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/lifelabs

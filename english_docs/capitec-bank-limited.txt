@@ -1,0 +1,757 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/capitec-bank-limited
+
+slug:
+capitec-bank-limited
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:11.187083Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Capitec Accelerates Digital Transformation and Protects Financial Data with Zscaler
+
+subtitle:
+South Africa's largest bank rolls out zero trust security in three months, protecting 17,000 users and blocking 745,000 threats on the Zero Trust Exchange
+
+customer_name:
+Capitec Bank Limited
+
+## metrics
+
+Metric 1
+
+value:
+3
+
+label:
+seconds to migrate private apps to AWS
+
+Metric 2
+
+value:
+125M
+
+label:
+policy violations prevented in a year
+
+Metric 3
+
+value:
+3
+
+label:
+months to implement comprehensive zero trust
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Perimeter-based security architecture could not effectively protect high-value financial data from compromise and loss
+- Legacy security appliances such as firewalls and VPNs were complex to manage, and user productivity suffered
+- Limited visibility about user experience prevented a proactive approach to issue identification and resolution
+
+## results
+
+- Secures access to the internet and cloud applications for 17,000 users, preventing 125 million policy violations a year
+- Protects a private banking application accessed by more than 11 million customers with policy-based, zero trust access
+- Enables faster digital transformation—only seconds to migrate apps to AWS with zero downtime and no security failures
+
+====================================================
+# customer_snapshot
+
+title:
+Capitec Bank Limited
+
+description:
+Largest bank in South Africa, serving 21 million and ranked #1 for client satisfaction
+
+industry:
+Financial Services and Insurance
+
+headquarters:
+Cape Town, South Africa
+
+size:
+15,450 employees across 860 branches
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+We brought the Zero Trust Exchange into our environment, and our zero trust security software agents were rolled out to all our users within three months.
+
+## speaker
+
+name:
+Andrew Baker
+
+title:
+CTO
+
+company:
+Capitec Bank Limited
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+investment-in-zero-trust-accelerates-migration
+
+title:
+Investment in zero trust accelerates migration
+
+### paragraphs
+
+Paragraph 1
+
+- Capitec, the largest retail bank in South Africa, stands out among its peers for more reasons than one.
+- As part of the bank’s cloud-first initiative, it recently completed the migration of its banking app and call center to Amazon Web Services (AWS) with zero downtime and is ranked number one for client satisfaction across South Africa.
+
+Paragraph 2
+
+- For several years, Capitec has been focused on its cloud and zero trust journey, gradually phasing out its slow, inefficient, and complex incumbent perimeter-based architecture built upon legacy hardware, firewalls, and VPN in the data center, as well as virtual appliances and unintegrated point products in the cloud.
+- A perimeter-based architecture can comprise both legacy/hardware appliances and virtual/cloud appliances.
+
+Paragraph 3
+
+- When Andrew Baker joined Capitec in April 2022 as CTO, the bank’s zero trust implementation was falling behind schedule after more than two years of failed attempts to deploy a non-Zscaler product.
+- Baker’s prior successes with the Zscaler Zero Trust Exchange platform at other companies prompted him to implement the comprehensive platform at Capitec.
+- Zscaler vastly simplified the infrastructure and now supports 17,000 users at Capitec.
+
+Paragraph 4
+
+- “If you don’t have a strong cyber strategy that brings in a mature product like Zscaler, you will find you’re constantly in a reactive mode, raising hundreds of support tickets to figure out why something is broken.
+- We brought Zero Trust Exchange into our environment, and our zero trust security software agents were rolled out to all our users within three months,” said Baker.
+
+### quotes
+
+Quot 1
+
+quote:
+If you don’t have a strong cyber strategy that brings in a mature product like Zscaler, you will find you’re constantly in a reactive mode, raising hundreds of support tickets to figure out why something is broken. We brought Zero Trust Exchange into our environment, and our zero trust security software agents were rolled out to all our users within three months.
+
+#### speaker
+
+name:
+Baker
+
+title:
+
+
+company:
+Capitec Bank Limited
+
+Quot 2
+
+quote:
+I don’t know how you can manage a financial services company without the insights from Zscaler.
+
+#### speaker
+
+name:
+Andrew Baker
+
+title:
+CTO
+
+company:
+Capitec Bank Limited
+
+Section 2
+
+id:
+zscaler-enables-dynamic-risk-management-and-comprehensive-security
+
+title:
+Zscaler enables dynamic risk management and comprehensive security
+
+### paragraphs
+
+Paragraph 1
+
+- Responsible for protecting sensitive data and personally identifiable information (PII), Capitec is extremely security-conscious.
+- To ensure the integrity of its high-value information, Baker and his team needed to address core security issues such as data leakage and risk.Before moving to Zscaler, the team was unable to gather the necessary data-driven insights to answer those key concerns.
+- In addition, Capitec’s legacy solution was unstable, slow, and resulted in significant management overhead.
+- Users were unhappy, and productivity suffered.Baker and his team knew they needed a more complete, integrated approach to zero trust.
+- “Before Zscaler, we were overly focused on a cloud access security broker [CASB], which, as a standalone solution, was insufficient for a comprehensive zero trust strategy for internet-bound traffic,” he explained.
+
+Paragraph 2
+
+- Starting with the ZIA deployment, Capitec progressively continued its march toward achieving its overarching goal of embracing a complete zero trust architecture, knowing that Zscaler could provide the needed capabilities.
+- ZIA now secures internet traffic and access to SaaS applications, such as Microsoft 365, SAP, Salesforce, and ITSM, and expands visibility and adds a wider breadth of detail.
+- ZIA also provides a significantly improved user experience, reduced network costs, and a stronger security posture.
+
+Paragraph 3
+
+- “We put ZIA to the test all the time to make sure we can’t bypass it, and it hasn’t missed a beat.
+- We’re very happy with the data loss prevention, filters, and template matches.
+- ZIA is a complete product,” Baker said.
+- Just three months after deployment, ZIA had already blocked 744,758 security threats and 423,172 threats hidden in encrypted traffic.
+
+Paragraph 4
+
+- Today, Capitec can concentrate on high-priority security questions and dynamically manage risk based on trusted, accurate, and complete data from the ZIA dashboard.
+- When comparing the bank’s security posture before Zscaler, Baker points out that the team used to run cybersecurity based on risks logged from audits and lists in Jira, which did not provide the whole picture.
+
+Paragraph 5
+
+- Baker reflected on ZIA’s impact: “I don’t know how you can manage a financial services company without the insights from Zscaler.
+- I’ve used other security companies’ ‘actionable insights,’ and they’re not that meaningful, whereas Zscaler’s insights have provided much greater value and truly are actionable.
+- Additionally, Zscaler frequently reviews the quality of our implementation and helps us evolve and adopt any relevant new features.”
+
+### quotes
+
+Quot 1
+
+quote:
+Before Zscaler, we were overly focused on a cloud access security broker [CASB], which, as a standalone solution, was insufficient for a comprehensive zero trust strategy for internet-bound traffic.
+
+#### speaker
+
+name:
+Baker
+
+title:
+
+
+company:
+Capitec Bank Limited
+
+Quot 2
+
+quote:
+We put ZIA to the test all the time to make sure we can’t bypass it, and it hasn’t missed a beat. We’re very happy with the data loss prevention, filters, and template matches. ZIA is a complete product.
+
+#### speaker
+
+name:
+Baker
+
+title:
+
+
+company:
+Capitec Bank Limited
+
+Quot 3
+
+quote:
+I don’t know how you can manage a financial services company without the insights from Zscaler. I’ve used other security companies’ ‘actionable insights,’ and they’re not that meaningful, whereas Zscaler’s insights have provided much greater value and truly are actionable. Additionally, Zscaler frequently reviews the quality of our implementation and helps us evolve and adopt any relevant new features.
+
+#### speaker
+
+name:
+Baker
+
+title:
+
+
+company:
+Capitec Bank Limited
+
+Section 3
+
+id:
+zscaler-delivers-least-privileged-access-and-faster-connectivity-for-private-apps
+
+title:
+Zscaler delivers least-privileged access and faster connectivity for private apps
+
+### paragraphs
+
+Paragraph 1
+
+- Prior to migrating to a zero trust architecture, Capitec used VPN to connect users to applications and servers, along with intrusion detection to monitor traffic.
+- Managing these tools was cumbersome, manual, and difficult to support, especially when connectivity issues cropped up for remote users.
+- This resulted in a poor security posture, reduced productivity, and unhappy users.
+
+Paragraph 2
+
+- As part of a phased deployment plan, shortly after rolling out ZIA, Capitec implemented Zscaler Private Access (ZPA) to displace its VPNs and secure traffic from user devices to on-premises data centers and private cloud applications.
+- ZPA allows policy-based direct access to applications, leveraging least-privilege principles.
+- With Zscaler, users are never placed on the corporate network, which reduces the attack surface and prevents lateral threat movement.
+
+Paragraph 3
+
+- Zscaler also simplified management while providing complete visibility to threats, reducing the burden on IT and Security administrators.
+
+Paragraph 4
+
+- Moreover, the user experience improved significantly, especially for those working at home.
+- Baker wasn’t aware of just how poor remote connectivity was with VPN until the bank switched to the Zscaler Z-Tunnel 2.0.
+- The difference was dramatic: Z-Tunnel 2.0 tunneling architecture makes use of Datagram Transport Layer Security (DTLS) widely used in South Africa to protect data privacy and prevent tampering.
+
+Paragraph 5
+
+- “We really weren’t expecting to see better remote connectivity.
+- Using the fastest path to private applications and no longer backhauling traffic with a VPN has led to a happier user base.
+- Support for DTLS helps us in Africa.
+- We are now looking at removing the risk of running a trusted network, as we keep ZPA switched on even when we are in the office,” explained Baker.
+
+### quotes
+
+Quot 1
+
+quote:
+We really weren’t expecting to see better remote connectivity. Using the fastest path to private applications and no longer backhauling traffic with a VPN has led to a happier user base. Support for DTLS helps us in Africa. We are now looking at removing the risk of running a trusted network, as we keep ZPA switched on even when we are in the office.
+
+#### speaker
+
+name:
+Baker
+
+title:
+
+
+company:
+Capitec Bank Limited
+
+Quot 2
+
+quote:
+When joining two entities together, you can’t beat Zscaler on speed and velocity. That’s the obvious way to go.
+
+#### speaker
+
+name:
+Andrew Baker
+
+title:
+CTO
+
+company:
+Capitec Bank Limited
+
+Section 4
+
+id:
+game-changing-visibility-and-insights-into-the-user-experience
+
+title:
+Game-changing visibility and insights into the user experience
+
+### paragraphs
+
+Paragraph 1
+
+- To get the most out of the Zscaler platform, Baker also rolled out Zscaler Digital Experience (ZDX).
+- “With ZDX, the user experience insights are incredible and were really useful during the migration, as we could resolve a lot of our issues ourselves,” he said.
+
+Paragraph 2
+
+- As soon as Baker and his team started using ZDX, they were able to resolve a longstanding user experience issue.
+- Every day, users’ Microsoft calendars would either fail to synchronize or freeze, and users would have to resynchronize them.
+- This became increasingly frustrating for people who manage as many as 10 calendars, such as personal assistants or office managers.
+
+Paragraph 3
+
+- At first, Baker and his team sent trouble tickets to Microsoft, but still could not find the root cause of the issue.
+- During the app migration to AWS, Baker also recalled watching the ZDX Score change in the course of a single day.
+- At 7 a.m., it was 90/100, which is a good score, but as more people arrived at the office, the score dropped for the Microsoft calendar application.
+- When people went home, the score returned to the “good” range.
+
+Paragraph 4
+
+- Thanks to ZDX, Capitec identified an issue with the local area network (LAN).
+- Once the network team investigated the issue more deeply, they discovered that someone had accidentally typed in the wrong number when shaping the network’s internet connectivity.
+- Because of this error, Capitec’s high-capacity network was dropping traffic and causing slowdowns.
+- This was easily and quickly remediated by typing in the correct number.
+
+Paragraph 5
+
+- “The observability gained from ZDX is making our operations more proactive instead of reactive, and giving us insight into user experience improvements as we adopt AWS.
+- ZDX has been a game-changer from the moment we started using it,” Baker said.
+
+### quotes
+
+Quot 1
+
+quote:
+With ZDX, the user experience insights are incredible and were really useful during the migration, as we could resolve a lot of our issues ourselves.
+
+#### speaker
+
+name:
+Baker
+
+title:
+
+
+company:
+Capitec Bank Limited
+
+Quot 2
+
+quote:
+The observability gained from ZDX is making our operations more proactive instead of reactive, and giving us insight into user experience improvements as we adopt AWS. ZDX has been a game-changer from the moment we started using it.
+
+#### speaker
+
+name:
+Baker
+
+title:
+
+
+company:
+Capitec Bank Limited
+
+Section 5
+
+id:
+zscaler-and-aws-integration-speeds-up-workloads
+
+title:
+Zscaler and AWS integration speeds up workloads
+
+### paragraphs
+
+Paragraph 1
+
+- With Zscaler, the migration from on-premises data centers to AWS was a significant step forward.
+- Capitec had rewritten its banking app, which is regularly accessed by 11 million bank clients and migrated it from on-premises to AWS.
+- The migration took only three seconds, with zero downtime—and thanks to Zscaler Cloud Connector, they had zero security failures.
+
+Paragraph 2
+
+- Ahead of the migration, Capitec procured Zscaler through the AWS Marketplace to secure all its cloud applications.
+- With Zscaler and AWS, none of the applications on AWS have public connectivity, Capitec controls the regions users can access, and workload communication is secured.
+
+Paragraph 3
+
+- Capitec found an added benefit of the Zscaler-AWS integration: the ease of procurement and the perks that came with it.
+- Subscribing to Zscaler directly from the AWS Marketplace simplifies the buying process, consolidates billing, and makes Capitec eligible for rebates.
+
+Paragraph 4
+
+- “It’s a big deal to have the product teams work in a virtual private cloud [VPC] where they essentially can’t get anything wrong.
+- With AWS managing the infrastructure and Zscaler handling the security, we can federate tools and services to the product teams,” remarked Baker.
+- “Now that we’re not worried about the risk of what's in public or private subnets or where you can SSH to, it’s massively sped up our productivity and workloads.”
+
+Paragraph 5
+
+- “Another area of innovation for us was leveraging pre- and post-performance insights, allowing the team to understand, with less trial and error, where to focus in order to improve user experience of migrated apps,” he added...
+
+### quotes
+
+Quot 1
+
+quote:
+It’s a big deal to have the product teams work in a virtual private cloud [VPC] where they essentially can’t get anything wrong. With AWS managing the infrastructure and Zscaler handling the security, we can federate tools and services to the product teams. Now that we’re not worried about the risk of what's in public or private subnets or where you can SSH to, it’s massively sped up our productivity and workloads.
+
+#### speaker
+
+name:
+Baker
+
+title:
+
+
+company:
+Capitec Bank Limited
+
+Quot 2
+
+quote:
+Another area of innovation for us was leveraging pre- and post-performance insights, allowing the team to understand, with less trial and error, where to focus in order to improve user experience of migrated apps.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Capitec Bank Limited
+
+Quot 3
+
+quote:
+…we’re constantly asking ourselves, ‘What is the best thing we can do to serve our clients?’ Using Zscaler is the best thing we can do.
+
+#### speaker
+
+name:
+Andrew Baker
+
+title:
+CTO
+
+company:
+Capitec Bank Limited
+
+Section 6
+
+id:
+bright-prospects-for-the-future
+
+title:
+Bright prospects for the future
+
+### paragraphs
+
+Paragraph 1
+
+- Baker expects Zscaler will accelerate future mergers and acquisitions (M&As) as well.
+- Capitec’s most recent acquisition, completed before Zscaler was deployed, was a domain migration project and required significant time and effort from the security team.
+
+Paragraph 2
+
+- “Zscaler will make M&As a lot easier than doing a domain migration.
+- When joining two entities together, you can’t beat Zscaler on speed and velocity.
+- That’s the obvious way to go,” Baker said.Looking ahead, Baker has his eye on Zscaler Risk360™, a comprehensive risk quantification and visualization framework that ingests data from the Zscaler environment and external sources to contribute to better insights and decision-making around risk.
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler will make M&As a lot easier than doing a domain migration. When joining two entities together, you can’t beat Zscaler on speed and velocity. That’s the obvious way to go.
+
+#### speaker
+
+name:
+Baker
+
+title:
+
+
+company:
+Capitec Bank Limited
+
+Section 7
+
+id:
+zscaler-strengthens-capitec-s-business-presence
+
+title:
+Zscaler strengthens Capitec’s business presence
+
+### paragraphs
+
+Paragraph 1
+
+- As Baker points out, rural areas in South Africa tend to have outdated infrastructure and slow internet connectivity.
+- In addition, there is daily, scheduled power load shedding to ease pressure on the electrical grid.
+- Fortunately, Zscaler is continuing to make investments in South Africa to improve quality of service, even setting up a local point of presence expressly for Capitec in Cape Town.
+
+Paragraph 2
+
+- “Capitec has taken a massive leap forward as an organization,” Baker added.
+- “The impact on the organization is profound.
+- We’re appropriately conservative from a cyber perspective.
+- Our priority is to defend clients, so we’re constantly asking ourselves, ‘What is the best thing we can do to serve our clients?’ Using Zscaler is the best thing we can do."
+
+### quotes
+
+Quot 1
+
+quote:
+Capitec has taken a massive leap forward as an organization. The impact on the organization is profound. We’re appropriately conservative from a cyber perspective. Our priority is to defend clients, so we’re constantly asking ourselves, ‘What is the best thing we can do to serve our clients?’ Using Zscaler is the best thing we can do.
+
+#### speaker
+
+name:
+Baker
+
+title:
+
+
+company:
+Capitec Bank Limited
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 4
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Accelerate M&A and Divestitures
+
+url:
+https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+
+Solution 2
+
+name:
+Secure Remote Access
+
+url:
+https://www.zscaler.com/products-and-solutions/vpn-alternative
+
+Solution 3
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 4
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 5
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+76646
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Capitec Bank Limited Capitec Accelerates Digital Transformation and Protects Financial Data with Zscaler with South Africa's largest bank rolls out zero trust security in three months, protecting 17,000 users and blocking 745,000 threats on the Zero Trust Exchange.
+
+og_title:
+Capitec Bank Limited Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/capitec-bank-limited

@@ -1,0 +1,425 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/vinci-energies
+
+slug:
+vinci-energies
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:57:01.882203Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+VINCI Energies Deploys Consistent Web Security
+
+subtitle:
+with Zscaler Internet Access
+
+customer_name:
+VINCI Energies
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Attain high-performance internet connections that are optimally and consistently secure across the extended enterprise
+
+## results
+
+- Deploys consistent web security and access to 28,500 workstations globally
+- Reduces costs significantly by decreasing reliance on hardware-based systems
+- Increases quality of life for IT administrators by reducing IT complexity
+- Improves web filtering capability without sacrificing performance
+
+====================================================
+# customer_snapshot
+
+title:
+VINCI Energies
+
+description:
+VINCI Energies creates bespoke, multitechnical solutions and services for energy, transport, and communications infrastructure as well as buildings, factories, and IT systems. It provides local and global solutions through a dense network of 1,500 companies and its network brands deployed throughout Europe.
+
+industry:
+Construction
+
+headquarters:
+Paris, France
+
+size:
+85,000+ employees across 1,800+ BUs
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+We chose Zscaler because its solution integrates into the existing environment and the filtering service secures the enterprise anytime, anywhere.
+
+## speaker
+
+name:
+Dominique Tessaro
+
+title:
+CIO
+
+company:
+VINCI Energies
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+an-energy-leader-with-a-large-umbrella
+
+title:
+An energy leader with a large umbrella
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- Press Release
+
+Paragraph 2
+
+- A leading player in Europe, VINCI Energies was created through the merger of several VINCI Group entities and the acquisitions of CEGELEC and FACEO in 2010.
+- The diversity of VINCI Energies' offerings, supported by a dense network of 1,500 companies and its network brands deployed throughout Europe, enables it to provide both local and global solutions.
+- Present in 38 countries, the Group has 60,000 (2015) employees and generated revenues of €8.6 billion in 2011 in engineering and services in electricity/telecom, air conditioning, etc.
+
+Paragraph 3
+
+- This decentralized structure, with its varied activities, implies a particular problem in the deployment of IT solutions, especially security solutions.
+- In this case, securing web access was an issue and SaaS was the obvious choice.
+
+Section 2
+
+id:
+zscaler-internet-access-an-easy-to-deploy-saas-solution
+
+title:
+Zscaler Internet Access, an easy-to-deploy SaaS solution
+
+### paragraphs
+
+Paragraph 1
+
+- At the beginning of 2010, CEGELEC, an electrical engineering group, was coming to the end of its contract with its former provider and wanted to review the existing security filtering solution, based on some 40 Bluecoat proxy boxes and Websense URL filtering.
+- The interest in moving to a SaaS or cloud-based solution gradually became apparent, mainly for the ease of deploying web filtering on remote sites around the world, the cost savings associated with this type of solution, and the improved level of protection it provides.
+
+Paragraph 2
+
+- After a comparative study of four SaaS solutions on the market, CEGELEC chose the Zscaler solution.
+- This solution is easily integrated into the company's existing IT environment and allows access to the filtering system from any location and at any time.
+- Deployed at the end of 2010, Zscaler Internet Access then concerned 11,000 employees in 30 countries.
+
+Paragraph 3
+
+- Since 2011, the solution has been deployed for the entire VINCI Energies Group, with the deployment involving 28,500 workstations.
+
+Paragraph 4
+
+- "In addition to its filtering features, the solution does not degrade web access performance and, above all, has an administration interface that allows web filtering decisions made by management to be applied instantly throughout the group, anywhere in the world, while retaining a capacity for fine-tuning rules to suit specific local contexts," explains Dominique Tessaro, CIO of VINCI Energies.
+- "In addition, the solution also allows us to easily fulfill our legal obligations to keep connection logs, while guaranteeing their confidentiality," he adds.
+
+### quotes
+
+Quot 1
+
+quote:
+In addition to its filtering features, the solution does not degrade web access performance and, above all, has an administration interface that allows web filtering decisions made by management to be applied instantly throughout the group, anywhere in the world, while retaining a capacity for fine-tuning rules to suit specific local contexts. In addition, the solution also allows us to easily fulfill our legal obligations to keep connection logs, while guaranteeing their confidentiality.
+
+#### speaker
+
+name:
+Dominique Tessaro
+
+title:
+CIO
+
+company:
+VINCI Energies
+
+Quot 2
+
+quote:
+Our goal was to have a high-performance internet connection that was optimally and consistently secure across the extended enterprise.
+
+#### speaker
+
+name:
+Dominique Tessaro
+
+title:
+CIO
+
+company:
+VINCI Energies
+
+Section 3
+
+id:
+how-zia-has-benefitted-vinci-energies
+
+title:
+How ZIA has benefitted VINCI Energies
+
+### paragraphs
+
+Paragraph 1
+
+- The advantages are multifaceted: economic benefits for the company, easier life for administrators and benefits for users.
+
+Paragraph 2
+
+- Indeed, with the deployment of the Zscaler solution, costs have dropped significantly.
+- "Internet access can be set up on demand and without significant cost increases," said Frédéric Bénichou, Zscaler's Southwestern Europe Director.
+- "Other savings can be realized, such as savings on MPLS private network links that are offloaded from web traffic, and savings on acquisition costs.
+- In addition, no infrastructure needs to be deployed: scalability becomes Zscaler's problem, not VINCI Energies'," he adds.
+
+Paragraph 3
+
+- The benefits to administrators are no less significant, deriving directly from a reduction in infrastructure complexity and management.
+- As a result, administrators can spend more time on more strategic missions in terms of security policy and log analysis, without having to worry about the administration of versions and patching of boxes.
+
+Paragraph 4
+
+- Dominique Tessaro concludes, "Our goal was to have a high-performance internet connection that was optimally and consistently secure across the extended enterprise, while simplifying the infrastructure and administration of the enterprise.
+- We chose Zscaler because its solution integrates into the existing environment and the filtering service secures the enterprise anytime, anywhere.”
+
+Paragraph 5
+
+- In the near future, Zscaler will offer a new generation of administration.
+- This will allow VINCI Energies to meet a desire expressed by the company to be able to better customize reports.
+
+### quotes
+
+Quot 1
+
+quote:
+Internet access can be set up on demand and without significant cost increases. Other savings can be realized, such as savings on MPLS private network links that are offloaded from web traffic, and savings on acquisition costs. In addition, no infrastructure needs to be deployed: scalability becomes Zscaler's problem, not VINCI Energies'.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+VINCI Energies
+
+Quot 2
+
+quote:
+Our goal was to have a high-performance internet connection that was optimally and consistently secure across the extended enterprise, while simplifying the infrastructure and administration of the enterprise. We chose Zscaler because its solution integrates into the existing environment and the filtering service secures the enterprise anytime, anywhere.
+
+#### speaker
+
+name:
+Dominique Tessaro
+
+title:
+CIO
+
+company:
+VINCI Energies
+
+Quot 3
+
+quote:
+(Zscaler) also allows us to easily fulfill our legal obligations to keep connection logs, while guaranteeing their confidentiality.
+
+#### speaker
+
+name:
+Dominique Tessaro
+
+title:
+CIO
+
+company:
+VINCI Energies
+
+Quot 4
+
+quote:
+…no infrastructure needs to be deployed: scalability becomes Zscaler's problem, not VINCI Energies'
+
+#### speaker
+
+name:
+Dominique Tessaro
+
+title:
+CIO
+
+company:
+VINCI Energies
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 2
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 3
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+22576
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how VINCI Energies VINCI Energies Deploys Consistent Web Security with with Zscaler Internet Access.
+
+og_title:
+VINCI Energies Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/vinci-energies

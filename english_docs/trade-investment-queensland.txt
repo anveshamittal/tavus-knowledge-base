@@ -1,0 +1,392 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/trade-investment-queensland
+
+slug:
+trade-investment-queensland
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:56:47.521978Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+TIQ Enhances Protection and Simplifies Management
+
+subtitle:
+with the Zscaler Zero Trust Exchange
+
+customer_name:
+Trade & Investment Queensland
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Simplifying IT management, improving security, and bolstering threat and malware defense
+
+## results
+
+- Improves threat and malware protection across all 23 locations
+- Removes the need for firewalls or security appliances in each location
+- Ensures only authorized devices can connect to the network, regardless of location
+- Automatically sandboxes any email attachments be flagged as potentially dangerous
+
+====================================================
+# customer_snapshot
+
+title:
+Trade & Investment Queensland
+
+description:
+Trade & Investment Queensland is the government’s global business agency, assisting exporters to break into emerging and established markets, and promoting Queensland as the perfect place for an Asia-Pacific headquarters.
+
+industry:
+Federal and Government
+
+headquarters:
+Brisbane, Australia
+
+size:
+180 employees across 23 offices
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+TIQ follows a cloud-first strategy when it comes to IT, so the fact that Zscaler is cloud based made it particularly attractive for us.
+
+## speaker
+
+name:
+Anthony Kennedy
+
+title:
+Global IT Manager
+
+company:
+Trade & Investment Queensland
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+tiq-shows-security-some-tlc
+
+title:
+TIQ shows security some TLC
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- The dispersed nature of TIQ’s operations creates challenges when it comes to the management of its IT infrastructure, particularly in the area of security.
+- Anthony Kennedy, TIQ’s Global IT Manager, says having staff and equipment spread across multiple countries and locations made having strong, centralized control very difficult.
+
+Paragraph 2
+
+- “During 2015, we undertook a security audit which highlighted some weaknesses in our defenses,” he says.
+- “The organization also experienced a cryptolocker attack which highlighted the fact that we needed to find a better way to secure our network and core systems.”
+
+Paragraph 3
+
+- Kennedy says he was also keen to improve the standard of reporting he could make available to senior management.
+- “I wanted to have a way to show them exactly how the network was performing and the level of security threats we were facing,” he says.
+- “This was very difficult to achieve with the infrastructure that we had in place.”
+
+Section 2
+
+id:
+how-zscaler-made-the-difference
+
+title:
+How Zscaler made the difference
+
+### paragraphs
+
+Paragraph 1
+
+- After reviewing and assessing a number of potential security solutions, a decision was taken to adopt Zscaler to monitor and manage all internet traffic across the organization.
+- Working with IT partner Ordyss, the TIQ IT team arranged for individual firewalls in each office to be removed and replaced with the Zscaler security service.
+
+Paragraph 2
+
+- “TIQ follows a cloud-first strategy when it comes to IT, so the fact that Zscaler is cloud based made it particularly attractive for us.” says Anthony Kennedy, Global IT Manager.
+- “It also removed the need to have individual firewalls in each office, significantly reducing complexity and management overheads.”
+
+Paragraph 3
+
+- With all incoming and outgoing network traffic now routed through Zscaler, getting a clear picture of what is going on is much easier.
+- This allows better reporting for senior management as well as real-time notifications of any threats that are detected.
+
+### quotes
+
+Quot 1
+
+quote:
+TIQ follows a cloud-first strategy when it comes to IT, so the fact that Zscaler is cloud based made it particularly attractive for us. It also removed the need to have individual firewalls in each office, significantly reducing complexity and management overheads.
+
+#### speaker
+
+name:
+Anthony Kennedy
+
+title:
+Global IT Manager
+
+company:
+Trade & Investment Queensland
+
+Quot 2
+
+quote:
+The organization also experienced a cryptolocker attack…we needed to find a better way to secure our network and core systems.
+
+#### speaker
+
+name:
+Anthony Kennedy
+
+title:
+Global IT Manager
+
+company:
+Trade & Investment Queensland
+
+Section 3
+
+id:
+power-of-the-zscaler-cloud
+
+title:
+Power of the Zscaler cloud
+
+### paragraphs
+
+Paragraph 1
+
+- Deployed across the entire organization, the flexibility and scalability of the Zscaler security cloud offer TIQ:
+
+Paragraph 2
+
+- Better protection: The TIQ IT team can be confident that TIQ users are safe from malware and other internet threats, no matter their device or location—a critical benefit for a workforce spread across 23 different offices.
+
+Paragraph 3
+
+- Streamlined management: TIQ no longer needs security appliances in each location, slashing management overhead and allowing IT to focus elsewhere while their IT partner Ordyss handles ongoing Zscaler management and configuration.
+
+Paragraph 4
+
+- BYOD coverage: As more employees connect personal devices to the TIQ network, the Zscaler agent maintains effective security at all times by ensuring that only authorized devices can connect to the network, wherever they are.
+
+Paragraph 5
+
+- Sandboxing: Email attachments flagged as potentially dangerous are automatically sent to an isolated sandbox for examination.
+- This can help prevent attacks if a user accidentally opens or downloads an infected file.
+
+### quotes
+
+Quot 1
+
+quote:
+I wanted to have a way to show them exactly how the network was performing and the level of security threats we were facing.
+
+#### speaker
+
+name:
+Anthony Kennedy
+
+title:
+Global IT Manager
+
+company:
+Trade & Investment Queensland
+
+Quot 2
+
+quote:
+It…removed the need to have individual firewalls in each office, significantly reducing complexity and management overheads.
+
+#### speaker
+
+name:
+Anthony Kennedy
+
+title:
+Global IT Manager
+
+company:
+Trade & Investment Queensland
+
+====================================================
+# products
+
+Product 1
+
+name:
+Sandbox
+
+url:
+https://www.zscaler.com/technology/cloud-sandbox
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 4
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+23146
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Trade & Investment Queensland TIQ Enhances Protection and Simplifies Management with with the Zscaler Zero Trust Exchange.
+
+og_title:
+Trade & Investment Queensland Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/trade-investment-queensland

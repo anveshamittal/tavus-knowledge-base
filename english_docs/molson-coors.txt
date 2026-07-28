@@ -1,0 +1,760 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/molson-coors
+
+slug:
+molson-coors
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:55:40.877786Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Molson Coors Puts Great User Experiences on Tap
+
+subtitle:
+with the Zscaler Zero Trust Exchange
+
+customer_name:
+Molson Coors
+
+## metrics
+
+Metric 1
+
+value:
+17K
+
+label:
+Detail users secured with zero trust
+
+Metric 2
+
+value:
+96%
+
+label:
+faster user issue resolution
+
+Metric 3
+
+value:
+2.5M
+
+label:
+of threats blocked in 3 months
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Firewall appliances could not scale with the demand for remote internet access and struggled to inspect traffic inline
+- Lack of visibility around user activity and device posture made identifying and solving performance issues challenging
+- A legacy security architecture reliant on VPN appliances created a flat network environment and a wider attack surface
+
+## results
+
+- Secures a great user experience for employees working at 42 breweries worldwide, as well as third-party partners
+- Improves mean time to user issue resolution by pinpointing root causes and automating mitigation in minutes, not hours
+- Blocks advanced threats and eliminates lateral movement to keep private applications and sensitive corporate data secure
+
+====================================================
+# customer_snapshot
+
+title:
+Molson Coors
+
+description:
+World's third-largest brewer and a global innovator in the beverage industry
+
+industry:
+Food, Beverage, and Tobacco
+
+headquarters:
+Chicago, Illinois, USA
+
+size:
+17,000+ employees, 42+ breweries
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/68m0tqftor
+
+provider:
+wistia
+
+video_id:
+68m0tqftor
+
+title:
+Molson Coors' digital experience journey
+
+description:
+a Molson Coors digital experience journey video
+
+duration_seconds:
+272.662
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/48aaf3bc59fa09ffcb8c1d1fa51a3d91.png
+
+### transcript
+
+language:
+eng
+
+#### sentences
+
+1.
+Most of course is, obviously, a beverage company.
+
+2.
+We have about seventeen thousand employees, over forty two breweries and different, jurisdictions around the world.
+
+3.
+Middle of the pandemic, a lot of remote workers, we're still relying on, traditional VPN.
+
+4.
+From my perspective as a as a security professional, I'm looking at it from an attacker perspective.
+
+5.
+That same user may have downloaded some malware.
+
+6.
+They've infected their PC.
+
+7.
+From that infected PC with a VPN, they can connect to pretty much anything that creates that flat network environment in a wide attack surface for us.
+
+8.
+We did have a a fairly significant breach year in twenty twenty one.
+
+9.
+We didn't have that protection from the endpoint.
+
+10.
+We needed connectivity from anybody anywhere.
+
+11.
+And while VPN can do that, technically in a certain ways, but it doesn't do so in a secure way.
+
+12.
+The last two years has been a great transformation with our CIO to get rid of a lot of that legacy equipment.
+
+13.
+It's great for me as the CIO to get rid of some of the the vulnerabilities you have with legacy stuff, getting ourselves prepared for a modern zero trust future without a bunch of heavy weight theft to, like, carry with us.
+
+14.
+We use currently ZES together internet access for is we we engage with many other businesses.
+
+15.
+As we've created other companies, or we make ventures into other companies look at our our joint venture with a new company to help distribute yingling across the across the world using our supply chain.
+
+16.
+We're providing services.
+
+17.
+While we have to do so in a secure way, keeping them separate from most core Zscaler has actually helped us, do that through Zscaler and have access to help us protect, a separate cohort of users while still not really changing how our security team, understands tools to work.
+
+18.
+That seventeen thousand employees, are currently using ZDX.
+
+19.
+When our average consumer average user has an application issue, and they call the service desk.
+
+20.
+And it's a connectivity issue.
+
+21.
+So I look at ZDX's first let's know where the problem is.
+
+22.
+Right?
+
+23.
+So it's not Zscaler.
+
+24.
+It's your ISP.
+
+25.
+It's you're too close to the pool.
+
+26.
+It's the whatever the reason is, or maybe it's an application issue.
+
+27.
+And being able to to decipher that very quickly, I think is is a good experience for the user.
+
+28.
+So meantime, the resolution obviously changes its averaged out different incidents.
+
+29.
+But we were in this in a case of like, you know, hours, like, multiple, like, eight hours in some cases to reduce, to actually understand what's going on and and and respond to that incident.
+
+30.
+We're down now to about fifteen minutes.
+
+31.
+So for us, that was a huge reduction.
+
+32.
+So that's when we got a all seventeen thousand employees onto the ZEDX advanced capability for us to put a couple of, monitors out there to see where these issues were.
+
+33.
+And we could figure out there was there was some file service slowness and how we had architected our internal network and how it was connecting with Zscaler.
+
+34.
+I was really happy to see how they approached our challenge, solved our challenge and still have the case for future business.
+
+35.
+So it creates a relationship, and I really appreciate that.
+
+36.
+So we have, quite a bit reduced incidents.
+
+37.
+We do have a better mean time to to resolution, than what we had prior, the year before to get it plays an important part.
+
+38.
+In being able to track down what isolate or what asset it was, where the issue was, what they connected to allows us to say, you know, from an incident perspective, whether we should be really concerned or not.
+
+39.
+Right?
+
+40.
+Because whether the traffic went out, we have to just reset a password or only we have to reset a PC.
+
+41.
+So from that perspective, I think we actually have reduced have to double check on some numbers, but we have reduced the number of, PC, like, full wipes that we'd have to do to quite a bit of, like very, very few of those, to deal with that.
+
+42.
+It just works.
+
+43.
+Right?
+
+44.
+They they plug in, it works.
+
+45.
+When the inevitable bad thing happens, that endpoint gets compromised, My entire environment is no longer exposed.
+
+46.
+They they can attack some applications, but they have to be very noisy in doing They can't just scan my network or go pivot to some other computer.
+
+47.
+So that that attack service reduction from the usual asset that gets compromised, the average user, That's kind of really, really reduced and gives us the opportunity to quarantine and and respond to the incident when it's only one PC and not an entire work.
+
+48.
+Previous solution couldn't really, address a zero trust architecture because it wasn't really doing any of the zero trust things.
+
+49.
+Right?
+
+50.
+It was just assuming that once you had authentication, that you could just get access to everything.
+
+51.
+So it was implicitly trusting, which is literally against what zero trust means.
+
+52.
+Right?
+
+53.
+We wanna make sure we can inspect why and what your they have many threats for black from Zscaler alone.
+
+54.
+It's it's always in the hundreds of thousands or millions depending on the day.
+
+55.
+It's simple.
+
+56.
+Easy to use.
+
+57.
+You can train on it right away.
+
+58.
+There's no limitations bringing that onto the rest of the world and where you're going from a cloud with workload to workload segmentation and in OT networks and some of those other capabilities when it comes to protecting an end user and giving them secure access to the internet.
+
+59.
+ZIA and ZPA, along with that ZDX component is like It's a game changer.
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+Jeremy Bauer (Sr. Director Information Security (CISO), Molson Coors)
+
+tag:
+self_introduction
+
+topic:
+Company overview and global presence
+
+text:
+Most of course is, obviously, a beverage company. We have about seventeen thousand employees, over forty two breweries and different, jurisdictions around the world.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+Jeremy Bauer (Sr. Director Information Security (CISO), Molson Coors)
+
+tag:
+challenges
+
+topic:
+Remote work and VPN vulnerabilities
+
+text:
+Middle of the pandemic, a lot of remote workers, we're still relying on, traditional VPN. From my perspective as a as a security professional, I'm looking at it from an attacker perspective. That same user may have downloaded some malware. They've infected their PC.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+Jeremy Bauer (Sr. Director Information Security (CISO), Molson Coors)
+
+tag:
+challenges
+
+topic:
+Flat network and attack surface
+
+text:
+From that infected PC with a VPN, they can connect to pretty much anything that creates that flat network environment in a wide attack surface for us.
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+Jeremy Bauer (Sr. Director Information Security (CISO), Molson Coors)
+
+tag:
+challenges
+
+topic:
+Significant breach in 2021
+
+text:
+We did have a a fairly significant breach year in twenty twenty one. We didn't have that protection from the endpoint. We needed connectivity from anybody anywhere.
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+Jeremy Bauer (Sr. Director Information Security (CISO), Molson Coors)
+
+tag:
+challenges
+
+topic:
+VPN limitations in secure connectivity
+
+text:
+And while VPN can do that, technically in a certain ways, but it doesn't do so in a secure way.
+
+Segment 6
+
+segment_id:
+6
+
+speaker:
+Jeremy Bauer (Sr. Director Information Security (CISO), Molson Coors)
+
+tag:
+products_and_solutions
+
+topic:
+Transition to zero trust architecture
+
+text:
+The last two years has been a great transformation with our CIO to get rid of a lot of that legacy equipment. It's great for me as the CIO to get rid of some of the the vulnerabilities you have with legacy stuff, getting ourselves prepared for a modern zero trust future without a bunch of heavy weight theft to, like, carry with us.
+
+Segment 7
+
+segment_id:
+7
+
+speaker:
+Jeremy Bauer (Sr. Director Information Security (CISO), Molson Coors)
+
+tag:
+products_and_solutions
+
+topic:
+Zscaler Internet Access (ZIA) implementation
+
+text:
+We use currently ZES together internet access for is we we engage with many other businesses.
+
+Segment 8
+
+segment_id:
+8
+
+speaker:
+Jeremy Bauer (Sr. Director Information Security (CISO), Molson Coors)
+
+tag:
+products_and_solutions
+
+topic:
+Secure ventures with Zscaler
+
+text:
+As we've created other companies, or we make ventures into other companies look at our our joint venture with a new company to help distribute yingling across the across the world using our supply chain. We're providing services. While we have to do so in a secure way, keeping them separate from most core Zscaler has actually helped us, do that through Zscaler and have access to help us protect, a separate cohort of users while still not really changing how our security team, understands tools to work.
+
+Segment 9
+
+segment_id:
+9
+
+speaker:
+Jeremy Bauer (Sr. Director Information Security (CISO), Molson Coors)
+
+tag:
+products_and_solutions
+
+topic:
+ZDX for connectivity issue resolution
+
+text:
+That seventeen thousand employees, are currently using ZDX. When our average consumer average user has an application issue, and they call the service desk. And it's a connectivity issue. So I look at ZDX's first let's know where the problem is. Right? So it's not Zscaler. It's your ISP. It's you're too close to the pool. It's the whatever the reason is, or maybe it's an application issue.
+
+Segment 10
+
+segment_id:
+10
+
+speaker:
+Jeremy Bauer (Sr. Director Information Security (CISO), Molson Coors)
+
+tag:
+metrics_and_results
+
+topic:
+Reduction in mean time to resolution
+
+text:
+And being able to to decipher that very quickly, I think is is a good experience for the user. So meantime, the resolution obviously changes its averaged out different incidents. But we were in this in a case of like, you know, hours, like, multiple, like, eight hours in some cases to reduce, to actually understand what's going on and and and respond to that incident. We're down now to about fifteen minutes.
+
+Segment 11
+
+segment_id:
+11
+
+speaker:
+Jeremy Bauer (Sr. Director Information Security (CISO), Molson Coors)
+
+tag:
+metrics_and_results
+
+topic:
+Improved incident tracking and response
+
+text:
+So for us, that was a huge reduction. So that's when we got a all seventeen thousand employees onto the ZEDX advanced capability for us to put a couple of, monitors out there to see where these issues were. And we could figure out there was there was some file service slowness and how we had architected our internal network and how it was connecting with Zscaler.
+
+Segment 12
+
+segment_id:
+12
+
+speaker:
+Jeremy Bauer (Sr. Director Information Security (CISO), Molson Coors)
+
+tag:
+quote
+
+topic:
+Appreciation for Zscaler's approach
+
+text:
+I was really happy to see how they approached our challenge, solved our challenge and still have the case for future business. So it creates a relationship, and I really appreciate that.
+
+Segment 13
+
+segment_id:
+13
+
+speaker:
+Jeremy Bauer (Sr. Director Information Security (CISO), Molson Coors)
+
+tag:
+metrics_and_results
+
+topic:
+Reduced PC wipes and better isolation
+
+text:
+So we have, quite a bit reduced incidents. We do have a better mean time to to resolution, than what we had prior, the year before to get it plays an important part. In being able to track down what isolate or what asset it was, where the issue was, what they connected to allows us to say, you know, from an incident perspective, whether we should be really concerned or not. Right? Because whether the traffic went out, we have to just reset a password or only we have to reset a PC. So from that perspective, I think we actually have reduced have to double check on some numbers, but we have reduced the number of, PC, like, full wipes that we'd have to do to quite a bit of, like very, very few of those, to deal with that.
+
+Segment 14
+
+segment_id:
+14
+
+speaker:
+Jeremy Bauer (Sr. Director Information Security (CISO), Molson Coors)
+
+tag:
+products_and_solutions
+
+topic:
+Endpoint protection and attack surface reduction
+
+text:
+It just works. Right? They they plug in, it works. When the inevitable bad thing happens, that endpoint gets compromised, My entire environment is no longer exposed. They they can attack some applications, but they have to be very noisy in doing They can't just scan my network or go pivot to some other computer. So that that attack service reduction from the usual asset that gets compromised, the average user, That's kind of really, really reduced and gives us the opportunity to quarantine and and respond to the incident when it's only one PC and not an entire work.
+
+Segment 15
+
+segment_id:
+15
+
+speaker:
+Jeremy Bauer (Sr. Director Information Security (CISO), Molson Coors)
+
+tag:
+challenges
+
+topic:
+Limitations of previous solutions
+
+text:
+Previous solution couldn't really, address a zero trust architecture because it wasn't really doing any of the zero trust things. Right? It was just assuming that once you had authentication, that you could just get access to everything. So it was implicitly trusting, which is literally against what zero trust means. Right?
+
+Segment 16
+
+segment_id:
+16
+
+speaker:
+Jeremy Bauer (Sr. Director Information Security (CISO), Molson Coors)
+
+tag:
+metrics_and_results
+
+topic:
+Threats blocked by Zscaler
+
+text:
+We wanna make sure we can inspect why and what your they have many threats for black from Zscaler alone. It's it's always in the hundreds of thousands or millions depending on the day.
+
+Segment 17
+
+segment_id:
+17
+
+speaker:
+Jeremy Bauer (Sr. Director Information Security (CISO), Molson Coors)
+
+tag:
+quote
+
+topic:
+Zscaler as a game changer
+
+text:
+It's simple. Easy to use. You can train on it right away. There's no limitations bringing that onto the rest of the world and where you're going from a cloud with workload to workload segmentation and in OT networks and some of those other capabilities when it comes to protecting an end user and giving them secure access to the internet. ZIA and ZPA, along with that ZDX component is like It's a game changer.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+106400742
+
+created_at:
+1687541192
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+How many threats were blocked from Zscaler alone, it's always in the hundreds of thousands or millions depending on the day. It's simple, easy to use. You can train on it right away. There's no limitations.
+
+## speaker
+
+name:
+Jeremy Bauer
+
+title:
+Sr. Director Information Security (CISO)
+
+company:
+Molson Coors
+
+====================================================
+# customer_case_study
+
+title:
+null
+
+sections:
+[]
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 4
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 5
+
+name:
+Zero Trust for IoT/OT
+
+url:
+https://www.zscaler.com/products-and-solutions/secure-your-ot-and-iot
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 2
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 3
+
+name:
+Secure Remote Access
+
+url:
+https://www.zscaler.com/products-and-solutions/vpn-alternative
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+66491
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Molson Coors Molson Coors Puts Great User Experiences on Tap with with the Zscaler Zero Trust Exchange.
+
+og_title:
+Molson Coors Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/molson-coors

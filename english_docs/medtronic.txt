@@ -1,0 +1,414 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/medtronic
+
+slug:
+medtronic
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:55:38.087358Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Medtronic Simplifies Its Data Protection Strategy
+
+subtitle:
+with the Zscaler Zero Trust Exchange
+
+customer_name:
+Medtronic
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Find, classify, and securely manage critical data
+
+## results
+
+- Improves visibility over data movement
+- Reduces complexity within the current environment
+- Unifies logging and alerting with SWG, DLP, and CASB
+- Reduces labor intensiveness by simplifying operations
+
+====================================================
+# customer_snapshot
+
+title:
+Medtronic
+
+description:
+Medtronic is a global healthcare technology leader focused on solving the world’s biggest healthcare challenges to extend and improve the lives of more than two people every second, worldwide.
+
+industry:
+High Tech
+
+headquarters:
+Minneapolis, Minnesota, U.S.
+
+size:
+90,000 employees in 150 countries
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/z8xor18qzs
+
+provider:
+wistia
+
+video_id:
+z8xor18qzs
+
+title:
+Zscaler_DP_Medtronic_Testimonial_1920x1080
+
+description:
+a Medtronic Customer Testimonial Video video
+
+duration_seconds:
+98.283
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/fdb1d8f8d5eceeb00243261f015e62dcd90d2e3a.bin
+
+### transcript
+
+language:
+eng
+
+#### sentences
+
+1.
+Hi, everyone.
+
+2.
+My name is Scott Ostrander, Senior Director of Security Engineering for Medtronic, the Global Healthcare Tech energy leader focused on solving the world's biggest healthcare challenges to extend and improve the lives of more than two people every second worldwide.
+
+3.
+As security leaders, we all recognize that protecting our valuable data is a top priority.
+
+4.
+But we also know it's an enormous challenge to find, classify, and securely manage all those critical assets.
+
+5.
+Data protection technologies that should be part of the solution have long underwhelmed security professionals due to the huge effort required to configure and manage them, the lack of a consistent single pane of glass to manage the multiple solutions required, and a lack of effective automation to act on potential issues.
+
+6.
+Medtronic has looked to Zscaler to help improve visibility of our data movement, reduce complexity in our current environment and unify logging and alerting from secure web gateway, DLP, and CASB solutions, and are seeing great results and efficiency.
+
+7.
+With the new capabilities, Zclers announcing today, the industry is finally moving toward a truly unique and exciting time where security teams can eliminate most of those shortcomings and deliver on data protection priorities.
+
+8.
+I'm confident this will help electronic make meaningful advancement in this key area with improved efficiencies, improved timed results, and reduced resource commitment.
+
+9.
+I'm pleased to see Zscaler leading the way and very happy to have them as a partner on our journey to engineer the extraordinary.
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+Scott Ostrander (Sr. Director, Medtronic)
+
+tag:
+self_introduction
+
+topic:
+Introduction and company background
+
+text:
+Hi, everyone. My name is Scott Ostrander, Senior Director of Security Engineering for Medtronic, the Global Healthcare Tech energy leader focused on solving the world's biggest healthcare challenges to extend and improve the lives of more than two people every second worldwide.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+Scott Ostrander (Sr. Director, Medtronic)
+
+tag:
+challenges
+
+topic:
+Challenges in data protection
+
+text:
+As security leaders, we all recognize that protecting our valuable data is a top priority. But we also know it's an enormous challenge to find, classify, and securely manage all those critical assets. Data protection technologies that should be part of the solution have long underwhelmed security professionals due to the huge effort required to configure and manage them, the lack of a consistent single pane of glass to manage the multiple solutions required, and a lack of effective automation to act on potential issues.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+Scott Ostrander (Sr. Director, Medtronic)
+
+tag:
+products_and_solutions
+
+topic:
+Zscaler solutions implemented
+
+text:
+Medtronic has looked to Zscaler to help improve visibility of our data movement, reduce complexity in our current environment and unify logging and alerting from secure web gateway, DLP, and CASB solutions, and are seeing great results and efficiency.
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+Scott Ostrander (Sr. Director, Medtronic)
+
+tag:
+metrics_and_results
+
+topic:
+Expected outcomes with Zscaler
+
+text:
+With the new capabilities, Zclers announcing today, the industry is finally moving toward a truly unique and exciting time where security teams can eliminate most of those shortcomings and deliver on data protection priorities. I'm confident this will help electronic make meaningful advancement in this key area with improved efficiencies, improved timed results, and reduced resource commitment.
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+Scott Ostrander (Sr. Director, Medtronic)
+
+tag:
+quote
+
+topic:
+Partnership with Zscaler
+
+text:
+I'm pleased to see Zscaler leading the way and very happy to have them as a partner on our journey to engineer the extraordinary.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+96962015
+
+created_at:
+1666986367
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+With the new capabilities Zscaler is announcing today, the industry is finally moving toward a truly unique and exciting time where security teams can eliminate (shortcomings) and deliver on data protection priorities.
+
+## speaker
+
+name:
+Scott Ostrander
+
+title:
+Sr. Director
+
+company:
+Medtronic
+
+Hero Quote 2
+
+quote:
+It’s an enormous challenge to find, classify, and securely manage (critical assets).
+
+## speaker
+
+name:
+Scott Ostrander
+
+title:
+Sr. Director
+
+company:
+Medtronic
+
+Hero Quote 3
+
+quote:
+Medtronic has looked to Zscaler to help provide visibility over our data movement.
+
+## speaker
+
+name:
+Scott Ostrander
+
+title:
+Sr. Director
+
+company:
+Medtronic
+
+Hero Quote 4
+
+quote:
+I’m pleased to see Zscaler leading the way, and very happy to have them as a partner on our journey.
+
+## speaker
+
+name:
+Scott Ostrander
+
+title:
+Sr. Director
+
+company:
+Medtronic
+
+====================================================
+# customer_case_study
+
+title:
+null
+
+sections:
+[]
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Web and Email DLP
+
+url:
+https://www.zscaler.com/products-and-solutions/data-loss-prevention
+
+Product 4
+
+name:
+Multi-Mode CASB
+
+url:
+https://www.zscaler.com/products-and-solutions/cloud-access-security-broker-casb
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+57281
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Medtronic Medtronic Simplifies Its Data Protection Strategy with with the Zscaler Zero Trust Exchange.
+
+og_title:
+Medtronic Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/medtronic

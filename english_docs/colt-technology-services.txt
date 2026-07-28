@@ -1,0 +1,734 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/colt-technology-services
+
+slug:
+colt-technology-services
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:16.326467Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Colt Technology Services Improves Security and Digital Experience with the Zero Trust Exchange
+
+subtitle:
+Partnering with Zscaler to deploy a zero trust architecture in three months allows company to help other enterprises achieve security transformation
+
+customer_name:
+Colt Technology Services
+
+## metrics
+
+Metric 1
+
+value:
+5K
+
+label:
+hybrid employees protected
+
+Metric 2
+
+value:
+83%
+
+label:
+faster deployment than legacy solutions
+
+Metric 3
+
+value:
+100M
+
+label:
+policy violations prevented quarterly
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Accelerating cloud migration to support a hybrid work environment increased the attack surface and risk of compromise
+- An aging proxy solution could not manage inline inspection of encrypted traffic, resulting in blind spots to malware
+- Legacy VPN appliances did not enable dynamic private application access policies, making remote work challenging to sustain
+
+## results
+
+- Provides outstanding digital experiences for more than 5,000 hybrid employees while securing outbound and inbound traffic
+- Inspects internet traffic at scale, processing 6.7 billion transactions and blocking 476,000 security threats quarterly
+- Supports the microsegmented, policy-based private application access policies not possible with traditional VPNs
+
+====================================================
+# customer_snapshot
+
+title:
+Colt Technology Services
+
+description:
+Provides network, voice, and data center services to 25,000+ businesses worldwide
+
+industry:
+Telecommunications
+
+headquarters:
+London, UK
+
+size:
+5,000+ employees across 60 global offices
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Zscaler helps us achieve both user experience and security. The cloud native Zscaler platform protects our employees no matter where they work and regardless of the devices they use.
+
+## speaker
+
+name:
+Ash Surti
+
+title:
+Chief Digital and Information Officer
+
+company:
+Colt Technology Services
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+strong-partnership-opens-a-door-to-zero-trust-transformation
+
+title:
+Strong partnership opens a door to zero trust transformation
+
+### paragraphs
+
+Paragraph 1
+
+- Colt Technology Services has partnered with Zscaler for more than a decade as a managed service provider.
+- When the time came for Colt to further enhance its own zero trust security posture to better support a hybrid workforce, the Zscaler Zero Trust Exchange was the natural choice.
+
+Paragraph 2
+
+- “Zscaler gives us the best of both worlds—we get a more robust security architecture that’s actually easier to work with," said Ash Surti, Chief Digital and Information Officer at Colt.
+- "At the same time, we can leverage the power of the cloud to provide outstanding digital experiences for our employees without compromising security.”
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler gives us the best of both worlds—we get a more robust security architecture that’s actually easier to work with. At the same time, we can leverage the power of the cloud to provide outstanding digital experiences for our employees without compromising security.
+
+#### speaker
+
+name:
+Ash Surti
+
+title:
+Chief Digital and Information Officer
+
+company:
+Colt Technology Services
+
+Section 2
+
+id:
+zscaler-delivers-outstanding-security-and-user-experience
+
+title:
+Zscaler delivers outstanding security and user experience
+
+### paragraphs
+
+Paragraph 1
+
+- Founded 30 years ago as a London-based telecommunications company, today Colt provides network, voice, and data center services to more than 25,000 businesses across Asia, Europe, and the US.
+- The company is a 24/7/365 operation, supporting large-scale businesses around the world and spanning nearly every time zone.
+
+Paragraph 2
+
+- To better support that global customer base, Colt has prioritized a fully flexible, hybrid work strategy.
+- Adopting a cloud-first approach to its own digital infrastructure allows Colt to simplify and automate the remote work experience for its 5,000+ employees.
+- As Surti sees it, employees who can work efficiently anywhere can more effectively support customers anytime.
+
+Paragraph 3
+
+- Digital transformation is not without risk, though.
+- Accelerating cloud migration and increasing digital capacity to support remote work can widen the attack surface for an organization.
+- Colt was looking to enhance its security posture while also ensuring a seamless remote user experience.
+- The Zero Trust Exchange met these requirements.
+
+Paragraph 4
+
+- “Zscaler helps us achieve both user experience and security,” said Surti.
+- “The cloud native Zscaler platform protects our employees no matter where they work and regardless of the devices they use.”
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler helps us achieve both user experience and security. The cloud native Zscaler platform protects our employees no matter where they work and regardless of the devices they use.
+
+#### speaker
+
+name:
+Surti
+
+title:
+
+
+company:
+Colt Technology Services
+
+Quot 2
+
+quote:
+Zscaler gives us the best of both worlds—we get a more robust security architecture that’s actually easier to work with.
+
+#### speaker
+
+name:
+Ash Surti
+
+title:
+Chief Digital and Information Officer
+
+company:
+Colt Technology Services
+
+Section 3
+
+id:
+zscaler-bridges-the-gaps-left-by-legacy-security-solutions
+
+title:
+Zscaler bridges the gaps left by legacy security solutions
+
+### paragraphs
+
+Paragraph 1
+
+- Deploying Zscaler Internet Access (ZIA) as part of the Zero Trust Exchange has helped Colt reach a critical, initial benchmark on its zero trust journey: replacing an aging proxy solution with direct, secure access to the internet and SaaS applications—powered by the world’s largest inline security cloud.
+
+Paragraph 2
+
+- Proxy appliances present limitations when it comes to supporting secure outbound connections.
+- Capacity and scalability issues curtail complete inspection of encrypted traffic, resulting in blind spots to malware.
+- Zscaler bridges these gaps inherent in traditional legacy solutions.
+
+Paragraph 3
+
+- The Zero Trust Exchange enables Colt to inspect all encrypted traffic at scale to stop threats and data loss in real time.
+- By delivering security through the cloud, as close to the end user as possible, Zscaler also eliminates the need to backhaul internet traffic to a distant data center, reducing potential choke points.
+
+Paragraph 4
+
+- Colt employees now enjoy direct-to-internet access from anywhere, boosting connectivity and productivity.
+- Surti appreciates the peace of mind that comes with knowing this access is backed by comprehensive zero trust security.
+
+Paragraph 5
+
+- “The Zscaler platform gives my security team greater confidence that our workforce can perform their roles safely with fewer limitations on their productivity,” said Surti.
+
+### quotes
+
+Quot 1
+
+quote:
+The Zscaler platform gives my security team greater confidence that our workforce can perform their roles safely with fewer limitations on their productivity.
+
+#### speaker
+
+name:
+Surti
+
+title:
+
+
+company:
+Colt Technology Services
+
+Section 4
+
+id:
+achieving-a-better-security-posture-faster-with-zscaler
+
+title:
+Achieving a better security posture faster with Zscaler
+
+### paragraphs
+
+Paragraph 1
+
+- After collaborating with Zscaler as a partner to help their own customers leverage the Zero Trust Exchange, Colt anticipated a fast deployment.
+- Now, as a customer, Surti is still amazed at how quick and easy it was for Colt to complete the first phase of its Zscaler implementation.
+
+Paragraph 2
+
+- Colt initially fully migrated 5,000 users to the Zero Trust Exchange and secured outbound connectivity in 12 weeks.
+- To help put this in perspective, Surti shared: “With our legacy proxy solution, which the Zero Trust Exchange replaces, we spent nearly 18 months on design and deployment.
+- With Zscaler, we’ve deployed a better solution in just three months.
+- We’ve achieved a greater security posture that was deployed 83% faster.
+- This illustrates the power of the Zscaler platform.”
+
+Paragraph 3
+
+- The Zero Trust Exchange is pre-integrated to work seamlessly across an ecosystem of cloud service providers.
+- Colt can incorporate other crucial cloud-based solutions, like Microsoft SharePoint and Azure AD, with little administrative effort.
+- This ensures that any future deployment efforts on the zero trust journey will be just as easy.
+
+### quotes
+
+Quot 1
+
+quote:
+With our legacy proxy solution, which the Zero Trust Exchange replaces, we spent nearly 18 months on design and deployment. With Zscaler, we’ve deployed a better solution in just three months. We’ve achieved a greater security posture that was deployed 83% faster. This illustrates the power of the Zscaler platform.
+
+#### speaker
+
+name:
+Surti
+
+title:
+
+
+company:
+Colt Technology Services
+
+Quot 2
+
+quote:
+We’ve achieved a greater security posture that was deployed 83% faster. This illustrates the power of the Zscaler platform.
+
+#### speaker
+
+name:
+Ash Surti
+
+title:
+Chief Digital and Information Officer
+
+company:
+Colt Technology Services
+
+Section 5
+
+id:
+zscaler-scalability-supports-change-and-growth-at-pace
+
+title:
+Zscaler scalability supports change and growth at pace
+
+### paragraphs
+
+Paragraph 1
+
+- Surti believes digital transformation should be an ongoing process, not a one-and-done event.
+- Corporate milestones, like M&A activity or significant staff expansion, typically require security architecture adjustments and updates at a rapid pace.
+- For organizations still reliant on legacy security infrastructure, it can take a lot of time and capital to make sure those solutions keep up.
+
+Paragraph 2
+
+- Zscaler’s cloud-based platform offers unrivaled scalability to help businesses adjust to changes without the need for manual intervention.
+- The Zero Trust Exchange can automatically handle expanding volumes of traffic and users, allowing organizations to adapt at pace while continuing to enforce zero trust security.
+
+Paragraph 3
+
+- “The scalability of the Zero Trust Exchange gives Colt the flexibility to change and expand as a business, and the security team doesn’t have to make those changes manually across numerous back-end systems,” shared Surti.
+- “Zscaler helps us drive change efficiently and with agility.
+- Security administration is a much better experience for my team.”
+
+### quotes
+
+Quot 1
+
+quote:
+The scalability of the Zero Trust Exchange gives Colt the flexibility to change and expand as a business, and the security team doesn’t have to make those changes manually across numerous back-end systems. Zscaler helps us drive change efficiently and with agility. Security administration is a much better experience for my team.
+
+#### speaker
+
+name:
+Surti
+
+title:
+
+
+company:
+Colt Technology Services
+
+Section 6
+
+id:
+zscaler-streamlines-and-secures-the-remote-work-experience
+
+title:
+Zscaler streamlines and secures the remote work experience
+
+### paragraphs
+
+Paragraph 1
+
+- In addition to security, Zscaler has also improved employee experiences at Colt.
+- Previously, the company’s legacy security appliances would prompt users trying to access the internet and SaaS applications with a barrage of intrusive notifications.
+
+Paragraph 2
+
+- “If you’re an employee trying to connect online, your top priority is getting your work started,” Surti explained.
+- “You’re going to click ‘yes’ to any prompt just to keep moving, hoping you don't receive an error message.
+- I don’t think that approach ensures the best protection from threats.
+- It certainly doesn’t make daily work easier for staff.”
+
+Paragraph 3
+
+- With secure, direct-to-internet connection, employees no longer have to deal with incessant prompts or error messages.
+- Zscaler streamlines the process for online work, while enhancing the company’s security position.
+- In a single three-month period, Zscaler processed 6.7 billion transactions for Colt, preventing over 100 million policy violations and blocking more than 476,000 security threats.
+
+Paragraph 4
+
+- There’s also been a noticeable reduction in the number of IT support tickets.
+- To Surti, this shows that Zscaler is improving the employee experience at Colt.
+- “Success in IT is when our users are happy,” Surti shared.
+- “Support requests have dropped because the Zscaler platform is so intuitive to use.”
+
+### quotes
+
+Quot 1
+
+quote:
+If you’re an employee trying to connect online, your top priority is getting your work started. You’re going to click ‘yes’ to any prompt just to keep moving, hoping you don't receive an error message. I don’t think that approach ensures the best protection from threats. It certainly doesn’t make daily work easier for staff.
+
+#### speaker
+
+name:
+Surti
+
+title:
+
+
+company:
+Colt Technology Services
+
+Quot 2
+
+quote:
+Success in IT is when our users are happy. Support requests have dropped because the Zscaler platform is so intuitive to use.
+
+#### speaker
+
+name:
+Surti
+
+title:
+
+
+company:
+Colt Technology Services
+
+Quot 3
+
+quote:
+Zscaler helps us drive change efficiently and with agility. Security administration is a much better experience for my team.
+
+#### speaker
+
+name:
+Ash Surti
+
+title:
+Chief Digital and Information Officer
+
+company:
+Colt Technology Services
+
+Section 7
+
+id:
+securing-private-applications-with-zscaler
+
+title:
+Securing private applications with Zscaler
+
+### paragraphs
+
+Paragraph 1
+
+- Colt is already actively planning for the next step on its zero trust journey.
+- The company will displace its legacy VPN appliances and deploy Zscaler Private Access (ZPA) to enable fast, seamless, zero trust access to private applications.
+
+Paragraph 2
+
+- With Zscaler, private applications are hidden behind the Zero Trust Exchange, not left exposed to the internet; users are connected directly only to the private applications they need and not to the corporate network as a whole.
+- This reduces the attack surface and limits lateral threat movement, respectively.
+- Additionally, Zscaler verifies user identity, device security posture, and context before an inbound connection is made, while inline traffic inspection enforces access control policies and actively prevents web attacks.
+
+Paragraph 3
+
+- “The Zscaler platform removes the risk of VPNs altogether, while further improving the remote user experience at Colt,” said Surti.
+- “With Zscaler, we can manage private application and data access more dynamically and granularly while at the same time simplifying the process of securely connecting employees.
+
+### quotes
+
+Quot 1
+
+quote:
+The Zscaler platform removes the risk of VPNs altogether, while further improving the remote user experience at Colt.
+
+#### speaker
+
+name:
+Surti
+
+title:
+
+
+company:
+Colt Technology Services
+
+Section 8
+
+id:
+a-stronger-advocate-for-companies-on-the-path-to-zero-trust
+
+title:
+A stronger advocate for companies on the path to zero trust
+
+### paragraphs
+
+Paragraph 1
+
+- The decade-long business partnership between Zscaler and Colt made becoming a Zscaler customer easy.
+- Those years of collaboration afforded Colt an in-depth understanding of the Zero Trust Exchange as well as time to carefully design and plan for its own zero trust journey with Zscaler.
+
+Paragraph 2
+
+- Now that the relationship has evolved, Surti believes being a Zscaler customer makes Colt a stronger advocate for enterprises on the path to zero trust.
+- “Our customer experience with Zscaler has elevated the partner relationship to another level,” said Surti.
+- “As a Zscaler customer, we have a better understanding of the Zscaler platform from a go-to-market perspective.”
+
+Paragraph 3
+
+- Surti is excited to share this new perspective with Colt customers.
+- “We’re no longer simply recommending a great solution to customers as a third-party partner,” Surti concluded.
+- “When we say that Zscaler provides the most trusted and effective cloud security service platform on the market, we speak from experience.”
+
+### quotes
+
+Quot 1
+
+quote:
+Our customer experience with Zscaler has elevated the partner relationship to another level. As a Zscaler customer, we have a better understanding of the Zscaler platform from a go-to-market perspective.
+
+#### speaker
+
+name:
+Surti
+
+title:
+
+
+company:
+Colt Technology Services
+
+Quot 2
+
+quote:
+We’re no longer simply recommending a great solution to customers as a third-party partner. When we say that Zscaler provides the most trusted and effective cloud security service platform on the market, we speak from experience.
+
+#### speaker
+
+name:
+Surti
+
+title:
+
+
+company:
+Colt Technology Services
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zero Trust SD-WAN
+
+url:
+https://www.zscaler.com/products-and-solutions/zero-trust-sd-wan
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 4
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Secure Remote Access
+
+url:
+https://www.zscaler.com/products-and-solutions/vpn-alternative
+
+Solution 2
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 3
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 4
+
+name:
+SASE & SSE
+
+url:
+https://www.zscaler.com/products-and-solutions/secure-access-service-edge-sase
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+66946
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Colt Technology Services Colt Technology Services Improves Security and Digital Experience with the Zero Trust Exchange with Partnering with Zscaler to deploy a zero trust architecture in three months allows company to help other enterprises achieve security transformation.
+
+og_title:
+Colt Technology Services Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/colt-technology-services

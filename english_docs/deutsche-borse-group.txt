@@ -1,0 +1,999 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/deutsche-borse-group
+
+slug:
+deutsche-borse-group
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:55:20.377480Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Deutsche Börse Group Underpins Digital Transformation with Best-in-Class Zscaler Zero Trust Exchange
+
+subtitle:
+Leading European market infrastructure provider leverages Zscaler platform to broker faster connectivity and secure sensitive financial market data
+
+customer_name:
+Deutsche Börse Group
+
+## metrics
+
+Metric 1
+
+value:
+9 Months
+
+label:
+deployed zero trust enterprise-wide
+
+Metric 2
+
+value:
+97%
+
+label:
+faster connectivity globally
+
+Metric 3
+
+value:
+100%
+
+label:
+of apps protected by zero trust
+
+====================================================
+# summary
+
+## challenges
+
+- A perimeter-based security architecture could not support cloud-first operations or a globally-dispersed, hybrid workforce
+- Legacy firewalls and VPN appliances failed to enable identity-based policy controls and exposed a wider attack surface
+- Traditional experience monitoring solutions and data protection capabilities made regulatory compliance more challenging
+
+## phased_journey
+
+- Delivered direct-to-internet connectivity with broad geographical reach to keep users productive and secure worldwide
+- Replaced VPNs with zero trust network access, eliminating the risk of public IPs and enforcing least-privileged controls
+- Introduced AI-powered experience monitoring and a robust data protection strategy, gaining useful real-time insights
+
+## results
+
+- Secures fast, global outbound connectivity for corporate and remote locations, enabling 10,000+ users to work flexibly
+- Deploys least-privileged, zero trust access to secure private apps and financial data, blocking ~33,000 threats quarterly
+- Mitigates risk faster and gains visibility around sensitive data, bolstering regulatory compliance and market elasticity
+
+====================================================
+# customer_snapshot
+
+title:
+Deutsche Börse Group
+
+description:
+Market infrastructure provider ensuring access to reliable and stable capital markets
+
+industry:
+Financial Services and Insurance
+
+headquarters:
+Eschborn, Germany
+
+size:
+16,000 employees and 64 locations
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/s1u6cvdh8q
+
+provider:
+wistia
+
+video_id:
+s1u6cvdh8q
+
+title:
+Zscaler is the gold standard for zero trust security at Deutsche Börse Group SUBTITLED
+
+description:
+a Customer Testimonials video
+
+duration_seconds:
+104.768
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/50dd14d866c2ee2137fd10b8942f2613.jpeg
+
+### transcript
+
+language:
+eng
+
+#### sentences
+
+1.
+Deutsche Börse Group is a unique organization which is providing global financial infrastructure.
+
+2.
+Security requirements are increasing on a daily basis.
+
+3.
+If you are looking for secure, seamless, effective and reliable solution, then you should definitely understand Zero Trust Architecture.
+
+4.
+The migration to Zero Trust architecture definitely enabled our business and IT.
+
+5.
+With ZIA, ZPA, ZDX, we are increasing the scalability of protection.
+
+6.
+We are providing a new level of access and identity, and we have transparency on reporting which security parameters we have enhanced.
+
+7.
+Within six months, we have migrated more than six thousand users, which was very profound global migration for us.
+
+8.
+It allowed us to be faster and to be much more proactive from the connection perspective but also from the network part.
+
+9.
+At Deutsche Börse Group, we are globally located.
+
+10.
+So, of course, we have office in Dubai, Chicago, Hong Kong, and sometimes it was taking up to fifteen-thirty seconds to connect to the applications.
+
+11.
+Currently we have maybe delay of less than a second.
+
+12.
+I'm very proud of transforming a global organization.
+
+13.
+Together with Zscaler, we successfully migrated to the new Zero Trust architecture where we are now much more secure, reliable, and seen as a trusted leader at the market.
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+Lars Bolanca (Head of Corporate IT, Deutsche Börse Group)
+
+tag:
+self_introduction
+
+topic:
+Introduction to Deutsche Börse Group
+
+text:
+Deutsche Börse Group is a unique organization which is providing global financial infrastructure.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+Nataliia Iskra (Head of IT Security, Deutsche Börse Group)
+
+tag:
+challenges
+
+topic:
+Increasing security requirements
+
+text:
+Security requirements are increasing on a daily basis.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+Lars Bolanca (Head of Corporate IT, Deutsche Börse Group)
+
+tag:
+products_and_solutions
+
+topic:
+Zero Trust Architecture benefits
+
+text:
+If you are looking for secure, seamless, effective and reliable solution, then you should definitely understand Zero Trust Architecture. The migration to Zero Trust architecture definitely enabled our business and IT.
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+Nataliia Iskra (Head of IT Security, Deutsche Börse Group)
+
+tag:
+products_and_solutions
+
+topic:
+ZIA, ZPA, ZDX implementation
+
+text:
+With ZIA, ZPA, ZDX, we are increasing the scalability of protection. We are providing a new level of access and identity, and we have transparency on reporting which security parameters we have enhanced.
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+Lars Bolanca (Head of Corporate IT, Deutsche Börse Group)
+
+tag:
+metrics_and_results
+
+topic:
+Migration of six thousand users
+
+text:
+Within six months, we have migrated more than six thousand users, which was very profound global migration for us.
+
+Segment 6
+
+segment_id:
+6
+
+speaker:
+Lars Bolanca (Head of Corporate IT, Deutsche Börse Group)
+
+tag:
+metrics_and_results
+
+topic:
+Improved connection speed
+
+text:
+It allowed us to be faster and to be much more proactive from the connection perspective but also from the network part. At Deutsche Börse Group, we are globally located. So, of course, we have office in Dubai, Chicago, Hong Kong, and sometimes it was taking up to fifteen-thirty seconds to connect to the applications. Currently we have maybe delay of less than a second.
+
+Segment 7
+
+segment_id:
+7
+
+speaker:
+Lars Bolanca (Head of Corporate IT, Deutsche Börse Group)
+
+tag:
+quote
+
+topic:
+Pride in transformation
+
+text:
+I'm very proud of transforming a global organization. Together with Zscaler, we successfully migrated to the new Zero Trust architecture where we are now much more secure, reliable, and seen as a trusted leader at the market.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+147085031
+
+created_at:
+1777293478
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Together with Zscaler we have built a zero trust architecture on enterprise level which builds an FSI industry blueprint even for complex entities with regulated and non-regulated businesses.
+
+## speaker
+
+name:
+Lars Bolanca
+
+title:
+Head of Corporate IT
+
+company:
+Deutsche Börse Group
+
+Hero Quote 2
+
+quote:
+Zscaler really is the gold standard when it comes to zero trust security.
+
+## speaker
+
+name:
+Nataliia Iskra
+
+title:
+Head of IT Security
+
+company:
+Deutsche Börse Group
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+zero-trust-security-helps-balance-technological-change-and-organizational-resilience
+
+title:
+Zero trust security helps balance technological change and organizational resilience
+
+### paragraphs
+
+Paragraph 1
+
+- Deutsche Börse Group traces its roots to the year 1585.
+- A group of merchants in Frankfurt collaborated to standardize exchange rates for the many different currencies used in German territory, marking the first steps towards establishing the Frankfurter Wertpapierbörse (Frankfurt Stock Exchange).
+- In 1990, the company that would become Deutsche Börse Group was established to oversee administration and operation of the Frankfurt Stock Exchange, one of the world’s largest trading centers for securities.
+
+Paragraph 2
+
+- Today, Deutsche Börse Group is a leading European market infrastructure provider, offering a range of services that cover the entire financial market transaction process chain.
+- At its core, Deutsche Börse Group is a technology company – developing IT solutions and systems that shape equitable digital change across the global financial sector.
+- The continuous operation of those systems is critical to maintaining stable infrastructures that support efficient financial markets and sustainable economies.
+
+Paragraph 3
+
+- The company is leveraging a cloud-first infrastructure to innovate products and services while also meeting requirements for adaptability and compliance.
+- Traditional security solutions are not built to suitably protect modern cloud environments, and as such, Deutsche Börse Group has also embraced zero trust security as part of its digital transformation journey.
+
+Paragraph 4
+
+- “We are navigating the tension between innovation, scalability, regulation and security,” explained Lars Bolanca, Head of Corporate IT at Deutsche Börse Group.
+- “A zero trust approach allows us to strike the balance between technological change and organizational resilience.”
+
+### quotes
+
+Quot 1
+
+quote:
+We are navigating the tension between innovation, scalability, regulation and security. A zero trust approach allows us to strike the balance between technological change and organizational resilience.
+
+#### speaker
+
+name:
+Lars Bolanca
+
+title:
+Head of Corporate IT
+
+company:
+Deutsche Börse Group
+
+Section 2
+
+id:
+zscaler-platform-becomes-the-gold-standard-for-zero-trust-security-at-deutsche-b-rse-group
+
+title:
+Zscaler platform becomes the gold standard for zero trust security at Deutsche Börse Group
+
+### paragraphs
+
+Paragraph 1
+
+- A legacy security architecture built around on-premises data centers, an MPLS network, and traditional security appliances did not provide reliability or protection at the scale Deutsche Börse Group needed.
+- This complex infrastructure exhausted bandwidth, degraded remote user experience, and left gaps in the company’s security posture.
+- Lack of visibility around connectivity, user activity, and private data made regulatory compliance more challenging.
+
+Paragraph 2
+
+- “Reducing our reliance on legacy security appliances and establishing a holistic zero trust architecture improves the services we provide to our businesses within Deutsche Börse Group,” shared Lars Bolanca.
+- “Maintaining high resilience standards is essential for our business model but also helps us navigate digital transformation in a highly regulated industry with greater confidence.”
+
+Paragraph 3
+
+- Deutsche Börse Group wanted a cloud-native zero trust platform that could simplify its security architecture, improve user experience for a globally dispersed workforce, enhance regulatory compliance, and bolster security posture.
+- The company chose the comprehensive Zscaler Zero Trust Exchange platform to achieve these goals.
+
+Paragraph 4
+
+- Google Cloud Platform serves as a key infrastructure support at Deutsche Börse Group, so seamless integration with Google reinforced the Zero Trust Exchange as the best choice for the company’s zero trust architecture.
+
+Paragraph 5
+
+- “Zscaler really is the gold standard when it comes to zero trust security,” said Nataliia Iskra, Head of IT Security at Deutsche Börse Group.
+- “The Zscaler platform easily integrates with leading cloud providers, as well as the biggest names in cybersecurity, making it possible to maintain a leaner, cloud-first technology stack without compromising security edge.”
+
+Paragraph 6
+
+- A phased deployment of the Zscaler platform over the course of nine months allowed Deutsche Börse Group to streamline its security technology estate, support remote work flexibility for users, and achieve a stronger security posture.
+
+### quotes
+
+Quot 1
+
+quote:
+Reducing our reliance on legacy security appliances and establishing a holistic zero trust architecture improves the services we provide to our businesses within Deutsche Börse Group. Maintaining high resilience standards is essential for our business model but also helps us navigate digital transformation in a highly regulated industry with greater confidence.
+
+#### speaker
+
+name:
+Lars Bolanca
+
+title:
+Head of Corporate IT
+
+company:
+Deutsche Börse Group
+
+Quot 2
+
+quote:
+Zscaler really is the gold standard when it comes to zero trust security. The Zscaler platform easily integrates with leading cloud providers, as well as the biggest names in cybersecurity, making it possible to maintain a leaner, cloud-first technology stack without compromising security edge.
+
+#### speaker
+
+name:
+Nataliia Iskra
+
+title:
+Head of IT Security
+
+company:
+Deutsche Börse Group
+
+Section 3
+
+id:
+phase-1-zscaler-direct-to-internet-connectivity-secures-high-volume-outbound-traffic-to-protect-global-financial-markets
+
+title:
+Phase 1: Zscaler direct-to-internet connectivity secures high-volume outbound traffic to protect global financial markets
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- Financial markets operate without pause as daily trading activities shift across global regions.
+- For market infrastructure providers like Deutsche Börse Group there is no downtime.
+- To keep pace, the company relies on 16,000 individuals representing more than 120 nationalities, working both remotely and from more than 60 corporate locations.
+
+Paragraph 2
+
+- Securing outbound internet connectivity for this hybrid workforce without disrupting user efficiency is a top priority, but the company’s centralized, legacy security architecture made it challenging to safely and reliably connect users to the internet and public SaaS applications.
+- An MPLS network with physical firewalls that required backhauling, struggled to support traffic inspection at scale – resulting in poor user experience and higher-risk internet traffic.
+
+Paragraph 3
+
+- Deutsche Börse Group deployed Zscaler Internet Access (ZIA) as its secure web gateway (SWG) to provide direct access to the internet and SaaS applications from any location.
+- Zscaler delivers traffic inspection and policy enforcement as close to the end user as possible (160+ edge locations worldwide), eliminating the need to backhaul internet traffic.
+- ZIA includes functionality for zero trust firewall, URL filtering, encrypted traffic inspection at scale, and advanced threat protection.
+- Crucially, the platform enables 100% SSL/TLS inspection at scale, ensuring that all threats hidden in encrypted traffic are identified and blocked without degrading network performance.
+- These important security measures are built-in to the comprehensive Zscaler platform, rendering multiple point products unnecessary while also ensuring zero trust policies are enforced consistently for all outbound traffic.
+
+Paragraph 4
+
+- “Compromising internet security can compromise market integrity,” explained Nataliia Iskra.
+- “Hybrid work fundamentally changes the risk model, but the Zscaler platform is built to secure global, high-volume internet traffic.
+- With Zscaler, our users can work reliably and safely from anywhere.”
+
+### quotes
+
+Quot 1
+
+quote:
+Compromising internet security can compromise market integrity. Hybrid work fundamentally changes the risk model, but the Zscaler platform is built to secure global, high-volume internet traffic. With Zscaler, our users can work reliably and safely from anywhere.
+
+#### speaker
+
+name:
+Nataliia Iskra
+
+title:
+Head of IT Security
+
+company:
+Deutsche Börse Group
+
+Section 4
+
+id:
+phase-2-zscaler-brokers-least-privileged-private-app-access-to-shrink-the-attack-surface-and-protect-sensitive-financial-data
+
+title:
+Phase 2: Zscaler brokers least-privileged private app access to shrink the attack surface and protect sensitive financial data
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- Deutsche Börse Group isn’t simply an exchange operator.
+- As market infrastructure provider, the company offers cutting-edge technology to global financial markets.
+- Deutsche Börse Group has developed a broad portfolio of digital platforms and applications to manage the entire securities trading lifecycle.
+- These essential market infrastructure resources are designed to support multiple external entities (banks, brokers, trading firms, issuers, service providers), as well as operate across jurisdictions and time zones.
+- Secure, remote access protection for these private platforms and applications is critical to regulatory compliance and, ultimately, market sustainability.
+
+Paragraph 2
+
+- The company’s legacy security architecture relied on physical VPN appliances and public IP addresses to broker remote access to private applications, creating an inherently wider attack surface.
+- Traditional VPNs do not support least-privileged access control policies, which also increases the likelihood of lateral threat movement across a company’s network.
+
+Paragraph 3
+
+- Deutsche Börse Group replaced its VPNs with Zscaler Private Access (ZPA).
+- The company’s internal private applications, hosted on Google Cloud Platform, are hidden behind the Zero Trust Exchange and no longer accessible via public IP addresses – rendering these sensitive resources invisible to unauthorized users and bad actors.
+- Unlike legacy VPN appliances, ZPA uses AI-driven recommendations to create identity- and context-based policies to help Deutsche Börse Group map both internal and external users only to the applications that they are entitled to.
+- This granular user-to-app segmentation prevents lateral threat movement by connecting individual users directly to only the private applications they are authorized to use, eliminating altogether the possibility for whole-network access.
+
+Paragraph 4
+
+- “With Zscaler, we can granularly identify users and manage very precise access policies across our internal portfolio of digital resources,” said Nataliia Iskra.
+
+Paragraph 5
+
+- Deutsche Börse Group uses SAP-managed Private Cloud Edition (PCE) as part of RISE with SAP to run its ERP and other business-critical systems.
+- Zscaler is the industry’s first and only SAP-certified Zero Trust access partner, with Zscaler Private Access (ZPA) enabled for native integration within the SAP Private Cloud Edition (PCE), which is part of the RISE with SAP program.
+- Identity-based access control is seamlessly extended to the SAP (PCE)/RISE with SAP environment.
+- This ensures streamlined access management with the same SLAs as SAP for business continuity and built-in disaster recovery, without the need for bolted on OS-level/hardware dependencies.
+
+Paragraph 6
+
+- “In a highly regulated industry like financial services, protecting sensitive data from exfiltration is critical for operational resilience.
+- This innovative solution will enable organizations like ours to enhance the security and reliability of our SAP applications,” explained Nataliia Iskra.
+- “By enabling secure, zero trust access to critical systems without the need for traditional VPNs, Zscaler empowers our team to work with confidence, no matter where they are.
+- This approach reduces risk, protects data, ensures ironclad regulatory compliance, and ultimately, strengthens the foundation of our IT security strategy.”
+
+Paragraph 7
+
+- According to Nataliia Iskra, the company is now protecting 100% of its private applications through the Zscaler platform, no matter where those applications reside.
+
+### quotes
+
+Quot 1
+
+quote:
+With Zscaler, we can granularly identify users and manage very precise access policies across our internal portfolio of digital resources.
+
+#### speaker
+
+name:
+Nataliia Iskra
+
+title:
+Head of IT Security
+
+company:
+Deutsche Börse Group
+
+Quot 2
+
+quote:
+In a highly regulated industry like financial services, protecting sensitive data from exfiltration is critical for operational resilience. This innovative solution will enable organizations like ours to enhance the security and reliability of our SAP applications. By enabling secure, zero trust access to critical systems without the need for traditional VPNs, Zscaler empowers our team to work with confidence, no matter where they are. This approach reduces risk, protects data, ensures ironclad regulatory compliance, and ultimately, strengthens the foundation of our IT security strategy.
+
+#### speaker
+
+name:
+Nataliia Iskra
+
+title:
+Head of IT Security
+
+company:
+Deutsche Börse Group
+
+Quot 3
+
+quote:
+Zscaler is helping us embrace disruptive technology.
+
+#### speaker
+
+name:
+Lars Bolanca
+
+title:
+Head of Corporate IT
+
+company:
+Deutsche Börse Group
+
+Section 5
+
+id:
+phase-3-enhanced-experience-monitoring-helps-resolve-user-issues-and-enforce-consistent-security-policies-aligned-with-industry-standards
+
+title:
+Phase 3: Enhanced experience monitoring helps resolve user issues and enforce consistent security policies aligned with industry standards
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- As a key player in global financial markets, Deutsche Börse Group faces constant pressure to ensure control and transparency across its users, devices, and operations, and consistency is key to maintaining compliance.
+
+Paragraph 2
+
+- Traditional experience monitoring tools aren’t designed for a cloud-first environment, resulting in limited visibility around user activity and application performance.
+- A disconnect between the company’s cloud-first transformation and inadequate experience monitoring solutions made it harder for Deutsche Börse Group to identify operational blind spots that could jeopardize compliance.
+
+Paragraph 3
+
+- Having replaced legacy VPNs and backhauled MPLS with ZIA and ZPA, the company needed to ensure that this new, zero trust architecture didn’t become a “black box” for the network and security teams.
+- In a traditional VPN environment, connectivity is often binary, a user is either on the network or off, leaving a massive visibility gap between the user’s device and the application.
+- When performance issues arose, it was nearly impossible to determine if the cause was a security policy, a local ISP, or the application itself.
+
+Paragraph 4
+
+- Deutsche Börse Group deployed Zscaler Digital Experience (ZDX) to better address those potential operational blind spots.
+- Using the same unified Zscaler Client Connector already powering their ZIA and ZPA deployments, ZDX offers end-to-end visibility from user device and local ISP to the application, making it easier to monitor the global technology environment.
+- With AI-powered root cause analysis, ZDX helps to identify and resolve user issues such as last mile ISP latency or device health signals with greater efficiency and without the need for manual investigation.
+- ZDX even suggests effective remediation steps.
+
+Paragraph 5
+
+- Using ZDX, Deutsche Börse Group benefits from near real-time visibility into application, device, and network performance.
+- Built-in Zscaler reports presented on a single-pane-of-glass dashboard offer deeper insights into user behavior, risk factors, and security posture – including the ability to detect last-mile ISP issues and device health signals.
+- This proactive approach strengthens their Zero Trust posture and enhances the company’s ability to transparently demonstrate ongoing regulatory compliance efforts without sacrificing user performance.
+
+Paragraph 6
+
+- “Zscaler experience monitoring capabilities allow us to mitigate user issues and security risks more effectively,” shared Nataliia Iskra.
+- “Our activity reports are transparent and auditable, giving us greater confidence that we can continue to meet industry regulations.”
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler experience monitoring capabilities allow us to mitigate user issues and security risks more effectively. Our activity reports are transparent and auditable, giving us greater confidence that we can continue to meet industry regulations.
+
+#### speaker
+
+name:
+Nataliia Iskra
+
+title:
+Head of IT Security
+
+company:
+Deutsche Börse Group
+
+Section 6
+
+id:
+next-up-leveraging-zscaler-solutions-to-enhance-data-protection-and-guide-responsible-ai-use
+
+title:
+Next Up: Leveraging Zscaler solutions to enhance data protection and guide responsible AI use
+
+### paragraphs
+
+Paragraph 1
+
+- Financial services is a high-touch industry when it comes to data collection.
+- And even in comparison to this higher than average industry-wide benchmark for data flow, Deutsche Börse Group manages significant volumes of sensitive market, post-trade, and participant data.
+- Having robust data protection measures in place is a non-negotiable, operational necessity, but traditional security solutions struggle to adequately protect data in a distributed cloud environment.
+
+Paragraph 2
+
+- Deutsche Börse Group is expanding their Zero Trust Exchange deployment with the feature-rich Zscaler Data Security Platform.
+- The platform identifies sensitive information wherever it goes and provides clear visibility into data exposure across the company’s operational systems.
+- The platform applies consistent policies for data in-motion and at-rest across web, GenAI, SaaS, email, and private applications to help eliminate any blind spots around sensitive data and proactively prevent data exfiltration.
+
+Paragraph 3
+
+- “The data protection strategy we are implementing with Zscaler will ensure that we are managing our sensitive customer data in a way that not only keeps us aligned with industry standards, but also ensures business continuity,” explained Nataliia Iskra.
+
+Paragraph 4
+
+- Deutsche Börse Group believes that bolstering data protection efforts on the Zscaler platform will also help the company embrace AI technology without creating unnecessary risk.
+- The company is exploring how to fully leverage AI technologies while keeping security posture strong and stable.
+- “We recognize the value in AI technology and want to be progressive when it comes to leveraging smart automations but we also have to keep control of our data internally and externally,” shared Lars Bolanca.
+- “Zscaler is helping us embrace disruptive technology.”
+
+### quotes
+
+Quot 1
+
+quote:
+The data protection strategy we are implementing with Zscaler will ensure that we are managing our sensitive customer data in a way that not only keeps us aligned with industry standards, but also ensures business continuity.
+
+#### speaker
+
+name:
+Nataliia Iskra
+
+title:
+Head of IT Security
+
+company:
+Deutsche Börse Group
+
+Quot 2
+
+quote:
+We recognize the value in AI technology and want to be progressive when it comes to leveraging smart automations but we also have to keep control of our data internally and externally. Zscaler is helping us embrace disruptive technology.
+
+#### speaker
+
+name:
+Lars Bolanca
+
+title:
+Head of Corporate IT
+
+company:
+Deutsche Börse Group
+
+Quot 3
+
+quote:
+The data protection … we are implementing with Zscaler ... keeps us aligned with industry standards, but also ensures market business continuity.
+
+#### speaker
+
+name:
+Nataliia Iskra
+
+title:
+Head of IT Security
+
+company:
+Deutsche Börse Group
+
+Section 7
+
+id:
+zscaler-streamlines-security-architecture-improves-user-experience-and-strengthens-security-posture
+
+title:
+Zscaler streamlines security architecture, improves user experience, and strengthens security posture
+
+### paragraphs
+
+Paragraph 1
+
+- Of the myriad reasons why Deutsche Börse Group prioritized zero trust security, the two most important drivers were improving individual user experience and strengthening security posture.
+
+Paragraph 2
+
+- “We wanted a platform that would make shifting to a zero trust mindset as easy as possible for our larger workforce,” said Nataliia Iskra.
+- “With Zscaler the transition to zero trust has been so seamless, it does not impact daily workflows.”
+
+Paragraph 3
+
+- While many of the automated security mitigations likely go unnoticed by the general user population at Deutsche Börse Group, everyone has noticed a striking decrease in time to connect.
+- With the company’s old security architecture, connections to the internet or SaaS/private applications could take up to 30 seconds, depending on how far the individual user was from the central Frankfurt data center.
+- On the Zscaler platform, connecting from any location now takes less than one second.
+
+Paragraph 4
+
+- Connectivity time is not the only noteworthy decrease at Deutsche Börse Group.
+- The company has also streamlined its technology estate, retiring 100% of its VPN appliances in favor of the multitenant Zscaler platform.
+- With a faster, less complex security architecture that automates risk mitigation and provides real-time insights on security posture, the IT team can spend less time reacting to incidents and more time proactively building a culture around zero trust security.
+
+Paragraph 5
+
+- “We have transitioned to a more targeted and proactive security approach, moving beyond blanket policies and reactive mitigations,” explained Nataliia Iskra.
+- “Zscaler empowers us to define and enforce identity-based access control policies consistently on a global scale.
+- The Zscaler platform provides greater awareness about our real-time security posture so we can be certain that we are providing more resilient services to the market.”
+
+Paragraph 6
+
+- In terms of the company’s security posture, it is measurably stronger on the Zscaler platform.
+- In a recent quarter, Zscaler processed 1.8 billion transactions and 152 TB of traffic for Deutsche Börse Group, preventing 8 million policy violations and blocking more than 33,000 security threats.
+
+### quotes
+
+Quot 1
+
+quote:
+We wanted a platform that would make shifting to a zero trust mindset as easy as possible for our larger workforce. With Zscaler the transition to zero trust has been so seamless, it does not impact daily workflows.
+
+#### speaker
+
+name:
+Nataliia Iskra
+
+title:
+Head of IT Security
+
+company:
+Deutsche Börse Group
+
+Quot 2
+
+quote:
+We have transitioned to a more targeted and proactive security approach, moving beyond blanket policies and reactive mitigations. Zscaler empowers us to define and enforce identity-based access control policies consistently on a global scale. The Zscaler platform provides greater awareness about our real-time security posture so we can be certain that we are providing more resilient services to the market.
+
+#### speaker
+
+name:
+Nataliia Iskra
+
+title:
+Head of IT Security
+
+company:
+Deutsche Börse Group
+
+Section 8
+
+id:
+partnering-with-zscaler-to-lead-by-example
+
+title:
+Partnering with Zscaler to lead by example
+
+### paragraphs
+
+Paragraph 1
+
+- With Zscaler, Lars Bolanca and Nataliia Iskra have transformed security at Deutsche Börse Group in a way that thoughtfully balances shifting technologies with the needs of shifting financial markets.
+- They plan to continue the partnership with Zscaler, having already mapped out a two- to three-year plan to further optimize zero trust implementation at Deutsche Börse Group, prioritizing AI.
+
+Paragraph 2
+
+- “Our transition to a Zero Trust architecture reflects the ongoing evolution of our enterprise architecture and security strategy, a necessary step for a leading market infrastructure provider“, said Lars Bolanca.
+- "Zscaler provided the platform that enabled us to build the foundation and further will help us to become more software-defined also on the network side.”
+
+### quotes
+
+Quot 1
+
+quote:
+Our transition to a Zero Trust architecture reflects the ongoing evolution of our enterprise architecture and security strategy, a necessary step for a leading market infrastructure provider. Zscaler provided the platform that enabled us to build the foundation and further will help us to become more software-defined also on the network side.
+
+#### speaker
+
+name:
+Lars Bolanca
+
+title:
+Head of Corporate IT
+
+company:
+Deutsche Börse Group
+
+====================================================
+# products
+
+Product 1
+
+name:
+Cyberthreat Protection
+
+url:
+null
+
+Product 2
+
+name:
+Web and Email DLP
+
+url:
+https://www.zscaler.com/products-and-solutions/data-loss-prevention
+
+Product 3
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 4
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 5
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+113776
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Deutsche Börse Group Deutsche Börse Group Underpins Digital Transformation with Best-in-Class Zscaler Zero Trust Exchange with Leading European market infrastructure provider leverages Zscaler platform to broker faster connectivity and secure sensitive financial market data.
+
+og_title:
+Deutsche Börse Group Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/deutsche-borse-group

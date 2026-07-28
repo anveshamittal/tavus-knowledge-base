@@ -1,0 +1,690 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/cna
+
+slug:
+cna
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:14.356906Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+CNA Accelerates Delivery of Mission-Critical Defense Insights with Secure AI Usage
+
+subtitle:
+Zscaler empowers researchers with fast access to GenAI tools, enhances data security and governance, and simplifies operational and architectural complexity
+
+customer_name:
+CNA
+
+## metrics
+
+Metric 1
+
+value:
+$1M+
+
+label:
+cost avoidance from retiring legacy tools
+
+Metric 2
+
+value:
+$500K
+
+label:
+savings from improving AI operations
+
+Metric 3
+
+value:
+Seconds
+
+label:
+versus days to access AI tools
+
+====================================================
+# summary
+
+## challenges
+
+- Reliance on legacy architecture meant poor user experience, high operational overhead, and security gaps
+- Restrictive policies blocked access to GenAI apps; analysts would submit ad hoc requests which bogged down IT staff and slowed delivery of analyses to the US Navy
+- Lack of visibility and control over AI usage raised concerns about potential leakage of highly sensitive data
+
+## phased_journey
+
+- Zero trust access to the internet and apps eliminated costly, high-latency VPN, NAC, and other legacy tools
+- Enabled secure access to GenAI tools, where analysts are provisioned in seconds instead of days and IT staff are freed from time-intensive exception handling
+- Prevented leakage of vital data by monitoring AI prompts and containing AI interactions in an isolated browser environment
+
+## results
+
+- Improves the user experience and cuts costs while setting a solid foundation for advancing AI usage and innovation
+- Delivers operational efficiencies, freeing up IT to invest in strategic initiatives and delivering savings back to the business
+- Strengthens security posture with visibility into and granular control over AI usage and associated data risks
+
+====================================================
+# customer_snapshot
+
+title:
+CNA
+
+description:
+Nonprofit that operates the only FFRDC serving the Department of the Navy
+
+industry:
+Federal and Government
+
+headquarters:
+Arlington, VA
+
+size:
+700 employees 
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Zscaler has helped us drive up trust with our users, customers, leadership, and board while driving down operational costs by half a million dollars. Through least-privileged access, unified data security, and especially advanced AI protection, Zscaler enables CNA to stay secure while acting fast to move innovation forward.
+
+## speaker
+
+name:
+Riz Jan
+
+title:
+VP and CIO
+
+company:
+CNA
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+embracing-ai-to-accelerate-delivery-of-research-and-analyses
+
+title:
+Embracing AI to accelerate delivery of research and analyses
+
+### paragraphs
+
+Paragraph 1
+
+- Data collection and analysis is at the core of The CNA Corporation's operations.
+- As the US Navy’s only Federally Funded Research and Development Center (FFRDC), the not-for-profit organization has supported that branch of the armed forces since World War II.
+- Alongside its defense work, CNA operates the Institute for Public Research (IPR), which specializes in criminal justice, homeland security, and data management.
+
+Paragraph 2
+
+- Approximately 50% of CNA’s workforce of 700 are highly credentialed data scientists who often work out in the field at military bases, battleships, crisis centers, and combat locations.
+- These boots-on-the-ground experts provide impactful, objective insights in the form of reports, table-top exercises, simulations, and other content that government leaders rely on to make high-stakes decisions that impact the national interest.
+
+Paragraph 3
+
+- Equipping data specialists with secure environments and modern analytic capabilities is essential to CNA’s credibility.
+- As such, its current focus is on expanding its AI and automation capabilities.
+- To meet high demand for AI usage, Gregor Goodman recently transitioned from IT operations to Chief AI Officer.
+- His mission is to ensure responsible, secure, and compliant use of AI and high-quality sensitive data to support research, data analysis, and operational efficiency.
+
+Paragraph 4
+
+- CNA had already built a secure operating environment by deploying the Zscaler Zero Trust Exchange platform for direct access to the internet, SaaS, and private apps.
+- Goodman found that Zscaler was the perfect springboard to secure CNA’s AI ambitions.
+
+Paragraph 5
+
+- “I remember thinking that this is the silver bullet we didn't know existed.
+- It’s rare to find a solution like Zscaler that does all three things: decrease overhead, improve our security posture, and enable accelerated access for users and for our mission.
+- When we were able to align all of those objectives with Zscaler, it was a no-brainer,” said Goodman.
+- “Zscaler allows our researchers to access advanced AI capabilities quickly, securely, and without disruption, enhancing our ability to deliver high-impact, timely insights while safeguarding our sensitive data.”
+
+### quotes
+
+Quot 1
+
+quote:
+I remember thinking that this is the silver bullet we didn't know existed. It’s rare to find a solution like Zscaler that does all three things: decrease overhead, improve our security posture, and enable accelerated access for users and for our mission. When we were able to align all of those objectives with Zscaler, it was a no-brainer. Zscaler allows our researchers to access advanced AI capabilities quickly, securely, and without disruption, enhancing our ability to deliver high-impact, timely insights while safeguarding our sensitive data.
+
+#### speaker
+
+name:
+Goodman
+
+title:
+
+
+company:
+CNA
+
+Section 2
+
+id:
+replacing-legacy-architecture-with-zero-trust-cuts-costs-improves-user-experience-and-creates-the-foundation-for-secure-ai-usage
+
+title:
+Replacing legacy architecture with zero trust cuts costs, improves user experience, and creates the foundation for secure AI usage
+
+### paragraphs
+
+Paragraph 1
+
+- Before Goodman took on the role of Chief AI Officer, VP and CIO Riz Jan brought on Zscaler to address the challenge of seamless, secure access to the internet and apps.
+- CNA operates multiple distinct IT environments: a secured, compliant Microsoft Azure Government Cloud for defense projects and a public partition used for IPR non-defense work, which requires access to the internet for data collection and public reporting.
+- Staff members frequently shift between these segregated environments based on their current assignments.
+
+Paragraph 2
+
+- Before Zscaler, CNA relied on legacy firewalls, a high-latency VPN for internet access, and unwieldy network access control (NAC) tools.
+- This resulted in a poor user experience, high operational overhead, and security risk.
+- It would take several minutes for remote staff to authenticate and connect to the internet, a process they had to go through every time they changed locations.
+
+Paragraph 3
+
+- Jan solved the problem by rolling out Zscaler Internet Access (ZIA), giving users secure, direct access to the internet and SaaS apps.
+- Full TLS/SSL traffic inspection protects against hidden malware and prevents exfiltration of high-value data, while AI-powered advanced threat protection adds another layer of security.
+- He also deployed Zscaler Private Access (ZPA) for secure access to private apps.
+- CNA now benefits from visibility into app usage and granular policy enforcement at scale, across all users and devices, regardless of location.
+
+Paragraph 4
+
+- CNA decommissioned its legacy NAC and VPN tools, consolidated its firewall environment from three vendors to one, and saved $130,000 by replacing its previous identity and access management tool with Microsoft Entra ID, which integrates tightly with Zscaler.
+
+Paragraph 5
+
+- This first phase of deployment took under 60 days—from the POV to the full production environment.
+- It was enthusiastically applauded by users, with Jan commenting, “In my 25 years of experience in IT and cybersecurity, it’s the first time I’ve seen such positive user feedback.
+- The digital experience was like night and day.”
+
+Paragraph 6
+
+- “Our users—especially those working in the field—hailed this victory.
+- Zscaler provided a secure, flexible, scalable solution that was easy to manage and boosted our security posture, while serving as a solid foundation for advancing our current AI strategy,” Goodman added.
+
+### quotes
+
+Quot 1
+
+quote:
+Our users—especially those working in the field—hailed this victory. Zscaler provided a secure, flexible, scalable solution that was easy to manage and boosted our security posture, while serving as a solid foundation for advancing our current AI strategy.
+
+#### speaker
+
+name:
+Goodman
+
+title:
+
+
+company:
+CNA
+
+Quot 2
+
+quote:
+With Zscaler’s modern approach to safe GenAI usage, including secure browsing and safeguards like AI Data Loss Prevention, our researchers can now quickly, safely, and efficiently access advanced AI capabilities to drive best-in-class analysis.
+
+#### speaker
+
+name:
+Gregor Goodman
+
+title:
+Chief AI Officer
+
+company:
+CNA
+
+Section 3
+
+id:
+zscaler-simplifies-genai-access-protecting-data-while-unlocking-comprehensive-visibility
+
+title:
+Zscaler simplifies GenAI access, protecting data while unlocking comprehensive visibility
+
+### paragraphs
+
+Paragraph 1
+
+- After the success with securing internet, SaaS, and app access, Goodman turned to Zscaler Generative AI Security to solve the operational challenges associated with securing CNA’s high demand for AI tools.
+- CNA’s AI strategy has been to tailor frontier models within its specific data analysis requirements in a secure, compliant, and private environment.
+
+Paragraph 2
+
+- “Things are moving at a break-neck pace in the AI realm.
+- Rather than build our own models, it made sense for us to layer in zero trust security on top of the best-in-class models available today and adapt them to our specific needs,” explained Gregor.
+
+Paragraph 3
+
+- Before Generative AI Security was deployed, analysts were held back by outdated technologies and were only allowed to use AI on a case-by-case basis.
+- This involved a painfully slow and lengthy exception process that often took as long as a week.
+- AI usage restrictions not only hindered the organization’s ability to deliver timely insights to sponsors, the deluge of exception requests placed an unsustainable burden on the security team.
+
+Paragraph 4
+
+- Concerned about the risk of data loss associated with the surge in shadow AI, CNA had previously enforced strict, across-the-board block policies on public GenAI tools such as ChatGPT and AI models from Anthropic and Google.
+- But the downside was that it kept analysts from accessing the many beneficial aspects of AI that could strengthen and accelerate their research.
+- This approach also burdened security and IT teams with continual oversight and enforcement.
+
+Paragraph 5
+
+- In addition to enabling safe innovation and timely execution of deliverables for the Navy and other government entities, Generative AI Security also provides a comprehensive view into AI usage.
+- Goodman and his team have gained unprecedented visibility through detailed reporting on GenAI app usage and data security risk.
+- This enables the security team to make informed block/allow policy decisions.
+- Generative AI Security also provides URL filtering for specified categories of AI/machine learning (ML) apps and enforces granular data loss prevention controls to prevent accidental data leakage.
+
+Paragraph 6
+
+- Zscaler’s browser isolation capability further fortifies data security by rendering AI/ML apps as pixels in an isolated container.
+- Users can type in prompts, but uploading, downloading, copying, and pasting sensitive data are restricted.
+
+Paragraph 7
+
+- “With Zscaler’s modern approach to safe GenAI usage, including secure browsing and safeguards like AI Data Loss Prevention, our researchers can now quickly, safely, and efficiently access advanced AI capabilities to drive best-in-class analysis,” said Goodman.
+- “At the same time, our security posture is better now than it was ever before.
+- We can apply rigorous policies and multilayered governance to ensure that our sensitive data remains protected while enabling analysts to focus on what really matters most.
+
+### quotes
+
+Quot 1
+
+quote:
+Things are moving at a break-neck pace in the AI realm. Rather than build our own models, it made sense for us to layer in zero trust security on top of the best-in-class models available today and adapt them to our specific needs.
+
+#### speaker
+
+name:
+Gregor
+
+title:
+
+
+company:
+CNA
+
+Quot 2
+
+quote:
+With Zscaler’s modern approach to safe GenAI usage, including secure browsing and safeguards like AI Data Loss Prevention, our researchers can now quickly, safely, and efficiently access advanced AI capabilities to drive best-in-class analysis.
+
+#### speaker
+
+name:
+Goodman
+
+title:
+
+
+company:
+CNA
+
+Section 4
+
+id:
+providing-access-to-ai-tools-in-seconds-improving-security-posture-and-realizing-7-figure-savings
+
+title:
+Providing access to AI tools in seconds, improving security posture, and realizing 7-figure savings
+
+### paragraphs
+
+Paragraph 1
+
+- Zscaler has transformed the workflow at CNA, positively impacting business and operational agility.
+
+Paragraph 2
+
+- Analysts now access authorized GenAI tools in seconds rather than waiting days and even weeks for approvals.
+- This enables faster delivery of high-quality research results.
+- By eliminating time-consuming manual exception handling, the security team is free to prioritize higher-value initiatives.
+
+Paragraph 3
+
+- “We have consistently seen the value Zscaler provides by protecting sensitive data while enabling analysts to do their work efficiently, regardless of location.
+- The combination of speed, security, and enhanced analytical capability is celebrated by our researchers,” said Goodman.
+
+Paragraph 4
+
+- Zscaler also provides deep visibility into AI prompts, giving Goodman a view into how usage aligns with project objectives and how it impacts the organization’s risk profile.
+
+Paragraph 5
+
+- “Over a 4-month window, CNA captured and analyzed more than 34,000 user prompts on public AI websites.
+- Before partnering with Zscaler, this number was zero.
+- Now we can not only secure this traffic but also pull analytics to better understand who's doing what.
+- Our deep understanding of our AI usage has enabled a continual, targeted improvement of our security posture and supports the specific needs of our researchers,” said Goodman.
+
+Paragraph 6
+
+- Additionally, since CNA’s teams already have hands-on experience with Zscaler, integrating Generative AI Protection into the platform was straightforward and frictionless.
+- As Goodman pointed out, onboarding a new vendor would have meant more training, less familiarity, integration challenges, and a higher chance of something going wrong.
+
+Paragraph 7
+
+- Researchers and analysts aren’t the only ones benefitting from Zscaler.
+- Jan noted that Zscaler has boosted morale among the IT and security staff.
+- In his words, it has “freed up a lot of brain power.” By offloading repetitive, time-consuming support and governance tasks, Zscaler enables technical staff to shift their focus to high-impact projects and initiatives that contribute both to the organization and their own job satisfaction and professional development.
+- This helps increase employee retention and supports CNA’s culture, which emphasizes upskilling employees and promoting from within.
+
+Paragraph 8
+
+- “Zscaler has helped us drive up trust with our users, customers, leadership, and board while driving down operational costs by half a million dollars.
+- Through least-privileged access, unified data security, and especially advanced AI protection, Zscaler enables CNA to stay secure while acting fast to move innovation forward,” asserted Jan.
+
+Paragraph 9
+
+- Jan and Goodman further pointed out that the cost savings that Zscaler has delivered are being redirected to the business.
+- “We realized savings in the seven figures and gave this money back to our CFO to invest in research–and that’s been a major win for us,” said Jan.
+
+### quotes
+
+Quot 1
+
+quote:
+We have consistently seen the value Zscaler provides by protecting sensitive data while enabling analysts to do their work efficiently, regardless of location. The combination of speed, security, and enhanced analytical capability is celebrated by our researchers.
+
+#### speaker
+
+name:
+Goodman
+
+title:
+
+
+company:
+CNA
+
+Quot 2
+
+quote:
+Over a 4-month window, CNA captured and analyzed more than 34,000 user prompts on public AI websites. Before partnering with Zscaler, this number was zero. Now we can not only secure this traffic but also pull analytics to better understand who's doing what. Our deep understanding of our AI usage has enabled a continual, targeted improvement of our security posture and supports the specific needs of our researchers.
+
+#### speaker
+
+name:
+Goodman
+
+title:
+
+
+company:
+CNA
+
+Quot 3
+
+quote:
+freed up a lot of brain power.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+CNA
+
+Quot 4
+
+quote:
+We realized savings in the seven figures and gave this money back to our CFO to invest in research–and that’s been a major win for us.
+
+#### speaker
+
+name:
+Goodman
+
+title:
+
+
+company:
+CNA
+
+Quot 5
+
+quote:
+It’s rare to find a solution like Zscaler that does all three things: decrease overhead, improve our security posture, and enable accelerated access for users.
+
+#### speaker
+
+name:
+Gregor Goodman
+
+title:
+Chief AI Officer
+
+company:
+CNA
+
+Section 5
+
+id:
+putting-ai-to-work-solving-the-nation-s-toughest-problems-faster
+
+title:
+Putting AI to work: Solving the nation’s toughest problems faster
+
+section_type:
+challenge
+
+### paragraphs
+
+Paragraph 1
+
+- CNA’s mission to assist government leaders in making sound, evidence-based decisions drives everything they do.
+- For CNA, AI is a powerful technology that strengthens the credibility and pace of its research by augmenting the judgment and expertise of its expert analysts.
+- Goodman emphasizes that the organization takes a responsible, measured approach to AI—and Zscaler plays a key role through policy enforcement, ensuring control over sensitive data, and enabling full visibility to support accountability and compliance.
+
+Paragraph 2
+
+- “The Zscaler platform enables us to carry out our mission at the scale, speed, and rigor required today.
+- By equipping our researchers with secure environments and modern AI capabilities, we ensure that complex data is translated into objective, actionable insights.
+- Across defense and non-defense agencies, it allows us to deliver trusted, timely research while preserving the independence, integrity, and analytical excellence that define CNA,” he said.
+
+Paragraph 3
+
+- Looking ahead, Jan and Goodman plan to explore expanded utilization of the Zscaler platform.
+- This includes enhancing AI-powered protections, securing cloud workloads, and further optimizing and streamlining the user experience.
+
+### quotes
+
+Quot 1
+
+quote:
+The Zscaler platform enables us to carry out our mission at the scale, speed, and rigor required today. By equipping our researchers with secure environments and modern AI capabilities, we ensure that complex data is translated into objective, actionable insights. Across defense and non-defense agencies, it allows us to deliver trusted, timely research while preserving the independence, integrity, and analytical excellence that define CNA.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+CNA
+
+Quot 2
+
+quote:
+We realized savings in the seven figures and gave this money back to our CFO to invest in research–and that’s been a major win for us.
+
+#### speaker
+
+name:
+Riz Jan
+
+title:
+VP and CIO
+
+company:
+CNA
+
+====================================================
+# products
+
+Product 1
+
+name:
+AI Security Platform
+
+url:
+null
+
+Product 2
+
+name:
+Zero Trust Browser
+
+url:
+https://www.zscaler.com/products-and-solutions/browser-isolation
+
+Product 3
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 4
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 2
+
+name:
+Zero Trust
+
+url:
+null
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+110746
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how CNA CNA Accelerates Delivery of Mission-Critical Defense Insights with Secure AI Usage with Zscaler empowers researchers with fast access to GenAI tools, enhances data security and governance, and simplifies operational and architectural complexity.
+
+og_title:
+CNA Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/cna

@@ -1,0 +1,1177 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/inter
+
+slug:
+inter
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:55:31.183032Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Inter Accelerates AI Innovation, Reduces Risk Exposure by $4.25M/Year with Zero Trust
+
+subtitle:
+Zscaler partners with the global digital bank to secure cloud workloads, unify data security everywhere, and deliver high-performance access to the internet and apps across all geos
+
+customer_name:
+Inter
+
+## metrics
+
+Metric 1
+
+value:
+33+ PB
+
+label:
+of data protected everywhere
+
+Metric 2
+
+value:
+Minutes
+
+label:
+instead of days for risk remediation
+
+Metric 3
+
+value:
+113%
+
+label:
+increase in coverage of malicious behaviors (per CIS)
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Traditional security tools like firewalls were unable to secure workloads in the public multicloud development environment, which was essential for Inter’s cloud-first strategy
+- Globally distributed employees and third parties needed fast, reliable, and secure web and app access to support timely customer service and rapid innovation
+- Siloed data loss prevention solutions provided insufficient guardrails for shadow data across multiple data channels, including IaaS, SaaS, and endpoint
+
+## results
+
+- Accelerates M&A integration and prevents lateral movement of threats with zero trust cloud workload security and microsegmentation
+- Gives distributed users fast, reliable connectivity and consistent, secure digital experiences on any device, in any location
+- Minimizes exposure risk for all data across all channels worldwide with increased visibility, comprehensive protection, and consistent enforcement
+
+====================================================
+# customer_snapshot
+
+title:
+Inter
+
+description:
+Digital bank that provides financial and nonfinancial services through its Super App
+
+industry:
+Financial Services and Insurance
+
+headquarters:
+Belo Horizonte, Brazil
+
+size:
+4,000+ employees, 3,000 contractors 
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/1i9scz0ym2
+
+provider:
+wistia
+
+video_id:
+1i9scz0ym2
+
+title:
+Inter Unlocks Cost Savings and Retains Talent with the Zscaler Zero Trust Exchange Platform
+
+description:
+a Customer Testimonials video
+
+duration_seconds:
+132.934
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/8182b2d9cc2878171bbcda5e8eed7a1f.jpeg
+
+### transcript
+
+language:
+eng
+
+#### sentences
+
+1.
+When using, like, a very complete platform as Zscaler, you for sure can make savings.
+
+2.
+But I think that's just one part of this equation.
+
+3.
+It's very difficult to have good analysts.
+
+4.
+Everyone's fighting for them.
+
+5.
+It's very difficult to bring them to our operation and to put them to operate like five different systems.
+
+6.
+They are spending time moving from one to another and you have to train them.
+
+7.
+It's very complex to keep your environment safe.
+
+8.
+So when you get to have a platform that's easy to use and it's like bringing all this point of contact with data to one single platform, that makes a difference for us.
+
+9.
+With Zscaler, you have everything in one place.
+
+10.
+ZEA and ZPA for both our employees and third parties.
+
+11.
+DLP, CASB, DSPM, securing workloads, all these Zscaler solutions.
+
+12.
+And we're now at the point that we are implementing UVM.
+
+13.
+I think that's going to bring lots of because companies spend a lot of time on vulnerability management.
+
+14.
+When you know exactly what to prioritize and when you put all of that together, it made much easier for our analysts and that's a big differential for Zscaler.
+
+15.
+There's also our CFO and of course cost is very relevant to him.
+
+16.
+When we look at insights, we can use that to see are we using all the licenses that we acquired from different solutions, is our workforce really engaged, are they online and are they working on specifics.
+
+17.
+And when you put that all together, you give our executives a perspective that you have more to offer than just to secure the company.
+
+18.
+That, of course, is very important.
+
+19.
+But we can bring data, we can bring insights, can bring value in different ways.
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+Lucas Bernardes (CISO, Inter)
+
+tag:
+quote
+
+topic:
+Savings with Zscaler platform
+
+text:
+When using, like, a very complete platform as Zscaler, you for sure can make savings.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+Lucas Bernardes (CISO, Inter)
+
+tag:
+challenges
+
+topic:
+Difficulty in managing analysts and systems
+
+text:
+But I think that's just one part of this equation. It's very difficult to have good analysts. Everyone's fighting for them. It's very difficult to bring them to our operation and to put them to operate like five different systems. They are spending time moving from one to another and you have to train them. It's very complex to keep your environment safe.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+Lucas Bernardes (CISO, Inter)
+
+tag:
+products_and_solutions
+
+topic:
+Unified platform simplifies operations
+
+text:
+So when you get to have a platform that's easy to use and it's like bringing all this point of contact with data to one single platform, that makes a difference for us.
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+Lucas Bernardes (CISO, Inter)
+
+tag:
+products_and_solutions
+
+topic:
+Zscaler solutions overview
+
+text:
+With Zscaler, you have everything in one place. ZEA and ZPA for both our employees and third parties. DLP, CASB, DSPM, securing workloads, all these Zscaler solutions. And we're now at the point that we are implementing UVM. I think that's going to bring lots of because companies spend a lot of time on vulnerability management.
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+Lucas Bernardes (CISO, Inter)
+
+tag:
+metrics_and_results
+
+topic:
+Improved analyst efficiency
+
+text:
+When you know exactly what to prioritize and when you put all of that together, it made much easier for our analysts and that's a big differential for Zscaler.
+
+Segment 6
+
+segment_id:
+6
+
+speaker:
+Lucas Bernardes (CISO, Inter)
+
+tag:
+challenges
+
+topic:
+Cost concerns for CFO
+
+text:
+There's also our CFO and of course cost is very relevant to him. When we look at insights, we can use that to see are we using all the licenses that we acquired from different solutions, is our workforce really engaged, are they online and are they working on specifics.
+
+Segment 7
+
+segment_id:
+7
+
+speaker:
+Lucas Bernardes (CISO, Inter)
+
+tag:
+general_discussion
+
+topic:
+Broader value beyond security
+
+text:
+And when you put that all together, you give our executives a perspective that you have more to offer than just to secure the company. That, of course, is very important. But we can bring data, we can bring insights, can bring value in different ways.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+140999578
+
+created_at:
+1763420589
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Our digital-first model reshaped our environment […] we realized that we needed to balance rapid expansion and the speed of innovation with a robust security posture. Zscaler enables us to be both fast-moving and secure.
+
+## speaker
+
+name:
+Lucas Bernardes
+
+title:
+CISO
+
+company:
+Inter
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+how-a-bank-s-migration-to-a-global-digital-first-model-ignited-innovation-and-rapid-expansion
+
+title:
+How a bank’s migration to a global digital-first model ignited innovation and rapid expansion
+
+### paragraphs
+
+Paragraph 1
+
+- Established in 1994, Inter began as a traditional bank in Brazil with 100,000 customers.
+- More than two decades later, it migrated to a fully digital model.
+- This sparked a bold move to adopt the cloud for its core operations to increase agility, create a seamless customer experience, and facilitate faster innovation and go-to-market initiatives.
+
+Paragraph 2
+
+- Today, Inter serves more than 41 million customers across Brazil, Argentina, the US, and other regions.
+- With a broad financial and nonfinancial product portfolio, it has evolved beyond banking into an ecosystem company, exemplified by its popular Super App, powered by 135 AI models.
+- The app includes access to an online marketplace where customers can purchase everything from groceries and clothing to airline tickets and its popular financial products.
+
+Paragraph 3
+
+- “We have millions of customers and billions of operations and transactions.
+- The challenge is not just to launch new products, but to create value and new experiences for our user base through innovative technology and trusted partnerships,” said CISO Lucas Bernardes.
+
+### quotes
+
+Quot 1
+
+quote:
+We have millions of customers and billions of operations and transactions. The challenge is not just to launch new products, but to create value and new experiences for our user base through innovative technology and trusted partnerships.
+
+#### speaker
+
+name:
+Lucas Bernardes
+
+title:
+CISO
+
+company:
+Inter
+
+Section 2
+
+id:
+zero-trust-for-a-data-intensive-and-high-compute-load-environment
+
+title:
+Zero trust for a data-intensive and high compute load environment
+
+### paragraphs
+
+Paragraph 1
+
+- Meteoric growth through M&As and innovation spawning new products and services ushered in an increasingly complex infrastructure.
+- It consisted of a multicloud environment (AWS, Azure, and GCP), on-premises data centers, virtual machines (VMs), and containerized workflows.
+
+Paragraph 2
+
+- The demands on the infrastructure are massive.
+- The web gateway typically records 18 million daily logins and processes up to 27 billion requests per month.
+- More than 4,000 employees and 3,000 contractors around the globe require rapid, efficient, and secure access on a daily basis.
+- In addition, the organization has approximately 3,000 workloads running in the cloud and processes 33 petabytes of data.
+
+Paragraph 3
+
+- Inter’s large-scale infrastructure and heterogeneous technology stack created significant integration and risk management challenges.
+- Cyberthreats, such as ransomware and DDoS attacks launched by organized crime rings, created an urgent need for real-time visibility and responsive controls.
+- The disparate environment required unified visibility and consistent policy definition and enforcement to maintain 24/7/365 uptime.
+
+Paragraph 4
+
+- “Our digital-first model reshaped our environment, and we realized that we needed to balance rapid expansion and the speed of innovation with a robust security posture.
+- Zscaler enables us to be both fast-moving and secure.
+- It made sense to adopt the Zscaler platform to implement individualized security controls for every person and workload, regardless of geography,” said Bernardes.
+
+Paragraph 5
+
+- The decision to adopt a zero trust approach was a turning point in Inter’s security-first modernization initiative.
+- Bernardes and the larger Inter team—including Cyber Security Executive Manager Orlandino Neves and Security and Compliance Analyst Pedro Oliveira Ramos—leveraged Zscaler to implement a security modernization and maturity strategy that includes these areas of focus:
+
+Paragraph 6
+
+- Enhanced security for workloads deployed in multiple clouds
+
+Paragraph 7
+
+- Seamless, high-performance zero trust access to apps and the internet for users
+
+Paragraph 8
+
+- Consolidated data security, including SaaS and AI data usage controls
+
+Paragraph 9
+
+- Full visibility across the entire environment and a risk-aware mitigation plan to strengthen cybersecurity resilience
+
+### quotes
+
+Quot 1
+
+quote:
+Our digital-first model reshaped our environment, and we realized that we needed to balance rapid expansion and the speed of innovation with a robust security posture. Zscaler enables us to be both fast-moving and secure. It made sense to adopt the Zscaler platform to implement individualized security controls for every person and workload, regardless of geography.
+
+#### speaker
+
+name:
+Bernardes
+
+title:
+
+
+company:
+Inter
+
+Section 3
+
+id:
+securing-ai-development-workloads-at-scale-across-the-multicloud
+
+title:
+Securing AI development workloads at scale across the multicloud
+
+### paragraphs
+
+Paragraph 1
+
+- The first priority in Inter’s zero trust journey was securing its fast-paced public cloud development environment that relies heavily on AI tools.
+
+Paragraph 2
+
+- “We want to give our developers as much freedom as possible so they can develop and launch new products as fast as possible.
+- It's like the Autobahn in Germany—you want to make sure vehicles can go at speed and do so safely.
+- We turned to Zscaler to put the necessary guardrails in place,” explained Bernardes.
+
+Paragraph 3
+
+- The team deployed Zscaler zero trust in AWS to gain rapid visibility and secure workload connections.
+- The rollout started in a small non-production environment and then scaled up to the main AWS cloud and other platforms and geographies.
+- Zero Trust Cloud applies zero trust connectivity, along with TLS/SSL traffic inspection and other advanced protections, to secure Inter’s cloud-to-internet and cloud-to-cloud connections across its entire public cloud environment.
+
+Paragraph 4
+
+- With real-time visibility from Zero Trust Cloud, the security team now has a view into AI workloads and developers who are circumventing controls.
+- Zscaler replaces inconsistent access rules and legacy controls and provides truly adaptive cloud security.
+- It enables rapid response and block/allow policy enforcement—with far less friction than legacy firewalls.
+
+Paragraph 5
+
+- Zscaler Microsegmentation is central to robust cloud security overall and faster, more streamlined M&A integrations through granular risk analysis.
+- Microsegmentation secures workloads by preventing lateral movement of threats while simplifying the network architecture, especially when environments from new acquisitions are introduced.
+- Fine-grained visibility into workload communication and least-privileged access models for server-to-server and app-to-app connections are critical as Inter continues to fuel growth through acquisition.
+
+Paragraph 6
+
+- “Zscaler’s comprehensive platform can solve any user or workload connectivity use cases during M&A integration, in addition to their data security and cyber protection stack.
+- It gives us insights not only into egress and ingress traffic, but also east-west traffic across VMs, Amazon Elastic Compute Cloud (Amazon EC2), and on-premises servers.
+- This enables us to create rules based on what we can see in the platform.
+- It is so much easier than we imagined,” said Bernardes.
+
+### quotes
+
+Quot 1
+
+quote:
+We want to give our developers as much freedom as possible so they can develop and launch new products as fast as possible. It's like the Autobahn in Germany—you want to make sure vehicles can go at speed and do so safely. We turned to Zscaler to put the necessary guardrails in place.
+
+#### speaker
+
+name:
+Bernardes
+
+title:
+
+
+company:
+Inter
+
+Quot 2
+
+quote:
+Zscaler’s comprehensive platform can solve any user or workload connectivity use cases during M&A integration, in addition to their data security and cyber protection stack. It gives us insights not only into egress and ingress traffic, but also east-west traffic across VMs, Amazon Elastic Compute Cloud (Amazon EC2), and on-premises servers. This enables us to create rules based on what we can see in the platform. It is so much easier than we imagined.
+
+#### speaker
+
+name:
+Bernardes
+
+title:
+
+
+company:
+Inter
+
+Quot 3
+
+quote:
+Zscaler’s comprehensive platform can solve any user or workload connectivity use cases during M&A integration [...] It gives us insights not only into egress and ingress traffic, but also east-west traffic across VMs, Amazon Elastic Compute Cloud (Amazon EC2), and on-premises servers.
+
+#### speaker
+
+name:
+Lucas Bernardes
+
+title:
+CISO
+
+company:
+Inter
+
+Section 4
+
+id:
+zero-trust-access-at-the-speed-of-business-for-users-anytime-anywhere
+
+title:
+Zero trust access at the speed of business for users anytime, anywhere
+
+### paragraphs
+
+Paragraph 1
+
+- With thousands of globally distributed users—employees, partners, developers, and third-party contractors—secure, seamless connectivity is vital for maximizing productivity and delivering uninterrupted service to customers.
+
+Paragraph 2
+
+- Bernardes and his team deployed Zscaler Internet Access (ZIA) to protect all users, regardless of where they work, through full TLS/SSL traffic inspection and identity-, role-, and context-based access policy enforcement on all traffic to the internet and SaaS apps.
+- To secure internal apps, they replaced their legacy VPNs with Zscaler Private Access (ZPA), providing fast and secure zero trust access to private apps across AWS, Azure, and GCP without ever placing users on the network.
+
+Paragraph 3
+
+- “Zscaler’s granular controls ensure that the right users have access to the right resources at the right time and at the speed of business.
+- Compared to our cumbersome traditional firewalls, Zscaler is more dynamic and intuitive, both for IT and security teams and users,” said Bernardes.
+
+Paragraph 4
+
+- Neves added that, “With Zscaler, we can immediately restrict or enable access for privileged users and external partners—that wasn’t possible before.”
+
+Paragraph 5
+
+- As an alternative to traditional firewalls, which are not built to protect cloud traffic, Inter deployed Zscaler Cloud Firewall to inspect 100% of web and non-web traffic on all ports and protocols.
+- Zscaler Cloud Sandbox was added to isolate and analyze zero-day threats in real time and keep them from infecting endpoints.
+
+Paragraph 6
+
+- To further ensure productivity and user satisfaction, the team deployed Zscaler Digital Experience (ZDX), which provides continuous performance visibility and identifies root causes of connectivity problems, enabling faster time-to-resolution.
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler’s granular controls ensure that the right users have access to the right resources at the right time and at the speed of business. Compared to our cumbersome traditional firewalls, Zscaler is more dynamic and intuitive, both for IT and security teams and users.
+
+#### speaker
+
+name:
+Bernardes
+
+title:
+
+
+company:
+Inter
+
+Quot 2
+
+quote:
+With Zscaler, we can immediately restrict or enable access for privileged users and external partners—that wasn’t possible before.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Inter
+
+Section 5
+
+id:
+unified-data-security-everywhere
+
+title:
+Unified data security everywhere
+
+### paragraphs
+
+Paragraph 1
+
+- With the increasing volume of sensitive data in use across multiple geographies and cloud platforms, SaaS apps, endpoints, and more, Inter needed unified, pervasive data security.
+- To enable expansion, support rapid AI innovation, maintain regional compliance, and ensure customer trust, Inter turned to Zscaler.
+
+Paragraph 2
+
+- “With the right foundation, we could attract more projects and more investments—meaning we could attract more customers and more revenue.
+- But securing our data with Zscaler is also a cost reduction project for us.
+- Breaches come with legal fees, regulatory penalties, and decreased revenue resulting from reputational damage and erosion of customer trust,” said Oliveira Ramos.
+
+Paragraph 3
+
+- Previously, Inter had a basic set of point solutions: standard data loss prevention (DLP), endpoint DLP, email DLP, and a siloed data security posture management (DSPM) tool.
+- The team realized that these legacy data security products offered limited visibility and resulted in security gaps.
+- They constantly grappled with shadow data sprawl across IaaS, SaaS, endpoint, and unauthorized GenAI apps.
+
+Paragraph 4
+
+- To determine precisely where Inter needed to close these gaps, the team audited all data channels to identify where sensitive information was stored and in use.
+- The “Project Data Dome” initiative made it clear that Inter needed scalable, context-aware adaptive controls to accommodate its evolving digital footprint.
+- Its global operations also required precise, auditable controls to maintain adherence to stringent regional data privacy regulations.
+
+Paragraph 5
+
+- “Zscaler guided us in creating a vision of what good data security should look like.
+- It’s the only solution that gives us unified adaptive protection across our entire environment, regardless of which cloud or SaaS environment we’re using,” said Oliveira Ramos.
+
+Paragraph 6
+
+- And what does “good” look like?
+- Zscaler Data Security unlocks visibility, comprehensive protection, and policy enforcement of diverse data types across channels, devices, and locations—all under a single, unified pane of glass.
+
+Paragraph 7
+
+- “Zscaler secures global collaboration and provides visibility and data usage policy enforcement for all SaaS apps in alignment with specific regional compliance mandates.
+- This is an essential enabler for our global expansion strategy,” said Oliveira Ramos.
+- “CASB allows us to use SaaS at scale without worrying about shadow IT—every app is accounted for.”
+
+Paragraph 8
+
+- Oliveria Ramos and team also deployed Zscaler DSPM, which classifies and identifies sensitive data and access across public clouds, SaaS, AI and large language models (LLMs), databases, and VMs.
+- It assesses risk by tracking vulnerabilities, misconfigurations, and unauthorized or excessive privileges.
+
+Paragraph 9
+
+- “Before Zscaler DSPM, locating sensitive personal data in our cloud environment was almost impossible.
+- Now, we have 100% visibility.
+- If a workload with critical data is exposed, DSPM gives us real-time alerts, enabling us to detect and close the gap before anything happens.
+- We’ve reduced detection and containment time dramatically—what used to take days now happens in minutes,” said Oliveira Ramos.
+
+Paragraph 10
+
+- Oliveira Ramos noted that DSPM and AI-SPM also provide deep scanning into sensitive data usage in AI models to prevent oversharing, accidental exposure, and potential compliance violations.
+
+Paragraph 11
+
+- “Our AI environment is evolving really fast.
+- We have a number of private LLMs deployed within Claude on Amazon Bedrock, and that number can change every week.
+- Zscaler's DSPM and AI-SPM give us more visibility into the data used within those AI models and tell us if there's any associated risk." Oliveira Ramos explained.
+
+### quotes
+
+Quot 1
+
+quote:
+With the right foundation, we could attract more projects and more investments—meaning we could attract more customers and more revenue. But securing our data with Zscaler is also a cost reduction project for us. Breaches come with legal fees, regulatory penalties, and decreased revenue resulting from reputational damage and erosion of customer trust.
+
+#### speaker
+
+name:
+Oliveira
+
+title:
+
+
+company:
+Inter
+
+Quot 2
+
+quote:
+Zscaler guided us in creating a vision of what good data security should look like. It’s the only solution that gives us unified adaptive protection across our entire environment, regardless of which cloud or SaaS environment we’re using.
+
+#### speaker
+
+name:
+Oliveira
+
+title:
+
+
+company:
+Inter
+
+Quot 3
+
+quote:
+Zscaler secures global collaboration and provides visibility and data usage policy enforcement for all SaaS apps in alignment with specific regional compliance mandates. This is an essential enabler for our global expansion strategy. CASB allows us to use SaaS at scale without worrying about shadow IT—every app is accounted for.
+
+#### speaker
+
+name:
+Oliveira
+
+title:
+
+
+company:
+Inter
+
+Quot 4
+
+quote:
+Before Zscaler DSPM, locating sensitive personal data in our cloud environment was almost impossible. Now, we have 100% visibility. If a workload with critical data is exposed, DSPM gives us real-time alerts, enabling us to detect and close the gap before anything happens. We’ve reduced detection and containment time dramatically—what used to take days now happens in minutes.
+
+#### speaker
+
+name:
+Oliveira
+
+title:
+
+
+company:
+Inter
+
+Quot 5
+
+quote:
+Our AI environment is evolving really fast. We have a number of private LLMs deployed within Claude on Amazon Bedrock, and that number can change every week. Zscaler's DSPM and AI-SPM give us more visibility into the data used within those AI models and tell us if there's any associated risk.
+
+#### speaker
+
+name:
+Oliveira
+
+title:
+
+
+company:
+Inter
+
+Quot 6
+
+quote:
+Before Zscaler DSPM, locating sensitive personal data in our cloud environment was almost impossible. Now, we have 100% visibility. If a workload with critical data is exposed, DSPM gives us real-time alerts, enabling us to detect and close the gap before anything happens.
+
+#### speaker
+
+name:
+Pedro Oliveira Ramos
+
+title:
+Security and Compliance Analyst
+
+company:
+Inter
+
+Section 6
+
+id:
+operational-efficiency-goes-hand-in-hand-with-improved-risk-management
+
+title:
+Operational efficiency goes hand in hand with improved risk management
+
+### paragraphs
+
+Paragraph 1
+
+- The sheer scale of Inter’s environment requires a new level of security efficiency and intelligence.
+- Zscaler Risk360 gives a holistic, real-time view into top risk factors across Inter’s environment.
+- The actionable insights and guided workflows help teams implement zero trust policies that mitigate these risks quickly and effectively.
+
+Paragraph 2
+
+- “We are currently focused on how to have strategic conversations with our executives about cyber risk.
+- Through Risk360’s reporting, we can give them a clear perspective of where we are right now, our benchmarks, and how we compare to other companies,” said Bernardes.
+- “Risk360 also maps risk to potential financial losses to help guide decisions about future security investments.”
+
+Paragraph 3
+
+- Risk360 has demonstrated the impact of Inter’s larger security-first modernization efforts by quantifying cyber outcomes, including avoidance of potential financial losses and overall risk reduction.
+- Improvements made within Zscaler are poised to decrease annual risk exposure by $4.25M.
+- Additionally, Inter has now more than doubled its defenses against malicious behaviors, achieving a 113% increase in coverage as benchmarked against the CIS Critical Security Controls framework.
+
+Paragraph 4
+
+- To further enhance risk management, the team will soon be implementing Zscaler Unified Vulnerability Management (UVM), which leverages an aggregated and correlated data set to gain insights into which security gaps need to be mitigated first.
+- Automated vulnerability aggregation and prioritization, as well as streamlined remediation at scale will eliminate manual effort and allow teams to respond swiftly to high-priority risks.
+
+Paragraph 5
+
+- Zscaler’s consolidated platform also enables policy updates across Inter’s environment in just seconds while reducing tool sprawl, analyst onboarding friction, and administrative labor for the growing security team.
+
+### quotes
+
+Quot 1
+
+quote:
+We are currently focused on how to have strategic conversations with our executives about cyber risk. Through Risk360’s reporting, we can give them a clear perspective of where we are right now, our benchmarks, and how we compare to other companies. Risk360 also maps risk to potential financial losses to help guide decisions about future security investments.
+
+#### speaker
+
+name:
+Bernardes
+
+title:
+
+
+company:
+Inter
+
+Quot 2
+
+quote:
+Zscaler’s easy-to-use, unified platform eliminates the need for our analysts to learn and juggle multiple unintegrated systems. Zscaler has helped us significantly lower our training costs while boosting job satisfaction.
+
+#### speaker
+
+name:
+Lucas Bernardes
+
+title:
+CISO
+
+company:
+Inter
+
+Section 7
+
+id:
+zero-trust-a-secure-path-to-expansion-and-accelerated-innovation
+
+title:
+Zero trust: A secure path to expansion and accelerated innovation
+
+### paragraphs
+
+Paragraph 1
+
+- Zscaler fully supports Inter’s vision for growth, agility, and secure digital transformation on a global scale.
+- By consolidating security controls, securing the multicloud, and providing actionable intelligence, Zscaler has accelerated the organization’s business outcomes and operational maturity.
+
+Paragraph 2
+
+- Zscaler also plays an important role in accelerating innovation.
+
+Paragraph 3
+
+- “Security isn’t just a checkbox for us.
+- It’s how we launch new services, work with partners, and expand globally.
+- In our software development process, we integrate Zscaler’s zero trust controls with continuous integration and continuous delivery pipelines to ensure that every update and release is checked for risk,” remarked Neves.
+
+Paragraph 4
+
+- Bernardes also pointed to how Zscaler helps reduce operational expenses and complexity while improving employee retention.
+
+Paragraph 5
+
+- “It’s not easy to find and retain talented security analysts in today’s competitive market.
+- Zscaler’s easy-to-use, unified platform eliminates the need for our analysts to learn and juggle multiple unintegrated systems.
+- Zscaler has helped us significantly lower our training costs while boosting job satisfaction—and that makes a huge difference for us as we continue to expand our global footprint,” he said.
+
+Paragraph 6
+
+- Oliveira Ramos went on to explain how Zscaler’s robust and comprehensive data security contributes to Inter’s reputation of trustworthiness.
+- It allows the bank to avoid costly noncompliance penalties, prevent breaches, and attract customers and investors, which translates into increased revenues and funding for new initiatives.
+
+Paragraph 7
+
+- “Zscaler is a key part of our strategy.
+- The security guardrails it provides enable us to grow faster, make new products available to our customers, and provide simplified and secure connectivity to assets for our global users,” said Bernardes.
+- “Our partnership with Zscaler has empowered us to confidently scale services to millions of customers, solidifying our position as a digital finance leader and ecosystem innovator.”
+
+### quotes
+
+Quot 1
+
+quote:
+It’s not easy to find and retain talented security analysts in today’s competitive market. Zscaler’s easy-to-use, unified platform eliminates the need for our analysts to learn and juggle multiple unintegrated systems. Zscaler has helped us significantly lower our training costs while boosting job satisfaction—and that makes a huge difference for us as we continue to expand our global footprint.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Inter
+
+Quot 2
+
+quote:
+Zscaler is a key part of our strategy. The security guardrails it provides enable us to grow faster, make new products available to our customers, and provide simplified and secure connectivity to assets for our global users. Our partnership with Zscaler has empowered us to confidently scale services to millions of customers, solidifying our position as a digital finance leader and ecosystem innovator.
+
+#### speaker
+
+name:
+Bernardes
+
+title:
+
+
+company:
+Inter
+
+====================================================
+# products
+
+Product 1
+
+name:
+AI Security Platform
+
+url:
+null
+
+Product 2
+
+name:
+Asset Exposure Management
+
+url:
+null
+
+Product 3
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Product 4
+
+name:
+Endpoint DLP
+
+url:
+null
+
+Product 5
+
+name:
+Web and Email DLP
+
+url:
+https://www.zscaler.com/products-and-solutions/data-loss-prevention
+
+Product 6
+
+name:
+DSPM
+
+url:
+null
+
+Product 7
+
+name:
+Zero Trust Firewall
+
+url:
+https://www.zscaler.com/resources/data-sheets/zscaler-firewall.pdf
+
+Product 8
+
+name:
+Unified Vulnerability Management
+
+url:
+https://www.zscaler.com/products-and-solutions/vulnerability-management
+
+Product 9
+
+name:
+Multi-Mode CASB
+
+url:
+https://www.zscaler.com/products-and-solutions/cloud-access-security-broker-casb
+
+Product 10
+
+name:
+Risk360
+
+url:
+https://www.zscaler.com/products-and-solutions/zscaler-risk-360
+
+Product 11
+
+name:
+Sandbox
+
+url:
+https://www.zscaler.com/technology/cloud-sandbox
+
+Product 12
+
+name:
+Zero Trust Cloud
+
+url:
+https://www.zscaler.com/products-and-solutions/workload-communications
+
+Product 13
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 14
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 15
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Accelerate M&A and Divestitures
+
+url:
+https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+
+Solution 2
+
+name:
+Secure Remote Access
+
+url:
+https://www.zscaler.com/products-and-solutions/vpn-alternative
+
+Solution 3
+
+name:
+Business Analytics
+
+url:
+null
+
+Solution 4
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 5
+
+name:
+Exposure Management
+
+url:
+null
+
+Solution 6
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+105516
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Inter Inter Accelerates AI Innovation, Reduces Risk Exposure by $4.25M/Year with Zero Trust with Zscaler partners with the global digital bank to secure cloud workloads, unify data security everywhere, and deliver high-performance access to the internet and apps across all geos.
+
+og_title:
+Inter Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/inter

@@ -1,0 +1,792 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/kern-ccd
+
+slug:
+kern-ccd
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:34.434568Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Kern Community College District’s Move to Zero Trust Garners 99% User Approval Rating
+
+subtitle:
+Zscaler replaces multiple legacy remote access solutions and enables precise app segmentation to limit lateral movement of threats
+
+customer_name:
+Kern CCD
+
+## metrics
+
+Metric 1
+
+value:
+1,000+
+
+label:
+users migrated to secure zero trust remote access
+
+Metric 2
+
+value:
+99%
+
+label:
+estimated user approval rating
+
+Metric 3
+
+value:
+One
+
+label:
+zero trust remote access solution replaced six cumbersome legacy technologies
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- High level of risk due to insufficient protection against advanced threats targeting the legacy infrastructure
+- Mounting operational costs and management complexity due to the maintenance and support of disparate remote access technologies
+- Poor user experience because dangerous vulnerabilities in incumbent solutions resulted in excessive downtime for patching and remediation
+
+## results
+
+- Robust network security with policy-driven remote access ensures users connect directly to authorized applications
+- Granular access control through app segmentation provides precise control over who has access to what
+- Reduced administrative burden, with policies and security managed from a single platform
+- Consistent and reliable application access wins a high approval rating from cross-functional teams
+
+====================================================
+# customer_snapshot
+
+title:
+Kern CCD
+
+description:
+Kern Community College District serves over 30,000 students across three campuses covering 24,800 square miles.
+
+industry:
+Education
+
+headquarters:
+Bakersfield, CA, USA
+
+size:
+1,000 administrative and business users
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Zscaler has made the paradigm of zero trust realistic and achievable and is having a ripple effect on how we design our network architecture going forward.
+
+## speaker
+
+name:
+Armando Martinez
+
+title:
+Systems Administrator
+
+company:
+Kern CCD
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+legacy-remote-access-solutions-fail-as-scope-and-scale-exceed-capabilities
+
+title:
+Legacy remote access solutions fail as scope and scale exceed capabilities
+
+### paragraphs
+
+Paragraph 1
+
+- When the COVID-19 pandemic required employees to work from home, Kern Community College District’s large geographic estate made it challenging to connect 1,000 administrative and business users to internal applications.
+- Kern CCD quickly spun up four different solutions to temporarily meet users' remote access needs, but, over time, use cases expanded beyond the capabilities of the legacy solutions.
+
+Paragraph 2
+
+- Systems Administrator Armando Martinez spent most of his time troubleshooting issues, fielding complaints, triaging access during hours and sometimes weeks of downtime, jumping through complex administrative hoops, and navigating network compromises enabled by significant software vulnerabilities.
+
+Paragraph 3
+
+- To support Kern CCD’s cloud-first strategy to move its business from a maintenance-focused organization to a service-based one, Martinez and Eddie Alvarado, Director, IT Infrastructure, researched alternative solutions to address Kern CCD’s remote access challenges.
+
+Paragraph 4
+
+- “We needed a solution that would support our long-term goals and ensure the day-to-day access and security of our data and users.
+- We consulted Gartner’s Magic Quadrant for Security Service Edge and our local Information Systems Security Association (ISSA) to point us in the right direction and made a decision to adopt a zero trust remote access solution,” Martinez said.
+
+### quotes
+
+Quot 1
+
+quote:
+We needed a solution that would support our long-term goals and ensure the day-to-day access and security of our data and users. We consulted Gartner’s Magic Quadrant for Security Service Edge and our local Information Systems Security Association (ISSA) to point us in the right direction and made a decision to adopt a zero trust remote access solution.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Kern CCD
+
+Quot 2
+
+quote:
+ZPA gives us the flexibility to configure segment groups and applications, apply policies to support those groups, and implement security that scales.
+
+#### speaker
+
+name:
+Armando Martinez
+
+title:
+Systems Administrator
+
+company:
+Kern CCD
+
+Section 2
+
+id:
+zero-trust-provides-secure-and-scalable-remote-access-and-lays-foundation-for-future-growth
+
+title:
+Zero trust provides secure and scalable remote access and lays foundation for future growth
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- On a typical day, Kern CCD staff followed a complicated path to access the applications they needed to do their jobs: after logging into one of four legacy solutions on their devices (personal or college-issued), employees were routed to an on-premises desktop.
+- These end-of-life solutions took up about 3TB of storage, required constant updating, and were resource-intensive to maintain.
+- In addition, they had persistent performance issues, were oversubscribed, and lacked security to protect users and data against advanced threats.
+
+Paragraph 2
+
+- The community college needed a scalable security solution that could accommodate an increasing number of remote users, offer simple and flexible configurations, and provide a zero-trust architecture to support its cloud-first journey.
+
+Paragraph 3
+
+- Martinez decided against implementing a virtual desktop infrastructure (VDI) for remote access used by many other community colleges.
+- This was because VDI solutions rely on an implicit trust model, require substantial administrative effort to maintain access control lists (ACLs), and consume substantial resources to manage complex configurations.
+
+Paragraph 4
+
+- Along with his network and security colleagues, Martinez investigated zero trust solutions and found that the Zscaler Zero Trust Exchange stood out as the most comprehensive and mature platform to meet Kern CCD’s needs, namely:
+
+Paragraph 5
+
+- Zero trust security applied to all network traffic
+
+Paragraph 6
+
+- Flexibility to customize application segments with granular access controls
+
+Paragraph 7
+
+- Clientless support for web, SSH, RDP, virtual network computing (VNC), and Telnet protocols
+
+Paragraph 8
+
+- Comprehensive security to lay the foundation for Kern CCD’s cloud-first strategy
+
+Paragraph 9
+
+- “Zscaler has made the paradigm of zero trust realistic and achievable and is having a ripple effect on how we design our network architecture going forward,” asserted Martinez.
+
+Section 3
+
+id:
+phase-1-policy-and-role-based-access-to-private-applications-for-users-and-third-parties
+
+title:
+Phase 1: Policy- and role-based access to private applications for users and third parties
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- Kern CCD’s zero trust journey began with the deployment of Zscaler Private Access (ZPA).
+- With ZPA, Martinez was able to eliminate the college’s unreliable and poorly secured VPN and remote access solutions.
+
+Paragraph 2
+
+- Today, ZPA provides secure remote access for all Kern CCD staff, supporting approximately 1,000 users across multiple locations on various devices.
+- ZPA notably outperforms legacy solutions in connecting and accessing private applications.
+- Moreover, technical teams appreciate the user-friendly administrator interface that makes it easy to configure and monitor security policies.
+
+Paragraph 3
+
+- “One of the things that kept us up at night was the fear that VPN users could get ransomware on their personal devices.
+- With ZPA’s posture checks, we can now prevent improperly secured devices from accessing our resources,” said Martinez.
+- “ZPA has significantly boosted performance, reliability, and speed, making direct access to private applications seamless for users while enhancing security through a zero trust approach.”
+
+Paragraph 4
+
+- Martinez and his team configured policies to grant role-based, least-privileged access to a range of essential resources on premises and in their AWS cloud environment: network file share apps; apps for HR, ERP, OT; and IT management and storage apps.
+- ZPA prevents the lateral movement of threats because users are never on the network and only have access to applications they are authorized to use.
+- Protection for on-premises software also extends to Kern CCD’s operational technology (OT), such as its HVAC system, door locks, and generators—all of which require virtual management.
+
+Paragraph 5
+
+- Another major challenge was granting access to contractors, vendors, and partners to only the applications they needed rather than to the entire network.
+
+Paragraph 6
+
+- “This model has allowed for secure third-party access to necessary resources without granting broader network access.
+- Zscaler just makes it easy,” Martinez added.
+
+Paragraph 7
+
+- He and his team also enjoyed the ease and simplicity of creating application segments for the college’s diverse user groups.
+- “ZPA gives us the flexibility to configure segment groups and applications, apply policies to support those groups, and implement security that scales,” Martinez said.
+
+### quotes
+
+Quot 1
+
+quote:
+One of the things that kept us up at night was the fear that VPN users could get ransomware on their personal devices. With ZPA’s posture checks, we can now prevent improperly secured devices from accessing our resources. ZPA has significantly boosted performance, reliability, and speed, making direct access to private applications seamless for users while enhancing security through a zero trust approach.
+
+#### speaker
+
+name:
+Martinez
+
+title:
+
+
+company:
+Kern CCD
+
+Quot 2
+
+quote:
+This model has allowed for secure third-party access to necessary resources without granting broader network access. Zscaler just makes it easy.
+
+#### speaker
+
+name:
+Martinez
+
+title:
+
+
+company:
+Kern CCD
+
+Quot 3
+
+quote:
+ZPA gives us the flexibility to configure segment groups and applications, apply policies to support those groups, and implement security that scales.
+
+#### speaker
+
+name:
+Martinez
+
+title:
+
+
+company:
+Kern CCD
+
+Section 4
+
+id:
+phase-2-zdx-insights-improve-user-experience-and-point-the-way-to-network-optimization
+
+title:
+Phase 2: ZDX insights improve user experience and point the way to network optimization
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- Starting with standard Zscaler Digital Experience (ZDX) bundled into ZPA, Kern CCD has begun using end-user device health insights—about CPU, memory, device events, and more—to improve the user experience.
+- As Kern CCD continues its cloud-first transformation, the data in the quarterly reports from ZDX about user experiences, performance data, and disruptive incidents will help teams optimize network paths and inform architectural decisions.
+- Currently, Martinez and his team have started exploring how it can help with troubleshooting and resolving user issues, as an initial step for evaluating its potential for improving operational efficiency.
+
+Paragraph 2
+
+- Just as important as these administrative benefits, ZDX and the overall Zscaler implementation has vastly improved the user experience.
+- “I’ve been receiving emails from colleagues in HR, finance, and security on how much easier it is to do their jobs now, without application performance issues and disruptions.
+- The response has been so positive, I’d estimate a 99% staff approval rating,” said Martinez.
+- “ZDX helps us ensure users experience reliable, secure access without compromising functionality.
+- We’re excited about exploring it further.”
+
+### quotes
+
+Quot 1
+
+quote:
+I’ve been receiving emails from colleagues in HR, finance, and security on how much easier it is to do their jobs now, without application performance issues and disruptions. The response has been so positive, I’d estimate a 99% staff approval rating. ZDX helps us ensure users experience reliable, secure access without compromising functionality. We’re excited about exploring it further.
+
+#### speaker
+
+name:
+Martinez
+
+title:
+
+
+company:
+Kern CCD
+
+Quot 2
+
+quote:
+Zscaler fits seamlessly into our ecosystem and works well with legacy software. Our security posture is stronger than ever with the intelligence shared between our integrated vendors.
+
+#### speaker
+
+name:
+Armando Martinez
+
+title:
+Systems Administrator
+
+company:
+Kern CCD
+
+Section 5
+
+id:
+phase-3-preparing-for-evolving-needs-with-zscaler
+
+title:
+Phase 3: Preparing for evolving needs with Zscaler
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- While ZPA is currently being used for enabling users to access Kern CCD applications when they are working remotely, in the future, Kern CCD is planning to apply the same zero trust principles—such as posture checks and segmentation—to all users, whether they are remote or on-site.
+- This shift will eliminate the implicit trust model currently in place for on-premises users, further enhancing the district’s security posture.
+
+Paragraph 2
+
+- Kern CCD is also in the early stages of implementing a third-party SD-WAN solution as it transitions to a more centralized management approach with Zscaler.
+- SD-WAN integration with Zscaler will streamline resources to a centralized management location, reducing reliance on multiple data centers spread across campuses.
+
+Paragraph 3
+
+- “With each phase of our zero trust transformation, we gain technical efficiencies that improve the user experience and strengthen our security posture,” remarked Martinez.
+
+### quotes
+
+Quot 1
+
+quote:
+With each phase of our zero trust transformation, we gain technical efficiencies that improve the user experience and strengthen our security posture.
+
+#### speaker
+
+name:
+Martinez
+
+title:
+
+
+company:
+Kern CCD
+
+Section 6
+
+id:
+integrations-provide-deeper-insights-and-comprehensive-security
+
+title:
+Integrations provide deeper insights and comprehensive security
+
+### paragraphs
+
+Paragraph 1
+
+- Among Kern CCD’s top considerations in selecting a partner was ease of integration with its existing security stack.
+- Thanks to Zscaler’s expansive partner ecosystem and a straightforward integration process, Martinez was able to quickly integrate Splunk, CrowdStrike, and Microsoft Intune and Active Directory with virtually no disruption.
+
+Paragraph 2
+
+- Data shared between ZPA and Splunk gives Kern CCD greater insight into app usage, access, and environment.
+
+Paragraph 3
+
+- “By streaming our ZPA logs to Splunk, we’re able to build access queries that are deduplicated and cleaned up.
+- We use this data to streamline the process of creating zero trust role-based access groups,” Martinez explained.
+
+Paragraph 4
+
+- Microsoft and Zscaler have a long-standing partnership that enables Kern CCD to realize synergies across multiple products.
+- Kern CCD uses these integrations to check for device certificates, Intune mobile device enrollment, and Active Directory membership.
+- The combined data allows Kern CCD to prevent certain unmanaged devices from accessing critical and sensitive resources.
+
+Paragraph 5
+
+- At this time, Kern CCD uses the Zscaler-CrowdStrike integration to ensure that devices accessing internal applications have CrowdStrike installed.
+- In the future, Martinez is looking forward to exploring the device health score feature in CrowdStrike, which shares endpoint security posture data with Zscaler, enabling it to adapt appropriate access policies based on user context, device health and newly detected indicators of compromise (IOCs).
+
+Paragraph 6
+
+- “Zscaler fits seamlessly into our ecosystem and works well with legacy software.
+- Our security posture is stronger than ever with the intelligence shared between our integrated vendors,” added Martinez.
+
+### quotes
+
+Quot 1
+
+quote:
+By streaming our ZPA logs to Splunk, we’re able to build access queries that are deduplicated and cleaned up. We use this data to streamline the process of creating zero trust role-based access groups.
+
+#### speaker
+
+name:
+Martinez
+
+title:
+
+
+company:
+Kern CCD
+
+Quot 2
+
+quote:
+Zscaler fits seamlessly into our ecosystem and works well with legacy software. Our security posture is stronger than ever with the intelligence.
+
+#### speaker
+
+name:
+Martinez
+
+title:
+
+
+company:
+Kern CCD
+
+Section 7
+
+id:
+application-segmentation-for-granular-control-over-app-usage
+
+title:
+Application segmentation for granular control over app usage
+
+### paragraphs
+
+Paragraph 1
+
+- For Kern CCD, a unique benefit of adopting Zscaler is its intelligent application segmentation capability.
+- At the outset of the college’s zero trust journey, Martinez lacked a complete inventory of resources accessed by the individuals across the staff.
+
+Paragraph 2
+
+- Zscaler provides a structured approach to zero trust adoption, allowing his team to log every access request and enabling in-depth visibility into who among the staff is accessing which apps.
+- Martinez leveraged Splunk auditing data to design a well-thought-out segmentation framework to ensure precise role-based access controls in alignment with Kern CCD’s security objectives.
+- Previously, he struggled with difficult-to-configure firewall policies and access control lists (ACLs), which needed to be modified and updated frequently.
+
+Paragraph 3
+
+- “Zscaler is extremely flexible, providing multiple ways to design application segments and has been instrumental in preventing lateral movement of threats.
+- Our application segmentation and policy buildout is now meticulous and well-designed,” Martinez pointed out.
+- “Until now, we never had this level of control or visibility into application usage.”
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler is extremely flexible, providing multiple ways to design application segments and has been instrumental in preventing lateral movement of threats. Our application segmentation and policy buildout is now meticulous and well-designed. Until now, we never had this level of control or visibility into application usage.
+
+#### speaker
+
+name:
+Martinez
+
+title:
+
+
+company:
+Kern CCD
+
+Quot 2
+
+quote:
+I’ve been receiving emails from colleagues in HR, finance, and security on how much easier it is to do their jobs now, without application performance issues and disruptions.
+
+#### speaker
+
+name:
+Armando Martinez
+
+title:
+Systems Administrator
+
+company:
+Kern CCD
+
+Section 8
+
+id:
+kern-ccd-finds-guidance-and-a-strategic-partner-in-zscaler
+
+title:
+Kern CCD finds guidance and a strategic partner in Zscaler
+
+### paragraphs
+
+Paragraph 1
+
+- Martinez admits that identifying where to begin on Kern CCD’s zero trust transformation seemed like a daunting task at first.
+- He credits the Zscaler team for providing valuable assistance during the planning stages, making the deployment systematic and seamless.
+
+Paragraph 2
+
+- The Zscaler support team began by working closely with Kern CCD’s deployment team to fully understand its needs and cloud-first strategy.
+- They then launched an in-depth proof-of-value (POV) with over 25 users.
+- Kern CCD technical teams were also invited to a roadshow where they received hands-on ZPA training.
+- In addition, Zscaler hosted an onsite architecture workshop to detail every aspect of the solution’s custom design—policies, client connector setup, and APIs—with a vision for how the architecture could evolve to meet Kern CCD’s needs over the next five years.
+
+Paragraph 3
+
+- “The Zscaler team ensured that the solution would meet our requirements.
+- They not only provided hands-on, cross-functional support, covering networking, security, and systems to ensure all technical bases were covered, they also helped us lay the foundation for Kern CCD’s long-term network and security strategy,” said Martinez.
+
+Paragraph 4
+
+- Alvarado added, "Zscaler's methodologies for requirements gathering and implementation were extremely thorough and instrumental to the success of our project.”
+
+### quotes
+
+Quot 1
+
+quote:
+The Zscaler team ensured that the solution would meet our requirements. They not only provided hands-on, cross-functional support, covering networking, security, and systems to ensure all technical bases were covered, they also helped us lay the foundation for Kern CCD’s long-term network and security strategy.
+
+#### speaker
+
+name:
+Martinez
+
+title:
+
+
+company:
+Kern CCD
+
+Quot 2
+
+quote:
+Zscaler's methodologies for requirements gathering and implementation were extremely thorough and instrumental to the success of our project.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Kern CCD
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 2
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 3
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 3
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 4
+
+name:
+Secure Remote Access
+
+url:
+https://www.zscaler.com/products-and-solutions/vpn-alternative
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+86521
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Kern CCD Kern Community College District’s Move to Zero Trust Garners 99% User Approval Rating with Zscaler replaces multiple legacy remote access solutions and enables precise app segmentation to limit lateral movement of threats.
+
+og_title:
+Kern CCD Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/kern-ccd

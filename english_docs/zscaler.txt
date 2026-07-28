@@ -1,0 +1,974 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/zscaler
+
+slug:
+zscaler
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:57:09.959762Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Zscaler Evolves Its Own Zero Trust Platform to Fuel AI Innovation While Acting as a Testbed for Emerging Products
+
+subtitle:
+Zscaler leads by example by protecting IP and preventing AI app data loss and misuse, securing R&D cloud workloads, and boosting agility with a café-like branch experience
+
+customer_name:
+Zscaler
+
+## metrics
+
+Metric 1
+
+value:
+Up to 43%
+
+label:
+cost savings
+
+Metric 2
+
+value:
+93%
+
+label:
+product and feature utilization
+
+Metric 3
+
+value:
+99.9%
+
+label:
+reduced legacy security footprint
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- The company needed comprehensive data security to secure high-value intellectual property and data usage in AI
+- A new approach to secure branch connectivity was needed—physical firewalls at each location were costly, high-maintenance, and impeded agility
+- The rapid expansion of the multicloud for R&D demanded visibility into security gaps, data flows, anomalous behavior, and misconfigurations
+
+## results
+
+- Safeguards IP and other sensitive data and supports responsible AI usage with strong, comprehensive data controls and policy enforcement
+- Creates a high-performance, café-like experience for users everywhere while significantly reducing capex and opex
+- Accelerates safe innovation in the multicloud environment with a simple, efficient zero trust infrastructure
+
+====================================================
+# customer_snapshot
+
+title:
+Zscaler
+
+description:
+A pioneer and global leader in zero trust security, protecting enterprises and government agencies worldwide
+
+industry:
+High Tech
+
+headquarters:
+San Jose, California, USA
+
+size:
+9,000 employees worldwide
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/iy0wlsqopu
+
+provider:
+wistia
+
+video_id:
+iy0wlsqopu
+
+title:
+Zscaler Enables Secure Generative AI at Scale with AI Guard
+
+description:
+a Customer Testimonials video
+
+duration_seconds:
+69.12
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/69e129b0619403635fa10adb1a7234de.jpeg
+
+### transcript
+
+language:
+eng
+
+#### sentences
+
+1.
+Zscaler is a pioneer and global leader in the zero trust security space.
+
+2.
+We use AI Guard to secure both internal and public facing AI solutions.
+
+3.
+So public AI tools like ChatGPT, Perplexity, Grok, we use AI Guard to secure the inbound prompting as well as the responses coming from the LLM.
+
+4.
+Security is layers by defense.
+
+5.
+AI Guard is one piece of that.
+
+6.
+So when you combine that with our existing tools like inline DLP, out-of-band DLP, and the other Zscaler capabilities native to ZIA, AI Guard enhances our ability to securely enable and approve generative AI.
+
+7.
+After deploying AI Guard, one of the first things we noticed was the increased innovation.
+
+8.
+Allowing users to use the tools they needed, not forcing them to a single tool, gave them the ability to interact with public LLMs in a secure fashion, unlocking the potential but also securing Zscaler as an enterprise.
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+Buckley Tole (Sr. Director, Zscaler)
+
+tag:
+self_introduction
+
+topic:
+Introduction to Zscaler and zero trust
+
+text:
+Zscaler is a pioneer and global leader in the zero trust security space.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+Buckley Tole (Sr. Director, Zscaler)
+
+tag:
+products_and_solutions
+
+topic:
+AI Guard securing AI solutions
+
+text:
+We use AI Guard to secure both internal and public facing AI solutions. So public AI tools like ChatGPT, Perplexity, Grok, we use AI Guard to secure the inbound prompting as well as the responses coming from the LLM.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+Buckley Tole (Sr. Director, Zscaler)
+
+tag:
+challenges
+
+topic:
+Security as layered defense
+
+text:
+Security is layers by defense. AI Guard is one piece of that.
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+Buckley Tole (Sr. Director, Zscaler)
+
+tag:
+products_and_solutions
+
+topic:
+Combining AI Guard with ZIA tools
+
+text:
+So when you combine that with our existing tools like inline DLP, out-of-band DLP, and the other Zscaler capabilities native to ZIA, AI Guard enhances our ability to securely enable and approve generative AI.
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+Buckley Tole (Sr. Director, Zscaler)
+
+tag:
+metrics_and_results
+
+topic:
+Increased innovation post-deployment
+
+text:
+After deploying AI Guard, one of the first things we noticed was the increased innovation. Allowing users to use the tools they needed, not forcing them to a single tool, gave them the ability to interact with public LLMs in a secure fashion, unlocking the potential but also securing Zscaler as an enterprise.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+142420916
+
+created_at:
+1766539669
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Zscaler engineers, business units, and executives all experience firsthand the security, agility, and user experience promised to our customers. We are not only advocates, but practitioners.
+
+## speaker
+
+name:
+Buckley Tole
+
+title:
+Sr. Director
+
+company:
+Zscaler
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+zscaler-s-own-it-department-serves-as-customer-zero-to-ensure-delivery-of-superior-technology-to-customers
+
+title:
+Zscaler’s own IT department serves as customer zero to ensure delivery of superior technology to customers
+
+### paragraphs
+
+Paragraph 1
+
+- Approximately 8,000 enterprises and government entities, including Global 2000 and Fortune 500 companies, rely on Zscaler for cloud-based services to secure their digital transformation journeys.
+- As a pioneer in the zero trust security space, Zscaler continues to rapidly innovate and grow the capabilities of its unified platform.
+
+Paragraph 2
+
+- Zscaler’s internal IT and security team, Zscaler on Zscaler (Z on Z), plays a dual role.
+- The group oversees and manages the company’s IT/security infrastructure, and it also collaborates closely with product teams and engineers to test new products and features as well as provide valuable insights into operational and value improvements.
+
+Paragraph 3
+
+- “As Zscaler's own ‘customer zero,’ an important part of our mission is to leverage our platform to enhance operational excellence, ensure robust security, and innovate through continuous adoption of our solutions to demonstrate to our customers the real-world value and transformation enabled by Zscaler,” said Corey Burks, Director, Zscaler on Zscaler.
+
+### quotes
+
+Quot 1
+
+quote:
+As Zscaler's own ‘customer zero,’ an important part of our mission is to leverage our platform to enhance operational excellence, ensure robust security, and innovate through continuous adoption of our solutions to demonstrate to our customers the real-world value and transformation enabled by Zscaler.
+
+#### speaker
+
+name:
+Corey
+
+title:
+
+
+company:
+Zscaler
+
+Section 2
+
+id:
+the-building-blocks-of-a-solid-zero-trust-security-infrastructure
+
+title:
+The building blocks of a solid zero trust security infrastructure
+
+### paragraphs
+
+Paragraph 1
+
+- For many years, the foundation of Zscaler’s security infrastructure has been the Zscaler Zero Trust Exchange platform.
+- An integral part of the platform, Zscaler Internet Access (ZIA) provides 9,000 employees and more than 5,000 contractors with direct, identity- and role-based zero trust access to the internet and 284 sanctioned SaaS apps (Salesforce, Workday, Okta, Microsoft 365, ServiceNow, G Suite, and more) and a risk-based approach to thousands of unsanctioned apps.
+- Users have secure access to these resources from anywhere, anytime, and on any device—at home, on the road, or at any of Zscaler’s 10 offices.
+- Zscaler Zero Trust Firewall provides 100% traffic inspection across all ports and protocols for all users at every location, while Zscaler Cloud Sandbox scans and quarantines suspicious files to protect against zero-day threats and unknown malware strains.
+
+Paragraph 2
+
+- Zscaler Private Access (ZPA) delivers robust secure connectivity to approximately 3,794 private apps, primarily hosted in the AWS and Microsoft Azure cloud environments.
+- Business-critical apps include Jira, Confluence, and other tools used in product development.
+
+Paragraph 3
+
+- The Zscaler corporate environment consists of a variety of IT devices—macOS, Windows, Linux, laptops, Android and iOS mobile phones, and a limited set of IoT devices, from water dispensers and espresso machines to printers, environmental sensors, TVs, and more.
+- The Z on Z team uses agentless Zscaler Zero Trust Device Segmentation to isolate IoT devices into a network of one, automatically enforcing policies.
+
+Paragraph 4
+
+- “By virtue of our implementation, Zscaler has no attack surface, as no public IPs are exposed to the internet.
+- At the office level, we’ve completely eliminated the possibility of lateral movement of threats,” said Buckley Tole, Senior Director of Global Infrastructure.
+
+Paragraph 5
+
+- Zscaler Digital Experience (ZDX) is another tool used daily by the help desk to gain visibility into connectivity and network issues and proactively troubleshoot and mitigate them before users are impacted.
+- As Tole noted, Zscaler users stay productive and enjoy a consistently superior digital experience.
+
+### quotes
+
+Quot 1
+
+quote:
+By virtue of our implementation, Zscaler has no attack surface, as no public IPs are exposed to the internet. At the office level, we’ve completely eliminated the possibility of lateral movement of threats.
+
+#### speaker
+
+name:
+Buckley Tole
+
+title:
+Sr. Director
+
+company:
+Zscaler
+
+Quot 2
+
+quote:
+Once we implemented Zero Trust Branch and phased out our firewalls, we realized cost savings of up to 43%.
+
+#### speaker
+
+name:
+Buckley Tole
+
+title:
+Sr. Dir.
+
+company:
+Zscaler
+
+Section 3
+
+id:
+robust-fine-grained-data-security-from-endpoints-to-ai-apps
+
+title:
+Robust, fine-grained data security—from endpoints to AI apps
+
+### paragraphs
+
+Paragraph 1
+
+- Over the past few years, building out a robust data security strategy was a key initiative for the Z on Z team.
+- The two most important goals were to protect Zscaler’s crown jewels—its intellectual property and other sensitive data—and monitor AI app usage.
+
+Paragraph 2
+
+- The core infrastructure already provides always-on TLS/SSL traffic monitoring to prevent data exfiltration while blocking hidden malware and other encrypted threats.
+- In addition, Zscaler Zero Trust Browser isolates web content in a safe environment to not only ensure that malware and other potentially malicious files never reach the user’s device, but also prevent data exfiltration and stop risky actions.
+
+Paragraph 3
+
+- The team began by implementing stronger policies around business-critical data, such as source code, confidential documents, and other sensitive data.
+- They tuned the rules over time and then deployed them in waves—first to small test groups and, later, department by department.
+- Once that was completed, they built out exceptions for teams with valid use cases.
+
+Paragraph 4
+
+- To further amplify data protection, the team deployed Zscaler Data Security to gain instant visibility into structured and unstructured data across 15 key SaaS apps.
+- More recently, they rolled out Zscaler Endpoint DLP to extend consistent policies across all endpoints, including printers, removable storage, network shares, and personal cloud storage like Dropbox.
+
+Paragraph 5
+
+- In addition, they implemented Zscaler Data Security Posture Management (DSPM), which provides deep visibility into sensitive data that lives within the cloud environment, along with a view into account misconfigurations and vulnerabilities.
+- Zscaler DSPM automatically discovers, classifies, and inventories sensitive data and tracks exposure.
+- This helps the team prioritize and remediate risks faster and with greater accuracy through actionable insights and event correlation.
+
+Paragraph 6
+
+- These data security controls also help curb potential data loss and risky exposure from AI tools.
+- For example, Zscaler DSPM’s AI-powered classification helps ensure precise AI training data and excludes sensitive data, preventing oversharing or data poisoning.
+- Initially, the team took an aggressive stance on blocking AI usage, limiting users to authorized apps like ZChat, Zscaler’s proprietary in-house generative AI tool, and Google Gemini, but that practice has evolved.
+
+Paragraph 7
+
+- “The biggest data security challenge we were facing was around the AI explosion,” said Jake Schuldt, IT Security Manager.
+- “With strong, well-defined data usage rules in place, along with tools like Zscaler DSPM, we’re confident about our data security controls.
+- Now we can make exceptions for research and security teams that can benefit from responsible use of public AI tools.”
+
+### quotes
+
+Quot 1
+
+quote:
+The biggest data security challenge we were facing was around the AI explosion. With strong, well-defined data usage rules in place, along with tools like Zscaler DSPM, we’re confident about our data security controls. Now we can make exceptions for research and security teams that can benefit from responsible use of public AI tools.
+
+#### speaker
+
+name:
+Jake
+
+title:
+
+
+company:
+Zscaler
+
+Section 4
+
+id:
+modernizing-branch-connectivity-with-a-zero-trust-caf-like-experience
+
+title:
+Modernizing branch connectivity with a zero trust café-like experience
+
+### paragraphs
+
+Paragraph 1
+
+- When Zscaler’s apps resided in the data center, its 10 branch offices relied on dual firewalls and redundant WAN switches for securing the network perimeter.
+- But as Zscaler shifted to a cloud-first strategy, adopting SaaS apps and switching to a hybrid work model, it quickly became apparent that the legacy infrastructure would hinder agility and growth.
+- Zscaler Zero Trust Branch was an important step toward implementing a modern, café-like model.
+
+Paragraph 2
+
+- The process was methodical, starting with architectural reviews to foster full team alignment, moving on to successful pilots at selected sites, and, finally, an accelerated global rollout across all 10 sites that resulted in decommissioning 20 firewalls.
+
+Paragraph 3
+
+- The network team was pleased to see that Zero Trust Branch, unlike firewalls, could be deployed in hours, not days and with minimal disruption to users.
+- Moreover, agentless zero trust segmentation was successfully implemented across IoT devices, with no interoperability or app challenges.
+
+Paragraph 4
+
+- Today, with all traffic flowing through the Zero Trust Exchange platform, branch offices and remote workers benefit from direct zero trust access to apps from anywhere and on any device—no more backhauling or costly, complex appliances to manage and maintain.
+- With access enforced at the app level rather than the network level, lateral threat movement has been eliminated and the attack surface significantly reduced.
+
+Paragraph 5
+
+- “With the Zero Trust Branch, it’s as if the user is a network of one—they only have access to authorized private apps and anything sitting on the internet.
+- This was a significant uplift for us, as we were able to shrink our security footprint 99.9%,” said Tole.
+- “The changeover to Zero Trust Branch also positively impacted Zscaler’s bottom line.
+- Once we implemented Zero Trust Branch and phased out our firewalls, we realized cost savings of up to 43%.”
+
+Paragraph 6
+
+- Burks added that this deployment reinforced the idea that the future of branch connectivity lies in less hardware, more cloud intelligence, and a zero trust approach that enables agility, security, and innovation.
+- “For CIOs and CISOs, the lesson is clear: Zero Trust Branch is not just a technical upgrade—it’s a strategic shift that unlocks business value and resilience,” he added.
+
+### quotes
+
+Quot 1
+
+quote:
+With the Zero Trust Branch, it’s as if the user is a network of one—they only have access to authorized private apps and anything sitting on the internet. This was a significant uplift for us, as we were able to shrink our security footprint 99.9%. The changeover to Zero Trust Branch also positively impacted Zscaler’s bottom line. Once we implemented Zero Trust Branch and phased out our firewalls, we realized cost savings of up to 43%.
+
+#### speaker
+
+name:
+Tole
+
+title:
+
+
+company:
+Zscaler
+
+Quot 2
+
+quote:
+For CIOs and CISOs, the lesson is clear: Zero Trust Branch is not just a technical upgrade—it’s a strategic shift that unlocks business value and resilience.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Zscaler
+
+Quot 3
+
+quote:
+By using Zero Trust Cloud in conjunction with DSPM, ZPA, and other zero trust technologies, we have significantly accelerated business innovation.
+
+#### speaker
+
+name:
+Corey Burks
+
+title:
+Dir.
+
+company:
+Zscaler
+
+Section 5
+
+id:
+securing-developer-workloads-and-data-in-the-multicloud
+
+title:
+Securing developer workloads and data in the multicloud
+
+### paragraphs
+
+Paragraph 1
+
+- Just like any other growing enterprise on a digital transformation path, Zscaler faced common security challenges as its multicloud environment grew exponentially.
+- Due to the fluid, distributed nature of cloud workloads, the legacy approach lacked visibility into security gaps, anomalous behavior, and misconfigurations.
+- Additionally, data flowing between clouds and workloads needed consistent policies enforceable at scale.
+
+Paragraph 2
+
+- The IT team deployed Zscaler Zero Trust Cloud to secure ingress/egress workload traffic and workload-to-workload communication, segment mission-critical apps, and provide visibility into sensitive data and misconfigurations through real-time monitoring.
+
+Paragraph 3
+
+- “By using Zero Trust Cloud in conjunction with DSPM, ZPA, and other zero trust technologies, we have significantly accelerated business innovation,” said Burks.
+- “We successfully transformed our security infrastructure to be simpler, more efficient, and fully grounded in zero trust principles.”
+
+### quotes
+
+Quot 1
+
+quote:
+By using Zero Trust Cloud in conjunction with DSPM, ZPA, and other zero trust technologies, we have significantly accelerated business innovation. We successfully transformed our security infrastructure to be simpler, more efficient, and fully grounded in zero trust principles.
+
+#### speaker
+
+name:
+Burks
+
+title:
+
+
+company:
+Zscaler
+
+Section 6
+
+id:
+the-future-is-now-innovations-in-secure-use-of-ai
+
+title:
+The future is now: Innovations in secure use of AI
+
+### paragraphs
+
+Paragraph 1
+
+- Along with continually fine-tuning the platform, the Z on Z team has deployed the latest innovations to expand the organization’s zero trust footprint.
+- This includes Zscaler AI Guard, which acts as a proxy to inspect prompts and responses within private and public AI models and large language models (LLMs) to prevent sensitive data loss, block prompt injection attacks, ensure trustworthy results, and adhere to compliance regulations.
+- AI Guard complements Zscaler’s existing data security tools, adding a critical layer to the company’s defense in-depth strategy.
+
+Paragraph 2
+
+- “We use AI Guard to secure our internal AI tool, ZChat, where our users go for their day-to-day interactions with AI in a privatized environment.
+- AI Guard also protects inbound prompting and responses from LLMs in public-facing AI tools like ChatGPT, Perplexity, and Grok to ensure that we're not leaking company data sets,” said Burks.
+
+Paragraph 3
+
+- After deploying AI Guard, one of the first things he and his team noticed was an accelerated pace of innovation.
+- Allowing developers to securely leverage multiple public LLMs enables them to produce and deploy code faster rather than forcing them into a single tool that may not meet their needs.
+- “AI Guard helps us unlock the full potential of AI not only to secure Zscaler as an enterprise but also to roll out more robust products for our customers,” remarked Burks.
+
+### quotes
+
+Quot 1
+
+quote:
+We use AI Guard to secure our internal AI tool, ZChat, where our users go for their day-to-day interactions with AI in a privatized environment. AI Guard also protects inbound prompting and responses from LLMs in public-facing AI tools like ChatGPT, Perplexity, and Grok to ensure that we're not leaking company data sets.
+
+#### speaker
+
+name:
+Burks
+
+title:
+
+
+company:
+Zscaler
+
+Quot 2
+
+quote:
+AI Guard helps us unlock the full potential of AI not only to secure Zscaler as an enterprise but also to roll out more robust products for our customers.
+
+#### speaker
+
+name:
+Burks
+
+title:
+
+
+company:
+Zscaler
+
+Quot 3
+
+quote:
+[As customer zero] our mission is to enhance operational excellence, ensure robust security, and innovate … to demonstrate to customers the real-world value [of] Zscaler.
+
+#### speaker
+
+name:
+Corey Burks
+
+title:
+Dir.
+
+company:
+Zscaler
+
+Section 7
+
+id:
+expediting-m-a-integration-fosters-accelerated-innovation
+
+title:
+Expediting M&A integration fosters accelerated innovation
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- In addition to cost savings, operational efficiencies, improved security resilience, and a better user experience, the expansion of the Zscaler platform has also accelerated M&A integration for faster time-to-value.
+
+Paragraph 2
+
+- To expand its integrated security platform, Zscaler completed 12 acquisitions over a five-year time span.
+- To add AI-powered managed detection and response (MDR) service to its security operations offerings, Zscaler acquired Red Canary.
+- The Z on Z team worked closely with Red Canary’s team to identify business-critical apps and ensure they would work seamlessly with the Zero Trust Exchange.
+- After only one month of rigorous testing, network integration was seamless and users were 100% operational on day one post-acquisition—a process that normally takes six months or longer.
+
+Paragraph 3
+
+- Most recently, Zscaler acquired SPLX so that enterprises can secure their AI investments from development through deployment.
+- Burks and Schuldt got involved five days prior to the deal close, quickly deploying ZIA and applying all DLP policies so SPLX users could transition easily and without disruption.
+
+Section 8
+
+id:
+the-power-of-z-on-z-a-resilient-and-proven-foundation-for-excellence
+
+title:
+The power of Z on Z: A resilient and proven foundation for excellence
+
+### paragraphs
+
+Paragraph 1
+
+- Z on Z is uniquely positioned to advance Zscaler’s business goals and provide value to its customers.
+- On one hand, Zscaler’s zero trust infrastructure enables research, engineering, and product teams to build, deploy, and scale new apps and products for customers.
+- On the other hand, the team has an opportunity to stress-test the latest Zscaler products in a real-world production environment before they are released to the customer base.
+- This rigorous internal validation ensures product maturity and reliability.
+
+Paragraph 2
+
+- Recent expansion of the internal zero trust platform has contributed to more efficient and secure internal operations and a more robust product portfolio for Zscaler customers.
+- The IT and security team is making the most of nearly every Zscaler tool and feature in the current setup.
+- Based on an assessment by an internal tool, utilization of the current Zscaler setup is at 93% for the 15 out of 16 products deployed.
+
+Paragraph 3
+
+- Every new product is under close scrutiny to ensure issues are dealt with and necessary refinements are incorporated.
+- Product leads, managers, and executives leverage the program to get feedback from the team on what improvements should be made from a day-to-day operational perspective, such as enhancements to the user interface and expanding the feature set.
+
+Paragraph 4
+
+- As a case in point, Schuldt explains his deep involvement in testing Zscaler Risk360.
+- His input ultimately contributed to a more robust product: “A big part of my feedback early on was on how to enrich Risk360 reporting.
+- For example, I suggested assessing and quantifying the business impact of resolving issues before actually doing the work.
+- I also provided general feedback around enhancing metrics so we could track the value of long-term cybersecurity posture improvements resulting from our fixes.”
+
+Paragraph 5
+
+- With this approach, Zscaler demonstrates leadership by example and fine-tunes its emerging innovations.
+
+Paragraph 6
+
+- “At Zscaler, we all experience firsthand the security, agility, and user experience promised to customers,” said Burks.
+- “This transparency strengthens trust when we engage with CIOs and CISOs—we are not only advocates, but practitioners.
+- In every sense, we are ‘drinking our own champagne’ every day.”
+
+### quotes
+
+Quot 1
+
+quote:
+At Zscaler, we all experience firsthand the security, agility, and user experience promised to customers. This transparency strengthens trust when we engage with CIOs and CISOs—we are not only advocates, but practitioners. In every sense, we are ‘drinking our own champagne’ every day.
+
+#### speaker
+
+name:
+Burks
+
+title:
+
+
+company:
+Zscaler
+
+====================================================
+# products
+
+Product 1
+
+name:
+Endpoint DLP
+
+url:
+null
+
+Product 2
+
+name:
+DSPM
+
+url:
+null
+
+Product 3
+
+name:
+Zero Trust Firewall
+
+url:
+https://www.zscaler.com/resources/data-sheets/zscaler-firewall.pdf
+
+Product 4
+
+name:
+Zero Trust for IoT/OT
+
+url:
+https://www.zscaler.com/products-and-solutions/secure-your-ot-and-iot
+
+Product 5
+
+name:
+Zero Trust Browser
+
+url:
+https://www.zscaler.com/products-and-solutions/browser-isolation
+
+Product 6
+
+name:
+Risk360
+
+url:
+https://www.zscaler.com/products-and-solutions/zscaler-risk-360
+
+Product 7
+
+name:
+Zero Trust Branch
+
+url:
+https://www.zscaler.com/products-and-solutions/zero-trust-branch
+
+Product 8
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 9
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 10
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Accelerate M&A and Divestitures
+
+url:
+https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+
+Solution 2
+
+name:
+Secure Remote Access
+
+url:
+https://www.zscaler.com/products-and-solutions/vpn-alternative
+
+Solution 3
+
+name:
+AI/ML
+
+url:
+null
+
+Solution 4
+
+name:
+Business Analytics
+
+url:
+null
+
+Solution 5
+
+name:
+Stop Cyberattacks
+
+url:
+https://www.zscaler.com/products-and-solutions/zscaler-risk-360
+
+Solution 6
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 7
+
+name:
+Zero Trust
+
+url:
+null
+
+Solution 8
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 9
+
+name:
+SASE & SSE
+
+url:
+https://www.zscaler.com/products-and-solutions/secure-access-service-edge-sase
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+106506
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Zscaler Zscaler Evolves Its Own Zero Trust Platform to Fuel AI Innovation While Acting as a Testbed for Emerging Products with Zscaler leads by example by protecting IP and preventing AI app data loss and misuse, securing R&D cloud workloads, and boosting agility with a café-like branch experience.
+
+og_title:
+Zscaler Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/zscaler

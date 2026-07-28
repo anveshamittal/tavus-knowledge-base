@@ -1,0 +1,543 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/new-jersey-judiciary
+
+slug:
+new-jersey-judiciary
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:42.596782Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+New Jersey Judiciary Secures Virtual Courtrooms
+
+subtitle:
+and Work-from-Anywhere Access with the Zscaler Zero Trust Exchange
+
+customer_name:
+New Jersey Judiciary
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Implement secure, work-from-anywhere solution and security service edge (SSE) zero trust foundation
+
+## results
+
+- Reaps an estimated $10.7 million ROI in reduced technology costs, operational efficiencies, and more
+- Enabled 10,000 employees to securely work from anywhere in just six days
+- Facilitated an increase of virtual courtrooms from 40 to 400 in the same time frame
+- Eliminated the risk of lateral movement if a cyberattack occurs
+- Allows consistent security policies regardless of users' locations
+
+====================================================
+# customer_snapshot
+
+title:
+New Jersey Judiciary
+
+description:
+The New Jersey Judiciary (NJJ) encompasses the New Jersey supreme court, 21 county courts, and 535 municipal and other lower courts. Each year, about 7 million new cases are filed in these courts. When the COVID-19 pandemic hit, the NJJ enabled its 10,000 employees to work from home and created 400 virtual courts.
+
+industry:
+Federal and Government
+
+headquarters:
+Trenton, New Jersey, USA
+
+size:
+10k employees; 175k users from Judicial Case Management Program
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Thanks to Zscaler, we were able to complete six months of work in six days, securing our organization during the pandemic. Zscaler continues to be part of this strategic journey today.
+
+## speaker
+
+name:
+Jack McCarthy
+
+title:
+CIO
+
+company:
+New Jersey Judiciary
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+section-1
+
+title:
+
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- The New Jersey Judiciary (NJJ), or justice system, encompasses the New Jersey Supreme Court, 21 county courts, and 535 municipal and other courts.
+- When the COVID-19 pandemic hit, the NJJ transformed court systems to operate virtually while remaining secure.
+- By implementing the Zscaler Zero Trust Exchange, which provides a comprehensive security service edge (SSE) platform, the organization enabled its 10,000 employees to work securely from anywhere and increased the number of virtual courtrooms from 40 to 400 — in just six days.
+
+Paragraph 2
+
+- But that wasn’t the only benefit of implementing the cloud security platform.
+
+Paragraph 3
+
+- With the Zscaler solution and its zero trust approach, NJJ transformed security and business operations long after the pandemic waned.
+- Implementing the Zero Trust Exchange dramatically boosted the court system’s security posture, improved user experience and productivity, and increased agility in multiple ways.
+- As a result, SSE and zero trust have become essential to NJJ’s strategic roadmap moving forward.
+
+Section 2
+
+id:
+expanding-scope-from-casb-to-zero-trust
+
+title:
+Expanding scope from CASB to zero trust
+
+### paragraphs
+
+Paragraph 1
+
+- Prior to the pandemic, as part of its digital transformation initiative, NJJ was looking for a CASB solution to secure infrastructure and prevent shadow IT as the court system began migrating applications to the cloud, including Microsoft SaaS applications and Zoom.
+- During a call with a Gartner analyst to discuss using a cloud brokerage service, the analyst suggested a zero trust approach.
+
+Paragraph 2
+
+- “A zero trust model was very new to us, but it made perfect sense because you assign privileges to devices and users and only allow access to the applications they need,” said Ron Wildmann, NJJ assistant director of Infrastructure and Technical Services.
+- “Zero trust allows us to remove all that implied trust [in legacy architectures] and forces us to architect our security so that we can only explicitly trust the things we want accessing our applications.”
+
+Paragraph 3
+
+- The zero trust vision, which encompasses more than any single point solution, led NJJ to conduct a proof of concept of the Zscaler Zero Trust Exchange™ and two of its services: Zscaler Private Access™ (ZPA™) and Zscaler Internet Access™ (ZIA™).
+- ZPA provides direct, user-to-application zero trust network access (ZTNA), and ZIA is a secure web gateway (SWG) that includes inline inspection of all internet traffic, including SSL decryption, and a suite of AI-powered cloud security services based on threat intelligence from the world’s largest security cloud.
+
+### quotes
+
+Quot 1
+
+quote:
+A zero trust model was very new to us, but it made perfect sense because you assign privileges to devices and users and only allow access to the applications they need. Zero trust allows us to remove all that implied trust [in legacy architectures] and forces us to architect our security so that we can only explicitly trust the things we want accessing our applications.
+
+#### speaker
+
+name:
+Ron
+
+title:
+
+
+company:
+New Jersey Judiciary
+
+Quot 2
+
+quote:
+"Thanks to Zscaler, we were able to complete six months of work in six days, securing our organization during the pandemic. Zscaler continues to be part of this strategic journey today, and in the future, giving our employees secure access to applications and systems anywhere, anytime, and on any device."
+
+#### speaker
+
+name:
+Jack McCarthy
+
+title:
+CIO
+
+company:
+New Jersey Judiciary
+
+Section 3
+
+id:
+pandemic-drives-ztna
+
+title:
+Pandemic drives ZTNA
+
+### paragraphs
+
+Paragraph 1
+
+- With the onset of the pandemic, NJJ was forced to expand its VPN usage from 2,300 users to 8,000, which dramatically degraded user experience and increased VPN-related security risk.
+- Having just completed a very successful POC of the Zscaler ZTNA solution, the organization decided to pivot from VPNs.
+- Switching from VPNs to the Zero Trust Exchange and ZPA for remote access provided a much better user experience with additional layers of security.
+
+Paragraph 2
+
+- The improvement in user experience and security for remote users led NJJ to expand ZPA beyond remote work to every user, even those on-premises.
+- Today, some jury trials are in person while other hearings, such as those held on weekends, remain remote.
+- The NJJ also deployed ZPA Private Service Edge locally to provide consistent, zero trust access across its dynamic, hybrid work environment.
+- It’s now quick and easy to switch in-person events to virtual when needed — for instance, during weather events such as snowstorms or flooding.
+
+Paragraph 3
+
+- Wherever the user connects, whether in a courthouse or elsewhere, ZPA authenticates the user and grants or denies access to virtual courtrooms or other private applications based on security checks that NJJ has set up, such as multi-factor authentication, device posture assessment, and even time of day.
+- (For example, access may only be available during normal business hours.)
+
+### quotes
+
+Quot 1
+
+quote:
+“With ZDX, we can say the problem is in your home or in our network or our data center,” said McCarthy. “We can quickly… get to the root of the problem instead of trying to troubleshoot for hours and hours and hours.”
+
+#### speaker
+
+name:
+Jack McCarthy
+
+title:
+CIO
+
+company:
+New Jersey Judiciary
+
+Section 4
+
+id:
+agility-to-meet-business-and-it-needs-more-easily
+
+title:
+Agility to meet business and IT needs more easily
+
+### paragraphs
+
+Paragraph 1
+
+- Alongside ZPA, NJJ also rolled out ZIA for fast, secure internet and SaaS access.
+- After deploying ZPA and ZIA, the ZTNA and SWG services of the Zero Trust Exchange, the organization was sold on the value of an SSE.
+- “Going through the Zero Trust Exchange… you don’t have to employ all the different components [and] don’t have to integrate all these little pieces into one solution,” noted New Jersey Judiciary CIO Jack McCarthy.
+
+Paragraph 2
+
+- With the Zero Trust Exchange, NJJ can deploy unified, consistent security policies across cloud channels and leverage additional services to meet needs as they arise.
+- For instance, to reduce risk by thoroughly analyzing file downloads, the organization activated the Zscaler Advanced Sandbox service within the Zero Trust Exchange.
+- The organization is also considering implementing Zscaler Data Protection cloud DLP services.
+
+Paragraph 3
+
+- In addition, after most workers were sent home and the NJJ help desk team found itself spending hours trying to diagnose their connectivity issues — difficulty connecting, frequent disconnects, or blurry video conference images — the organization took advantage of the Zscaler Digital Experience™ (ZDX™) user experience monitoring service.
+- Activating ZDX took just a click of a button and saved the IT help desk hours each week.
+
+Paragraph 4
+
+- “With ZDX, we can say the problem is in your home or in our network or our data center,” said McCarthy.
+- “We can quickly… get to the root of the problem instead of trying to troubleshoot for hours and hours and hours.”
+
+### quotes
+
+Quot 1
+
+quote:
+Going through the Zero Trust Exchange… you don’t have to employ all the different components [and] don’t have to integrate all these little pieces into one solution.
+
+#### speaker
+
+name:
+Jack McCarthy
+
+title:
+CIO
+
+company:
+New Jersey Judiciary
+
+Quot 2
+
+quote:
+With ZDX, we can say the problem is in your home or in our network or our data center. We can quickly… get to the root of the problem instead of trying to troubleshoot for hours and hours and hours.
+
+#### speaker
+
+name:
+McCarthy
+
+title:
+
+
+company:
+New Jersey Judiciary
+
+Quot 3
+
+quote:
+“Zscaler is allowing us to rewrite how we view security and how we secure our business.”
+
+#### speaker
+
+name:
+Jack McCarthy
+
+title:
+CIO
+
+company:
+New Jersey Judiciary
+
+Section 5
+
+id:
+embracing-an-unpredictable-future-with-zscaler-sse
+
+title:
+Embracing an unpredictable future with Zscaler SSE
+
+### paragraphs
+
+Paragraph 1
+
+- "With 75% of our employees working remotely, SSE needs to be part of our strategic roadmap," said McCarthy.
+- "Thanks to Zscaler, we were able to complete six months of work in six days, securing our organization during the pandemic.
+- Zscaler continues to be part of this strategic journey today, and in the future, giving our employees secure access to applications and systems anywhere, anytime, and on any device."
+
+Paragraph 2
+
+- “Zscaler is allowing us to rewrite how we view security and how we secure our business,” continued McCarthy.
+- “I think the days of just providing additional layers on a network and hoping you got it right, hoping you've closed the holes, are gone… We're going to need to have our security outside of the perimeter instead of inside… [And] be ready for the unpredictable.”
+
+### quotes
+
+Quot 1
+
+quote:
+With 75% of our employees working remotely, SSE needs to be part of our strategic roadmap. Thanks to Zscaler, we were able to complete six months of work in six days, securing our organization during the pandemic. Zscaler continues to be part of this strategic journey today, and in the future, giving our employees secure access to applications and systems anywhere, anytime, and on any device.
+
+#### speaker
+
+name:
+McCarthy
+
+title:
+
+
+company:
+New Jersey Judiciary
+
+Quot 2
+
+quote:
+Zscaler is allowing us to rewrite how we view security and how we secure our business. I think the days of just providing additional layers on a network and hoping you got it right, hoping you've closed the holes, are gone… We're going to need to have our security outside of the perimeter instead of inside… [And] be ready for the unpredictable.
+
+#### speaker
+
+name:
+McCarthy
+
+title:
+
+
+company:
+New Jersey Judiciary
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 4
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 5
+
+name:
+Web and Email DLP
+
+url:
+https://www.zscaler.com/products-and-solutions/data-loss-prevention
+
+Product 6
+
+name:
+Sandbox
+
+url:
+https://www.zscaler.com/technology/cloud-sandbox
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 3
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 4
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+50061
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how New Jersey Judiciary New Jersey Judiciary Secures Virtual Courtrooms with and Work-from-Anywhere Access with the Zscaler Zero Trust Exchange.
+
+og_title:
+New Jersey Judiciary Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/new-jersey-judiciary

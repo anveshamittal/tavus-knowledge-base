@@ -1,0 +1,518 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/ucsb
+
+slug:
+ucsb
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:56:50.825166Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+UC Santa Barbara Accelerates Compliance with Zero Trust Segmentation Across 400+ Campus Locations
+
+subtitle:
+Agentless device segmentation and zero trust application access unlocks true campus-wide microsegmentation to simplify operations, reduce lateral threats, and offset costs
+
+customer_name:
+UC Santa Barbara
+
+## metrics
+
+Metric 1
+
+value:
+125K
+
+label:
+connected devices on campus
+
+Metric 2
+
+value:
+~2,500
+
+label:
+traditional network segments protected through zero trust segmentation
+
+Metric 3
+
+value:
+40+
+
+label:
+VPN profiles targeted for retirement
+
+====================================================
+# summary
+
+## challenges
+
+- The UC system president issued a mandate requiring segmentation of university and visitor business and vulnerability management across university-owned devices.
+- Legacy approaches that tied segmentation to location and historical ownership could not scale to UCSB’s 400+ locations and 125,000 devices—many of them BYOD and not centrally managed.
+- VPN-based remote access and a patchwork of network stacks and philosophies increased complexity and limited UCSB’s ability to securely support BYOD.
+
+## phased_journey
+
+- Centralized core network operations and defined a new target-state architecture that replaces VPN and enables policy-based security at scale.
+- Implemented agentless device segmentation to discover devices and control east-west traffic.
+- Adopted a zero trust approach to application connectivity, meaning users can reach private apps and servers without extending UCSB’s network to unmanaged devices.
+
+## results
+
+- Reduces complexity and avoids costs by minimizing the need to build and maintain thousands of traditional network segments and intermediary controls.
+- Improves security posture by shrinking the attack surface and limiting lateral movement between university business systems, visitors, and BYOD.
+- Accelerates progress toward UC system mandates by enabling consistent, policy-based segmentation and secure access across a highly distributed campus.
+
+====================================================
+# customer_snapshot
+
+title:
+UC Santa Barbara
+
+description:
+A leading research institution offering 200-plus majors, degrees and credentials
+
+industry:
+Education
+
+headquarters:
+Santa Barbara, CA, USA
+
+size:
+25,000 students, 1,800 faculty, multiple satellite locations, 427 connected buildings
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/58gz17d09q
+
+provider:
+wistia
+
+video_id:
+58gz17d09q
+
+title:
+UC Santa Barbara Accelerates Compliance with Zero Trust Segmentation Across 400+ Campus Locations
+
+description:
+a Customer Testimonials video
+
+duration_seconds:
+174.707
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/7e49291c12d5785edd7b627147a7e5a9ab852d34.bin
+
+### transcript
+
+language:
+eng
+
+#### sentences
+
+1.
+I'm Shay Levin.
+
+2.
+I'm the chief technology officer at University of California, Santa Barbara.
+
+3.
+We have about eighteen hundred ladder faculty.
+
+4.
+Eighteen hundred startups being supported by a government agency It is also a small municipality.
+
+5.
+So it's a complicated large scale environment with an instruction focus and then all of this research activity.
+
+6.
+The president of the University of California system directed the chancellors to achieve a set of cybersecurity goals.
+
+7.
+And for UCSB, we had to do a significant level of modernization to meet the mandate.
+
+8.
+We had to ensure that we're performing vulnerability management functions for all university owned devices.
+
+9.
+And how do we ensure that university business is segregated from business being performed by visitors to campus and still coming back recognizing that a significant fraction of university's business is being performed on personally owned devices.
+
+10.
+There are at any given time on campus thirty five thousand people and between eighty thousand and a hundred twenty five thousand devices.
+
+11.
+We also have four hundred and twenty seven network connected buildings.
+
+12.
+Almost every building has some building control system that needs to be isolated from everything else.
+
+13.
+Some buildings have need for research DMC.
+
+14.
+Some buildings have need for more secure network functionality.
+
+15.
+Traditional network assignments was going to introduce more complexity than was going to be manageable.
+
+16.
+Looking at two thousand to two thousand five hundred different networks having to be plumbed into those four hundred odd buildings.
+
+17.
+It was going to be expensive and it was going to be complex and we were still trying to find a way to not make this worse for the users.
+
+18.
+You know, our faculty do groundbreaking research.
+
+19.
+Anything that interrupts that is a problem.
+
+20.
+We ultimately went about micro segmentation.
+
+21.
+The zero trust model for networking as a way to eliminate that complexity while still being able to meet the security objectives that were contained at the president's mandate.
+
+22.
+We have a single network per geographic location and we let the policy engine actually segment traffic.
+
+23.
+That policy will follow the device as it roams around campus regardless of how it's connecting.
+
+24.
+On the other side of it, we had a giant problem around how to manage the BYOD universe in higher education.
+
+25.
+Secure server access gave us a way to say, we don't really care as much about whether you're working on a personally owned device or university device, but we can make sure that you don't exfiltrate data inappropriately if the data is too sensitive for the security posture of your device.
+
+26.
+We are fundamentally changing how UCSB has run their network for the last forty years.
+
+27.
+But at the end of this, we will be in a space where the researchers will be able work with the systems that they need to work with, where the student information will be protected the way it needs to be protected, where the financial and personal information will be siloed off into administrative bins separate from all of the academic and research functions.
+
+28.
+That will create the environment where everybody is able to get the work done that they need to do while significantly improving the security posture of the campus.
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+Shea Lovan (CTO, UC Santa Barbara)
+
+tag:
+self_introduction
+
+topic:
+Introduction and role at UCSB
+
+text:
+I'm Shay Levin. I'm the chief technology officer at University of California, Santa Barbara. We have about eighteen hundred ladder faculty. Eighteen hundred startups being supported by a government agency It is also a small municipality.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+Shea Lovan (CTO, UC Santa Barbara)
+
+tag:
+challenges
+
+topic:
+Complex environment and cybersecurity goals
+
+text:
+So it's a complicated large scale environment with an instruction focus and then all of this research activity. The president of the University of California system directed the chancellors to achieve a set of cybersecurity goals. And for UCSB, we had to do a significant level of modernization to meet the mandate. We had to ensure that we're performing vulnerability management functions for all university owned devices.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+Shea Lovan (CTO, UC Santa Barbara)
+
+tag:
+challenges
+
+topic:
+Segregating university and visitor business
+
+text:
+And how do we ensure that university business is segregated from business being performed by visitors to campus and still coming back recognizing that a significant fraction of university's business is being performed on personally owned devices. There are at any given time on campus thirty five thousand people and between eighty thousand and a hundred twenty five thousand devices. We also have four hundred and twenty seven network connected buildings. Almost every building has some building control system that needs to be isolated from everything else.
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+Shea Lovan (CTO, UC Santa Barbara)
+
+tag:
+challenges
+
+topic:
+Complexity of traditional network assignments
+
+text:
+Some buildings have need for research DMC. Some buildings have need for more secure network functionality. Traditional network assignments was going to introduce more complexity than was going to be manageable. Looking at two thousand to two thousand five hundred different networks having to be plumbed into those four hundred odd buildings.
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+Shea Lovan (CTO, UC Santa Barbara)
+
+tag:
+challenges
+
+topic:
+Cost and user experience concerns
+
+text:
+It was going to be expensive and it was going to be complex and we were still trying to find a way to not make this worse for the users. You know, our faculty do groundbreaking research. Anything that interrupts that is a problem.
+
+Segment 6
+
+segment_id:
+6
+
+speaker:
+Shea Lovan (CTO, UC Santa Barbara)
+
+tag:
+products_and_solutions
+
+topic:
+Adopting zero trust and micro segmentation
+
+text:
+We ultimately went about micro segmentation. The zero trust model for networking as a way to eliminate that complexity while still being able to meet the security objectives that were contained at the president's mandate. We have a single network per geographic location and we let the policy engine actually segment traffic. That policy will follow the device as it roams around campus regardless of how it's connecting.
+
+Segment 7
+
+segment_id:
+7
+
+speaker:
+Shea Lovan (CTO, UC Santa Barbara)
+
+tag:
+products_and_solutions
+
+topic:
+Managing BYOD with secure server access
+
+text:
+On the other side of it, we had a giant problem around how to manage the BYOD universe in higher education. Secure server access gave us a way to say, we don't really care as much about whether you're working on a personally owned device or university device, but we can make sure that you don't exfiltrate data inappropriately if the data is too sensitive for the security posture of your device.
+
+Segment 8
+
+segment_id:
+8
+
+speaker:
+Shea Lovan (CTO, UC Santa Barbara)
+
+tag:
+general_discussion
+
+topic:
+Transforming UCSB's network operations
+
+text:
+We are fundamentally changing how UCSB has run their network for the last forty years. But at the end of this, we will be in a space where the researchers will be able work with the systems that they need to work with, where the student information will be protected the way it needs to be protected, where the financial and personal information will be siloed off into administrative bins separate from all of the academic and research functions.
+
+Segment 9
+
+segment_id:
+9
+
+speaker:
+Shea Lovan (CTO, UC Santa Barbara)
+
+tag:
+metrics_and_results
+
+topic:
+Improved security and productivity
+
+text:
+That will create the environment where everybody is able to get the work done that they need to do while significantly improving the security posture of the campus.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+148383795
+
+created_at:
+1779829230
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+We are fundamentally changing how UCSB has run their network for the last 40 years. But with this approach, our faculty, staff, and students will have access to the systems, data, and services that they need to pursue their academic or research objectives—wherever they are on campus or in the world.
+
+## speaker
+
+name:
+Shea Lovan
+
+title:
+CTO
+
+company:
+UC Santa Barbara
+
+====================================================
+# customer_case_study
+
+title:
+null
+
+sections:
+[]
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zero Trust for IoT/OT
+
+url:
+https://www.zscaler.com/products-and-solutions/secure-your-ot-and-iot
+
+Product 2
+
+name:
+Zero Trust Branch
+
+url:
+https://www.zscaler.com/products-and-solutions/zero-trust-branch
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust Branch & Cloud
+
+url:
+null
+
+Solution 2
+
+name:
+Secure IoT & OT
+
+url:
+null
+
+Solution 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+null
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+110641
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how UC Santa Barbara UC Santa Barbara Accelerates Compliance with Zero Trust Segmentation Across 400+ Campus Locations with Agentless device segmentation and zero trust application access unlocks true campus-wide microsegmentation to simplify operations, reduce lateral threats, and offset costs.
+
+og_title:
+UC Santa Barbara Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/ucsb

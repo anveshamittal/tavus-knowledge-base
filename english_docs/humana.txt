@@ -1,0 +1,720 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/humana
+
+slug:
+humana
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:55:30.909046Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Humana Secures Patient and Employee Data
+
+subtitle:
+with the Zscaler Zero Trust Exchange
+
+customer_name:
+Humana
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Deliver zero touch security to ensuring great experiences while supporting a remote workforce
+
+## results
+
+- Deployed ZPA to 10,000 users—with plans to deploy to all users
+- Enables work-from-anywhere across 75% of the workforce
+- Uses Cloud Browser to simplify third-party authentication and reduce risk
+- Simplifies onboarding by leveraging Zscaler and Azure AD together
+- Replaces VPN to improve security and the overall experience
+
+====================================================
+# customer_snapshot
+
+title:
+Humana
+
+description:
+Founded in 1961 in Louisville, Kentucky, Humana is a for-profit health insurance company. With more than 95,500 employees as of December 2021, they offer a simple approach—offer personalized care from people who care.
+
+industry:
+Healthcare and Pharmaceutical
+
+headquarters:
+Louisville, KY, USA
+
+size:
+95,500+ employees
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/e0gbp80604
+
+provider:
+wistia
+
+video_id:
+e0gbp80604
+
+title:
+Humana
+
+description:
+a ZL Keynote Video Segments for web (Thur) video
+
+duration_seconds:
+423.873
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/d7261bd0e0f7707fd16829d5eb8a999ec67c2eb4.bin
+
+### transcript
+
+language:
+eng
+
+#### sentences
+
+1.
+So now let's talk about how Zscaler and a Microsoft integration can benefit our customers.
+
+2.
+So for that, I would like to actually introduce Jason Chung, who's the vice president of network and security at Humana.
+
+3.
+To share with us how Zill Trust is helping them to play offense.
+
+4.
+Welcome, Jason.
+
+5.
+Alright.
+
+6.
+Hello, everyone.
+
+7.
+You know, I thought about you know, I've been to many of these conferences, and if I'm sitting in your seat, what do I really wanna hear about?
+
+8.
+And it's frankly, it's just how does another customer, how does another peer in the industry?
+
+9.
+How do they deliver and execute some of these solutions that you've heard about all week?
+
+10.
+So I'm trying to keep it simple.
+
+11.
+I have no slides This is going to talk about what we do at Humana.
+
+12.
+Right?
+
+13.
+Security and privacy are very important to every organization.
+
+14.
+And since we're in the health care industry, those are top of mind for us.
+
+15.
+You know, at Humana, we rely on a zero touch approach, not only to keep our employees and plan members safe, But really, it helps to create innovation and grow as a business.
+
+16.
+So let us let me tell you walk through some of the ways we're using Microsoft and Zscaler together.
+
+17.
+First, we use, Microsoft AD, for identity and access management with tight integration with Zscaler, just like the demo you've heard from Matt earlier today.
+
+18.
+For example, we deploy and configure the Zscaler client connector to every single device in our organization.
+
+19.
+First, we use Intune to onboard our users quickly, and then we onboard their end user devices.
+
+20.
+Next, the next process to that, we use Azure AD to onboard the employees to our applications.
+
+21.
+So once that's done, We take advantage of Azure AD single sign on to connect to Office three sixty five and all of our key SaaS platforms like Salesforce, Workday, Oracle for one hundred and thirty thousand users.
+
+22.
+And for any new applications that come into our environment, they have to go through the Azure AD, single sign on process.
+
+23.
+You know, as Joyce said about her own team at Microsoft, same thing at Humana, we don't expect our employees to come back to the office.
+
+24.
+You know, we're listening to our employees.
+
+25.
+They're all asking for options.
+
+26.
+They wanna choose their own work style.
+
+27.
+And so whatever option they choose, It's important for us as leaders.
+
+28.
+We have to keep our employees secure and and productive.
+
+29.
+And so Microsoft has been a real key partner for us at Humana.
+
+30.
+We've deployed Microsoft Defender to every work station in our environment.
+
+31.
+And we're really looking forward to the integration shown today with the demo from Zscaler.
+
+32.
+We also want to give our employees the flexibility to work from anywhere.
+
+33.
+And so we actually rolled out ZIA to our entire environment to over I think it was two hundred thousand devices.
+
+34.
+And using ZIA with Microsoft three sixty five, It really gives our our users a better experience because they can connect from anywhere and directly connect to the Office platform.
+
+35.
+And it really helps to continue our journey down a cloud first architecture at Humana.
+
+36.
+And similar to many of you, we're going to look towards the future, which is we wanna get rid of VPN.
+
+37.
+Right?
+
+38.
+Why do we need people to why do we need our employees to VPN anymore?
+
+39.
+And so we're working with, Zscaler to deploy ZPA and cloud connectors.
+
+40.
+So the next few months, we're going to deploy ZPA to about ten thousand users, as a pilot with the stretch goal of deploying ZPA to our entire organization by the end of twenty twenty three.
+
+41.
+And so ZPA plus Azure AD will make it possible for our employees to access all of our internal applications the same way they access a SaaS app no matter where they come from.
+
+42.
+We also wanna simplify how we connect our workloads.
+
+43.
+And we're gonna do that with Zscaler cloud connector, where we can seamlessly enable secure communications between workloads, sitting on prem in our data centers, and also in our cloud environments, and we use all three.
+
+44.
+Azure AWS and GCP.
+
+45.
+You know, Joy also mentioned, taking advantage of talent through collaboration and and acquisitions.
+
+46.
+And, you know, one of the ways that Humana is growing our business is through mergers and acquisitions.
+
+47.
+In the health care industry, consolidation is just a a fact of life.
+
+48.
+And so onboarding these new acquisitions, has been really painful.
+
+49.
+There's going through a tedious, you know, exercise of how do you connect networks, how do you connect data centers, And so, really, we're asking ourselves, how do we, you know, create a light integration quickly so we can take advantage of the return on investments.
+
+50.
+And so we're gonna do that with cloud browser isolation.
+
+51.
+We're going to be able to use CBI to onboard our acquisitions quickly so that our new employees can authenticate through Azure AD, and then have access to our entire application portfolio so they can be quickly productive.
+
+52.
+We don't have to deal with creating, you know, installing circuits or MPLS or VPN tunnels into our data centers.
+
+53.
+Not that that needs to happen anymore.
+
+54.
+So with ZBI, with CBI, and Azure AD, our employees can quickly take advantage of connecting to applications regardless of what network they're on.
+
+55.
+So I know that was a a quick overview And I know that you've listened to the folks on the stage.
+
+56.
+It seems very easy, but I'm just gonna tell you that, you know, in reality, it's not always easy, right?
+
+57.
+But What's important is you should focus on, you know, what's the business requirements, business functionality that you are trying to deliver.
+
+58.
+What is the user experience?
+
+59.
+Right?
+
+60.
+That's very important.
+
+61.
+You've heard that throughout this week.
+
+62.
+And take advantage of you know, the Zscaler team that you guys work with, you know, your sales team, your sales engineering team, they're really here for for you.
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+Jason Truong (VP, Networking & Sec. Engineering Ops., Humana)
+
+tag:
+general_discussion
+
+topic:
+Introduction to Zscaler and Microsoft integration
+
+text:
+So now let's talk about how Zscaler and a Microsoft integration can benefit our customers.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+Jason Truong (VP, Networking & Sec. Engineering Ops., Humana)
+
+tag:
+self_introduction
+
+topic:
+Introducing Jason Chung from Humana
+
+text:
+So for that, I would like to actually introduce Jason Chung, who's the vice president of network and security at Humana. To share with us how Zill Trust is helping them to play offense. Welcome, Jason.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+Jason Truong (VP, Networking & Sec. Engineering Ops., Humana)
+
+tag:
+self_introduction
+
+topic:
+Jason's introduction and approach
+
+text:
+Alright. Hello, everyone. You know, I thought about you know, I've been to many of these conferences, and if I'm sitting in your seat, what do I really wanna hear about? And it's frankly, it's just how does another customer, how does another peer in the industry? How do they deliver and execute some of these solutions that you've heard about all week? So I'm trying to keep it simple. I have no slides This is going to talk about what we do at Humana. Right?
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+Jason Truong (VP, Networking & Sec. Engineering Ops., Humana)
+
+tag:
+challenges
+
+topic:
+Importance of security and privacy in healthcare
+
+text:
+Security and privacy are very important to every organization. And since we're in the health care industry, those are top of mind for us. You know, at Humana, we rely on a zero touch approach, not only to keep our employees and plan members safe, But really, it helps to create innovation and grow as a business.
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+Jason Truong (VP, Networking & Sec. Engineering Ops., Humana)
+
+tag:
+products_and_solutions
+
+topic:
+Using Microsoft AD and Zscaler integration
+
+text:
+So let us let me tell you walk through some of the ways we're using Microsoft and Zscaler together. First, we use, Microsoft AD, for identity and access management with tight integration with Zscaler, just like the demo you've heard from Matt earlier today.
+
+Segment 6
+
+segment_id:
+6
+
+speaker:
+Jason Truong (VP, Networking & Sec. Engineering Ops., Humana)
+
+tag:
+products_and_solutions
+
+topic:
+Deploying Zscaler client connector
+
+text:
+For example, we deploy and configure the Zscaler client connector to every single device in our organization. First, we use Intune to onboard our users quickly, and then we onboard their end user devices.
+
+Segment 7
+
+segment_id:
+7
+
+speaker:
+Jason Truong (VP, Networking & Sec. Engineering Ops., Humana)
+
+tag:
+products_and_solutions
+
+topic:
+Azure AD and single sign-on implementation
+
+text:
+Next, the next process to that, we use Azure AD to onboard the employees to our applications. So once that's done, We take advantage of Azure AD single sign on to connect to Office three sixty five and all of our key SaaS platforms like Salesforce, Workday, Oracle for one hundred and thirty thousand users. And for any new applications that come into our environment, they have to go through the Azure AD, single sign on process.
+
+Segment 8
+
+segment_id:
+8
+
+speaker:
+Jason Truong (VP, Networking & Sec. Engineering Ops., Humana)
+
+tag:
+challenges
+
+topic:
+Adapting to employee work style preferences
+
+text:
+You know, as Joyce said about her own team at Microsoft, same thing at Humana, we don't expect our employees to come back to the office. You know, we're listening to our employees. They're all asking for options. They wanna choose their own work style. And so whatever option they choose, It's important for us as leaders. We have to keep our employees secure and and productive.
+
+Segment 9
+
+segment_id:
+9
+
+speaker:
+Jason Truong (VP, Networking & Sec. Engineering Ops., Humana)
+
+tag:
+products_and_solutions
+
+topic:
+Deploying Microsoft Defender and ZIA
+
+text:
+And so Microsoft has been a real key partner for us at Humana. We've deployed Microsoft Defender to every work station in our environment. And we're really looking forward to the integration shown today with the demo from Zscaler. We also want to give our employees the flexibility to work from anywhere. And so we actually rolled out ZIA to our entire environment to over I think it was two hundred thousand devices.
+
+Segment 10
+
+segment_id:
+10
+
+speaker:
+Jason Truong (VP, Networking & Sec. Engineering Ops., Humana)
+
+tag:
+metrics_and_results
+
+topic:
+Improved user experience with ZIA and Microsoft 365
+
+text:
+And using ZIA with Microsoft three sixty five, It really gives our our users a better experience because they can connect from anywhere and directly connect to the Office platform. And it really helps to continue our journey down a cloud first architecture at Humana.
+
+Segment 11
+
+segment_id:
+11
+
+speaker:
+Jason Truong (VP, Networking & Sec. Engineering Ops., Humana)
+
+tag:
+products_and_solutions
+
+topic:
+Deploying ZPA and cloud connectors
+
+text:
+And similar to many of you, we're going to look towards the future, which is we wanna get rid of VPN. Right? Why do we need people to why do we need our employees to VPN anymore? And so we're working with, Zscaler to deploy ZPA and cloud connectors. So the next few months, we're going to deploy ZPA to about ten thousand users, as a pilot with the stretch goal of deploying ZPA to our entire organization by the end of twenty twenty three.
+
+Segment 12
+
+segment_id:
+12
+
+speaker:
+Jason Truong (VP, Networking & Sec. Engineering Ops., Humana)
+
+tag:
+products_and_solutions
+
+topic:
+Simplifying workload connections with cloud connectors
+
+text:
+And so ZPA plus Azure AD will make it possible for our employees to access all of our internal applications the same way they access a SaaS app no matter where they come from. We also wanna simplify how we connect our workloads. And we're gonna do that with Zscaler cloud connector, where we can seamlessly enable secure communications between workloads, sitting on prem in our data centers, and also in our cloud environments, and we use all three. Azure AWS and GCP.
+
+Segment 13
+
+segment_id:
+13
+
+speaker:
+Jason Truong (VP, Networking & Sec. Engineering Ops., Humana)
+
+tag:
+challenges
+
+topic:
+Challenges with mergers and acquisitions
+
+text:
+You know, Joy also mentioned, taking advantage of talent through collaboration and and acquisitions. And, you know, one of the ways that Humana is growing our business is through mergers and acquisitions. In the health care industry, consolidation is just a a fact of life. And so onboarding these new acquisitions, has been really painful. There's going through a tedious, you know, exercise of how do you connect networks, how do you connect data centers, And so, really, we're asking ourselves, how do we, you know, create a light integration quickly so we can take advantage of the return on investments.
+
+Segment 14
+
+segment_id:
+14
+
+speaker:
+Jason Truong (VP, Networking & Sec. Engineering Ops., Humana)
+
+tag:
+products_and_solutions
+
+topic:
+Using cloud browser isolation for acquisitions
+
+text:
+And so we're gonna do that with cloud browser isolation. We're going to be able to use CBI to onboard our acquisitions quickly so that our new employees can authenticate through Azure AD, and then have access to our entire application portfolio so they can be quickly productive. We don't have to deal with creating, you know, installing circuits or MPLS or VPN tunnels into our data centers. Not that that needs to happen anymore. So with ZBI, with CBI, and Azure AD, our employees can quickly take advantage of connecting to applications regardless of what network they're on.
+
+Segment 15
+
+segment_id:
+15
+
+speaker:
+Jason Truong (VP, Networking & Sec. Engineering Ops., Humana)
+
+tag:
+general_discussion
+
+topic:
+Closing remarks and advice
+
+text:
+So I know that was a a quick overview And I know that you've listened to the folks on the stage. It seems very easy, but I'm just gonna tell you that, you know, in reality, it's not always easy, right? But What's important is you should focus on, you know, what's the business requirements, business functionality that you are trying to deliver. What is the user experience? Right? That's very important. You've heard that throughout this week. And take advantage of you know, the Zscaler team that you guys work with, you know, your sales team, your sales engineering team, they're really here for for you.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+92970255
+
+created_at:
+1657923471
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+We don’t expect our employees to come back to the office… They’re all asking for options, they want to choose their own work style.
+
+## speaker
+
+name:
+Jason Truong
+
+title:
+VP, Networking & Sec. Engineering Ops.
+
+company:
+Humana
+
+====================================================
+# customer_case_study
+
+title:
+null
+
+sections:
+[]
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zero Trust Browser
+
+url:
+https://www.zscaler.com/products-and-solutions/browser-isolation
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 4
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Accelerate M&A and Divestitures
+
+url:
+https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+
+Solution 2
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 3
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 4
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 5
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+50806
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Humana Humana Secures Patient and Employee Data with with the Zscaler Zero Trust Exchange.
+
+og_title:
+Humana Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/humana

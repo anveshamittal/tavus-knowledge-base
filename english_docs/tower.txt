@@ -1,0 +1,730 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/tower
+
+slug:
+tower
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:56:46.368262Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Tower Enables Employees to Securely Work-from-Anywhere
+
+subtitle:
+with the Zscaler Zero Trust Exchange
+
+customer_name:
+Tower
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Enable employees to work securely from anywhere without compromising user experience
+
+## results
+
+- Reduces malware incidents significantly
+- Improves protection against known and unknown threats
+- Enables employees to work securely from anywhere
+- Shrinks management overhead with automating reporting
+- Maximizes existing Microsoft 365 investment
+- Establishes a foundation for a zero trust journey
+
+====================================================
+# customer_snapshot
+
+title:
+Tower
+
+description:
+Founded more than 150 years ago, Tower serves over 300,000 customers as a shareholder-owned P&C and general insurer with 11 branches across New Zealand and eight Pacific islands. The company provides its customers with insurance coverage for their homes, vehicles, valuables, and businesses.
+
+industry:
+Financial Services and Insurance
+
+headquarters:
+Auckland, New Zealand
+
+size:
+Serving 300K+ customers across New Zealand & 8 Pacific Islands
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+We’ve seen a significant reduction in malware incidents since implementing the Zero Trust Exchange, while our users have gained a secure, continuous, seamless application access.
+
+## speaker
+
+name:
+Darren Beattie
+
+title:
+Modern Workplace and Security Operations Manager
+
+company:
+Tower
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+goal-enterprise-wide-secure-easy-access-to-saas-internet
+
+title:
+Goal: Enterprise-wide secure, easy access to SaaS, internet
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- One of the foundations of Tower’s digital leadership in the insurance industry is enabling its employees to work from anywhere.
+- This made the provision of safe remote access to software-as-a-service (SaaS) applications and the internet critical for successfully rolling out the company’s modern cloud-based insurance platform across its 11 far-flung locations.
+
+Paragraph 2
+
+- In addition to bolstering security, the Auckland, New Zealand-based company sought to ensure a better user experience, especially for Microsoft 365, which Tower’s business users depend upon.
+
+Section 2
+
+id:
+adopting-a-zero-trust-approach
+
+title:
+Adopting a zero trust approach
+
+### paragraphs
+
+Paragraph 1
+
+- As Tower’s digital transformation focuses on building an agile and competitive business, the company’s IT staff determined that its legacy castle-and-mote network couldn’t accommodate the agility needed, provide adequate security, enhance productivity, or improve the user experience.
+
+Paragraph 2
+
+- This set Tower on a course to evaluate security solutions it could integrate with its new digital insurance platform.
+- In collaboration with The Instillery Group, Tower decided that a zero trust approach made sense.
+- For its application access layers, the insurer ultimately selected the Zscaler Zero Trust Exchange.
+- The deciding factors included the security platform’s capability to supply high performance access and Zscaler’s known commitment to providing outstanding support.
+
+Paragraph 3
+
+- “Our decision proved successful during our Zscaler rollout, which coincided with implementing a new desktop environment,” said Darren Beattie, Modern Workplace and Security Operations Manager.
+- “The deployment was seamless and caused no disruption.”
+
+### quotes
+
+Quot 1
+
+quote:
+Our decision proved successful during our Zscaler rollout, which coincided with implementing a new desktop environment. The deployment was seamless and caused no disruption.
+
+#### speaker
+
+name:
+Darren Beattie
+
+title:
+Modern Workplace and Security Operations Manager
+
+company:
+Tower
+
+Section 3
+
+id:
+easily-scaled-protection
+
+title:
+Easily scaled protection
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- For its deployment, Tower adopted Zscaler Internet Access (ZIA), part of the Zero Trust Exchange.
+- ZIA delivers security-as-a-service (SaaS) from the cloud, which sits between users and the internet.
+- It inspects traffic inline using multiple security techniques, providing full protection from web and internet threats.
+
+Paragraph 2
+
+- Using ZIA gave Tower the ability to scale protection to include all offices and users, regardless of location, while reducing on-premise networking infrastructure.
+- In addition, the company obtained the ability to eliminate the cost and complexity of legacy appliances while simultaneously boosting cybersecurity.
+
+Paragraph 3
+
+- Also, by moving its security to the globally-distributed Zscaler cloud, Tower supplied users with a faster application experience that improves productivity.
+- Additionally, Tower leveraged ZIA to simplify its Microsoft M365 deployment, enabling the company to realize even more cloud, mobility, and productivity benefits.
+
+Section 4
+
+id:
+consistent-security-and-improved-insight
+
+title:
+Consistent security and improved insight
+
+### paragraphs
+
+Paragraph 1
+
+- By implementing the Zscaler Cloud Firewall, another Zero Trust Exchange service, Tower is providing advanced and consistent security to all users, regardless of their location, for all ports and protocols.
+- Tower uses the Cloud Firewall to enable fast and secure local internet breakouts, enabling it to deliver M365 faster and more securely without backhauling or duplicating the security appliance stack at each location.
+
+Paragraph 2
+
+- With Cloud Firewall, Tower not only eliminates the cost of purchasing, deploying and managing hardware, it also gains critical information to help with IT decision-making.
+- “Zscaler Cloud Firewall logs every session, providing granular visibility into application utilization for all users and all locations,” said Beattie.
+- “This provides us with the insights we need, whenever we need them.”
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler Cloud Firewall logs every session, providing granular visibility into application utilization for all users and all locations. This provides us with the insights we need, whenever we need them.
+
+#### speaker
+
+name:
+Beattie
+
+title:
+
+
+company:
+Tower
+
+Quot 2
+
+quote:
+Our biggest benefit from the Zero Trust Exchange is knowing that all users are safeguarded. Darren Beattie, Modern Workplace and Security Operations Manager
+
+#### speaker
+
+name:
+Darren Beattie
+
+title:
+Modern Workplace and Security Operations Manager
+
+company:
+Tower
+
+Section 5
+
+id:
+cloud-sandbox-instills-extra-peace-of-mind
+
+title:
+Cloud Sandbox instills extra peace of mind
+
+### paragraphs
+
+Paragraph 1
+
+- To fortify security even further, Tower is also taking advantage of Zscaler Cloud Sandbox within the Zero Trust Exchange.
+- Driven by advanced artificial intelligence and machine learning, Cloud Sandbox stops attacks with instant verdicts and automatic quarantines of cyberthreats.
+
+Paragraph 2
+
+- “Cloud Sandbox provides us with the assurance that our users are always protected, irrespective of whether they are on or off the network,” Beattie said.
+
+### quotes
+
+Quot 1
+
+quote:
+Cloud Sandbox provides us with the assurance that our users are always protected, irrespective of whether they are on or off the network.
+
+#### speaker
+
+name:
+Beattie
+
+title:
+
+
+company:
+Tower
+
+Section 6
+
+id:
+reduced-administrative-overhead-and-improved-continuity
+
+title:
+Reduced administrative overhead and improved continuity
+
+### paragraphs
+
+Paragraph 1
+
+- For Tower, adopting the Zero Trust Exchange has significantly reduced ongoing administrative burdens, improved experiences and boosted business continuity.
+
+Paragraph 2
+
+- This includes making it easy to manage WAN traffic, such as prioritizing M365 over recreational or less critical utilizations.
+- In addition, the Tower IT staff appreciates the Zero Trust Exchange for providing automated reporting, which speeds incident remediation by delivering key insights into malware threats.
+
+Paragraph 3
+
+- Another plus is policy-based administration, which automates day-to-day security tasks for improved user experiences.
+- “Now, we’re able to create a number of different security policies, all in a single portal, which helps us achieve IT efficiencies that add up to better user experiences overall,” Beattie said.
+
+Paragraph 4
+
+- The sum of these advantages became particularly apparent when the COVID-19 pandemic hit.
+- Like most companies, setting up employees to work from home—outfitting them with laptops, headsets, monitors, telecommunications, and other devices—was challenging for Tower.
+- However, Beattie says the transition occurred without any interruption, largely due to Tower’s pre-pandemic implementation of the Zero Trust Exchange.
+
+### quotes
+
+Quot 1
+
+quote:
+Now, we’re able to create a number of different security policies, all in a single portal, which helps us achieve IT efficiencies that add up to better user experiences overall.
+
+#### speaker
+
+name:
+Beattie
+
+title:
+
+
+company:
+Tower
+
+Quot 2
+
+quote:
+We’ll definitely consider opportunities to expand our Zero Trust Exchange deployment, as we’re confident we won’t go wrong with Zscaler.
+
+#### speaker
+
+name:
+Darren Beattie
+
+title:
+Modern Workplace and Security Operations Manager
+
+company:
+Tower
+
+Section 7
+
+id:
+gaining-a-supportive-partnership
+
+title:
+Gaining a supportive partnership
+
+### paragraphs
+
+Paragraph 1
+
+- Beyond the management and continuity benefits, Beattie and his IT team are grateful for the support they’ve received from Zscaler’s highly qualified technical experts.
+- This partnership has been key to Towers' successful zero trust journey thus far.
+
+Paragraph 2
+
+- “From the outset, we’ve been able to ask questions and receive answers from knowledgeable experts,” said Beattie.
+- “This not only improves IT productivity, it also enhances our job satisfaction because we avoid the aggravation of being referred to a website to troubleshoot issues ourselves.”
+
+Paragraph 3
+
+- “Over the years,” he continued, “we’ve worked with multiple technology vendors and we’ve never had the kind of partner relationship that we enjoy with Zscaler.”
+
+### quotes
+
+Quot 1
+
+quote:
+From the outset, we’ve been able to ask questions and receive answers from knowledgeable experts. This not only improves IT productivity, it also enhances our job satisfaction because we avoid the aggravation of being referred to a website to troubleshoot issues ourselves.
+
+#### speaker
+
+name:
+Beattie
+
+title:
+
+
+company:
+Tower
+
+Section 8
+
+id:
+digital-transformation-accelerated
+
+title:
+Digital transformation accelerated
+
+### paragraphs
+
+Paragraph 1
+
+- Moving forward, zero trust will continue playing a vital role in Tower’s ongoing digital transformation.
+- This includes evaluating possible expansions to its Zero Trust Exchange deployment for accelerating Tower’s transformation while further enhancing security and user experiences.
+
+Paragraph 2
+
+- “We’ve extended our engagement with Zscaler and have definitely identified platform expansion opportunities we’ll consider in the future,” said Beattie.
+- “We’re confident we won’t go wrong with Zscaler.”
+
+### quotes
+
+Quot 1
+
+quote:
+We’ve extended our engagement with Zscaler and have definitely identified platform expansion opportunities we’ll consider in the future. We’re confident we won’t go wrong with Zscaler.
+
+#### speaker
+
+name:
+Beattie
+
+title:
+
+
+company:
+Tower
+
+Quot 2
+
+quote:
+The security layers provided by the Zero Trust Exchange are ideal for supporting virtual and remote work.
+
+#### speaker
+
+name:
+Darren Beattie
+
+title:
+Modern Workplace and Security Operations Manager
+
+company:
+Tower
+
+Section 9
+
+id:
+anywhere-any-device-protection-for-all
+
+title:
+Anywhere, any device protection for all
+
+### paragraphs
+
+Paragraph 1
+
+- Today, Tower’s modern, digital insurance platform, which powers its entire business, is protected by critical security layers as a result of adopting the Zero Trust Exchange.
+- With Zscaler automatically applying hundreds of thousands of unique security updates to the platform every day, Tower can be confident that any detected threat is immediately blocked for all Zero Trust Exchange users, worldwide.
+
+Paragraph 2
+
+- Such advanced security intelligence and automation far exceeds what Tower could accomplish with appliances.
+- “The biggest benefit of Zscaler has been knowing that employees are safeguarded,” said Beattie.
+
+Paragraph 3
+
+- “We’ve seen a significant reduction in malware incidents since we implemented the Zero Trust Exchange,” he added.
+- “Malware attempts are either blocked or quarantined for analysis without impacting users, ensuring continuous and seamless application access.”
+
+### quotes
+
+Quot 1
+
+quote:
+The biggest benefit of Zscaler has been knowing that employees are safeguarded.
+
+#### speaker
+
+name:
+Beattie
+
+title:
+
+
+company:
+Tower
+
+Quot 2
+
+quote:
+We’ve seen a significant reduction in malware incidents since we implemented the Zero Trust Exchange. Malware attempts are either blocked or quarantined for analysis without impacting users, ensuring continuous and seamless application access.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Tower
+
+Section 10
+
+id:
+adding-it-all-up
+
+title:
+Adding it all up
+
+### paragraphs
+
+Paragraph 1
+
+- The bottom line for Tower is the provision of seamless application access, that makes security completely invisible, while enhancing user experiences.
+
+Paragraph 2
+
+- “Our IT mantra is ‘visible service but invisible operations,’ which the Zero Trust Exchange helps us provide,” said Beattie.
+
+Paragraph 3
+
+- “As our employees are able to work securely from anywhere, without compromising the user experience,” he added.
+- The security layers provided by the Zero Trust Exchange are ideal for supporting virtual and remote work.”
+
+### quotes
+
+Quot 1
+
+quote:
+Our IT mantra is ‘visible service but invisible operations,’ which the Zero Trust Exchange helps us provide.
+
+#### speaker
+
+name:
+Beattie
+
+title:
+
+
+company:
+Tower
+
+Quot 2
+
+quote:
+As our employees are able to work securely from anywhere, without compromising the user experience.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Tower
+
+Section 11
+
+id:
+a-first-for-fiji
+
+title:
+A first for Fiji
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- Tower was the first insurer to provide a digitalized insurance platform in Fiji, something that had not been possible in the past.
+- The insurance company is currently creating a secure common digital platform for all of its Pacific Island customers and is working to help educate them about cyber awareness as part of Tower’s ongoing zero trust journey.
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 2
+
+name:
+Zero Trust Firewall
+
+url:
+https://www.zscaler.com/resources/data-sheets/zscaler-firewall.pdf
+
+Product 3
+
+name:
+Sandbox
+
+url:
+https://www.zscaler.com/technology/cloud-sandbox
+
+Product 4
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 3
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+51696
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Tower Tower Enables Employees to Securely Work-from-Anywhere with with the Zscaler Zero Trust Exchange.
+
+og_title:
+Tower Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/tower

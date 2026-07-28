@@ -1,0 +1,849 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/sanmina
+
+slug:
+sanmina
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:56:29.908050Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Sanmina Revs Up Security, Profitability & M&A Strategies
+
+subtitle:
+with Zero Trust for Users and Workloads
+
+customer_name:
+Sanmina Corporation
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Replace outdated VPN technology with AI-powered zero trust to reduce attack surfaces and secure application access
+
+## results
+
+- Eliminates attack surfaces and mitigates risk by implementing an AI-powered zero trust platform
+- Delivers high-performance private and public application access that enhances user experiences
+- Improves M&A processes to support strategic growth initiatives
+- Reduces security updates from days to a few minutes
+- Provides a scalable, expandable platform for continued security innovation in a perimeter-less world
+
+====================================================
+# customer_snapshot
+
+title:
+Sanmina Corporation
+
+description:
+Sanmina is a leading integrated manufacturing solutions provider serving the fastest-growing segments of the global Electronics Manufacturing Services (EMS) market. It provides end-to-end manufacturing solutions and superior quality and support to Original Equipment Manufacturers (OEMs) across multiple sectors.
+
+industry:
+Manufacturing
+
+headquarters:
+San Jose, California, USA
+
+size:
+35,000 employees across 20 countries on 6 continents
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+With the Zero Trust Exchange platform, employees experience high performance access and the company considerably enhances data security. That’s a win-win for our entire enterprise.
+
+## speaker
+
+name:
+Matt Ramberg
+
+title:
+VP of Information Security
+
+company:
+Sanmina Corporation
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+vpns-hinder-digital-transformation
+
+title:
+VPNs hinder digital transformation
+
+### paragraphs
+
+Paragraph 1
+
+- During its ongoing cloud transformation to support advanced Industry 4.0 manufacturing practices, Sanmina confronted a data security challenge.
+
+Paragraph 2
+
+- “We’d already adopted zero trust principles and had started to re-architect our systems,” explained Matt Ramberg, Vice President of Information Security at Sanmina.
+- “But we realized we couldn’t achieve zero trust using traditional virtual private network [VPN] technology.
+- We needed an access solution appropriate for a modern, perimeter-less world.”
+
+### quotes
+
+Quot 1
+
+quote:
+We’d already adopted zero trust principles and had started to re-architect our systems. But we realized we couldn’t achieve zero trust using traditional virtual private network [VPN] technology. We needed an access solution appropriate for a modern, perimeter-less world.
+
+#### speaker
+
+name:
+Matt Ramberg
+
+title:
+VP of Information Security
+
+company:
+Sanmina Corporation
+
+Section 2
+
+id:
+adopting-zpa-addresses-the-zero-trust-need
+
+title:
+Adopting ZPA addresses the zero trust need
+
+### paragraphs
+
+Paragraph 1
+
+- A respected global electronics manufacturer, Sanmina focuses on delivering excellence in performance, flexibility, and technology that exceeds customer expectations for industrial, medical, defense and aerospace, automotive, communications networks, and cloud solution OEMs in 20 countries on six continents.
+- After evaluating multiple options, Sanmina decided to expand its Zscaler Zero Trust Exchange platform capabilities by adopting Zscaler Private Access (ZPA).
+
+Paragraph 2
+
+- “Our due diligence revealed that Zscaler’s global presence, with data centers worldwide, made ZPA the most resilient choice,” said Manesh Patel, CIO for Sanmina.
+
+### quotes
+
+Quot 1
+
+quote:
+Our due diligence revealed that Zscaler’s global presence, with data centers worldwide, made ZPA the most resilient choice.
+
+#### speaker
+
+name:
+Manesh
+
+title:
+
+
+company:
+Sanmina Corporation
+
+Section 3
+
+id:
+easily-making-users-and-devices-invisible-to-threats
+
+title:
+Easily making users and devices invisible to threats
+
+### paragraphs
+
+Paragraph 1
+
+- A fundamental building block of the Zero Trust Exchange, ZPA connects users and devices with applications, rather than connecting them to the network.
+- Unlike VPNs, which create back doors allowing threats to enter, ZPA makes users and applications invisible to external threats and also prevents lateral threat movement by enabling enterprises to limit user access based on the applications they need.
+
+Paragraph 2
+
+- When a user attempts to access an application, identity and device posture are verified using Zscaler Client Connector software installed on the end user device.
+- To enable access to private applications, whether on site or in a cloud environment, Zscaler App Connector is installed at an application’s location.
+- App Connector is a lightweight virtual machine (VM) that brokers the secure connection between private applications and the Zscaler Zero Trust Exchange.
+
+Paragraph 3
+
+- In Sanmina’s case, Client Connector was already deployed as it’s also the enabling agent for the company’s previous adoption of Zscaler Internet Access (ZIA).
+- The inaugural component of the Zero Trust Exchange, ZIA protects users and devices accessing the internet and cloud-delivered SaaS applications, including the Sanmina-developed 42Q cloud manufacturing execution system (MES) that is well-regarded in the industry.
+
+Paragraph 4
+
+- “Like ZIA, deploying ZPA was very easy—especially compared to traditional VPNs—and enabled us to implement a least-privileged access model,” Ramberg said.
+- “We set up policies for accessing applications within the solution and then added users to each policy, based on their job requirements.”
+
+### quotes
+
+Quot 1
+
+quote:
+Like ZIA, deploying ZPA was very easy—especially compared to traditional VPNs—and enabled us to implement a least-privileged access model. We set up policies for accessing applications within the solution and then.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Sanmina Corporation
+
+Section 4
+
+id:
+fully-inspecting-encrypted-traffic-advances-protection
+
+title:
+Fully inspecting encrypted traffic advances protection
+
+### paragraphs
+
+Paragraph 1
+
+- Sanmina was also concerned that their VPNs were not protecting them from threats embedded within encrypted traffic.
+- Using ZPA, they can fully inspect all encrypted traffic between users and applications, as well as protect internal applications against security vulnerabilities.
+
+Paragraph 2
+
+- “Whether it’s enabling remote access or spotting potentially malicious activity, ZPA helps save us time and headaches,” Ramberg said.
+- “It’s easy having visibility and control we need in a single place as there is no context-switching.”
+
+### quotes
+
+Quot 1
+
+quote:
+Whether it’s enabling remote access or spotting potentially malicious activity, ZPA helps save us time and headaches. It’s easy having visibility and control we need in a single place as there is no context-switching.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Sanmina Corporation
+
+Quot 2
+
+quote:
+With the Zero Trust Exchange we’ve eliminated physical appliances and their related pain points, which reduces complexity and contributes to profitability.
+
+#### speaker
+
+name:
+Matt Ramberg
+
+title:
+VP of Information Security
+
+company:
+Sanmina Corporation
+
+Section 5
+
+id:
+better-experiences-and-less-complexity-boosts-profitability
+
+title:
+Better experiences and less complexity boosts profitability
+
+### paragraphs
+
+Paragraph 1
+
+- According to Ramberg, the returns on Sanmina’s Zero Trust Exchange investments have quickly added up.
+- “We’ve received overwhelmingly positive feedback from business users,” he said.
+- “Unlike legacy appliances, which bogged down device performance and required authenticating multiple times a day, users report experiencing fast, seamless, high-performance access for both private and public applications.”
+
+Paragraph 2
+
+- From the company’s perspective, Sanmina has considerably enhanced its security posture.
+- “It’s a win-win for our entire enterprise,” Ramberg said.
+
+Paragraph 3
+
+- In addition, deploying ZPA enables Sanmina to safely extend private application access to external constituencies.
+- “We can grant access to customers, suppliers, vendors, contractors, and anyone who needs access to Sanmina resources without their devices touching our network,” Patel said.
+- “They gain the access they need while we maintain security.
+- It’s tremendous.”
+
+Paragraph 4
+
+- Further, IT administration expenses are considerably reduced compared with acquiring, configuring, managing, and updating traditional VPNs and web gateways.
+- “We had multiple physical appliances spread across the globe, each of them requiring their own configurations, rules, patches, updates, and maintenance contracts,” Ramberg said.
+
+Paragraph 5
+
+- “With the Zero Trust Exchange we’ve eliminated physical appliances and their related pain points, which reduces complexity and contributes to profitability,” he continued.
+- “Now, we can swiftly and easily make changes that instantaneously flow to every facility globally.
+- What once took us hours, or days, to complete across all our locations now takes less than five minutes.”
+
+### quotes
+
+Quot 1
+
+quote:
+We’ve received overwhelmingly positive feedback from business users. Unlike legacy appliances, which bogged down device performance and required authenticating multiple times a day, users report experiencing fast, seamless, high-performance access for both private and public applications.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Sanmina Corporation
+
+Quot 2
+
+quote:
+It’s a win-win for our entire enterprise.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Sanmina Corporation
+
+Quot 3
+
+quote:
+We can grant access to customers, suppliers, vendors, contractors, and anyone who needs access to Sanmina resources without their devices touching our network. They gain the access they need while we maintain security. It’s tremendous.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Sanmina Corporation
+
+Quot 4
+
+quote:
+We had multiple physical appliances spread across the globe, each of them requiring their own configurations, rules, patches, updates, and maintenance contracts.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Sanmina Corporation
+
+Section 6
+
+id:
+exceptional-industry-4-0-security-it-ot-on-shop-floors
+
+title:
+Exceptional Industry 4.0 security IT/OT on shop floors
+
+### paragraphs
+
+Paragraph 1
+
+- As an industry pioneer in deploying Industry 4.0 practices and Industrial IoT (IIoT), Sanmina also applies its Zero Trust Exchange platform to protecting its manufacturing technologies.
+- This includes 42Q as well as leading solutions for enterprise resource planning (ERP) and product lifecycle management (PLM).
+
+Paragraph 2
+
+- “Our ZIA deployment uses policy-based routing that ensures virtually every plant-level web application traverses the Zero Trust Exchange platform prior to accessing the internet,” Ramberg said.
+- “We’re also using the Zero Trust Exchange to protect IT/OT environments at our manufacturing facilities.”
+
+### quotes
+
+Quot 1
+
+quote:
+Our ZIA deployment uses policy-based routing that ensures virtually every plant-level web application traverses the Zero Trust Exchange platform prior to accessing the internet. We’re also using the Zero Trust Exchange to protect IT/OT environments at our manufacturing facilities.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Sanmina Corporation
+
+Quot 2
+
+quote:
+The [Zero Trust Exchange]’s combination of intelligence and an intuitive management interface allows us to turn day-to-day administration of Zscaler over to our operations teams.
+
+#### speaker
+
+name:
+Manesh Patel
+
+title:
+CIO
+
+company:
+Sanmina Corporation
+
+Section 7
+
+id:
+expediting-m-a-processes-for-greater-agility
+
+title:
+Expediting M&A processes for greater agility
+
+### paragraphs
+
+Paragraph 1
+
+- From a strategic growth perspective, Sanmina appreciates the role ZPA plays in upping its M&A game.
+
+Paragraph 2
+
+- In the past, VPN technology forced Sanmina to place acquired users directly onto its corporate network to give them complete application access.
+- “That was a scary proposition because we wouldn’t know whether their security solutions were properly updated or even sufficiently robust enough to meet our specifications,” Ramberg said.
+
+Paragraph 3
+
+- Using ZPA, Sanmina can create policy groups for each acquired company and limit its users to only accessing the resources within a specific group.
+- “ZPA was instrumental in assisting us with two recent acquisitions,” Ramberg said.
+- For each acquired company, the process of creating policy groups and deploying ZPA to all users was less than an hour.
+
+Paragraph 4
+
+- “In other words, ZPA not only improved our M&A security posture but it increased our agility as well,” Patel said.
+
+### quotes
+
+Quot 1
+
+quote:
+That was a scary proposition because we wouldn’t know whether their security solutions were properly updated or even sufficiently robust enough to meet our specifications.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Sanmina Corporation
+
+Quot 2
+
+quote:
+ZPA was instrumental in assisting us with two recent acquisitions.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Sanmina Corporation
+
+Quot 3
+
+quote:
+In other words, ZPA not only improved our M&A security posture but it increased our agility as well.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Sanmina Corporation
+
+Section 8
+
+id:
+deterring-industry-ransomware-attacks
+
+title:
+Deterring industry ransomware attacks
+
+### paragraphs
+
+Paragraph 1
+
+- Creating a holistic zero trust environment by combining ZIA and ZPA is also netting significant risk reduction benefits.
+
+Paragraph 2
+
+- For example, industry peers recently have been plagued by ransomware that the Zero Trust Exchange platform has helped Sanmina prevent.
+- “In our industry, one characteristic of recent attacks is that the malware communicates with a newly-created URL,” Ramberg explained.
+
+Paragraph 3
+
+- “Zscaler enables blocking newly-created URLs by default and, had there been an attempt on one of our facilities, our Zero Trust Exchange solution would have alerted us, permitting the infected device to be isolated and quarantined instantly.”
+
+### quotes
+
+Quot 1
+
+quote:
+In our industry, one characteristic of recent attacks is that the malware communicates with a newly-created URL.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Sanmina Corporation
+
+Quot 2
+
+quote:
+Like ZIA, deploying ZPA was easy—especially compared to traditional VPNs—and enabled us to implement a least-privileged access model.
+
+#### speaker
+
+name:
+Matt Ramberg
+
+title:
+VP of Information Security
+
+company:
+Sanmina Corporation
+
+Section 9
+
+id:
+strategic-shift-creates-immeasurable-value
+
+title:
+Strategic shift creates immeasurable value
+
+### paragraphs
+
+Paragraph 1
+
+- By utilizing the AI-powered threat intelligence built into the Zero Trust Exchange, Sanmina can also shift professional resources to higher value projects.
+- “The platform’s combination of intelligence and an intuitive management interface allows us to turn day-to-day administration of Zscaler over to our operations teams,” Patel said.
+
+Paragraph 2
+
+- “This frees our highly-skilled security professionals to focus on strategic goals rather than tactical tasks,” he added.
+- “The value from becoming more strategic is immeasurable.”
+
+### quotes
+
+Quot 1
+
+quote:
+The platform’s combination of intelligence and an intuitive management interface allows us to turn day-to-day administration of Zscaler over to our operations teams.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Sanmina Corporation
+
+Quot 2
+
+quote:
+This frees our highly-skilled security professionals to focus on strategic goals rather than tactical tasks. The value from becoming more strategic is immeasurable.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Sanmina Corporation
+
+Section 10
+
+id:
+workload-visibility-and-deception-innovations-underway
+
+title:
+Workload, visibility, and deception innovations underway
+
+### paragraphs
+
+Paragraph 1
+
+- Moving forward, Sanmina plans to continue expanding its Zero Trust Exchange platform.
+- The company recently began adding workloads to the platform by adopting the Zscaler Workload Posture, which secures cloud configurations and access permissions across multiclouds.
+- Sanmina is also evaluating Zscaler Workload Segmentation™ (ZWS™) which stops lateral movement of threats to prevent application compromise and data breaches, for enhancing the security of manufacturing processes.
+
+Paragraph 2
+
+- In addition, Sanmina is currently evaluating Zscaler Digital Experience™ (ZDX™), for gathering and analyzing granular telemetry and application performance data to improve user experiences, and Deception, for proactively detecting threats by populating environments with decoys that are hidden from valid users.
+
+Paragraph 3
+
+- Regardless of how Sanmina evolves its Zscaler platform, the results thus far have been seismic.
+- “Although security has historically been the department of ‘n-o,’ deploying the Zero Trust Exchange has enabled us to turn that around and become the department of ‘k-n-o-w,’ Ramberg said.
+- “Overall, the benefits of Zscaler have been phenomenal and our experience completely positive,” he added.
+- “To put it simply: Zscaler’s solutions just work.”
+
+### quotes
+
+Quot 1
+
+quote:
+Although security has historically been the department of ‘n-o,’ deploying the Zero Trust Exchange has enabled us to turn that around and become the department of ‘k-n-o-w,’ Ramberg said.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Sanmina Corporation
+
+Section 11
+
+id:
+contributing-to-net-zero-goals
+
+title:
+Contributing to net-zero goals
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- Sanmina’s technology leadership extends to partnering with providers like Zscaler that help the manufacturer further its Environmental, Social, and Governance (ESG) goals, including reducing carbon emissions 40% by 2030 and becoming net-zero by 2050.
+
+Paragraph 2
+
+- As Zscaler powers its global data centers and offices with 100% renewable energy sources, the partnership helps Sanmina move closer to its ESG targets while advancing its zero trust journey to protect employees, systems, and data.
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zero Trust for IoT/OT
+
+url:
+https://www.zscaler.com/products-and-solutions/secure-your-ot-and-iot
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 4
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 3
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 4
+
+name:
+Accelerate M&A and Divestitures
+
+url:
+https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+50556
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Sanmina Corporation Sanmina Revs Up Security, Profitability & M&A Strategies with with Zero Trust for Users and Workloads.
+
+og_title:
+Sanmina Corporation Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/sanmina

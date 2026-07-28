@@ -1,0 +1,376 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/nexteer-automotive
+
+slug:
+nexteer-automotive
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:43.351951Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Nexteer Automotive Leverages the Combined Power of Zscaler and Okta
+
+subtitle:
+for Its Cloud Transformation
+
+customer_name:
+Nexteer Automotive
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Providing faster, more secure access to Office 365 and other cloud applications as part of a digital transformation strategy
+
+## results
+
+- Eliminates the need for on-premises device proxies
+- Guarantees 40% of network bandwidth reserved for Office/Microsoft 365
+- Leverages transparent, Okta-powered service provisioning directly to Zscaler
+- Delivers real-time visibility with a holistic view of enterprise internet traffic
+
+====================================================
+# customer_snapshot
+
+title:
+Nexteer Automotive
+
+description:
+Nexteer Automotive is a U.S. $4 billion Tier 1 supplier to Ford, GM, and other automotive manufacturers. From its earliest innovations in mechanical power, assembly line production, to computer automation, Nexteer is now building internet-connected physical systems.
+
+industry:
+Manufacturing
+
+headquarters:
+Auburn Hills, Michigan, USA
+
+size:
+14,000 employees globally
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Zscaler made it possible for Nexteer’s knowledge workers—some of whom travel extensively—to access their cloud applications from any location without performance lags.
+
+## speaker
+
+name:
+Arun DeSouza
+
+title:
+Chief Information Security Officer
+
+company:
+Nexteer Automotive
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+nexteer-s-goals-and-strategy-in-its-modernization-journey
+
+title:
+Nexteer’s Goals and Strategy in its Modernization Journey
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- Automobile component manufacturers face pressures of global competition and rising customer demand.
+- These pressures can only be met through digital transformation—but only about 5% of manufacturing executives are satisfied with their digital strategies.1 Nexteer is tackling a whole new level of security challenges—including more locations, suppliers, and an interdependent supply chain—all with connectors into Nexteer’s network.
+- Every point of entry into Nexteer needs to be secured, including access by employees, OEM business partners, suppliers, and contractors.
+
+Paragraph 2
+
+- Nexteer Chief Information Security Officer Arun DeSouza conducted an enterprise risk assessment shortly after joining the company.
+- Some of the key areas of focus he identified included loss of intellectual property, cloud computing governance, secure employee onboarding and offboarding, and network security.
+- DeSouza knew that connecting more devices and systems to the internet would raise the organization’s risk of data breaches.
+- With the General Data Protection Regulation (GDPR)2 now in effect, privacy is also a major concern for companies doing business in Europe.
+- Depending on the severity, GDPR can penalize 2% to 4% of a company’s revenue.
+- Nexteer is taking these risks seriously with a measured and responsible approach to digital transformation.
+
+Paragraph 3
+
+- To increase productivity and innovation, Nexteer chose to adopt a common set of cloud applications across the organization, including Microsoft Office 365, SAP SuccessFactors, Concur, DocuSign, and Salesforce.
+- The organization needed to minimize risk by automating user lifecycle management and reducing threats by integrating security elements across applications, services, and infrastructure.
+- However, Nexteer is globally dispersed, and it has a disjointed IT infrastructure with multiple software tools being used in different locations.
+- To adopt a “One Nexteer” focus across the entire organization, DeSouza wanted to consolidate the technologies down to those that work seamlessly together and enable cloud transformation.
+
+Section 2
+
+id:
+reduce-threat-vectors-by-integrating-security-from-proofpoint-and-zscaler
+
+title:
+Reduce Threat Vectors by Integrating Security from Proofpoint and Zscaler
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- Nexteer’s security model is based on three broad layers: application security, services security, and infrastructure security.
+- The organization relies on Okta to tie identity into every layer: application security, authentication and identity management, and security monitoring.
+- To strengthen email, web and infrastructure security, Nexteer also utilizes services from Proofpoint and Zscaler.
+
+Section 3
+
+id:
+scaling-security-for-the-cloud-with-zscaler-and-okta
+
+title:
+Scaling Security for the Cloud with Zscaler and Okta
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- As Nexteer began to move to the cloud, it found that its traditional hub and spoke architecture couldn’t handle the sudden spike in cloud application traffic.
+- Its on-premises internet gateways and security appliances were designed to provide real-time visibility, traffic inspection, threat protection, and URL filtering for all internet traffic but could not support direct-to-cloud connections.
+- Backhauling cloud traffic through on-premises device proxies was slowing everything down.
+- DeSouza realized that he could no longer fix the problem by adding more hardware.
+- Instead, he needed to find a security platform that was built for the cloud.
+
+Paragraph 2
+
+- Nexteer deployed Zscaler Internet Access (ZIA), a solution that offers two main components: a software-defined wide area network (SD-WAN) for better, faster access to cloud applications like Office 365 and a security stack as a service for access control, data protection, and threat prevention.
+
+Paragraph 3
+
+- Zscaler made it possible for Nexteer’s knowledge workers—some of whom travel extensively—to access their cloud applications from any location without performance lags.
+- Traffic is no longer forced through the company’s on-premises internet gateways and security appliances.
+- Zscaler helped Nexteer add or remove branch offices with greater ease and speed than if they had been using device proxies in their data center.
+
+Section 4
+
+id:
+zscaler-improves-the-office-365-user-experience
+
+title:
+Zscaler Improves the Office 365 User Experience
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- Slow performance in Office 365 is why Nexteer turned to Zscaler in the first place.
+- The initial data migration from on-premises Microsoft Exchange servers to Office 365 had been choking the network.
+
+Paragraph 2
+
+- Post migration to the cloud, the situation wasn’t much better.
+- Each user’s Office 365 client software opened from 20 to 30 connections to the Office 365 platform, causing performance lags—especially when traffic wasn’t routed to the closest Microsoft data center.
+
+Paragraph 3
+
+- Since deploying Zscaler with Okta, end users enjoy a fast and secure connection to Office 365.
+- Okta manages end-user access to Office 365 through a combination of single sign-on and multi-factor authentication, while Zscaler manages the connections and dedicates 40% of Nexteer’s bandwidth to handle Office 365 traffic.
+
+Section 5
+
+id:
+zscaler-and-okta-better-together
+
+title:
+Zscaler and Okta: Better Together
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- Integrating Zscaler with the Okta Security Assertion Markup Language (SAML)3 enables just-in-time provisioning of users to the Zscaler database as a way of enforcing policies.
+- Ongoing SAML assertions from Okta let Zscaler know that traffic has been authenticated.
+- The system for cross-domain identity management (SCIM)4 integration with Okta helps Zscaler maintain user information, including whether users have changed groups and job roles.
+
+Paragraph 2
+
+- As part of the Okta Integration Network, Zscaler relies on Okta to provide information about users and how to enforce group-level security policy—such as which groups of users should have access to which apps or which groups are authorized to send sensitive customer information over the internet.
+- While original user records are created with SAP SuccessFactors software, Zscaler relies on the centralized identity data from Okta to enforce security policies.
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 3
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 4
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+65421
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Nexteer Automotive Nexteer Automotive Leverages the Combined Power of Zscaler and Okta with for Its Cloud Transformation.
+
+og_title:
+Nexteer Automotive Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/nexteer-automotive

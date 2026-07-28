@@ -1,0 +1,643 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/mgm-resorts
+
+slug:
+mgm-resorts
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:55:39.240734Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+MGM Resorts International Doubles Down on a Cloud Native Zero Trust Architecture
+
+subtitle:
+Zscaler delivers unmatched time-to-value with zero trust segmentation, data loss protection, and deep actionable insights across the business
+
+customer_name:
+MGM Resorts International
+
+## metrics
+
+Metric 1
+
+value:
+Day 1
+
+label:
+immediate value from the platform
+
+Metric 2
+
+value:
+275K+
+
+label:
+threats blocked each month
+
+Metric 3
+
+value:
+50%
+
+label:
+more efficient device usage for staff
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Castle-and-moat security increased lateral movement risk by giving users broad network access
+- Traditional VPN gateways created traffic bottlenecks, leading to a poor user experience
+- Legacy security tools offered limited insight into browsing activity across the user base
+
+## results
+
+- Enhances the employee experience with faster performance and connectivity across the environment
+- Stays ahead of emerging threats with comprehensive DLP, private access, and zero trust segmentation
+- Strengthens enterprise security posture while helping accelerate business with a cloud-first approach
+
+====================================================
+# customer_snapshot
+
+title:
+MGM Resorts International
+
+description:
+Gaming, entertainment, and hospitality leader with 31 resort destinations globally
+
+industry:
+Entertainment and Hospitality
+
+headquarters:
+Las Vegas, Nevada, USA
+
+size:
+70,000 employees worldwide
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/ia4ywvx0r2
+
+provider:
+wistia
+
+video_id:
+ia4ywvx0r2
+
+title:
+MGM Testimonial Ft. Stephen Harrison
+
+description:
+a Customer Testimonials video
+
+duration_seconds:
+209.091
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/da1c247a1bdbf0d345e8db9a6435a36b.jpg
+
+### transcript
+
+language:
+eng
+
+#### sentences
+
+1.
+MGM Resorts International spans about seventy thousand employees across the US, parts of Europe, Asia Pacific.
+
+2.
+There's so much data being transacted here.
+
+3.
+It's just makes it paramount that we prioritize the protection of that.
+
+4.
+I'm Steven Harrison.
+
+5.
+I'm the chief information security officer here at MGM Resorts International.
+
+6.
+Traditional VPN is definitely a legacy approach.
+
+7.
+No doubt about it.
+
+8.
+The idea of this castle and moat approach where you lower the drawbridge, and that's like your VPN access inside, and then you just cross it and you're in the castle.
+
+9.
+And as soon as you're in the castle, you're trusted whatever you do within those walls is fine.
+
+10.
+The reason we selected Zscaler was because it put us in a spot to take action on what was important and leave us in a better security posture overall.
+
+11.
+When we're talking about zero trust, that's really what it narrows down to is, never trust, always verify.
+
+12.
+For us, the difference was the time to value.
+
+13.
+We deployed Zscaler extremely fast.
+
+14.
+Our result was better insights into our browsing activity across our user base.
+
+15.
+We hit zero trust segmentation across our workforce and, like, record time.
+
+16.
+And the day to day maintenance of the solution with data loss protection, with insights into our applications, all of these were really quick and easy wins from our perspective.
+
+17.
+And the time to get there with competitors in this space was months, if not, like, a year longer than it would have taken us with Zscaler.
+
+18.
+We rolled out ZIA, the Internet access and gateway portion of it, the ZPA, the private access, z d x for collaboration and insights there, including some data loss prevention modules, specific application connectors, basically the suite in in just a couple weeks.
+
+19.
+We're talking about, like, day one when we start deploying this out.
+
+20.
+We're seeing that value.
+
+21.
+From the user experience, we were able to remove friction that traditional VPN gateways created, where the performance usually backhauls traffic to a data concentrator, and that's sort of bottlenecking how your employees are coming into your environment.
+
+22.
+And with Zscaler, we basically eliminated that with having distributed cloud first approach.
+
+23.
+ZIA optimized in such a way that when we have staff working the floors, they're able to use their mobile devices and the feature sets we've given them in a much more efficient way.
+
+24.
+We've seen well over fifty percent efficiency in this space just based on improved connectivity across the environment.
+
+25.
+As an attacker, when you've compromised an environment, you're hunting for opportunity, and everything is is fake.
+
+26.
+It's what ception technology does.
+
+27.
+It's presenting vulnerable, ripe, tantalizing targets.
+
+28.
+And then every attempt they give, that's triggering an alert for your group to respond to and narrow in on what this potential attack is.
+
+29.
+We're typically trending towards about thirty five thousand threats blocked every couple days.
+
+30.
+There's all these emerging and new threats out there, and it's helping us stay on top of that.
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+Stephen Harrison (CISO, MGM Resorts International)
+
+tag:
+general_discussion
+
+topic:
+Company overview and global presence
+
+text:
+MGM Resorts International spans about seventy thousand employees across the US, parts of Europe, Asia Pacific.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+Stephen Harrison (CISO, MGM Resorts International)
+
+tag:
+challenges
+
+topic:
+Importance of data protection
+
+text:
+There's so much data being transacted here. It's just makes it paramount that we prioritize the protection of that.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+Stephen Harrison (CISO, MGM Resorts International)
+
+tag:
+self_introduction
+
+topic:
+Introduction of Steven Harrison
+
+text:
+I'm Steven Harrison. I'm the chief information security officer here at MGM Resorts International.
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+Stephen Harrison (CISO, MGM Resorts International)
+
+tag:
+challenges
+
+topic:
+Limitations of traditional VPN
+
+text:
+Traditional VPN is definitely a legacy approach. No doubt about it. The idea of this castle and moat approach where you lower the drawbridge, and that's like your VPN access inside, and then you just cross it and you're in the castle. And as soon as you're in the castle, you're trusted whatever you do within those walls is fine.
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+Stephen Harrison (CISO, MGM Resorts International)
+
+tag:
+products_and_solutions
+
+topic:
+Why Zscaler was selected
+
+text:
+The reason we selected Zscaler was because it put us in a spot to take action on what was important and leave us in a better security posture overall. When we're talking about zero trust, that's really what it narrows down to is, never trust, always verify.
+
+Segment 6
+
+segment_id:
+6
+
+speaker:
+Stephen Harrison (CISO, MGM Resorts International)
+
+tag:
+metrics_and_results
+
+topic:
+Fast deployment and zero trust segmentation
+
+text:
+For us, the difference was the time to value. We deployed Zscaler extremely fast. Our result was better insights into our browsing activity across our user base. We hit zero trust segmentation across our workforce and, like, record time.
+
+Segment 7
+
+segment_id:
+7
+
+speaker:
+Stephen Harrison (CISO, MGM Resorts International)
+
+tag:
+products_and_solutions
+
+topic:
+Ease of maintenance and quick wins
+
+text:
+And the day to day maintenance of the solution with data loss protection, with insights into our applications, all of these were really quick and easy wins from our perspective. And the time to get there with competitors in this space was months, if not, like, a year longer than it would have taken us with Zscaler.
+
+Segment 8
+
+segment_id:
+8
+
+speaker:
+Stephen Harrison (CISO, MGM Resorts International)
+
+tag:
+products_and_solutions
+
+topic:
+Zscaler suite deployment
+
+text:
+We rolled out ZIA, the Internet access and gateway portion of it, the ZPA, the private access, z d x for collaboration and insights there, including some data loss prevention modules, specific application connectors, basically the suite in in just a couple weeks. We're talking about, like, day one when we start deploying this out. We're seeing that value.
+
+Segment 9
+
+segment_id:
+9
+
+speaker:
+Stephen Harrison (CISO, MGM Resorts International)
+
+tag:
+metrics_and_results
+
+topic:
+Improved user experience and efficiency
+
+text:
+From the user experience, we were able to remove friction that traditional VPN gateways created, where the performance usually backhauls traffic to a data concentrator, and that's sort of bottlenecking how your employees are coming into your environment. And with Zscaler, we basically eliminated that with having distributed cloud first approach. ZIA optimized in such a way that when we have staff working the floors, they're able to use their mobile devices and the feature sets we've given them in a much more efficient way. We've seen well over fifty percent efficiency in this space just based on improved connectivity across the environment.
+
+Segment 10
+
+segment_id:
+10
+
+speaker:
+Stephen Harrison (CISO, MGM Resorts International)
+
+tag:
+products_and_solutions
+
+topic:
+Deception technology for threat detection
+
+text:
+As an attacker, when you've compromised an environment, you're hunting for opportunity, and everything is is fake. It's what ception technology does. It's presenting vulnerable, ripe, tantalizing targets. And then every attempt they give, that's triggering an alert for your group to respond to and narrow in on what this potential attack is.
+
+Segment 11
+
+segment_id:
+11
+
+speaker:
+Stephen Harrison (CISO, MGM Resorts International)
+
+tag:
+metrics_and_results
+
+topic:
+Threats blocked and staying ahead
+
+text:
+We're typically trending towards about thirty five thousand threats blocked every couple days. There's all these emerging and new threats out there, and it's helping us stay on top of that.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+123115949
+
+created_at:
+1724349109
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+We hit zero trust segmentation across our workforce in record time, and the day-to-day maintenance of the solution with data loss protection with insights into our applications. These were really quick and easy wins from our perspective.
+
+## speaker
+
+name:
+Stephen Harrison
+
+title:
+CISO
+
+company:
+MGM Resorts International
+
+Hero Quote 2
+
+quote:
+The reason we selected Zscaler was because it put us in a spot to take action on what was important and leave us in a better security posture overall.
+
+## speaker
+
+name:
+Stephen Harrison
+
+title:
+CISO
+
+company:
+MGM Resorts International
+
+Hero Quote 3
+
+quote:
+The time to get there with competitors in this space was months, if not a year, longer than it would've taken us with Zscaler.
+
+## speaker
+
+name:
+Stephen Harrison
+
+title:
+CISO
+
+company:
+MGM Resorts International
+
+Hero Quote 4
+
+quote:
+We've seen well over 50% efficiency in [mobile device usage] just based on improved connectivity across the environment.
+
+## speaker
+
+name:
+Stephen Harrison
+
+title:
+CISO
+
+company:
+MGM Resorts International
+
+====================================================
+# customer_case_study
+
+title:
+null
+
+sections:
+[]
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 4
+
+name:
+Deception
+
+url:
+https://www.zscaler.com/products/deception-technology
+
+Product 5
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 6
+
+name:
+Web and Email DLP
+
+url:
+https://www.zscaler.com/products-and-solutions/data-loss-prevention
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 3
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 4
+
+name:
+Secure Remote Access
+
+url:
+https://www.zscaler.com/products-and-solutions/vpn-alternative
+
+Solution 5
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+82866
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how MGM Resorts International MGM Resorts International Doubles Down on a Cloud Native Zero Trust Architecture with Zscaler delivers unmatched time-to-value with zero trust segmentation, data loss protection, and deep actionable insights across the business.
+
+og_title:
+MGM Resorts International Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/mgm-resorts

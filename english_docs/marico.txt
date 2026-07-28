@@ -1,0 +1,630 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/marico
+
+slug:
+marico
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:37.162743Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Marico Improves Security Posture and User Experience
+
+subtitle:
+with the Zscaler Zero Trust Exchange
+
+customer_name:
+Marico
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Coordinate a consistent security posture across all development teams and gain visibility for meeting compliance requirements
+
+## results
+
+- Improves overall security by more than 20%
+- Ensures workers enjoy smooth, seamless access experiences whether on-site or remote
+- Provides granular security controls while supporting affirming company culture
+- Streamlines compliance across multiple geographies
+- Enhances ability to rapidly scale while simultaneously reducing management costs
+
+====================================================
+# customer_snapshot
+
+title:
+Marico
+
+description:
+A rapidly growing multinational beauty and wellness company, Marico is also the largest producer of coconut oil worldwide. Built on a culture of innovation, the company touches the lives of one in three Indians through its brand portfolio and operates throughout Asia and Africa.
+
+industry:
+Services
+
+headquarters:
+Mumbai, India
+
+size:
+Operates in 25 countries
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+One of the biggest benefits of adopting Zscaler has been increasing our security posture and reducing management costs without compromising user experiences or productivity.
+
+## speaker
+
+name:
+Mayuresh Purandare
+
+title:
+Head of IT Infrastructure and Security
+
+company:
+Marico
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+scalable-security-that-empowers-employees
+
+title:
+Scalable security that empowers employees
+
+### paragraphs
+
+Paragraph 1
+
+- With its legacy endpoint security systems providing only a very basic level of protection, Marico was unable to adapt or scale its infrastructure to meet business growth and competitive needs while maintaining the company’s open culture that empowers its workers.
+
+Paragraph 2
+
+- “Securely supporting our company’s culture is critical,” explained Mayuresh Purandare, Head of IT Infrastructure and Security at Marico.
+- “Every security solution we adopt needs to provide IT with granular level controls while positively supporting and empowering our people to innovate.”
+
+### quotes
+
+Quot 1
+
+quote:
+Securely supporting our company’s culture is critical. Every security solution we adopt needs to provide IT with granular level controls while positively supporting and empowering our people to innovate.
+
+#### speaker
+
+name:
+Mayuresh Purandare
+
+title:
+Head of IT Infrastructure and Security
+
+company:
+Marico
+
+Section 2
+
+id:
+the-zero-trust-exchange-answers-scalability-and-m-a-needs
+
+title:
+The Zero Trust Exchange answers scalability and M&A needs
+
+### paragraphs
+
+Paragraph 1
+
+- As Marico expects digital channels and M&A activities to be strong sales drivers, maintaining a future-ready IT landscape with rapidly scalable solutions is a business imperative for the company.
+
+Paragraph 2
+
+- After evaluating its existing premises-based firewall and gateway security infrastructure, which also relied on outdated VPNs for remote access, the company collaborated with trusted local partner Solutions Enterprise Pvt.
+- Ltd.
+- (SEPL) to evaluate modern alternatives.
+- It identified the Zscaler Zero Trust Exchange platform as the right choice.
+
+Paragraph 3
+
+- “The Zscaler Zero Trust Exchange is cloud native, completely customisable and scalable, which means we don’t need to worry about investing in additional security infrastructure when we acquire a new company or expand our operations organically,” said Purandare.
+- “Instead, scaling up is seamless.”
+
+Paragraph 4
+
+- The Zero Trust Exchange also appealed to Marico for its tight integration with Microsoft solutions to accelerate the company’s cloud adoption and implementation.
+- In addition, Marico appreciates having the ability to establish policies to protect against noncompliant activities and data infiltration without imposing any job-related restrictions on employees.
+
+### quotes
+
+Quot 1
+
+quote:
+The Zscaler Zero Trust Exchange is cloud native, completely customisable and scalable, which means we don’t need to worry about investing in additional security infrastructure when we acquire a new company or expand our operations organically. Instead, scaling up is seamless.
+
+#### speaker
+
+name:
+Purandare
+
+title:
+
+
+company:
+Marico
+
+Quot 2
+
+quote:
+The Zero Trust Exchange has made it easy for our company to maintain compliance in every geography.
+
+#### speaker
+
+name:
+Mayuresh Purandare
+
+title:
+Head of IT Infrastructure and Security
+
+company:
+Marico
+
+Section 3
+
+id:
+strengthening-cybersecurity-and-worker-productivity
+
+title:
+Strengthening cybersecurity and worker productivity
+
+### paragraphs
+
+Paragraph 1
+
+- Initially, Marico rolled out Zscaler Internet Access (ZIA) to secure access to the internet and cloud applications like Microsoft 365.
+- To improve support for remote workers, Marico next deployed Zscaler Private Access (ZPA) to secure access to its private applications running on public cloud infrastructure, such as Azure.
+
+Paragraph 2
+
+- The combination of ZIA and ZPA simultaneously bolsters cyberthreat and data loss prevention capabilities, boosts business agility, and provides granular access controls to the internet, SaaS, and private apps.
+
+Paragraph 3
+
+- “Implementing the Zero Trust Exchange supplies us with multiple advantages in our environment, which is a mixture of corporate-issued and personal devices,” said Purandare.
+- “This includes rapid speed-to-market and the ability to segment user traffic, which enables limiting access to only the applications and shared folders an individual requires for their role or job need.”
+
+Paragraph 4
+
+- To support its hybrid workforce, Marico added ZPA Private Service Edge to extend zero trust access to private applications when users are in the office or remote.
+- “With ZPA Private Service Edge, our business users enjoy a smooth access experience regardless of whether they’re sitting within the office or outside the office,” said Purandare.
+
+### quotes
+
+Quot 1
+
+quote:
+Implementing the Zero Trust Exchange supplies us with multiple advantages in our environment, which is a mixture of corporate-issued and personal devices. This includes rapid speed-to-market and the ability to segment user traffic, which enables limiting access to only the applications and.
+
+#### speaker
+
+name:
+Purandare
+
+title:
+
+
+company:
+Marico
+
+Quot 2
+
+quote:
+With ZPA Private Service Edge, our business users enjoy a smooth access experience regardless of whether they’re sitting within the office or outside the office.
+
+#### speaker
+
+name:
+Purandare
+
+title:
+
+
+company:
+Marico
+
+Section 4
+
+id:
+comprehensive-integrated-security-ecosystem
+
+title:
+Comprehensive, integrated security ecosystem
+
+### paragraphs
+
+Paragraph 1
+
+- Unlike legacy network security technologies that leverage firewalls and VPNs, the Zero Trust Exchange securely connects users, devices, and applications using business policies over any network to enable organizations like Marico to securely embrace digital transformation and reduce business risk.
+
+Paragraph 2
+
+- As users and devices are connected directly to applications—never to the corporate network—this ensures threats cannot propagate laterally across Marico’s landscape.
+- Also, because applications sit behind the Zscaler Zero Trust Exchange, they remain invisible and undiscoverable to the internet, so any attack surface is limited.
+
+Paragraph 3
+
+- Further, the Zero Trust Exchange supplies Marico with a comprehensive ecosystem that includes cloud data loss prevention, advanced threat protection, and integrations with other security layers such as security information and event management (SIEM).
+
+Paragraph 4
+
+- “With Zscaler providing a complete solution for 3,000 users, we no longer need to install or maintain complex infrastructure in an effort to stay ahead of bad actors,” said Purandare.
+- “Instead, Zscaler continuously evolves its platform and provides all of its customers, including us, with immediate protection when a new threat is identified.”
+
+### quotes
+
+Quot 1
+
+quote:
+With Zscaler providing a complete solution for 3,000 users, we no longer need to install or maintain complex infrastructure in an effort to stay ahead of bad actors. Instead, Zscaler continuously evolves its platform and provides all of its customers, including us, with immediate protection when a new threat is identified.
+
+#### speaker
+
+name:
+Purandare
+
+title:
+
+
+company:
+Marico
+
+Quot 2
+
+quote:
+With ZPA Private Service Edge, our business users enjoy a smooth access experience regardless of where they are.
+
+#### speaker
+
+name:
+Mayuresh Purandare
+
+title:
+Head of IT Infrastructure and Security
+
+company:
+Marico
+
+Section 5
+
+id:
+easing-geographical-complexity-and-regulatory-compliance
+
+title:
+Easing geographical complexity and regulatory compliance
+
+### paragraphs
+
+Paragraph 1
+
+- Marico also appreciates the Zscaler Zero Trust Exchange for easing compliance with various regulatory requirements.
+- With a presence in 25 countries, Marico must comply with each country’s particular regulatory environment.
+
+Paragraph 2
+
+- “Zscaler has made it much easier for us to maintain compliance in each region,” said Purandare.
+- “The Zero Trust Exchange allows us to block websites which one country deems as insecure, but not in another country where it needs to be accessed.
+- We simply create country-specific rules which route traffic appropriately to ensure we comply with the regulations in each country.”
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler has made it much easier for us to maintain compliance in each region. The Zero Trust Exchange allows us to block websites which one country deems as insecure, but not in another country where it needs to be accessed. We simply create country-specific rules which route traffic appropriately to ensure we comply with the regulations in each country.
+
+#### speaker
+
+name:
+Purandare
+
+title:
+
+
+company:
+Marico
+
+Section 6
+
+id:
+future-ready-it-landscape-that-addresses-esg-goals
+
+title:
+Future-ready IT landscape that addresses ESG goals
+
+### paragraphs
+
+Paragraph 1
+
+- Deploying the Zscaler Zero Trust Exchange has gained Marico a future-ready IT landscape, allowing for real-time collaboration among employees working around the globe in a secure environment.
+
+Paragraph 2
+
+- “Appropriately addressing cybersecurity, and the mitigation costs should a breach occur, is a top strategic business initiative,” said Purandare.
+- “Deploying the Zero Trust Exchange provided us with a comprehensive security solution, at scale, that significantly reduced the cost and complexity associated with legacy security systems.”
+
+Paragraph 3
+
+- In addition, adopting the Zscaler Zero Trust Exchange platform contributes to achieving Marico’s multifaceted environmental, social, and governance (ESG) initiative.
+- “By deploying the Zscaler solution, we are able to accelerate our transition to cloud-based services,” said Purandare.“As we are reducing our dependence on energy-intensive on-premises security systems, this helps with our goal to become carbon neutral by 2040.”
+
+### quotes
+
+Quot 1
+
+quote:
+Appropriately addressing cybersecurity, and the mitigation costs should a breach occur, is a top strategic business initiative. Deploying the Zero Trust Exchange provided us with a comprehensive security solution, at scale, that significantly reduced the cost and complexity associated with legacy security systems.
+
+#### speaker
+
+name:
+Purandare
+
+title:
+
+
+company:
+Marico
+
+Quot 2
+
+quote:
+By deploying the Zscaler solution, we are able to accelerate our transition to cloud-based services. As we are reducing our dependence on energy-intensive on-premises security systems, this helps with our goal to become carbon neutral by 2040.
+
+#### speaker
+
+name:
+Purandare
+
+title:
+
+
+company:
+Marico
+
+Quot 3
+
+quote:
+We are reducing our dependence on energy-intensive on-premises security systems, this helps with our goal to become carbon neutral by 2040.
+
+#### speaker
+
+name:
+Mayuresh Purandare
+
+title:
+Head of IT Infrastructure and Security
+
+company:
+Marico
+
+Section 7
+
+id:
+more-than-20-improvement-in-cybersecurity
+
+title:
+More than 20% improvement in cybersecurity
+
+### paragraphs
+
+Paragraph 1
+
+- Overall, Marico has achieved its goal of maturing its security infrastructure across 13 different business measures while improving its security by more than 20% since implementing the Zero Trust Exchange.
+
+Paragraph 2
+
+- The company’s user experiences have also improved, and management costs have been reduced.
+- “One of the biggest benefits of adopting Zscaler has been increasing our security posture and reducing management costs without compromising user experiences or productivity,” said Purandare.
+
+Paragraph 3
+
+- “The Zero Trust Exchange is highly configurable and very easy to connect with multiple IT ecosystems,” he added.
+- “It’s so easy to manage that we only need a single person to administer it rather than a large team of security engineers.”
+
+### quotes
+
+Quot 1
+
+quote:
+One of the biggest benefits of adopting Zscaler has been increasing our security posture and reducing management costs without compromising user experiences or productivity.
+
+#### speaker
+
+name:
+Purandare
+
+title:
+
+
+company:
+Marico
+
+Quot 2
+
+quote:
+The Zero Trust Exchange is highly configurable and very easy to connect with multiple IT ecosystems. It’s so easy to manage that we only need a single person to administer it rather than a large team of security engineers.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Marico
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+53846
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Marico Marico Improves Security Posture and User Experience with with the Zscaler Zero Trust Exchange.
+
+og_title:
+Marico Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/marico

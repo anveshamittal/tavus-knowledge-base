@@ -1,0 +1,225 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/hub-international
+
+slug:
+hub-international
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:55:28.787018Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Hub International Supports Cloud-First Strategy
+
+subtitle:
+with Zscaler
+
+customer_name:
+Hub International
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Protect against web-borne threats and enable a cloud-first strategy to reduce cost and improve agility
+
+## results
+
+- Secures internet and SaaS access, including SSL inspection
+- Immediately reduces web-borne incidents
+- Provides insights into internet traffic flow and dramatically expands visibility
+- Facilitates investigation and faster response to phishing and other cyberattacks
+- Lays foundation for digital transformation and cloud-first strategy
+
+====================================================
+# customer_snapshot
+
+title:
+Hub International
+
+description:
+HUB International Limited is an insurance brokerage that provides an array of property, casualty, risk management, life and health, employee benefits, investment, and wealth management products and services across North America.
+
+industry:
+Financial Services and Insurance
+
+headquarters:
+Chicago, Illinois, USA
+
+size:
+10,000+ employees across 375 offices in the U.S. and Canada
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/0lcq9zg193
+
+provider:
+wistia
+
+video_id:
+0lcq9zg193
+
+title:
+Transforming Security at Hub International  Customer Stories
+
+description:
+a Transforming Security at Hub International | Customer Stories video
+
+duration_seconds:
+157.258
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/8d371876176cb48b056d5d048705e1bbcb397c0e.bin
+
+transcript:
+null
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+87050170
+
+created_at:
+1646859148
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Almost immediately after deploying ZIA, we saw a reduction in web-borne threats. Additionally, we gained new insight into our traffic flow.
+
+## speaker
+
+name:
+Jeremy Embalabala
+
+title:
+VP of Information Security
+
+company:
+Hub International
+
+====================================================
+# customer_case_study
+
+title:
+null
+
+sections:
+[]
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+32456
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Hub International Hub International Supports Cloud-First Strategy with with Zscaler.
+
+og_title:
+Hub International Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/hub-international

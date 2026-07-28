@@ -1,0 +1,416 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/db-schenker
+
+slug:
+db-schenker
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:18.901392Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+DB Schenker Keeps Employees Safe
+
+subtitle:
+with a Cloud Approach to Remote Access
+
+customer_name:
+DB Schenker
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Adopt a cloud-first solution that could scale to meet the company’s needs without the limitations of a VPN
+
+## results
+
+- Scales infinitely for secure access without the shortcomings of VPN
+- Enabled a rapid rollout—completed in approximately 4 weeks
+- Maintains business continuity while keeping remote workers safe
+- Supports a global workforce in compliance with regional regulations
+
+====================================================
+# customer_snapshot
+
+title:
+DB Schenker
+
+description:
+DB Schenker is one of the world’s leading global logistics providers, supporting industry and trade in the global exchange of goods through land transport, worldwide air and ocean freight, contract logistics, and supply chain management.
+
+industry:
+Transportation Services
+
+headquarters:
+Essen, Germany
+
+size:
+76,000+ employees in 1,400+ branches across 80 countries
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+ZPA has been a key enabler to support DB Schenker’s business continuity plan, which has resulted in our users not wanting to go back to traditional VPN connections.
+
+## speaker
+
+name:
+Gerold Nagel
+
+title:
+SVP
+
+company:
+DB Schenker
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+how-db-schenker-kept-employees-safe-with-a-cloud-approach-to-remote-access
+
+title:
+How DB Schenker Kept Employees Safe with a Cloud Approach to Remote Access
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- Rising above the unforeseen
+
+Paragraph 2
+
+- Sometimes unforeseen events bring to light the excellence of people who make unprecedented requirements happen in record time.
+
+Paragraph 3
+
+- Let me elaborate on this statement to give you more context around the story I want to share with you:
+
+Paragraph 4
+
+- The unforeseen event: COVID-19 outbreak
+
+Paragraph 5
+
+- The people: Our IT colleagues at DB Schenker
+
+Paragraph 6
+
+- The unprecedented requirements: Enabling the majority of DB Schenker’s workforce across Asia Pacific to work remotely and to keep them safe while ensuring business continuity.
+
+Paragraph 7
+
+- The record time: Completed rollout in four weeks I was humbled to see our team come together to reach this accomplishment.
+- By sharing our process experience, we can give you insights into how your team can also deliver business continuity and provide remote access without compromising on security and user experience.
+- To keep our intertwined global infrastructures going, business continuity is of the utmost importance for a global freight forwarding company like us, whose core business is to deliver cargo around the globe.
+
+Section 2
+
+id:
+a-server-free-world
+
+title:
+A “server-free world”
+
+### paragraphs
+
+Paragraph 1
+
+- As soon as the COVID-19 outbreak in China started to spread, we knew we had to enable our employees to continue their essential work from the safety of their homes.
+- While we have standard VPNs in place for what I would call a “normal” number of users, expanding those numbers significantly would have been almost impossible in the given timeframe while still following Chinese regulations.
+- Furthermore, the idea of providing a truly global workplace has been nurtured at DB Schenker for some time.
+
+Paragraph 2
+
+- Consequently, we made the decision three years ago to convert all of our 1,400 branches in 80 countries with more than 76,000 employees to be server-free.
+
+### quotes
+
+Quot 1
+
+quote:
+It is clear for me that the only way forward is to embrace a cloud-first strategy …
+
+#### speaker
+
+name:
+Gerold Nagel
+
+title:
+SVP
+
+company:
+DB Schenker
+
+Section 3
+
+id:
+delivering-remote-access-in-days
+
+title:
+Delivering remote access in days
+
+### paragraphs
+
+Paragraph 1
+
+- To ensure our business could operate under these new circumstances, we needed to find a solution that supported our cloud-first strategy, could scale as quickly as needed, and did not have the limitations of a VPN.
+- All these requirements led us to Zscaler Private Access (ZPA).
+- We knew about ZPA already as a Zscaler customer.
+- In a matter of days, we successfully tested the new solution.
+- And within two weeks, right around the time our Chinese colleagues from their extended Chinese New Year’s break, we were ready to roll it out into production.
+- Following the requests of the business, we rolled out ZPA to the majority of our employees in Asia Pacific within a fortnight, and are continuously working to expand remote access through ZPA even further.
+
+Paragraph 2
+
+- ZPA has been a key enabler to support DB Schenker’s business continuity plan, which has resulted in our users not wanting to go back to traditional VPN connections.
+
+### quotes
+
+Quot 1
+
+quote:
+Sometimes unforeseen events bring to light the excellence of people who make unprecedented requirements happen in record time.
+
+#### speaker
+
+name:
+Gerold Nagel
+
+title:
+SVP
+
+company:
+DB Schenker
+
+Section 4
+
+id:
+lessons-learned
+
+title:
+Lessons learned
+
+### paragraphs
+
+Paragraph 1
+
+- Allow me to also share some suggestions for those who are facing similar challenges.
+- In the event you need to ensure business continuity, make sure of the following:
+
+Paragraph 2
+
+- Immediately set up a task force.
+
+Paragraph 3
+
+- Have daily status checkups to align everyone working together across teams, countries, and continents.
+
+Paragraph 4
+
+- Be clear and diligent in your identification, assignment, and tracking of tasks.
+
+Paragraph 5
+
+- Communicate clearly, even around small things, such as “Take home your laptops every night, as you may not be able to come back to the office tomorrow.”
+
+Paragraph 6
+
+- Share the lessons your team learned to continuously improve your response process.
+- This will help your IT team excel and minimize business disruption.
+
+Paragraph 7
+
+- Events such as these force us to reconsider how enterprises work and how we enable our employees to achieve the same level of productivity when working remotely.
+- It is clear for me that the only way forward is to embrace a cloud-first strategy and to follow the DB Schenker path by investing in server-free branches and, hence, having all data accessible from anywhere at any time through secure remote access.
+
+Paragraph 8
+
+- I would not want to miss the opportunity to thank my colleagues around the globe, and in particular, colleagues of the GIS Community, at corporate and in Asia Pacific, for their dedication, strong support, and professionalism in handling this situation.
+
+### quotes
+
+Quot 1
+
+quote:
+We rolled out ZPA to the majority of our employees in Asia Pacific within a fortnight …
+
+#### speaker
+
+name:
+Gerold Nagel
+
+title:
+SVP
+
+company:
+DB Schenker
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+44256
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how DB Schenker DB Schenker Keeps Employees Safe with with a Cloud Approach to Remote Access.
+
+og_title:
+DB Schenker Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/db-schenker

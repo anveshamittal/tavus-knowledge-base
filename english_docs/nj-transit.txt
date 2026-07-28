@@ -1,0 +1,933 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/nj-transit
+
+slug:
+nj-transit
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:55:44.139770Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+NJ TRANSIT Protects Critical Infrastructure and Strengthens Security with Zero Trust
+
+subtitle:
+Zscaler ensures OT uptime, context-based access to apps and resources, and multilayered protection against ransomware and other advanced threats
+
+customer_name:
+NJ TRANSIT
+
+## metrics
+
+Metric 1
+
+value:
+0
+
+label:
+VPNs and firewalls
+
+Metric 2
+
+value:
+50%
+
+label:
+fewer help-desk tickets
+
+Metric 3
+
+value:
+100%
+
+label:
+TLS/SSL inspection
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- The organization needed a more reliable, secure, and low-latency alternative to VPN to connect its 100% mobile workforce to authorized apps and resources
+- Federal regulations required strong controls for OT systems to ensure passenger safety, continuity of service, and compliance
+- A top priority was increasing cybersecurity resilience to protect against ransomware and other advanced threats that could result in downtime and data exfiltration
+
+## results
+
+- Delivers a productive, secure work-from-anywhere experience while significantly decreasing the volume of help-desk tickets
+- Ensures safe and dependable transportation services by securing critical infrastructure
+- Builds greater cybersecurity resilience with better visibility into threats, malware, and data exfiltration, accelerating detection, prevention, and response
+
+====================================================
+# customer_snapshot
+
+title:
+NJ TRANSIT
+
+description:
+NJ TRANSIT is the third largest provider of bus, rail, and light rail transit in the U.S.
+
+industry:
+Federal and Government
+
+headquarters:
+Newark, New Jersey
+
+size:
+12,000 employees, 250M riders/yr.
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/c3w10tyuzn
+
+provider:
+wistia
+
+video_id:
+c3w10tyuzn
+
+title:
+NJ TRANSIT Protects Critical Infrastructure and Strengthens Security with Zero Trust
+
+description:
+a Customer Testimonials video
+
+duration_seconds:
+187.223
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/126f8947082230fcdc00b338ee64812852337a37.bin
+
+### transcript
+
+language:
+eng
+
+#### sentences
+
+1.
+My name is Rafi Khan.
+
+2.
+I'm the Chief Information Security Officer at New Jersey Transit.
+
+3.
+We are responsible for about a quarter billion riders per year.
+
+4.
+As a critical infrastructure, New Jersey Transit has to ensure that its systems, its data, any telemetry information, whether it's in transit or it's in storage, is safe and it's secure.
+
+5.
+I like the analogy of the cash flow and moat.
+
+6.
+No matter how you cut it, it's defective.
+
+7.
+And here's where the defect is.
+
+8.
+The legacy approach of credentials and also trusting folks who are connecting to our systems doesn't work today.
+
+9.
+So that's one way to look at it, but we don't want our crown jewels to be infected or to be encrypted.
+
+10.
+So both east west and north south, we have to mitigate any malware transfer.
+
+11.
+The current approach of Zero Trust allows us to never trust and always verify.
+
+12.
+Casually mode is always a static Approach Anything Zero Trust and all the tools that we have, they're all dynamic.
+
+13.
+They keep iterating towards, what the situation is, and based on that We benefit.
+
+14.
+Different components of Zscaler is helping us layer that defense along with other tools that we have.
+
+15.
+It's really benefiting the users and obviously the company where traffic is safe, if it's not a sanctioned destination, it'll be blocked.
+
+16.
+For the OT element of the business, the strategy is slightly different.
+
+17.
+There are more constraints to ensure that the data is encrypted, to ensure that whatever data is stored is stored in the proper encryption.
+
+18.
+We've also evaluated Zscaler tools in terms of how does that tool become a traffic cop?
+
+19.
+How do we prevent data from exfiltrating through AI uploads?
+
+20.
+And how do we prevent our users from adding prompts that will Exfiltrate company information.
+
+21.
+It creates an isolated browser, and folks are realizing that, hey, You cannot go to a platform that's not sanctioned.
+
+22.
+And if it's sanctioned, you cannot put data in.
+
+23.
+The other part of it is the honeypot and sandboxing.
+
+24.
+When we implemented that about maybe two years ago, we've seen a reduction on alerts.
+
+25.
+So now we have basically containerized the malware and we can see how the bad guys are behaving.
+
+26.
+I think the days of static tools Numbered, if not gone.
+
+27.
+We need to have tools such as Zscaler that's dynamic, that provides us visibility, and also provides us the ability to defend ourselves from malware, from bad actors trying to get into our systems.
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+Rafi Khan (CISO, NJ TRANSIT)
+
+tag:
+self_introduction
+
+topic:
+Introduction and NJ TRANSIT overview
+
+text:
+My name is Rafi Khan. I'm the Chief Information Security Officer at New Jersey Transit. We are responsible for about a quarter billion riders per year.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+Rafi Khan (CISO, NJ TRANSIT)
+
+tag:
+challenges
+
+topic:
+Critical infrastructure and legacy issues
+
+text:
+As a critical infrastructure, New Jersey Transit has to ensure that its systems, its data, any telemetry information, whether it's in transit or it's in storage, is safe and it's secure. I like the analogy of the cash flow and moat. No matter how you cut it, it's defective. And here's where the defect is. The legacy approach of credentials and also trusting folks who are connecting to our systems doesn't work today. So that's one way to look at it, but we don't want our crown jewels to be infected or to be encrypted. So both east west and north south, we have to mitigate any malware transfer.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+Rafi Khan (CISO, NJ TRANSIT)
+
+tag:
+products_and_solutions
+
+topic:
+Zero Trust and dynamic tools
+
+text:
+The current approach of Zero Trust allows us to never trust and always verify. Casually mode is always a static Approach Anything Zero Trust and all the tools that we have, they're all dynamic. They keep iterating towards, what the situation is, and based on that We benefit.
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+Rafi Khan (CISO, NJ TRANSIT)
+
+tag:
+products_and_solutions
+
+topic:
+Zscaler components and traffic safety
+
+text:
+Different components of Zscaler is helping us layer that defense along with other tools that we have. It's really benefiting the users and obviously the company where traffic is safe, if it's not a sanctioned destination, it'll be blocked.
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+Rafi Khan (CISO, NJ TRANSIT)
+
+tag:
+challenges
+
+topic:
+OT business constraints and encryption
+
+text:
+For the OT element of the business, the strategy is slightly different. There are more constraints to ensure that the data is encrypted, to ensure that whatever data is stored is stored in the proper encryption.
+
+Segment 6
+
+segment_id:
+6
+
+speaker:
+Rafi Khan (CISO, NJ TRANSIT)
+
+tag:
+products_and_solutions
+
+topic:
+Zscaler as a traffic cop
+
+text:
+We've also evaluated Zscaler tools in terms of how does that tool become a traffic cop? How do we prevent data from exfiltrating through AI uploads? And how do we prevent our users from adding prompts that will Exfiltrate company information. It creates an isolated browser, and folks are realizing that, hey, You cannot go to a platform that's not sanctioned. And if it's sanctioned, you cannot put data in.
+
+Segment 7
+
+segment_id:
+7
+
+speaker:
+Rafi Khan (CISO, NJ TRANSIT)
+
+tag:
+products_and_solutions
+
+topic:
+Honeypot and sandboxing benefits
+
+text:
+The other part of it is the honeypot and sandboxing. When we implemented that about maybe two years ago, we've seen a reduction on alerts. So now we have basically containerized the malware and we can see how the bad guys are behaving.
+
+Segment 8
+
+segment_id:
+8
+
+speaker:
+Rafi Khan (CISO, NJ TRANSIT)
+
+tag:
+quote
+
+topic:
+Dynamic tools and visibility
+
+text:
+I think the days of static tools Numbered, if not gone. We need to have tools such as Zscaler that's dynamic, that provides us visibility, and also provides us the ability to defend ourselves from malware, from bad actors trying to get into our systems.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+140144994
+
+created_at:
+1761609895
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Through the use of Zscaler, NJ TRANSIT’s data and IT and OT assets are shielded from malware and ransomware threats, supporting our mission to provide a first-rate travel experience.
+
+## speaker
+
+name:
+Rafi Khan
+
+title:
+CISO
+
+company:
+NJ TRANSIT
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+section-1
+
+title:
+
+
+### paragraphs
+
+Paragraph 1
+
+- Covering a service area of 5,325 square miles, NJ TRANSIT is the nation's third largest provider of bus, rail, and light rail transit, linking major points in New Jersey, New York, and Philadelphia.
+- With 253 bus routes and 12 rail lines statewide, NJ TRANSIT provides transportation for 1 million passengers every weekday, which translates to 250 million per year.
+
+Paragraph 2
+
+- As the organization transitioned to a cloud-first, fully remote-work environment, CISO Rafi Kahn was keenly aware of the limitations of its outdated castle-and-moat security architecture.
+
+Paragraph 3
+
+- “My responsibility at NJ TRANSIT is to ensure safe and reliable transportation of our constituents.
+- Our priorities include defending our systems from bad actors, protecting our vital data, and complying with regulatory mandates,” said Khan.
+- “Our legacy infrastructure was complex, lacked scalability, and was unable to meet these requirements, putting our operational continuity at risk.”
+
+Paragraph 4
+
+- This led to high operational costs and management complexity.
+- Top concerns were excessive time spent on hardware maintenance, ineffective TLS/SSL traffic inspection, and reliance on VPNs that expanded the attack surface and enabled lateral threat movement on the network.
+
+Paragraph 5
+
+- “We needed a solution that was dynamic, stayed current with today’s technologies, and could provide a better experience for our remote users—anywhere and on any device.
+- After we looked at other vendors, the Zscaler Zero Trust Exchange platform was the standard we went with,” said Khan.
+- “It gives us the security, scalability, and positive user experience we were looking for.”
+
+### quotes
+
+Quot 1
+
+quote:
+My responsibility at NJ TRANSIT is to ensure safe and reliable transportation of our constituents. Our priorities include defending our systems from bad actors, protecting our vital data, and complying with regulatory mandates. Our legacy infrastructure was complex, lacked scalability, and was unable to meet these requirements, putting our operational continuity at risk.
+
+#### speaker
+
+name:
+Khan
+
+title:
+
+
+company:
+NJ TRANSIT
+
+Quot 2
+
+quote:
+We needed a solution that was dynamic, stayed current with today’s technologies, and could provide a better experience for our remote users—anywhere and on any device. After we looked at other vendors, the Zscaler Zero Trust Exchange platform was the standard we went with. It gives us the security, scalability, and positive user experience we were looking for.
+
+#### speaker
+
+name:
+Khan
+
+title:
+
+
+company:
+NJ TRANSIT
+
+Section 2
+
+id:
+inspecting-100-encrypted-traffic-and-replacing-vulnerable-vpns-to-secure-the-digital-workforce
+
+title:
+Inspecting 100% encrypted traffic and replacing vulnerable VPNs to secure the digital workforce
+
+### paragraphs
+
+Paragraph 1
+
+- As NJ TRANSIT increasingly embraced remote work, it initiated its zero trust journey with Zscaler Internet Access (ZIA) to enable its extended digital workforce to securely and seamlessly access the web and SaaS apps from anywhere and on any device.
+
+Paragraph 2
+
+- Enhancing inspection of encrypted traffic was a key focus area for Khan and his team.
+- NJ TRANSIT’s legacy appliances lacked needed scalability and could only inspect a small fraction of traffic, focusing mainly on URLs.
+- As a result, the organization was blind to many internet threats, including ransomware and malware hidden in encrypted traffic.
+
+Paragraph 3
+
+- The Zscaler platform changed that with its cloud-native platform and built-in TLS/SSL inspection at scale, making it easy to monitor 100% of encrypted traffic for hidden malicious content and data exfiltration activity hidden in encrypted traffic.
+- “Once we deployed Zscaler, NJ TRANSIT was able to mitigate inspection problems,” Jon Cassidy, Manager, Cybersecurity Architecture and Engineering remarked.
+- “We are impressed at its compatibility with NJ TRANSIT systems.”
+
+Paragraph 4
+
+- Building on that success, NJ TRANSIT then addressed its legacy VPN, which Khan recognized as an inherent vulnerability and attack vector for ransomware.
+- This gave him the confidence to accelerate the Zscaler Private Access (ZPA) implementation, completely phasing out the VPN and giving users secure, high-performance connectivity to private apps and workloads residing on hardware, virtual machines, or the cloud through the Zero Trust Exchange platform.
+- With role-based access through integration with NJ TRANSIT’s identity provider, Zscaler delivers a completely cloud-based work-from-anywhere model with minimal latency.
+- For example, remote technicians tasked with repairing OT systems can quickly connect to these devices from their browsers—without the need for VPN—to ensure continuity of service and uptime for critical systems.
+
+Paragraph 5
+
+- “Zscaler secures the work employees do every day, whether they are connecting to OT systems, workloads, the internet, or private apps,” said John Franciscone, Senior Director of Cybersecurity, Architecture, and Engineering.
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler secures the work employees do every day, whether they are connecting to OT systems, workloads, the internet, or private apps.
+
+#### speaker
+
+name:
+John
+
+title:
+
+
+company:
+NJ TRANSIT
+
+Quot 2
+
+quote:
+We no longer have to spend time updating, reconfiguring, and maintaining on-premises security appliances. It makes our job so much easier.
+
+#### speaker
+
+name:
+John Franciscone
+
+title:
+Senior Director of Cybersecurity, Architecture, and Engineering
+
+company:
+NJ TRANSIT
+
+Section 3
+
+id:
+taking-a-defense-in-depth-approach-to-security
+
+title:
+Taking a defense-in-depth approach to security
+
+### paragraphs
+
+Paragraph 1
+
+- Khan continued to refine NJ TRANSIT’s defense-in-depth security approach by incorporating additional Zscaler capabilities.
+
+Paragraph 2
+
+- He and his team added AI-powered Zscaler Zero Trust Browser to block web threats and prevent data exfiltration by restricting upload, download, and cut and paste actions.
+
+Paragraph 3
+
+- NJ TRANSIT has improved its threat detection capability with Zscaler Cloud Sandbox, which provides real-time analysis of zero day and advanced threats by quarantining potentially malicious code.
+- It integrates with Zero Trust Browser, allowing users to securely interact with downloaded files by converting them to PDFs or disarming them to remove harmful content.
+
+Paragraph 4
+
+- Khan and his team also added Zscaler Deception to their arsenal to thwart insider threats, ransomware, and advanced attacks that target zero trust environments and bypass existing security controls.
+- Deception uses decoys and lures to actively detect and intercept such threats.
+
+Paragraph 5
+
+- “Zscaler Deception helps us detect stealthy attacks and containerize threats so that we can observe how bad actors are behaving and recognize these patterns in the future .
+- We’ve seen a significant reduction in alerting volume since rolling out this capability, and it has been beneficial to our prevention, detection, and response strategy,” said Khan.
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler Deception helps us detect stealthy attacks and containerize threats so that we can observe how bad actors are behaving and recognize these patterns in the future . We’ve seen a significant reduction in alerting volume since rolling out this capability, and it has been beneficial to our prevention, detection, and response strategy.
+
+#### speaker
+
+name:
+Khan
+
+title:
+
+
+company:
+NJ TRANSIT
+
+Section 4
+
+id:
+optimizing-ot-security-to-maintain-uninterrupted-operations-and-compliance
+
+title:
+Optimizing OT security to maintain uninterrupted operations and compliance
+
+### paragraphs
+
+Paragraph 1
+
+- As a federally funded entity, NJ TRANSIT is required to follow government security directives, namely recommendations by the Cybersecurity and Infrastructure Security Agency (CISA).
+- These directives require the organization to assess the security level of IT/OT annually and implement mitigation controls to ensure that those systems are secure.
+- One such system that NJ TRANSIT must monitor for compliance is Positive Train Control (PTC), a collision avoidance system implemented by the federal government and overseen by the The Federal Railway Administration (FRA).
+
+Paragraph 2
+
+- NJ TRANSIT has extended ZPA’s agentless zero trust to OT systems such as PTC as well as communication systems.
+- ZPA provides real-time monitoring and data analytics that enhance physical safety and cybersecurity.
+- It further protects OT systems from internet-borne threats by creating a secure segment of one between an authorized user to a specific device.
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler’s resiliency and redundancy provides a multitenant, distributed cloud platform that could not be accomplished with traditional build-outs.
+
+#### speaker
+
+name:
+Rafi Khan
+
+title:
+CISO
+
+company:
+NJ TRANSIT
+
+Section 5
+
+id:
+slashing-ticket-volume-by-50-to-enhance-user-experience
+
+title:
+Slashing ticket volume by 50% to enhance user experience
+
+### paragraphs
+
+Paragraph 1
+
+- NJ TRANSIT’s legacy architecture was hindering its mobile-first initiative, generating 250 support tickets per month that cost 60 hours of IT time and 125 hours of user productivity to resolve.
+
+Paragraph 2
+
+- NJ TRANSIT deployed Zscaler Digital Experience (ZDX) to move from reactive troubleshooting to proactive management.
+- By gaining end-to-end visibility, the support team now instantly pinpoints and resolves issues, maximizing user uptime and productivity.
+
+Paragraph 3
+
+- “With Zscaler, we’ve been able to reduce support tickets by 50%,” said Franciscone.
+- “It not only lightens the load for our help desk, it also ensures a seamless user experience.”
+
+### quotes
+
+Quot 1
+
+quote:
+With Zscaler, we’ve been able to reduce support tickets by 50%. It not only lightens the load for our help desk, it also ensures a seamless user experience.
+
+#### speaker
+
+name:
+Franciscone
+
+title:
+
+
+company:
+NJ TRANSIT
+
+Section 6
+
+id:
+business-continuity-efficiency-and-flexibility
+
+title:
+Business continuity, efficiency, and flexibility
+
+### paragraphs
+
+Paragraph 1
+
+- NJ TRANSIT recognizes that business continuity is a major benefit of the Zero Trust Exchange platform.
+- The security team can now rest assured that the organization will remain secure and operational without interruption, even in the event of unexpected incidents.
+
+Paragraph 2
+
+- “Zscaler’s resiliency and redundancy provides a multitenant, distributed cloud platform that could not be accomplished with traditional build-outs,” said Kahn.
+
+Paragraph 3
+
+- Zscaler delivers zero trust communications as a service at the edge, from as close to the end user as possible, so there’s no need to make an extra hop and route users to a distant on-premises data center.
+- Now employees have direct, frictionless access to the resources they need.
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler’s resiliency and redundancy provides a multitenant, distributed cloud platform that could not be accomplished with traditional build-outs.
+
+#### speaker
+
+name:
+Kahn
+
+title:
+
+
+company:
+NJ TRANSIT
+
+Quot 2
+
+quote:
+After we looked at other vendors, the Zscaler Zero Trust Exchange platform was the standard we went with. It gives us the security, scalability, and positive user experience we were looking for.
+
+#### speaker
+
+name:
+Rafi Kahn
+
+title:
+CISO
+
+company:
+NJ TRANSIT
+
+Section 7
+
+id:
+zero-trust-as-a-crucial-component-of-a-multi-layered-defense
+
+title:
+Zero trust as a crucial component of a multi-layered defense
+
+### paragraphs
+
+Paragraph 1
+
+- Zscaler’s dynamic approach to security has made the organization’s security operations more efficient and effective, thanks to expanded visibility and real-time insights that translate to actionable alerts.
+
+Paragraph 2
+
+- “Zscaler gives us the tools to monitor usage, pinpoint risks, and analyze threat patterns,” said Franciscone.
+- “Best of all, we no longer have to spend time updating, reconfiguring, and maintaining on-premises security appliances.
+- It makes our job so much easier.”
+
+Paragraph 3
+
+- Kahn went on to explain how zero trust plays a critical role in NJ TRANSIT’s defense-in-depth approach to security: “We have fully embraced the zero trust principle of ‘never trust, always verify.’ It helps us understand the who, what, and where—the user identity, the device, and the destination or apps users are attempting to access.
+- Through the use of Zscaler, NJ TRANSIT’s data and IT and OT assets are shielded from malware and ransomware threats, supporting our mission to provide a first-rate travel experience.”
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler gives us the tools to monitor usage, pinpoint risks, and analyze threat patterns. Best of all, we no longer have to spend time updating, reconfiguring, and maintaining on-premises security appliances. It makes our job so much easier.
+
+#### speaker
+
+name:
+Franciscone
+
+title:
+
+
+company:
+NJ TRANSIT
+
+Quot 2
+
+quote:
+We have fully embraced the zero trust principle of ‘never trust, always verify.’ It helps us understand the who, what, and where—the user identity, the device, and the destination or apps users are attempting to access. Through the use of Zscaler, NJ TRANSIT’s data and IT and OT assets are shielded from malware and ransomware threats, supporting our mission to provide a first-rate travel experience.
+
+#### speaker
+
+name:
+Kahn
+
+title:
+
+
+company:
+NJ TRANSIT
+
+====================================================
+# products
+
+Product 1
+
+name:
+Deception
+
+url:
+https://www.zscaler.com/products/deception-technology
+
+Product 2
+
+name:
+Sandbox
+
+url:
+https://www.zscaler.com/technology/cloud-sandbox
+
+Product 3
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 4
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 5
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Secure Remote Access
+
+url:
+https://www.zscaler.com/products-and-solutions/vpn-alternative
+
+Solution 2
+
+name:
+AI/ML
+
+url:
+null
+
+Solution 3
+
+name:
+Stop Cyberattacks
+
+url:
+https://www.zscaler.com/products-and-solutions/zscaler-risk-360
+
+Solution 4
+
+name:
+Zero Trust
+
+url:
+null
+
+Solution 5
+
+name:
+Risk Management
+
+url:
+null
+
+Solution 6
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 7
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+104601
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how NJ TRANSIT NJ TRANSIT Protects Critical Infrastructure and Strengthens Security with Zero Trust with Zscaler ensures OT uptime, context-based access to apps and resources, and multilayered protection against ransomware and other advanced threats.
+
+og_title:
+NJ TRANSIT Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/nj-transit

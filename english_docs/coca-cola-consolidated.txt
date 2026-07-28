@@ -1,0 +1,470 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/coca-cola-consolidated
+
+slug:
+coca-cola-consolidated
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:15.019897Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Coca-Cola Consolidated Empowers Employees to Work from Anywhere
+
+subtitle:
+with the Zscaler Zero Trust Exchange
+
+customer_name:
+Coca-Cola Consolidated
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Ensure fast, secure access to internal resources as teams work from home during and after the pandemic
+
+## results
+
+- Delivers fast, consistent, direct connections while securing open internet traffic
+- Optimizes connectivity to Microsoft 365 and Teams, with automated configuration
+- Streamlines connections to internal apps with an easy-to-deploy, lightweight agent
+- Improves user experience, strengthens security, and keeps infrastructure costs low
+- Keeps thousands of users productive and secure on any device, anywhere
+
+====================================================
+# customer_snapshot
+
+title:
+Coca-Cola Consolidated
+
+description:
+Coca-Cola Consolidated, the largest bottler of Coca-Cola products in the US, produces, sells, and distributes more than 300 Coca-Cola products to more than 66 million consumers. The company is deeply committed to its customers, the communities it serves, and its 16,000 teammates.
+
+industry:
+Manufacturing
+
+headquarters:
+Charlotte, North Carolina, USA
+
+size:
+16,000 employees in 100+ locations across 14 states
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Deploying Zscaler was just an awesome experience. Zscaler was very patient with us. They worked with us well. They addressed each and every one of our concerns methodically and did a fantastic job.
+
+## speaker
+
+name:
+Rory Regan
+
+title:
+Dir. of Infrastructure
+
+company:
+Coca-Cola Consolidated
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+reimagining-microsoft-365-for-remote-workers
+
+title:
+Reimagining Microsoft 365 for remote workers
+
+### paragraphs
+
+Paragraph 1
+
+- Coca-Cola Consolidated had been a Microsoft 365 platform member for a number of years and began working with Zscaler in 2018 to help complement that experience.
+- Zscaler is fully compliant with Microsoft 365 connectivity recommendations and has more than 20 data centers worldwide that participate in Microsoft’s network peering program.
+
+Paragraph 2
+
+- Zscaler helped Coca-Cola Consolidated’s Microsoft 365 users avoid VPN performance impacts by delivering a fast, direct connection and enhancing the user experience while keeping open internet traffic secure with Cloud Firewall, cloud access security broker (CASB), data loss prevention (DLP), and Cloud Sandbox defenses, among others.
+
+Paragraph 3
+
+- With the onset of the COVID-19 pandemic, Coca-Cola Consolidated encouraged several thousand office teammates to work from home weeks before many states gave shelter-in-place orders.
+- This presented a communications challenge for the company, which uses Microsoft Teams and other latency-sensitive applications for internal communications.
+
+Paragraph 4
+
+- With traditional VPN connections, users often report latency, which can affect Microsoft 365 productivity.
+- With Zscaler, all traffic to Microsoft gets peeled off, meaning no more worrying about scaling hardware to deploy Microsoft 365, Teams, and other applications, or configuring security devices to be Microsoft compliant.
+- Zscaler optimizes connectivity to Microsoft and automates all configurations.
+
+Paragraph 5
+
+- The Coca-Cola Consolidated IT team had to remove as many variables as possible to provide remote workers with a safe and predictable user experience comparable to or better than at the office—especially for Microsoft 365 because the company is so heavily dependent on it.
+
+Paragraph 6
+
+- “It was a necessity to be able to keep these office teammates, who have now been sent home, working safely in their home settings,” said Darrell Thompson, Chief Information Officer at Coca-Cola Consolidated.
+- “It was very, very important that we were focused on keeping our office workers productive.”
+
+Paragraph 7
+
+- Though Coca-Cola Consolidated had done an initial slow rollout of Zscaler Client Connector more than a year prior to COVID-19, it became hyper-relevant to their success as teammates were instructed to work from home.
+- With Client Connector, Coca-Cola Consolidated was able to route traffic through a single checkpost, streamlining connections to internal applications, improving user experience, increasing security, and keeping infrastructure costs low.
+
+Paragraph 8
+
+- “Making teammates VPN in first would have created a negative user experience and driven up our infrastructure costs because we would have to build that capacity,” said Rory Regan, Director of Infrastructure of IT Services for Coca-Cola Consolidated.
+
+### quotes
+
+Quot 1
+
+quote:
+It was a necessity to be able to keep these office teammates, who have now been sent home, working safely in their home settings. It was very, very important that we were focused on keeping our office workers productive.
+
+#### speaker
+
+name:
+Darrell
+
+title:
+
+
+company:
+Coca-Cola Consolidated
+
+Quot 2
+
+quote:
+Making teammates VPN in first would have created a negative user experience and driven up our infrastructure costs because we would have to build that capacity.
+
+#### speaker
+
+name:
+Rory Regan
+
+title:
+Dir. of Infrastructure
+
+company:
+Coca-Cola Consolidated
+
+Section 2
+
+id:
+how-zscaler-client-connector-empowered-leadership-to-take-control
+
+title:
+How Zscaler Client Connector empowered leadership to take control
+
+### paragraphs
+
+Paragraph 1
+
+- Client Connector allowed leadership at Coca-Cola Consolidated to monitor key business metrics, ensuring continued productivity in the new work-from-home model, giving peace of mind that important work was getting done, and enabling company leaders to make informed decisions moving forward.
+
+Paragraph 2
+
+- “Our culture at Coke Consolidated has always been a brick-and-mortar operation.
+- We’re in facilities, we’re working together, we’re collaborating, we’re producing, selling, and distributing Coca-Cola.
+- Now that we’re in this remote work environment, it’s a little bit harder to see the work is happening,” Thompson said.
+- “But the Zscaler dashboard metrics that are coming out show that our team is there.
+- They’re working.
+- They’re engaged.”
+
+### quotes
+
+Quot 1
+
+quote:
+Our culture at Coke Consolidated has always been a brick-and-mortar operation. We’re in facilities, we’re working together, we’re collaborating, we’re producing, selling, and distributing Coca-Cola. Now that we’re in this remote work environment, it’s a little bit harder to see the work is happening. But the Zscaler dashboard metrics that are coming out show that our team is there. They’re working. They’re engaged.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Coca-Cola Consolidated
+
+Quot 2
+
+quote:
+Zscaler dashboard metrics that are coming out show that our team is there. They’re working. They’re engaged.
+
+#### speaker
+
+name:
+Darrell Thompson
+
+title:
+Chief Information Officer
+
+company:
+Coca-Cola Consolidated
+
+Section 3
+
+id:
+quick-and-seamless-deployment
+
+title:
+Quick and seamless deployment
+
+### paragraphs
+
+Paragraph 1
+
+- With teammates using an array of devices, Coca-Cola Consolidated needed a solution that would keep its users secure, no matter the device or location.
+- Client Connector was able to deliver that security while also easily deploying to thousands of users.
+
+Paragraph 2
+
+- “A lot of our knowledge workers were already operating off laptops, making it very easy for us to deploy the Zscaler Client Connector,” said Regan.
+- “When we started adding it on the laptops, many teammates were already working from home.
+- It was easy to deploy behind the scenes and didn’t interfere with the way they worked.”
+
+Paragraph 3
+
+- “I can’t tell you the last time I rolled out something that really gave us so much capability without much pain,” Regan added.
+
+### quotes
+
+Quot 1
+
+quote:
+A lot of our knowledge workers were already operating off laptops, making it very easy for us to deploy the Zscaler Client Connector. When we started adding it on the laptops, many teammates were already working from home. It was easy to deploy behind the scenes and didn’t interfere with the way they worked.
+
+#### speaker
+
+name:
+Regan
+
+title:
+
+
+company:
+Coca-Cola Consolidated
+
+Quot 2
+
+quote:
+I can’t tell you the last time I rolled out something that really gave us so much capability without much pain.
+
+#### speaker
+
+name:
+Regan
+
+title:
+
+
+company:
+Coca-Cola Consolidated
+
+Quot 3
+
+quote:
+Making teammates VPN in first would have created a negative user experience and driven up our infrastructure costs.
+
+#### speaker
+
+name:
+Rory Regan
+
+title:
+Dir. of Infrastructure
+
+company:
+Coca-Cola Consolidated
+
+Quot 4
+
+quote:
+[Zscaler Client Connector] was easy to deploy behind the scenes and didn’t interfere with the way they worked.
+
+#### speaker
+
+name:
+Rory Regan
+
+title:
+Dir. of Infrastructure
+
+company:
+Coca-Cola Consolidated
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Sandbox
+
+url:
+https://www.zscaler.com/technology/cloud-sandbox
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 3
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+39426
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Coca-Cola Consolidated Coca-Cola Consolidated Empowers Employees to Work from Anywhere with with the Zscaler Zero Trust Exchange.
+
+og_title:
+Coca-Cola Consolidated Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/coca-cola-consolidated

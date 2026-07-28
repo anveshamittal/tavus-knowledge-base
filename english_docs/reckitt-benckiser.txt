@@ -1,0 +1,583 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/reckitt-benckiser
+
+slug:
+reckitt-benckiser
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:56:20.470102Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Reckitt Benckiser Enables Secure Cloud Transformation
+
+subtitle:
+with the Zscaler Zero Trust Exchange
+
+customer_name:
+Reckitt Benckiser
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Maintain productivity and security as business moves from 3,000 offices and factories to 40,000+ remote networks
+
+## results
+
+- Leverages zero trust to enable cloud-driven innovation
+- Deploys ZPA without having to increase the number of endpoint agents
+- Gains improved data insights with ZIA, ZPA, and ZDX
+- Identifies and mitigates Microsoft 365 issues quickly
+
+====================================================
+# customer_snapshot
+
+title:
+Reckitt Benckiser
+
+description:
+Reckitt Benckiser Group plc is a British multinational consumer goods company headquartered in Slough, England. It is a producer of health, hygiene and nutrition products. The company was formed in March 1999 by the merger of British company Reckitt & Colman plc and Dutch company Benckiser N.V..
+
+industry:
+Manufacturing
+
+headquarters:
+Slough, Great Britain, UK
+
+size:
+43,000+ employees
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/ic92yu9s7n
+
+provider:
+wistia
+
+video_id:
+ic92yu9s7n
+
+title:
+Reckitt_Benckiser_John_Dawes_Video
+
+description:
+a ZDX Webpage video
+
+duration_seconds:
+129.334
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/4563d626ecda5d0d03f5b634e14d22537f8ee154.bin
+
+### transcript
+
+language:
+eng
+
+#### sentences
+
+1.
+Hi.
+
+2.
+I'm Jundles.
+
+3.
+I'm the IT director for enterprise architecture at Recit Ben Kieser.
+
+4.
+Recit Ben Kieser or RB are a global FMCG.
+
+5.
+We produce Dental Lysol, NeuroFEN, Finnish, a number of other health, nutrition, and hygiene products.
+
+6.
+At RB, we see the cloud as our innovation engine.
+
+7.
+Today, we use the cloud for enterprise IT, big data, CRM, IoT, as well as Office three six five for productivity.
+
+8.
+We've got workloads in some thirty public cloud regions, and we've been transforming our network over the past year to drive internet as the corporate network.
+
+9.
+Utilizing SD WAN and SDP technologies.
+
+10.
+When COVID nineteen disrupted everyone's way of life, we suddenly went from managing around three hundred offices and factories, to nearly forty thousand networks as employees work from home all over the world.
+
+11.
+Frabi, the manufacturing and supply of Dental and Lysol were critical to the COVID nineteen response, So it was essential for our colleagues to continue to work.
+
+12.
+At home, they were competing for bandwidth, be it with online school classes, kids watching Netflix or playing roadblocks, And outside the home, they were competing with ISPs and CSPs who initially struggled to meet that enormous new bandwidth demand.
+
+13.
+For RB, how could we get greater visibility and insights for our employees to support them?
+
+14.
+We came back to this concept of the cloud as an innovation engine.
+
+15.
+As a customer of ZIA and ZPA, we had already deployed ZApp.
+
+16.
+Utilizing ZATAP didn't increase the number of agents on the endpoint.
+
+17.
+It didn't require a new infrastructure for us to stand up.
+
+18.
+And we leverage that existing Zscaler's cloud infrastructure, and native integration with ZIA and ZPA gave us the best data insights for our end users.
+
+19.
+Zed Gex has given us some great early insights.
+
+20.
+We've identified some regional office three six five issues, and on more than one occasion, we've encouraged our colleagues to prioritize their device on their home wifi network so Microsoft Teams works better or be it at expensive kids streaming Netflix.
+
+21.
+We continue to work with Zscaler on ZDX products, and I'm encouraged and excited about the roadmap, and how that plays out over the next few years.
+
+22.
+Thanks, and that's it for me.
+
+23.
+Enjoy the rest
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+John Dawes (IT Director, Reckitt Benckiser)
+
+tag:
+self_introduction
+
+topic:
+Introduction and role at RB
+
+text:
+Hi. I'm Jundles. I'm the IT director for enterprise architecture at Recit Ben Kieser.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+John Dawes (IT Director, Reckitt Benckiser)
+
+tag:
+self_introduction
+
+topic:
+Company background and products
+
+text:
+Recit Ben Kieser or RB are a global FMCG. We produce Dental Lysol, NeuroFEN, Finnish, a number of other health, nutrition, and hygiene products.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+John Dawes (IT Director, Reckitt Benckiser)
+
+tag:
+general_discussion
+
+topic:
+Cloud as an innovation engine
+
+text:
+At RB, we see the cloud as our innovation engine. Today, we use the cloud for enterprise IT, big data, CRM, IoT, as well as Office three six five for productivity.
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+John Dawes (IT Director, Reckitt Benckiser)
+
+tag:
+general_discussion
+
+topic:
+Cloud regions and network transformation
+
+text:
+We've got workloads in some thirty public cloud regions, and we've been transforming our network over the past year to drive internet as the corporate network. Utilizing SD WAN and SDP technologies.
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+John Dawes (IT Director, Reckitt Benckiser)
+
+tag:
+challenges
+
+topic:
+COVID-19 impact on network management
+
+text:
+When COVID nineteen disrupted everyone's way of life, we suddenly went from managing around three hundred offices and factories, to nearly forty thousand networks as employees work from home all over the world.
+
+Segment 6
+
+segment_id:
+6
+
+speaker:
+John Dawes (IT Director, Reckitt Benckiser)
+
+tag:
+challenges
+
+topic:
+Critical manufacturing and supply challenges
+
+text:
+Frabi, the manufacturing and supply of Dental and Lysol were critical to the COVID nineteen response, So it was essential for our colleagues to continue to work.
+
+Segment 7
+
+segment_id:
+7
+
+speaker:
+John Dawes (IT Director, Reckitt Benckiser)
+
+tag:
+challenges
+
+topic:
+Bandwidth competition at home and outside
+
+text:
+At home, they were competing for bandwidth, be it with online school classes, kids watching Netflix or playing roadblocks, And outside the home, they were competing with ISPs and CSPs who initially struggled to meet that enormous new bandwidth demand.
+
+Segment 8
+
+segment_id:
+8
+
+speaker:
+John Dawes (IT Director, Reckitt Benckiser)
+
+tag:
+challenges
+
+topic:
+Need for visibility and insights
+
+text:
+For RB, how could we get greater visibility and insights for our employees to support them?
+
+Segment 9
+
+segment_id:
+9
+
+speaker:
+John Dawes (IT Director, Reckitt Benckiser)
+
+tag:
+products_and_solutions
+
+topic:
+ZIA, ZPA, and ZApp deployment
+
+text:
+We came back to this concept of the cloud as an innovation engine. As a customer of ZIA and ZPA, we had already deployed ZApp. Utilizing ZATAP didn't increase the number of agents on the endpoint. It didn't require a new infrastructure for us to stand up. And we leverage that existing Zscaler's cloud infrastructure, and native integration with ZIA and ZPA gave us the best data insights for our end users.
+
+Segment 10
+
+segment_id:
+10
+
+speaker:
+John Dawes (IT Director, Reckitt Benckiser)
+
+tag:
+metrics_and_results
+
+topic:
+Early insights and O365 issue identification
+
+text:
+Zed Gex has given us some great early insights. We've identified some regional office three six five issues, and on more than one occasion, we've encouraged our colleagues to prioritize their device on their home wifi network so Microsoft Teams works better or be it at expensive kids streaming Netflix.
+
+Segment 11
+
+segment_id:
+11
+
+speaker:
+John Dawes (IT Director, Reckitt Benckiser)
+
+tag:
+products_and_solutions
+
+topic:
+Future collaboration on ZDX
+
+text:
+We continue to work with Zscaler on ZDX products, and I'm encouraged and excited about the roadmap, and how that plays out over the next few years.
+
+Segment 12
+
+segment_id:
+12
+
+speaker:
+John Dawes (IT Director, Reckitt Benckiser)
+
+tag:
+general_discussion
+
+topic:
+Closing remarks
+
+text:
+Thanks, and that's it for me. Enjoy the rest.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+75998433
+
+created_at:
+1626371061
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+We continue to work with Zscaler and ZDX products and are encouraged and excited about the roadmap and how that plays out over the next few years.
+
+## speaker
+
+name:
+John Dawes
+
+title:
+IT Director
+
+company:
+Reckitt Benckiser
+
+Hero Quote 2
+
+quote:
+Today, we use the cloud for enterprise IT, big data, CRM, IoT, as well as (Microsoft) 365 for productivity.
+
+## speaker
+
+name:
+John Dawes
+
+title:
+IT Director
+
+company:
+Reckitt Benckiser
+
+Hero Quote 3
+
+quote:
+We’ve been transforming our network… to drive (the) internet as the corporate network utilizing SD-WAN and SDP technologies.
+
+## speaker
+
+name:
+John Dawes
+
+title:
+IT Director
+
+company:
+Reckitt Benckiser
+
+Hero Quote 4
+
+quote:
+We leveraged (existing) Zscaler cloud infrastructure and native integration with ZIA and ZPA, (giving) us the best data insights.
+
+## speaker
+
+name:
+John Dawes
+
+title:
+IT Director
+
+company:
+Reckitt Benckiser
+
+====================================================
+# customer_case_study
+
+title:
+null
+
+sections:
+[]
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 4
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 3
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+58636
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Reckitt Benckiser Reckitt Benckiser Enables Secure Cloud Transformation with with the Zscaler Zero Trust Exchange.
+
+og_title:
+Reckitt Benckiser Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/reckitt-benckiser

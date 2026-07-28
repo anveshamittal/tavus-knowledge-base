@@ -1,0 +1,438 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/cisalfa-sport
+
+slug:
+cisalfa-sport
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:13.933966Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Cisalfa Sport Strengthens Its Security Posture by Fast-Tracking Zscaler Deployment in Less Than Three Months
+
+subtitle:
+Zero trust platform reduces the attack surface and ensures a seamless user experience for employees and third-party users
+
+customer_name:
+Cisalfa Sport
+
+## metrics
+
+Metric 1
+
+value:
+2.5
+
+label:
+months for company-wide Zscaler deployment
+
+Metric 2
+
+value:
+130+
+
+label:
+third-party partners and contractors securely access private apps and on-premises infrastructure
+
+Metric 3
+
+value:
+70%
+
+label:
+users onboarded within 2 weeks of deployment
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- VPN allowed all employees and third parties unsegmented access to the entire corporate network, increasing risk and the blast radius of potential attacks
+- Two legacy VPN solutions had conflicting policies and configurations, resulting in inconsistent security and security management issues
+- Accessing apps via VPN resulted in slow performance and a high volume of help desk tickets from internal and external users
+
+## results
+
+- Boosts overall security posture by providing direct user-to-app access to all users and consistent policy enforcement
+- Enables seamless, transparent clientless access to private apps and data for partners and contractors
+- Decreases latency-related help desk tickets with lightning-fast connectivity delivered through the closest point of presence
+
+====================================================
+# customer_snapshot
+
+title:
+Cisalfa Sport
+
+description:
+Italy’s leading omnichannel sports retailer
+
+industry:
+Retail and Wholesale
+
+headquarters:
+Curno (BG), Italy
+
+size:
+3,600+ employees
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+The Zscaler Zero Trust Exchange … covers all the bases: faster and more secure access to apps without the need for VPN, risk reduction across the entire environment, and an explicit path to zero trust expansion.
+
+## speaker
+
+name:
+Fabio Freti
+
+title:
+IT Operations & Infrastructure Manager
+
+company:
+Cisalfa Sport
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+new-market-opportunities-spur-overhaul-of-traditional-it-architecture
+
+title:
+New market opportunities spur overhaul of traditional IT architecture
+
+### paragraphs
+
+Paragraph 1
+
+- Founded in 1977 by Vincenzo Mancini, Cisalfa Sport is on a fast track to open more brick-and-mortar stores and drive an omnichannel experience.
+- Cisalfa Sport operations now include more than 160 physical stores and an online store, with the aim of improving the customer experience, delivering quality service, and building loyalty.
+- Cisalfa Sport product offerings encompass more than 270 brands.
+
+Paragraph 2
+
+- An important part of the company’s expansion strategy was IT infrastructure modernization that would accommodate the adoption of public cloud platforms (Microsoft Azure and Amazon Web Services).
+- The company knew it was time to strengthen its security posture to prevent attacks like ransomware that could potentially disrupt business operations and impact customer trust.
+- The Cisalfa Sport IT team had two primary goals: minimize the attack surface and prevent lateral movement of threats due to risky firewalls and VPNs, which have limited segmentation and traffic scanning capabilities.
+
+Paragraph 3
+
+- As the company’s contract with its existing VPN vendor was expiring, the team launched an initiative to set up a new architecture to enable employees and third parties to securely access private applications wherever they work.
+- While continuing to run the legacy VPN, the team tested a new solution from a different vendor that was marketed as zero trust network access.
+- However, configuring access policies with two legacy VPN solutions was a painful ordeal, resulting in conflicting security policy management.
+- The legacy VPNs failed to provide the needed visibility to, and centralized control over, employee and third-party user access to Cisalfa Sport corporate applications and data.
+
+Paragraph 4
+
+- “The results did not meet the wishes and the POC failed,” said Fabio Freti, IT Operations & Infrastructure Manager.
+- “Clientless functionality was nonexistent, application access failed repeatedly, and key capabilities were missing from the roadmap.
+- This led to a six-month project delay.
+- We knew we needed a true zero trust solution, not just one that claimed to be zero trust.”
+
+### quotes
+
+Quot 1
+
+quote:
+The results did not meet the wishes and the POC failed. Clientless functionality was nonexistent, application access failed repeatedly, and key capabilities were missing from the roadmap. This led to a six-month project delay. We knew we needed a true zero trust solution, not just one that claimed to be zero trust.
+
+#### speaker
+
+name:
+Fabio Freti
+
+title:
+IT Operations & Infrastructure Manager
+
+company:
+Cisalfa Sport
+
+Quot 2
+
+quote:
+After our evaluation, we knew that Zscaler would enable us to move forward with our digital transformation and IT modernization plans.
+
+#### speaker
+
+name:
+Fabio Freti
+
+title:
+IT Operations & Infrastructure Manager
+
+company:
+Cisalfa Sport
+
+Section 2
+
+id:
+finding-a-true-zero-trust-partner-in-zscaler
+
+title:
+Finding a true zero trust partner in Zscaler
+
+### paragraphs
+
+Paragraph 1
+
+- When Freti and his team learned about the cloud native Zscaler Zero Trust Exchange™ platform from an internal champion and Zscaler partner Consys, they were impressed by its comprehensive scope, ability to scale up to accommodate growth, and integration capabilities.
+- Freti launched a proof of concept (POC) for 500 users.
+
+Paragraph 2
+
+- “After our evaluation, we knew Zscaler would enable us to move forward with our digital transformation and IT modernization plans,” remarked Freti.
+- “The Zero Trust Exchange, including ZPA, covers all the bases: faster and more secure access to apps without the need for VPN, risk reduction across the entire environment, and an explicit path to zero trust expansion.”
+
+### quotes
+
+Quot 1
+
+quote:
+With Zscaler’s clientless access, third parties can connect to our intranet websites and infrastructure with any internet browser from anywhere and on any device.
+
+#### speaker
+
+name:
+Luca Signor
+
+title:
+IT Network Manager
+
+company:
+Cisalfa Sport
+
+Section 3
+
+id:
+next-up-secure-access-to-the-internet-with-robust-security-controls
+
+title:
+Next up: Secure access to the internet with robust security controls
+
+### paragraphs
+
+Paragraph 1
+
+- As Cisalfa Sport extends its presence all over the country and starts to embrace SaaS applications, it is looking to secure internet access for users working in retail stores, at home, and at headquarters.
+- Next on its zero trust agenda is implementing Zscaler Internet Access™ (ZIA™), which will provide consistent security and faster connectivity for users accessing the web and SaaS.
+
+Paragraph 2
+
+- Cisalfa Sport looks forward to further enhancing its security and compliance posture with ZIA, taking advantage of continuous TLS/SSL inspection to uncover encrypted threats, alongside other AI-powered capabilities to block ransomware, zero-day malware, and data loss in the cloud.
+- As part of the Zero Trust Exchange platform, ZIA will help unify and simplify IT administration, with no hardware to purchase or maintain.
+
+### quotes
+
+Quot 1
+
+quote:
+As a vendor that runs 100% on renewable energy, Zscaler plays an important role in our efforts to decrease carbon emissions.
+
+#### speaker
+
+name:
+Fabio Freti
+
+title:
+IT Operations & Infrastructure Manager
+
+company:
+Cisalfa Sport
+
+Section 4
+
+id:
+zero-trust-supports-corporate-environmental-initiatives
+
+title:
+Zero trust supports corporate environmental initiatives
+
+### paragraphs
+
+Paragraph 1
+
+- In addition to its IT modernization projects, Cisalfa Sport is driving sustainability goals by improving environmental, social, and governance (ESG) measures throughout its operations—from its technology footprint to its distribution channels.
+
+Paragraph 2
+
+- “As a vendor that runs 100% on renewable energy, Zscaler plays an important role in our efforts to decrease carbon emissions.
+- Not only is it imperative for our digital transformation; it is also helping us move closer to meeting our environmental objectives by reducing reliance on energy-intensive hardware,” said Freti.
+
+### quotes
+
+Quot 1
+
+quote:
+As a vendor that runs 100% on renewable energy, Zscaler plays an important role in our efforts to decrease carbon emissions. Not only is it imperative for our digital transformation; it is also helping us move closer to meeting our environmental objectives by reducing reliance on energy-intensive hardware.
+
+#### speaker
+
+name:
+Freti
+
+title:
+
+
+company:
+Cisalfa Sport
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 2
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 3
+
+name:
+Secure Remote Access
+
+url:
+https://www.zscaler.com/products-and-solutions/vpn-alternative
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+85456
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Cisalfa Sport Cisalfa Sport Strengthens Its Security Posture by Fast-Tracking Zscaler Deployment in Less Than Three Months with Zero trust platform reduces the attack surface and ensures a seamless user experience for employees and third-party users.
+
+og_title:
+Cisalfa Sport Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/cisalfa-sport

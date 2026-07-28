@@ -1,0 +1,396 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/cerebral-palsy-alliance
+
+slug:
+cerebral-palsy-alliance
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:55:12.200128Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Cerebral Palsy Alliance Strengthens Security Posture
+
+subtitle:
+with the Zscaler Zero Trust Exchange
+
+customer_name:
+Cerebral Palsy Alliance
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Empower staff to safely use the Internet and SaaS applications from anywhere
+
+## results
+
+- Implemented zero trust direct-to-internet access in just four weeks
+- Provides safe, fast internet and SaaS access from anywhere
+- Protects staff and data with AI-powered, integrated security service edge (SSE)
+- Facilitates decision-making with out-of-the-box analytics and reporting
+
+====================================================
+# customer_snapshot
+
+title:
+Cerebral Palsy Alliance
+
+description:
+Through its 18 centers and online programs, the Cerebral Palsy Alliance offers a comprehensive range of neurological and physical supports for people with cerebral palsy and other neurological and physical disabilities. These include clinical management and therapy, social and health programs, assistive technology, and more.
+
+industry:
+Nonprofit Institutions
+
+headquarters:
+Allambie Heights, New South Wales, Australia
+
+size:
+18 sites across New South Wales
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/pjspmpnhgq
+
+provider:
+wistia
+
+video_id:
+pjspmpnhgq
+
+title:
+Cerebral Palsy Alliance: Protecting staff and client data with Zscaler Zero Trust Exchange
+
+description:
+a Cerebral Palsy Alliance | Customer Story video
+
+duration_seconds:
+117.618
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/4a92c7f7acee5dfae64b23d06e5f4f7a8c609f4a.bin
+
+### transcript
+
+language:
+eng
+
+#### sentences
+
+1.
+The one standout from my experience with Zscaling is that the fender listened.
+
+2.
+Understood my security concerns and delivered the most appropriate solution to meet my needs.
+
+3.
+Hi.
+
+4.
+My name is Nathan Lifefoot.
+
+5.
+I'm the Chief Technology Officer for the cerebral palsy Alliance in New South Wales Australia.
+
+6.
+The cerebral palsy Alliance was established in nineteen forty five It provides family centered therapies, life skills, and equipment, and support to people and their families living with cerebral palsy other neurological and physical disabilities.
+
+7.
+The pain points and challenges that we were facing were that staff would become more mobile, a new telepractice service was gaining traction, and staff were becoming more and more dependent on technology to support daily work, we really needed a web filtering product to protect our staff from malicious content and actors on the internet.
+
+8.
+Right from the beginning, engaging Zscape has been nothing short of amazing.
+
+9.
+It took just four weeks to implement the Zscaler solution to nearly nine hundred machines with no major impacts.
+
+10.
+The solution has provided benefits well above my expectations, particularly the Attobox, analytics, and reporting.
+
+11.
+These insights have validated the decision as well supporting additional measures to protect staff and client data.
+
+12.
+To enable our staff to provide support to our carers, therapists, and other frontline staff cannot be quantified Knowing our client data has this extra layer of protection, it gives me confidence to assure my executive and board that we are executing the right controls to mitigate cybersecurity risks.
+
+13.
+I would highly recommend Zscaler.
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+Nathan Lightfoot (Chief Technology Officer, Cerebral Palsy Alliance)
+
+tag:
+quote
+
+topic:
+Standout experience with Zscaler
+
+text:
+The one standout from my experience with Zscaling is that the fender listened. Understood my security concerns and delivered the most appropriate solution to meet my needs.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+Nathan Lightfoot (Chief Technology Officer, Cerebral Palsy Alliance)
+
+tag:
+self_introduction
+
+topic:
+Introduction and role
+
+text:
+Hi. My name is Nathan Lifefoot. I'm the Chief Technology Officer for the cerebral palsy Alliance in New South Wales Australia.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+Nathan Lightfoot (Chief Technology Officer, Cerebral Palsy Alliance)
+
+tag:
+self_introduction
+
+topic:
+Company background
+
+text:
+The cerebral palsy Alliance was established in nineteen forty five It provides family centered therapies, life skills, and equipment, and support to people and their families living with cerebral palsy other neurological and physical disabilities.
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+Nathan Lightfoot (Chief Technology Officer, Cerebral Palsy Alliance)
+
+tag:
+challenges
+
+topic:
+Challenges faced by the organization
+
+text:
+The pain points and challenges that we were facing were that staff would become more mobile, a new telepractice service was gaining traction, and staff were becoming more and more dependent on technology to support daily work, we really needed a web filtering product to protect our staff from malicious content and actors on the internet.
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+Nathan Lightfoot (Chief Technology Officer, Cerebral Palsy Alliance)
+
+tag:
+products_and_solutions
+
+topic:
+Zscaler implementation and benefits
+
+text:
+Right from the beginning, engaging Zscape has been nothing short of amazing. It took just four weeks to implement the Zscaler solution to nearly nine hundred machines with no major impacts. The solution has provided benefits well above my expectations, particularly the Attobox, analytics, and reporting.
+
+Segment 6
+
+segment_id:
+6
+
+speaker:
+Nathan Lightfoot (Chief Technology Officer, Cerebral Palsy Alliance)
+
+tag:
+metrics_and_results
+
+topic:
+Validated decision and added protection
+
+text:
+These insights have validated the decision as well supporting additional measures to protect staff and client data. To enable our staff to provide support to our carers, therapists, and other frontline staff cannot be quantified Knowing our client data has this extra layer of protection, it gives me confidence to assure my executive and board that we are executing the right controls to mitigate cybersecurity risks.
+
+Segment 7
+
+segment_id:
+7
+
+speaker:
+Nathan Lightfoot (Chief Technology Officer, Cerebral Palsy Alliance)
+
+tag:
+quote
+
+topic:
+Recommendation for Zscaler
+
+text:
+I would highly recommend Zscaler.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+87696198
+
+created_at:
+1648033503
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Right from the beginning, engaging Zscaler has been nothing short of amazing. … The solution provided benefits well above my expectations. … I would highly recommend Zscaler.
+
+## speaker
+
+name:
+Nathan Lightfoot
+
+title:
+Chief Technology Officer
+
+company:
+Cerebral Palsy Alliance
+
+====================================================
+# customer_case_study
+
+title:
+null
+
+sections:
+[]
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 2
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+51246
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Cerebral Palsy Alliance Cerebral Palsy Alliance Strengthens Security Posture with with the Zscaler Zero Trust Exchange.
+
+og_title:
+Cerebral Palsy Alliance Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/cerebral-palsy-alliance

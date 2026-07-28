@@ -1,0 +1,440 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/iifl
+
+slug:
+iifl
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:30.325117Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+IIFL Elevates Its Security Posture and Vastly Improves Its Risk Score
+
+subtitle:
+Zscaler enables one of India’s largest financial institutions to achieve cyber resilience by fortifying its data defenses and mitigating risk
+
+customer_name:
+IIFL
+
+## metrics
+
+Metric 1
+
+value:
+#1
+
+label:
+priority is safeguarding financial data
+
+Metric 2
+
+value:
+6
+
+label:
+business units get tailored risk reports
+
+Metric 3
+
+value:
+< Risk
+
+label:
+after zero trust deployment
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Defending sensitive data and core internal applications from breaches and data loss was the overriding priority
+- Legacy on-premises proxies and traditional firewalls were ineffective in blocking advanced attacks
+- Lack of clear visibility into data usage, vulnerabilities, and overall risk profile increased risk
+
+## results
+
+- Maintains granular visibility into internal and external data sharing
+- Reduces the organization’s risk score and strengthens its security posture
+- Ensures every connection is authorized and secure by authenticating user identity and device health before granting access
+
+====================================================
+# customer_snapshot
+
+title:
+IIFL
+
+description:
+India Infoline Finance Limited (IIFL) is one of India’s largest diversified financial services organizations
+
+industry:
+Financial Services and Insurance
+
+headquarters:
+Mumbai, India
+
+size:
+40,000 employees, 3,000 branches
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+The Zscaler experience … has given us agility, flexibility, scalability, and … end-to-end user and application security. It’s truly a Zero Trust Exchange.
+
+## speaker
+
+name:
+Ameya Sathye
+
+title:
+Head of Cybersecurity
+
+company:
+IIFL
+
+Hero Quote 2
+
+quote:
+Data security is of paramount importance for IIFL, and zero trust was the need of the hour. That’s why we adopted Zscaler web and endpoint DLP.
+
+## speaker
+
+name:
+Shanker Ramrakhiani
+
+title:
+Group CISO
+
+company:
+IIFL
+
+Hero Quote 3
+
+quote:
+Zscaler is one of the major contributors … toward managing risk and protecting users.
+
+## speaker
+
+name:
+Ameya Sathye
+
+title:
+Head of Cybersecurity
+
+company:
+IIFL
+
+Hero Quote 4
+
+quote:
+Risk360 provides actionable insights … so we can expand security controls to mitigate risk.
+
+## speaker
+
+name:
+Ameya Sathye
+
+title:
+Head of Cybersecurity
+
+company:
+IIFL
+
+Hero Quote 5
+
+quote:
+By implementing Zscaler, we have reduced our risk score significantly, resulting in a very good security posture now.
+
+## speaker
+
+name:
+Ameya Sathye
+
+title:
+Head of Cybersecurity
+
+company:
+IIFL
+
+====================================================
+# customer_case_study
+
+title:
+null
+
+sections:
+[]
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 2
+
+name:
+Zero Trust Cloud
+
+url:
+https://www.zscaler.com/products-and-solutions/workload-communications
+
+Product 3
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Product 4
+
+name:
+Deception
+
+url:
+https://www.zscaler.com/products/deception-technology
+
+Product 5
+
+name:
+Web and Email DLP
+
+url:
+https://www.zscaler.com/products-and-solutions/data-loss-prevention
+
+Product 6
+
+name:
+Zero Trust Firewall
+
+url:
+https://www.zscaler.com/resources/data-sheets/zscaler-firewall.pdf
+
+Product 7
+
+name:
+Unified Vulnerability Management
+
+url:
+https://www.zscaler.com/products-and-solutions/vulnerability-management
+
+Product 8
+
+name:
+Zero Trust for IoT/OT
+
+url:
+https://www.zscaler.com/products-and-solutions/secure-your-ot-and-iot
+
+Product 9
+
+name:
+Risk360
+
+url:
+https://www.zscaler.com/products-and-solutions/zscaler-risk-360
+
+Product 10
+
+name:
+Sandbox
+
+url:
+https://www.zscaler.com/technology/cloud-sandbox
+
+Product 11
+
+name:
+Zero Trust SD-WAN
+
+url:
+https://www.zscaler.com/products-and-solutions/zero-trust-sd-wan
+
+Product 12
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 13
+
+name:
+Zero Trust Device Segmentation
+
+url:
+https://www.zscaler.com/products-and-solutions/zero-trust-device-segmentation
+
+Product 14
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 15
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Secure Remote Access
+
+url:
+https://www.zscaler.com/products-and-solutions/vpn-alternative
+
+Solution 2
+
+name:
+Stop Cyberattacks
+
+url:
+https://www.zscaler.com/products-and-solutions/zscaler-risk-360
+
+Solution 3
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 4
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 5
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+86886
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how IIFL IIFL Elevates Its Security Posture and Vastly Improves Its Risk Score with Zscaler enables one of India’s largest financial institutions to achieve cyber resilience by fortifying its data defenses and mitigating risk.
+
+og_title:
+IIFL Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/iifl

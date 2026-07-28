@@ -1,0 +1,618 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/falkirk-council
+
+slug:
+falkirk-council
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:24.040790Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Falkirk Council Serves 160,000 Constituents Using WFA
+
+subtitle:
+and the Zscaler Zero Trust Exchange
+
+customer_name:
+Falkirk Council
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Rapidly transition cybersecurity to a zero trust, cloud-centric approach to support work from anywhere
+
+## results
+
+- Establishes VPN-free, zero trust WFA access to internal apps and the internet
+- Significantly boosts productivity while eliminating attack surfaces
+- Slashes infrastructure and cybersecurity costs in half compared to previous VDI-based environment
+- Deployed secure, zero trust network access to iPads for 1,000 teachers in less than a week
+- Gives users stable, reliable, high-quality videoconferencing and improves collaborative experiences
+- Lays groundwork for future innovations to support government administrators and schools
+
+====================================================
+# customer_snapshot
+
+title:
+Falkirk Council
+
+description:
+The Falkirk Council provides comprehensive local government services for its approximately 160,000 residents spread across 112 square miles. Responsible for activities ranging from environmental management to transportation, Falkirk Council also owns and manages about a quarter of all area housing stock as well as administers primary and secondary education for more than 30,000 students.
+
+industry:
+Federal and Government
+
+headquarters:
+Falkirk, Scotland
+
+size:
+Approx. 8K employees, including 3K educators & administrators
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Compared with continuing to support our VDI infrastructure, our Zscaler-enabled environment will be half the cost.
+
+## speaker
+
+name:
+Murat Dilek
+
+title:
+Network
+
+company:
+Falkirk Council
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+accelerating-transformation-to-the-cloud
+
+title:
+Accelerating transformation to the cloud
+
+### paragraphs
+
+Paragraph 1
+
+- Like many regional government agencies worldwide, Scotland’s Falkirk Council needed to fast-track its cloud and digitalization transformation when the COVID-19 pandemic hit.
+- This included rapidly modernizing its existing cybersecurity solutions.
+
+Paragraph 2
+
+- “By the time the pandemic struck we were already looking at a different way of working,” explained Murat Dilek, Network, Infrastructure and Cybersecurity Team Leader at Falkirk Council.
+- “However, our legacy remote working solution and security systems were insufficient for supplying productive and secure user experiences.”
+
+### quotes
+
+Quot 1
+
+quote:
+By the time the pandemic struck we were already looking at a different way of working. However, our legacy remote working solution and security systems were insufficient for supplying productive and secure user experiences.
+
+#### speaker
+
+name:
+Murat Dilek
+
+title:
+Network
+
+company:
+Falkirk Council
+
+Section 2
+
+id:
+streamlining-access-for-enhanced-user-experiences-with-zscaler
+
+title:
+Streamlining access for enhanced user experiences with Zscaler
+
+### paragraphs
+
+Paragraph 1
+
+- A Scottish unitary authority serving a rural region, Falkirk Council is responsible for supporting a wide range of education, housing, health, public safety, and transportation services for its 160,000 residents.
+- When pandemic closures sent employees, teachers, and students home to work and learn, Falkirk Council IT systems strained under the load.
+
+Paragraph 2
+
+- “Demand for applications that were little used previously, like videoconferencing, escalated dramatically once everyone had to work from home,” Dilek said.
+- “Suddenly we were overwhelmed with reports of connection disruptions.” Although the Falkirk Council IT team considered significantly enhancing its existing systems as a stop-gap measure, Dilek sought a more effective way to use taxpayer funds.
+- “The pandemic situation was constantly changing, and we had no insights into the long-term impacts on life and work.”
+
+Paragraph 3
+
+- At the time, Falkirk Council had already conducted a proof of concept to investigate the Zscaler Zero Trust Exchange platform as part of a larger initiative for transitioning to a hybrid cloud and on-premises IT environment.
+- As Zscaler proved to streamline and automate its infrastructure at scale, while supplying exceptional security and user experiences, the Council decided to roll out the solution across its footprint.
+- “The POC demonstrated the software’s power,” Dilek said.
+- “Road-testing the Zscaler user experience showed it significantly simplified access to all of the services our staff required.”
+
+### quotes
+
+Quot 1
+
+quote:
+Demand for applications that were little used previously, like videoconferencing, escalated dramatically once everyone had to work from home. Suddenly we were overwhelmed with reports of connection disruptions. The pandemic situation was constantly changing, and we had no insights into the long-term impacts on life and work.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Falkirk Council
+
+Quot 2
+
+quote:
+The POC demonstrated the software’s power. Road-testing the Zscaler user experience showed it significantly simplified access to all of the services our staff required.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Falkirk Council
+
+Quot 3
+
+quote:
+Zscaler is incredibly fast and easy to deploy.
+
+#### speaker
+
+name:
+Murat Dilek
+
+title:
+Network
+
+company:
+Falkirk Council
+
+Section 3
+
+id:
+zero-trust-environment-enables-work-from-anywhere
+
+title:
+Zero trust environment enables work from anywhere
+
+### paragraphs
+
+Paragraph 1
+
+- For its implementation, Falkirk Council deployed Zscaler Internet Access (ZIA) and Zscaler Private Access (ZPA) to create a holistic zero trust environment that provides work-from-anywhere (WFA) application access.
+- Together, the two solutions form the foundation of the cloud-native Zscaler Zero Trust Exchange platform.
+
+Paragraph 2
+
+- With ZIA, Falkirk Council can furnish access to SaaS applications and the Internet for on-site and remote workers.
+- ZPA complements ZIA by providing secure access to the Council’s internal applications running on public clouds, such as Microsoft Azure, or within its data center.
+- Both solutions accomplish their zero trust mission using a lightweight application loaded on client devices to provide secure connectivity directly from users to applications.
+
+Paragraph 3
+
+- In addition, ZPA reduces risk by eliminating attack surfaces inherent in VPN-based environments.
+- As ZPA takes a zero trust network access (ZTNA) approach, it ensures neither networks nor applications are ever exposed to the internet.
+- This makes the Council’s entire networking infrastructure completely invisible to unauthorized users, while still giving authorized users least-privileged access based on policies Dilek’s team sets.
+
+### quotes
+
+Quot 1
+
+quote:
+Now employees have the same working experience in and out of the office.
+
+#### speaker
+
+name:
+Murat Dilek
+
+title:
+Network
+
+company:
+Falkirk Council
+
+Section 4
+
+id:
+rapidly-protecting-1-000-users-in-less-than-a-week
+
+title:
+Rapidly protecting 1,000 users in less than a week
+
+### paragraphs
+
+Paragraph 1
+
+- At Falkirk Council, the zero trust deployment focused on user engagement.
+- Early adopters were identified in each department to champion the initiative and serve as representatives on the implementation committee, with ideas and suggestions from all employees encouraged.
+- “As employees who were initially resistant learned how Zscaler eliminated friction to help them work effectively, we brought them onto the platform,” Dilek said.
+
+Paragraph 2
+
+- Having distributed Apple iPads and laptops to all teachers and students, Falkirk Council urgently needed to give teachers access to internal resources on their iPads.
+- “In less than a week, we remotely implemented ZPA on iPads for 1,000 teachers,” Dilek said.
+- “Zscaler is incredibly fast and easy to deploy.” Once teacher devices were completed, rollout to government administrators resumed as the Council continued issuing mobile devices to replace its existing VDI environment.
+
+### quotes
+
+Quot 1
+
+quote:
+As employees who were initially resistant learned how Zscaler eliminated friction to help them work effectively, we brought them onto the platform.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Falkirk Council
+
+Quot 2
+
+quote:
+In less than a week, we remotely implemented ZPA on iPads for 1,000 teachers. Zscaler is incredibly fast and easy to deploy.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Falkirk Council
+
+Quot 3
+
+quote:
+We can now provide the right devices, applications, and level of access to deliver seamless, efficient, high-performance user experiences.
+
+#### speaker
+
+name:
+Murat Dilek
+
+title:
+Network
+
+company:
+Falkirk Council
+
+Section 5
+
+id:
+new-model-comes-at-half-the-cost
+
+title:
+New model comes at half the cost
+
+### paragraphs
+
+Paragraph 1
+
+- For Falkirk Council and its employees, faster application access and higher network performance have considerably improved productivity.
+- Consolidating multiple sign-ons to one has also enhanced employee efficiency and satisfaction.
+- Since the Council also deployed Microsoft Office 365 as part of the initiative, collaboration is now facilitated through files held in shared drives.
+- In addition, the Council reaps performance gains from tight integration with Microsoft and with the Azure cloud, where a variety of business-critical applications reside.
+
+Paragraph 2
+
+- “Now employees have the same working experience in and out of the office and IT can easily manage what applications staff members can access based on their credentials,” says Dilek.
+- “Videoconferencing when working remotely has improved, with reliable sound and image quality.
+- Our entire agency is also more resilient because our distant offices and remote workers no longer rely on a physical cable to our main data center.
+- If a line is accidentally cut, workers can use a cellular network to access their applications.”
+
+Paragraph 3
+
+- From a cost perspective, the ability to adopt laptops with docking stations, secured by Zscaler, for on-site and remote work has resulted in significant capital and operating savings over the VDI.
+- “Compared with continuing our VDI deployment, using a mobile-first, zero trust model will be about half the cost, which is a considerable taxpayer savings,” Dilek said.
+- “From an IT staff resources perspective, we’ll be able to refocus on business-critical initiatives rather than spending hours troubleshooting VDI.”
+
+### quotes
+
+Quot 1
+
+quote:
+Compared with continuing our VDI deployment, using a mobile-first, zero trust model will be about half the cost, which is a considerable taxpayer savings. From an IT staff resources perspective, we’ll be able to refocus on business-critical initiatives rather than spending hours troubleshooting VDI.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Falkirk Council
+
+Section 6
+
+id:
+expanding-zero-trust-for-the-future-of-education-and-work
+
+title:
+Expanding zero trust for the future of education and work
+
+### paragraphs
+
+Paragraph 1
+
+- Moving forward, Falkirk Council intends to continue leveraging Zscaler to help it innovate in support of workers and constituents.
+- “For example, we plan to move more applications to the cloud, such as our emergency response system, which supports elderly residents with the push of a button,” said Dilek.
+- “This will make the system more secure, resilient, and accessible to our response teams.”
+
+Paragraph 2
+
+- The Council will also evaluate other Zscaler options for expanding zero trust to address workstyles forever altered by the pandemic.
+- “The workplace landscape has completely changed,” Dilek said.
+- “We’re not expecting staff to work full-time from offices anymore, even after this crisis has ended.”
+
+Paragraph 3
+
+- “With the help of Zscaler, we’ve adjusted our technology infrastructure rapidly to ensure users have the tools they need to work securely in a new-normal way,” he added.
+- “We can now provide the right devices, the right applications, and the right level of access to deliver seamless, efficient, high-performance user experiences.
+- It’s that simple.”
+
+### quotes
+
+Quot 1
+
+quote:
+For example, we plan to move more applications to the cloud, such as our emergency response system, which supports elderly residents with the push of a button. This will make the system more secure, resilient, and accessible to our response teams.
+
+#### speaker
+
+name:
+Dilek
+
+title:
+
+
+company:
+Falkirk Council
+
+Quot 2
+
+quote:
+The workplace landscape has completely changed. We’re not expecting staff to work full-time from offices anymore, even after this crisis has ended.
+
+#### speaker
+
+name:
+Dilek
+
+title:
+
+
+company:
+Falkirk Council
+
+Quot 3
+
+quote:
+With the help of Zscaler, we’ve adjusted our technology infrastructure rapidly to ensure users have the tools they need to work securely in a new-normal way. We can now provide the right devices, the right applications, and the right level of access to deliver seamless, efficient, high-performance user experiences. It’s that simple.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Falkirk Council
+
+Section 7
+
+id:
+leveraging-the-cloud-to-benefit-all-residents
+
+title:
+Leveraging the cloud to benefit all residents
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- With a responsibility to support all its constituents from cradle to grave, Falkirk Council used the COVID-19 remote work imperative to accelerate its transformation to a hybrid cloud environment.
+- By providing a secure, high-performance zero trust WFA experience for its users, Falkirk Council is ensuring it can fulfill its obligations to residents both young and old.
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 3
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+47491
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Falkirk Council Falkirk Council Serves 160,000 Constituents Using WFA with and the Zscaler Zero Trust Exchange.
+
+og_title:
+Falkirk Council Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/falkirk-council

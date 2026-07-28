@@ -1,0 +1,766 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/nov
+
+slug:
+nov
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:46.817871Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+NOV Goes All In on Zero Trust and Zscaler
+
+subtitle:
+Saving Millions While Advancing Security
+
+customer_name:
+NOV
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Implement zero trust to secure a globally distributed enterprise and allow work from anywhere, anytime, on almost any device
+
+## results
+
+- Reduces number of cyber events by 35x
+- Gives employees and contractors direct, policy-based WFA access to 7,500+ apps
+- Shrinks machine reimaging from malware to effectively zero
+- Saves millions of dollars by eliminating hardware and simplifying security
+- Simplifies security administration with policy-based controls
+- Establishes identity-driven zero trust security foundation
+
+====================================================
+# customer_snapshot
+
+title:
+NOV
+
+description:
+NOV delivers technology-driven solutions to empower the global energy industry. For more than 150 years, NOV has pioneered innovations that enable its customers to safely produce abundant energy while minimizing environmental impact. Their mantra: NOV powers the industry that powers the world.
+
+industry:
+Energy, Oil, Gas, and Mining
+
+headquarters:
+Houston, Texas, USA
+
+size:
+32,000+ employees in 62 countries
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+A large enterprise with a hybrid network requires modern technology to secure it. Zscaler’s zero trust architecture for building a security service edge (SSE) ecosystem is second to none.
+
+## speaker
+
+name:
+John McLeod
+
+title:
+CISO
+
+company:
+NOV
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+doing-more-with-less-securely
+
+title:
+Doing more with less, securely
+
+### paragraphs
+
+Paragraph 1
+
+- As a supplier to the global energy industry, NOV’s revenue is inexorably tied to fluctuating global commodities markets.
+- A long period of depressed oil prices forced NOV Chief Information Officer, Alex Philips, and his team to begin a digital transformation journey.
+- This was the only way to reduce the burden of legacy technical debt and historically high costs while simultaneously providing greater agility and more robust security for their global organization.
+
+Paragraph 2
+
+- “Like many enterprises, our legacy IT environment with a castle-and-moat security model was expensive and not flexible enough for our increasingly mobile and dynamic business,” said Philips.
+- “We needed to reduce cost, improve security, and make life easier for both our users and IT administrators without disrupting the business.”
+
+### quotes
+
+Quot 1
+
+quote:
+Like many enterprises, our legacy IT environment with a castle-and-moat security model was expensive and not flexible enough for our increasingly mobile and dynamic business. We needed to reduce cost, improve security, and make life easier for both our users and IT administrators without disrupting the business.
+
+#### speaker
+
+name:
+Philips
+
+title:
+
+
+company:
+NOV
+
+Section 2
+
+id:
+smart-cloud-digital-transformation
+
+title:
+“Smart cloud” digital transformation
+
+### paragraphs
+
+Paragraph 1
+
+- “The old network perimeter model doesn’t work in a hybrid world,” concurred Chief Information Security Officer John McLeod.
+- “So, we began to look at migrating key security technologies to the cloud and ultimately moving to an identity-driven security perimeter.”
+
+Paragraph 2
+
+- Rather than “cloud first,” NOV takes a “cloud smart” approach, moving to the cloud where and when it makes sense, on the company’s terms.
+- The first step was to transition its workforce to Microsoft 365 (M365) and implement the cloud native Zscaler Zero Trust Exchange and its Zscaler Internet Access (ZIA) service for safe, fast access to M365 as well as other SaaS applications and the internet.
+
+### quotes
+
+Quot 1
+
+quote:
+The old network perimeter model doesn’t work in a hybrid world. So, we began to look at migrating key security technologies to the cloud and ultimately moving to an identity-driven security perimeter.
+
+#### speaker
+
+name:
+John McLeod
+
+title:
+CISO
+
+company:
+NOV
+
+Section 3
+
+id:
+35x-fewer-security-events-and-legal-approved-ssl-decryption
+
+title:
+35x fewer security events and Legal-approved SSL decryption
+
+### paragraphs
+
+Paragraph 1
+
+- ZIA helped accelerate NOV’s M365 rollout and, since Zscaler peers with Microsoft globally, improved users’ experience dramatically.
+- It also provided critical security stack functionality, such as comprehensive inspection of incoming and outgoing TLS/SSL-encrypted data, URL filtering, sandboxing, and data loss prevention.
+- With this extra protection, NOV experienced 35 times fewer security events.
+
+Paragraph 2
+
+- The ability to inspect encrypted traffic in a manner approved by NOV’s Legal department was especially important.
+- “With our previous secure web gateway, we hadn’t been able to obtain approval from Legal for SSL decryption,” said McLeod.
+- “But when we returned to Legal with ZIA and showed that its SSL decryption doesn’t allow access to the data, they approved it within the first five minutes of our conversation.”
+
+### quotes
+
+Quot 1
+
+quote:
+With our previous secure web gateway, we hadn’t been able to obtain approval from Legal for SSL decryption. But when we returned to Legal with ZIA and showed that its SSL decryption doesn’t allow access to the data, they approved it within the first five minutes of our conversation.
+
+#### speaker
+
+name:
+McLeod
+
+title:
+
+
+company:
+NOV
+
+Quot 2
+
+quote:
+The hardware savings were massive for us… ‘appliance hell’ is gone.
+
+#### speaker
+
+name:
+Alex Philips
+
+title:
+CIO
+
+company:
+NOV
+
+Section 4
+
+id:
+zero-trust-browser-adds-extra-internet-safeguard
+
+title:
+Zero Trust Browser adds extra internet safeguard
+
+### paragraphs
+
+Paragraph 1
+
+- NOV is also selectively deploying Zscaler Zero Trust Browser to provide additional protection from threats.
+- As web traffic traverses the Zero Trust Exchange, Zero Trust Browser isolates it in real time, transforming web content into a safe flow of pixels streamed to the user.
+- One of the main use cases is to isolate traffic to and from personal email sites.
+- Employees can then access personal email without exposing the company to any phishing threats embedded in their email.
+
+Paragraph 2
+
+- The functionality can also be used to give immediate internet access to employees in newly acquired companies or to web pages that are neither known malicious nor approved.
+- “I’m a big fan of [Zero Trust Browser],” said McLeod.
+- “I want to deploy for all categories that present a risk to NOV.”
+
+### quotes
+
+Quot 1
+
+quote:
+I’m a big fan of [Zero Trust Browser]. I want to deploy for all categories that present a risk to NOV.
+
+#### speaker
+
+name:
+McLeod
+
+title:
+
+
+company:
+NOV
+
+Section 5
+
+id:
+empowering-work-from-anywhere
+
+title:
+Empowering work from anywhere
+
+### paragraphs
+
+Paragraph 1
+
+- To reduce data center traffic and secure remote access to internal applications, NOV began rolling out Zscaler Private Access (ZPA) to give users fast, direct, policy-based access to applications without having to place them on the internet.
+
+Paragraph 2
+
+- That rollout proved fortuitous when the COVID-19 pandemic hit.
+- “I was able to go to my leadership team and say that if all 27,500 of our users needed to work remotely, they can do it,” recalled Philips.
+- “They were absolutely stunned.
+- … Zscaler was able to adapt quickly and increase capacity to more than satisfy our needs.”
+
+Paragraph 3
+
+- ZPA worked so well, and users preferred it so much over other legacy VPNs, that NOV ultimately consolidated most of the VPNs across its global enterprise to provide easier yet more secure access to thousands of legacy, custom, and COTS applications.
+
+### quotes
+
+Quot 1
+
+quote:
+I was able to go to my leadership team and say that if all 27,500 of our users needed to work remotely, they can do it. They were absolutely stunned. … Zscaler was able to adapt quickly and increase capacity to more than satisfy our needs.
+
+#### speaker
+
+name:
+Philips
+
+title:
+
+
+company:
+NOV
+
+Section 6
+
+id:
+saving-millions-through-simplification
+
+title:
+Saving millions through simplification
+
+### paragraphs
+
+Paragraph 1
+
+- By this time, NOV had saved millions of dollars in security equipment hardware.
+- “The savings were massive for us,” confirmed Philips.
+- “There is no end-of-life.
+- No upgrading and patching.
+- Zscaler handles it for us.
+- The team can now focus on other transformation projects… ‘appliance hell’ is gone.”
+
+Paragraph 2
+
+- By utilizing the Zscaler Zero Trust Exchange, NOV was able to move its 500+ facilities away from a legacy hub-and-spoke MPLS network to direct internet connections secured by ZIA.
+- “On average, we increased speed by 10x-20x, reduced latency to critical SaaS apps, and slashed cost by over 4x.
+- This is truly a win, win, win situation,” said Philips.
+- Annualized savings from just the network circuit changes have already achieved over $4.5m and the transition is only 75% complete.
+
+Paragraph 3
+
+- NOV also saves in other ways.
+- For instance, the company once had to reimage an average of 100 machines each month due to malware infections that slipped past our legacy defenses—a huge waste of resources.
+- Now, the company effectively performs zero reimages in a typical month.
+- Policy-based controls also simplify security administration and systems management.
+
+### quotes
+
+Quot 1
+
+quote:
+The savings were massive for us. There is no end-of-life. No upgrading and patching. Zscaler handles it for us. The team can now focus on other transformation projects… ‘appliance hell’ is gone.
+
+#### speaker
+
+name:
+Philips
+
+title:
+
+
+company:
+NOV
+
+Quot 2
+
+quote:
+On average, we increased speed by 10x-20x, reduced latency to critical SaaS apps, and slashed cost by over 4x. This is truly a win, win, win situation.
+
+#### speaker
+
+name:
+Philips
+
+title:
+
+
+company:
+NOV
+
+Quot 3
+
+quote:
+Our secure digital transformation has made NOV’s business a lot more agile, saved millions of dollars, and reduced our cyber risk.
+
+#### speaker
+
+name:
+Alex Philips
+
+title:
+CIO
+
+company:
+NOV
+
+Section 7
+
+id:
+commitment-to-zero-trust-and-zscaler
+
+title:
+Commitment to zero trust and Zscaler
+
+### paragraphs
+
+Paragraph 1
+
+- By implementing the Zero Trust Exchange with ZIA and ZPA, NOV’s IT team bolstered security, empowered employees and third-party contractors to work from anywhere, and helped propel NOV’s digital transformation to the next level: zero trust.
+
+Paragraph 2
+
+- “We decided to go ‘all in’ with Zscaler and zero trust,” noted McLeod.
+- “A large enterprise with a hybrid network requires modern technology to secure it.
+- Zscaler’s zero trust architecture for building a security service edge [SSE] ecosystem is second to none.”
+
+### quotes
+
+Quot 1
+
+quote:
+We decided to go ‘all in’ with Zscaler and zero trust. A large enterprise with a hybrid network requires modern technology to secure it. Zscaler’s zero trust architecture for building a security service edge [SSE] ecosystem is second to none.
+
+#### speaker
+
+name:
+McLeod
+
+title:
+
+
+company:
+NOV
+
+Section 8
+
+id:
+okta-sentinelone-integrations-key-for-nov
+
+title:
+Okta, SentinelOne integrations key for NOV
+
+### paragraphs
+
+Paragraph 1
+
+- Since no single vendor can meet all zero trust needs, seamless integrations are paramount.
+- For NOV, integration with Okta and SentinelOne was especially important.
+- “Zscaler, Okta, and SentinelOne are all key components in our security stack that help us advance our overall security posture and zero trust strategy,” said McLeod.
+
+Paragraph 2
+
+- NOV integrated the Zero Trust Exchange with Okta to authenticate users and is planning to use the Zscaler Identity Proxy and Okta for conditional access to NOV resources.
+- The conditional access policy engine is a key component on the zero trust journey.
+
+Paragraph 3
+
+- The company deployed the Zero Trust Exchange with SentinelOne DataSet log management and analytics for additional visibility and threat hunting across network and endpoint activity.
+- NOV also plans to have ZPA check for the presence of the Singularity XDR agent when it assesses device posture.
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler, Okta, and SentinelOne are all key components in our security stack that help us advance our overall security posture and zero trust strategy.
+
+#### speaker
+
+name:
+McLeod
+
+title:
+
+
+company:
+NOV
+
+Section 9
+
+id:
+adding-services-improves-cloud-protection-and-more
+
+title:
+Adding services improves cloud protection and more
+
+### paragraphs
+
+Paragraph 1
+
+- After the success of ZIA and ZPA, NOV decided to take advantage of additional services available on the Zero Trust Exchange.
+- With just a click of a button, the company activated the Zscaler Digital Experience (ZDX) service to proactively detect and accelerate resolution of user access issues.
+- With ZDX, an NOV support person can immediately see, for instance, whether a user’s connectivity issue is caused by a local WiFi connection, regional ISP trouble, or a problem with the application itself, so they resolve the issue quickly.
+
+Paragraph 2
+
+- Thanks to ZDX, NOV was able to quickly pinpoint performance issues for some of its key SaaS applications.
+- The data provided by ZDX even helped the company hold the SaaS vendors more accountable to their SLAs.
+
+Paragraph 3
+
+- The company also deployed Zscaler for Workloads, which comprises Posture Control and Zscaler Workload Communications for cloud security posture management (CSPM), secure app-to-app access across clouds, and identity-based microsegmentation.
+- “Zscaler for Workloads gives us visibility into our multicloud environments,” said McLeod.
+- “It discovers vulnerabilities and makes recommendations that help us prioritize remediation activities.”
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler for Workloads gives us visibility into our multicloud environments. It discovers vulnerabilities and makes recommendations that help us prioritize remediation activities.
+
+#### speaker
+
+name:
+McLeod
+
+title:
+
+
+company:
+NOV
+
+Quot 2
+
+quote:
+We’re extremely excited about all we’ve accomplished and what the future holds for our zero trust journey. Zscaler will play a critical role...
+
+#### speaker
+
+name:
+Alex Philips
+
+title:
+CIO
+
+company:
+NOV
+
+Section 10
+
+id:
+agility-and-risk-reduction-for-the-long-term
+
+title:
+Agility and risk reduction for the long term
+
+### paragraphs
+
+Paragraph 1
+
+- “Our secure digital transformation has made NOV’s business a lot more agile, saved millions of dollars, and reduced our cyber risk,” said Philips.
+- “I can proudly say we are overachieving on our zero trust goals.”
+
+Paragraph 2
+
+- NOV is continuing to push forward into new phases of its zero trust transformation, including using the Zero Trust Exchange to “go dark” with additional applications and deploying Zscaler Branch Connectivity, which extends the direct-to-application zero trust access of ZPA from individual users to entire offices.
+
+Paragraph 3
+
+- “We’re extremely excited about all we’ve accomplished and what the future holds for our zero trust journey,” concluded McLeod.
+- “Zscaler plays a critical role in that transformation.”
+
+### quotes
+
+Quot 1
+
+quote:
+Our secure digital transformation has made NOV’s business a lot more agile, saved millions of dollars, and reduced our cyber risk. I can proudly say we are overachieving on our zero trust goals.
+
+#### speaker
+
+name:
+Philips
+
+title:
+
+
+company:
+NOV
+
+Quot 2
+
+quote:
+We’re extremely excited about all we’ve accomplished and what the future holds for our zero trust journey. Zscaler plays a critical role in that transformation.
+
+#### speaker
+
+name:
+McLeod
+
+title:
+
+
+company:
+NOV
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 2
+
+name:
+Sandbox
+
+url:
+https://www.zscaler.com/technology/cloud-sandbox
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 4
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 5
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Secure Remote Access
+
+url:
+https://www.zscaler.com/products-and-solutions/vpn-alternative
+
+Solution 2
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 3
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 4
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+23091
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how NOV NOV Goes All In on Zero Trust and Zscaler with Saving Millions While Advancing Security.
+
+og_title:
+NOV Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/nov

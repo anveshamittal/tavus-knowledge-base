@@ -1,0 +1,825 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/peel-regional-police
+
+slug:
+peel-regional-police
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:49.129977Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Peel Regional Police Expands Zero Trust Cybersecurity
+
+subtitle:
+with Zscaler to Advance Public Safety
+
+customer_name:
+Peel Regional Police
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Secure video data and cloud-enabled business applications
+
+## results
+
+- Obtained appropriate security for adopting a comprehensive cloud-based body-worn camera solution
+- Met or exceeded international, national, provincial, and local regulatory and compliance mandates
+- Gained the highest level of protection against known and unknown threats, including patient-zero attacks
+- Attained granular visibility for improving business-critical application performance and compliance with safety protocols
+- Enabled ongoing innovation by leveraging cloud platforms and applications
+
+====================================================
+# customer_snapshot
+
+title:
+Peel Regional Police
+
+description:
+The Peel Regional Police is one of Canada’s largest municipal police services, serving 1.4 million residents in Brampton and Mississauga, Ontario. It is also responsible for the safety of approximately 49.5 million individuals who annually pass through the Toronto Pearson International Airport.
+
+industry:
+Federal and Government
+
+headquarters:
+Mississauga, Ontario, Canada
+
+size:
+Approx. 2,200 police officers and 960 civilian employees
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Zscaler just works. I honestly don’t know why an organization would consider anything else.
+
+## speaker
+
+name:
+Tony Ventura
+
+title:
+Director of Information Technology Services
+
+company:
+Peel Regional Police
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+body-worn-camera-initiative-spurs-it-enhancements
+
+title:
+Body-worn camera initiative spurs IT enhancements
+
+### paragraphs
+
+Paragraph 1
+
+- In advance of deploying a cloud-enabled, body-worn camera system, the Peel Regional Police needed to address the cybersecurity challenges of maintaining high data integrity and regulatory compliance while implementing a new technology.
+
+Paragraph 2
+
+- “We were evaluating a comprehensive, cloud-enabled camera solution controlled by an app,” explained Tony Ventura, Director of Information Technology Services for the Mississauga, Ontario-based agency.
+- “As the initiative would also replace our existing limited smartphone deployment with agency-issued iPhones for all officers and various other personnel, we needed to expand our zero trust cybersecurity approach to meet these new IT requirements.”
+
+### quotes
+
+Quot 1
+
+quote:
+We were evaluating a comprehensive, cloud-enabled camera solution controlled by an app. As the initiative would also replace our existing limited smartphone deployment with agency-issued iPhones for all officers and various other personnel, we needed to expand our zero trust cybersecurity approach to meet these new IT requirements.
+
+#### speaker
+
+name:
+Tony Ventura
+
+title:
+Director of Information Technology Services
+
+company:
+Peel Regional Police
+
+Section 2
+
+id:
+securing-sensitive-crime-scene-video
+
+title:
+Securing sensitive crime scene video
+
+### paragraphs
+
+Paragraph 1
+
+- A regional public safety agency, the Peel Police serves a permanent and airport guest population totaling over 50 million individuals.
+- The agency fulfills its mission by adopting modern practices and technologies that support rapid incident responses and timely crime solvency.
+
+Paragraph 2
+
+- Once the agency settled on AXON for its body-worn camera initiative, the Peel Police set out to provide users with secure access.
+- “Although other agencies use traditional VPNs for routing camera and app traffic to the data center for security filtering and then sending the traffic back out to AXON, it comes at a significant user experience cost,” said Ventura.
+- “We wanted a solution that permitted routing traffic directly to AXON via the internet, while meeting Royal Canadian Mounted Police (RCMP) regulations for ensuring data integrity.”
+
+Paragraph 3
+
+- After a thorough evaluation of cloud security options, Peel Police decided to expand its existing deployment of the Zscaler Zero Trust Exchange™ platform.
+- “We determined that Zscaler was still the gold standard,” Ventura said.
+- “It supplied the leading-edge security solutions we needed, along with exceptional performance for superior user experiences.”
+
+### quotes
+
+Quot 1
+
+quote:
+Although other agencies use traditional VPNs for routing camera and app traffic to the data center for security filtering and then sending the traffic back out to AXON, it comes at a significant user experience cost. We wanted a solution that permitted routing traffic directly to AXON via the internet, while meeting Royal Canadian Mounted Police (RCMP) regulations for ensuring data integrity.
+
+#### speaker
+
+name:
+Ventura
+
+title:
+
+
+company:
+Peel Regional Police
+
+Quot 2
+
+quote:
+We determined that Zscaler was still the gold standard. It supplied the leading-edge security solutions we needed, along with exceptional performance for superior user experiences.
+
+#### speaker
+
+name:
+Ventura
+
+title:
+
+
+company:
+Peel Regional Police
+
+Section 3
+
+id:
+gaining-greater-visibility-and-control
+
+title:
+Gaining greater visibility and control
+
+### paragraphs
+
+Paragraph 1
+
+- Having previously adopted Zscaler Internet Access™ (ZIA™), a fundamental building block of the Zscaler Zero Trust Exchange platform, the Peel Police elected to deploy several additional solutions.
+- These included the Zscaler Advanced Cloud Firewall, Advanced Cloud Sandbox, a Cloud Access Security Broker (CASB) upgrade, and Cloud Data Loss Prevention (DLP).
+
+Paragraph 2
+
+- “Expanding our Zscaler platform provides our agency with greater visibility and control over our cybersecurity protections,” Ventura said.
+- “Otherwise, we’d be relying on the iPhone’s iOS ecosystem to secure app and camera data.
+- Although iOS is an exceptionally robust platform, it’s insufficient for securing a public safety agency like ours.”
+
+### quotes
+
+Quot 1
+
+quote:
+Expanding our Zscaler platform provides our agency with greater visibility and control over our cybersecurity protections. Otherwise, we’d be relying on the iPhone’s iOS ecosystem to secure app and camera data. Although iOS is an exceptionally robust platform, it’s insufficient for securing a public safety agency like ours.
+
+#### speaker
+
+name:
+Ventura
+
+title:
+
+
+company:
+Peel Regional Police
+
+Quot 2
+
+quote:
+Advanced Cloud Sandbox gives us the highest level of protection against patient zero attacks.
+
+#### speaker
+
+name:
+Tony Ventura
+
+title:
+Director of Information Technology Services
+
+company:
+Peel Regional Police
+
+Section 4
+
+id:
+advanced-filtering-helps-meet-regulatory-requirements
+
+title:
+Advanced filtering helps meet regulatory requirements
+
+### paragraphs
+
+Paragraph 1
+
+- Using Advanced Cloud Firewall, Peel Police can streamline and simplify traffic filtering with capabilities extending beyond appliance-based next-generation firewalls (NGFWs).
+- The agency intends to leverage features such as context-aware, granular access, and security policies, along with a fully integrated intrusion prevention system (IPS) that provides true inline, enhanced, always-on threat protection capable of inspecting SSL traffic.
+- Full logging, intuitive reporting, and a comprehensive dashboard supply detailed visibility into traffic, threats, and applications.
+- “With Zscaler’s Advanced Cloud Firewall we meet RCMP requirements,” said Ventura.
+- “As the RCMP supplies access to criminal records across Canada, it’s imperative we demonstrate compliance.”
+
+### quotes
+
+Quot 1
+
+quote:
+With Zscaler’s Advanced Cloud Firewall we meet RCMP requirements. As the RCMP supplies access to criminal records across Canada, it’s imperative we demonstrate compliance.
+
+#### speaker
+
+name:
+Ventura
+
+title:
+
+
+company:
+Peel Regional Police
+
+Section 5
+
+id:
+thwarting-patient-zero-attacks
+
+title:
+Thwarting patient-zero attacks
+
+### paragraphs
+
+Paragraph 1
+
+- To safeguard against unknown and known threats, Advanced Cloud Sandbox protects the Peel Police against attacks with an AI-based quarantine feature.
+- Using real-time, AI-based analysis, Advanced Cloud Sandbox inspects suspicious files and issues an instant verdict, quickly allowing benign traffic to continue.
+- The remaining traffic receives further analysis and is quarantined.
+- Concurrently, this traffic is blocked for every Zscaler user, preventing any instances of this never-before-seen threat from reaching other customers’ networks.
+
+Paragraph 2
+
+- “Deploying advanced policing solutions like body-worn cameras makes us an even more attractive target than before,” Ventura said.
+- “Advanced sandboxing gives us the highest level of protection possible against patient-zero attacks.
+
+### quotes
+
+Quot 1
+
+quote:
+Deploying advanced policing solutions like body-worn cameras makes us an even more attractive target than before.
+
+#### speaker
+
+name:
+Ventura
+
+title:
+
+
+company:
+Peel Regional Police
+
+Section 6
+
+id:
+protecting-data-regardless-of-where-it-resides
+
+title:
+Protecting data regardless of where it resides
+
+### paragraphs
+
+Paragraph 1
+
+- Securing data-at-rest with CASB and addressing strict data compliance requirements with Cloud DLP further enhances the agency’s data protection strategy.
+- As ZIA natively protects data-in-motion, the Zscaler multimode CASB adds the out-of-band capabilities that safeguard data-at-rest by looking inside SaaS applications and IaaS offerings to identify sensitive or exposed information and pinpoint compliance violations that would otherwise go unnoticed.
+- Cloud DLP is engineered to help organizations comply with regulations when handling sensitive data such as PCI, PII, and PHI in the cloud.
+
+Paragraph 2
+
+- Together, CASB and Cloud DLP are at the heart of Zscaler Data Protection, which is fully integrated with the Zscaler Zero Trust Exchange platform.
+- By leveraging Zscaler Data Protection, Peele Police was able to reduce the complexity of adding point-based Cloud Access Security Broker products and maximize IT productivity.
+
+Paragraph 3
+
+- “Agencies like ours handle an extensive amount of sensitive information,” said Ventura.
+- “Adding Zscaler’s CASB and Cloud DLP helps us protect data, regardless of where it resides, and stay compliant no matter how often regulations change.
+
+### quotes
+
+Quot 1
+
+quote:
+Agencies like ours handle an extensive amount of sensitive information.
+
+#### speaker
+
+name:
+Ventura
+
+title:
+
+
+company:
+Peel Regional Police
+
+Quot 2
+
+quote:
+CASB and Cloud DLP help us protect data, regardless of where it resides, and stay compliant no matter how often regulations change.
+
+#### speaker
+
+name:
+Tony Ventura
+
+title:
+Director of Information Technology Services
+
+company:
+Peel Regional Police
+
+Section 7
+
+id:
+flexibility-and-innovation-empower-users
+
+title:
+Flexibility and innovation empower users
+
+### paragraphs
+
+Paragraph 1
+
+- The Peel Police’s security platform expansion also provides advanced features for powering business flexibility and ongoing innovation.
+- This includes the capability to warn users about questionable internet sites rather than forcing the agency to either block or allow, which empowers users to do their jobs.
+
+Paragraph 2
+
+- “In police work, our officers and investigators need to visit problematic websites to collect evidence or solve crimes,” Ventura said.
+- “For example, they may need to view a site where human trafficking is occurring.
+- With Zscaler we can create policies that automatically warn users rather than deny access altogether.”
+
+Paragraph 3
+
+- Another benefit is granular visibility, which helps the Peel Police enhance user experiences while also identifying behaviors that may require attention.
+- “Zscaler ensures we can prioritize business-critical applications to improve network performance,” said Ventura.
+- “We can also identify usage patterns that indicate training opportunities.”
+
+### quotes
+
+Quot 1
+
+quote:
+In police work, our officers and investigators need to visit problematic websites to collect evidence or solve crimes. For example, they may need to view a site where human trafficking is occurring. With Zscaler we can create policies that automatically warn users rather than deny access altogether.
+
+#### speaker
+
+name:
+Ventura
+
+title:
+
+
+company:
+Peel Regional Police
+
+Quot 2
+
+quote:
+Zscaler ensures we can prioritize business-critical applications to improve network performance. We can also identify usage patterns that indicate training opportunities.
+
+#### speaker
+
+name:
+Ventura
+
+title:
+
+
+company:
+Peel Regional Police
+
+Section 8
+
+id:
+speeding-up-data-access-with-direct-peering
+
+title:
+Speeding up data access with direct peering
+
+### paragraphs
+
+Paragraph 1
+
+- Direct peering relationships with Microsoft and Google are additional ways Zscaler supports Peel Police innovation efforts.
+- With direct peering, the performance of applications like Microsoft Office 365 is significantly improved.
+
+Paragraph 2
+
+- “Near term, we’re planning to adopt Office 365, which will definitely be enhanced by Zscaler’s direct peering,” said Ventura.
+- “Over time, we expect to utilize various public cloud providers, in addition to specific SaaS applications, so it isn’t about one cloud platform versus another for us.
+- It’s the bigger picture of how Zscaler helps us innovate based on adopting the best solutions for meeting our needs.”
+
+### quotes
+
+Quot 1
+
+quote:
+Near term, we’re planning to adopt Office 365, which will definitely be enhanced by Zscaler’s direct peering. Over time, we expect to utilize various public cloud providers, in addition to specific SaaS applications, so it isn’t about one cloud platform versus another for us. It’s the bigger picture of how Zscaler helps us innovate based on adopting the best solutions for meeting our needs.
+
+#### speaker
+
+name:
+Ventura
+
+title:
+
+
+company:
+Peel Regional Police
+
+Section 9
+
+id:
+additional-capabilities-on-the-horizon
+
+title:
+Additional capabilities on the horizon
+
+### paragraphs
+
+Paragraph 1
+
+- Moving ahead, Ventura’s team plans additional platform expansions, including Zscaler Private Access™ (ZPA™) and Zscaler Digital Experience™ (ZDX™).
+- The former complements ZIA by furnishing VPN-free access to private applications running on public clouds, such as Amazon Web Services (AWS), or within the agency’s data center.
+- The latter assists with measuring and improving digital experiences in cloud and hybrid work environments.
+
+Paragraph 2
+
+- As VPNs are noted for creating attack surfaces, as well as being expensive to purchase and manage, ZPA can significantly improve an organization’s security posture while reducing costs.
+- “ZPA is attractive for making our infrastructure invisible to bad actors and simultaneously speeding application access,” Ventura said.
+- “ZDX can allow a lean, taxpayer-funded agency like ours to quickly and efficiently improve officer environments, where real-time data access can make the difference in situations where speed is critical to life-and-death decision making.”
+
+### quotes
+
+Quot 1
+
+quote:
+ZPA is attractive for making our infrastructure invisible to bad actors and simultaneously speeding application access. ZDX can allow a lean, taxpayer-funded agency like ours to quickly and efficiently improve officer environments, where real-time data access can make the difference in situations where speed is critical to life-and-death decision making.
+
+#### speaker
+
+name:
+Ventura
+
+title:
+
+
+company:
+Peel Regional Police
+
+Quot 2
+
+quote:
+Zscaler supplies us with top-notch security protections with no legacy technical penalties.
+
+#### speaker
+
+name:
+Tony Ventura
+
+title:
+Director of Information Technology Services
+
+company:
+Peel Regional Police
+
+Section 10
+
+id:
+cloud-native-engineering-future-proofs-network-security
+
+title:
+Cloud-native engineering future-proofs network security
+
+### paragraphs
+
+Paragraph 1
+
+- Overall, the Peel Police expect to continue benefiting from Zscaler’s cloud-native platform.
+- “In today’s cloud-native world, it’s really important for us to invest in solutions that were actually born in the cloud,” said Ventura.
+
+Paragraph 2
+
+- “Many security solutions claim to be cloud-enabled, when they’re really an on-premises offering that’s migrated to the cloud,” he added.
+- “Such options bring legacy debt with them into the cloud.
+- If we wanted a solution like that, we could simply migrate an on-premises system to the cloud ourselves.”
+
+Paragraph 3
+
+- According to Ventura, this is why Zscaler’s engineering shines.
+- “Zscaler supplies us with top-notch security protections with no legacy technical penalties,” he said.
+- “In fact, the performance is so high and the latency so low that our users don’t realize it’s keeping their content filtered, clean, and safe.”
+
+Paragraph 4
+
+- In short, deploying and using Zscaler has been a completely smooth and seamless experience for the Peel Police.
+- “It just works,” Ventura said.
+- “I honestly don’t know why an organization would consider anything else.”
+
+### quotes
+
+Quot 1
+
+quote:
+In today’s cloud-native world, it’s really important for us to invest in solutions that were actually born in the cloud.
+
+#### speaker
+
+name:
+Ventura
+
+title:
+
+
+company:
+Peel Regional Police
+
+Quot 2
+
+quote:
+Many security solutions claim to be cloud-enabled, when they’re really an on-premises offering that’s migrated to the cloud. Such options bring legacy debt with them into the cloud. If we wanted a solution like that, we could simply migrate an on-premises system to the cloud ourselves.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Peel Regional Police
+
+Quot 3
+
+quote:
+Zscaler supplies us with top-notch security protections with no legacy technical penalties. In fact, the performance is so high and the latency so low that our users don’t realize it’s keeping their content filtered, clean, and safe.
+
+#### speaker
+
+name:
+Ventura
+
+title:
+
+
+company:
+Peel Regional Police
+
+Quot 4
+
+quote:
+It just works. I honestly don’t know why an organization would consider anything else.
+
+#### speaker
+
+name:
+Ventura
+
+title:
+
+
+company:
+Peel Regional Police
+
+Section 11
+
+id:
+boosting-public-safety-by-embracing-the-cloud
+
+title:
+Boosting public safety by embracing the Cloud
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- Seeking to continue its leadership role as an innovative Canadian public safety provider, Peel Police is digitalizing and transforming its IT infrastructure to support initiatives such as app-enabled, cloud-delivered, body-worn cameras that improve the services it delivers to over 50 million individuals, ranging from permanent residents to international airport guests.
+
+====================================================
+# products
+
+Product 1
+
+name:
+Multi-Mode CASB
+
+url:
+https://www.zscaler.com/products-and-solutions/cloud-access-security-broker-casb
+
+Product 2
+
+name:
+Sandbox
+
+url:
+https://www.zscaler.com/technology/cloud-sandbox
+
+Product 3
+
+name:
+Web and Email DLP
+
+url:
+https://www.zscaler.com/products-and-solutions/data-loss-prevention
+
+Product 4
+
+name:
+Zero Trust Firewall
+
+url:
+https://www.zscaler.com/resources/data-sheets/zscaler-firewall.pdf
+
+Product 5
+
+name:
+Zero Trust for IoT/OT
+
+url:
+https://www.zscaler.com/products-and-solutions/secure-your-ot-and-iot
+
+Product 6
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 7
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 2
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+51271
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Peel Regional Police Peel Regional Police Expands Zero Trust Cybersecurity with with Zscaler to Advance Public Safety.
+
+og_title:
+Peel Regional Police Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/peel-regional-police

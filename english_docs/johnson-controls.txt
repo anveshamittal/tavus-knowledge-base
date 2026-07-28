@@ -1,0 +1,420 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/johnson-controls
+
+slug:
+johnson-controls
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:31.453837Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Johnson Controls Secures Business and IT
+
+subtitle:
+Digital Transformation with the Zscaler Zero Trust Exchange
+
+customer_name:
+Johnson Controls
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Support digital transformation of business and IT, including empowering work from anywhere
+
+## results
+
+- Deployed secure, remote WFA access to first 25,000 users in two weeks
+- Improves performance and user satisfaction for remote users compared to VPNs
+- Frees up security operations to focus on optimization, automation, and integration
+- Dramatically expands visibility, agility, and flexibility globally
+- Provides at-a-glance risk assessment with Executive Insights app
+
+====================================================
+# customer_snapshot
+
+title:
+Johnson Controls
+
+description:
+Johnson Controls International (JCI) produces fire, HVAC, and security equipment and services that create healthy, safe, sustainable buildings worldwide. In its push for continual innovation, the American (Irish-domiciled) multinational conglomerate created OpenBlue, a cloud-based platform offering more than 20 digital services to its customers.
+
+industry:
+Manufacturing
+
+headquarters:
+Glendale, Wisconsin, USA 
+
+size:
+105,000 employees across 2,000 locations in 150 countries
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Thanks to the Zscaler team for your technology and, even more important, for your outstanding customer support. You make me feel like JCI is your number one priority at all times.
+
+## speaker
+
+name:
+Maria Jose Lloret Crespo
+
+title:
+IT Operations and Chief Technologist
+
+company:
+Johnson Controls
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+johnson-controls-accelerated-its-cloud-transformation-to-deliver-life-safety-services-during-covid-19
+
+title:
+Johnson Controls Accelerated its Cloud Transformation to Deliver Life-Safety Services During COVID-19
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- Blog by Peter Daly, Director of Network Services – Global Infrastructure at Johnson Controls
+
+Paragraph 2
+
+- Since the first days of 2020, the year has been extraordinary on many fronts—for the global community, for my company Johnson Controls, and even for myself, both professionally and personally.
+
+Paragraph 3
+
+- Globally: The COVID-19 pandemic has overwhelmed medical systems and continues to stretch the capacities needed to help treat patients.
+- In a worldwide effort to contain the spread of the virus, governments have put unprecedented lockdowns in place to enforce social distancing and mandate people—where possible—to work from home.
+
+Paragraph 4
+
+- Johnson Controls: As the world’s largest supplier of building products, technologies, and services, Johnson Controls is on the frontlines in the battle against COVID-19.
+- Johnson Controls is equipping field hospitals in hotspots, such as Wuhan and New York City, with critical HVAC systems, and continues to deliver life-safety services that are vital to the uninterrupted operations of critical infrastructure.
+- This infrastructure includes hospitals, supermarkets, food processors, pharmacies, data centers, government offices and military facilities, and police and fire stations, among others.
+- While many of our 105,000 employees are in the field or working in manufacturing plants across our 2,000 locations in almost every country, every Johnson Controls staff member whose job can be carried out remotely is working from home.
+
+Section 2
+
+id:
+section-2
+
+title:
+
+
+### paragraphs
+
+Paragraph 1
+
+- Professionally: For more than 130 years, Johnson Controls has been making buildings smarter and transforming the environments where people live, work, learn, and play.
+- In today’s world, we rely on a modern IT infrastructure to continue to support the mission of our company and to innovate.
+- Therefore, my team has been on a journey to transform our network.
+- We have been a Zscaler customer using Zscaler Internet Access (ZIA) and we were planning to add Zscaler Private Access (ZPA) in 2021.
+- However, COVID-19 accelerated this transition dramatically, and we rolled out ZPA to 25,000 users in two weeks.
+- The speed of this process is something I have never experienced in my professional life.
+
+Paragraph 2
+
+- As we were monitoring the spread of the pandemic, we knew we had to prepare for lockdowns in Europe and the U.S.
+- Our pre-existing VPN platform supported 10,000 users which got us through the initial increase in remote work across Asia, but we knew we would be challenged in supporting the ever-increasing rate of global work-from-home mandates.
+
+### quotes
+
+Quot 1
+
+quote:
+One of the benefits of Zscaler is that I can monitor the risk of my organization from almost anywhere. The Executive Insights app has almost become my personal security blanket.
+
+#### speaker
+
+name:
+Carl Erickson
+
+title:
+CISO
+
+company:
+Johnson Controls
+
+Section 3
+
+id:
+section-3
+
+title:
+
+
+### paragraphs
+
+Paragraph 1
+
+- We decided to reach out to our existing hardware vendors as well as Zscaler to explore our options.
+- With lead times in certain regions of up to six weeks for VPN hardware to be shipped, the strain on the global supply chain, and the fact that support organizations aren’t allowing staff to travel to help with deployment in data centers, the option to expand our existing remote access platform would have put our company, our customers, and the global community at risk.
+- To enable the mission-critical work that Johnson Controls is providing to fight this pandemic, we decided to accelerate our plans to move to cloud technology.
+
+Paragraph 2
+
+- Within days of reaching out to Zscaler, we had completed a successful proof-of-value for a subset of users and then started a phased rollout of ZPA to 25,000 users.
+- Starting with users who had an immediate need to work remotely, such as finance and engineering departments, we created a day-by-day communications plan to inform users that Z App, a lightweight endpoint agent from Zscaler, had been installed on their devices.
+- This would enable them to easily access internal applications through ZPA.
+- We were able to stay ahead of new shelter-in-place announcements and work-from-home mandates, and we have been able to keep our business running smoothly throughout.
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler enabled security for all sites and users regardless of their location.
+
+#### speaker
+
+name:
+Carl Erickson
+
+title:
+CISO
+
+company:
+Johnson Controls
+
+Section 4
+
+id:
+section-4
+
+title:
+
+
+### paragraphs
+
+Paragraph 1
+
+- As advised by Zscaler, we rolled out ZPA to equal numbers of users each day to effectively monitor and rapidly respond to our immediate need for remote access.
+- We created a tiger team of Johnson Controls engineers and Zscaler engineers who worked together on daily calls for a week.
+- On these calls, we walked through all configurations for applications, access, and DNS until we got to a stable position.
+
+Paragraph 2
+
+- Due to the rapid deployment ability of the Zscaler product, it literally took only days to deploy ZPA across the globe in locations far and wide such as Singapore, Milwaukee, Frankfurt, and Mexico, and then move our users off of our existing platform and onto ZPA.
+- Our experience proves that cloud technology can be fluid and deliver as quickly as you need it, especially with the right focus, tools, and partnerships.
+
+Paragraph 3
+
+- The transition has been pretty much flawless.
+- Our latency reports show that we have improved significantly.
+- The feedback from our user community has been excellent because “stuff just works,” with heavy users of private applications noticing performance improvements compared to our traditional VPN system.
+- Instead of creating full-blown tunnels and putting everyone on the network, it’s now just an application sending data to the user, which alleviates the impact on our network bandwidth.
+
+Paragraph 4
+
+- In addition, we are already seeing the operational benefits of having one single pane of glass and being able to control access from one platform instead of managing different hardware across all our global locations.
+
+Paragraph 5
+
+- One important driver of our network transformation has been the visibility aspect.
+- Using ZIA and ZPA allows us to have immediate visibility into what is happening on our network, including which applications are accessed and by whom, at a level of detail that we didn’t have before.
+
+Paragraph 6
+
+- On a personal level: I believe that this crisis will change how the entire organization—and maybe even the world—will be working in the future.
+- Having this experience and witnessing that we are able to keep our business running without everyone being in a physical office might initiate a change in thinking about where people will be carrying out their work as we continue on our cloud transformation journey.
+
+Paragraph 7
+
+- I remain hopeful that once we get through this crisis, which we will, we can recognize and embrace the silver linings that this global pandemic has revealed.
+
+### quotes
+
+Quot 1
+
+quote:
+What I love about the Zscaler suite of products [is that] it works without the end user having to know. Zscaler works behind the scenes to keep my employees safe.
+
+#### speaker
+
+name:
+Diane Schwarz
+
+title:
+CIO
+
+company:
+Johnson Controls
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 3
+
+name:
+Accelerate M&A and Divestitures
+
+url:
+https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+21971
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Johnson Controls Johnson Controls Secures Business and IT with Digital Transformation with the Zscaler Zero Trust Exchange.
+
+og_title:
+Johnson Controls Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/johnson-controls

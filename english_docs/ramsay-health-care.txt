@@ -1,0 +1,441 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/ramsay-health-care
+
+slug:
+ramsay-health-care
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:56:20.587919Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Ramsay Health Care Transforms Security and UX
+
+subtitle:
+Replaces Legacy On-Premises Hardware by Moving to the Cloud
+
+customer_name:
+Ramsay Health Care 
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Deliver users safe, seamless access to digital resources amid a global shift to remote work
+
+## results
+
+- Reduces on-premises infrastructure, allowing for simpler scalability and reducing costs overall
+- Gains visibility over the entire environment, irrespective of where employees work or on what device
+- Provides consistent experiences to users, even on unmanaged devices
+- Identifies and addresses user, network, and app issues at speed
+
+====================================================
+# customer_snapshot
+
+title:
+Ramsay Health Care 
+
+description:
+Ramsay Health Care is Australia’s largest private health care provider, operating hundreds of high-quality healthcare facilities, including a retail pharmacy business and a growing number of psychology practices and services. The company has 70 locations across 10 countries across the UK, Europe, and Asia.
+
+industry:
+Healthcare and Pharmaceutical
+
+headquarters:
+Sydney, NSW, Australia
+
+size:
+Over 90,000 employees, 70+ hospital locations in 10 countries
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/3rvkpxqvl2
+
+provider:
+wistia
+
+video_id:
+3rvkpxqvl2
+
+title:
+Ramsay Health Care Customer Testimonial
+
+description:
+a Ramsay Healthcare Customer Testimonial video
+
+duration_seconds:
+140.969
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/deed91422caf325953d84eaef882bbd7.png
+
+### transcript
+
+language:
+eng
+
+#### sentences
+
+1.
+Ramsey health care Australia is Australia's largest private health care provider.
+
+2.
+We have over seventy hospital facilities.
+
+3.
+We have a pharmacy business and a growing community psychology practice.
+
+4.
+Our company operates in the UK, Europe, and Asia.
+
+5.
+We have approximately fifteen thousand users in our environment in Australia.
+
+6.
+When it comes to serving our customers and protecting their data, we look to ensure that our staff have safe access to the digital resources they require and when they require it.
+
+7.
+And ensuring that the patient data is never compromised.
+
+8.
+Our previous solution, we were using a number of on prem appliances, and we also used a different solution for our remote users.
+
+9.
+As we began to take on more and more cloud services, on prem footprint was going to need to expand, and it just wasn't feasible due to the additional licensing costs.
+
+10.
+And purchase of physical hardware.
+
+11.
+The reason we chose the Zscaler zero trust exchange platform was we were outgrowing our existing solutions and also COVID happened.
+
+12.
+And that meant that we had a lot of our workforce were now working remotely.
+
+13.
+We needed a solution that was gonna be assistant for on premise internal network users and for our remote users.
+
+14.
+The Zscaler digital experience product has been very valuable.
+
+15.
+We've been able to diagnose performance related issues very quickly.
+
+16.
+And has given us additional visibility into a remote user's network and device where we had no visibility before.
+
+17.
+That delivered us an ability to provide a consistent experience and we were able to provide the exact same security policy across both those types of users no matter where they were located.
+
+18.
+Performance has been a key win for us as we've been able to leverage the local internet services at all of our sites, which has freed up our wan links for our internal application traffic.
+
+19.
+We've been able to reduce our on prem infrastructure, which was going to be a real struggle to actually scale to the use cases that we have now.
+
+20.
+And we've replaced it with a a much simpler method that is obviously a lot more scalable.
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+Julian Zelones (Manager of Security Engineering, Ramsay Health Care)
+
+tag:
+self_introduction
+
+topic:
+Introduction to Ramsay Health Care
+
+text:
+Ramsey health care Australia is Australia's largest private health care provider.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+Julian Zelones (Manager of Security Engineering, Ramsay Health Care)
+
+tag:
+self_introduction
+
+topic:
+Company operations and scale
+
+text:
+We have over seventy hospital facilities. We have a pharmacy business and a growing community psychology practice. Our company operates in the UK, Europe, and Asia. We have approximately fifteen thousand users in our environment in Australia.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+Julian Zelones (Manager of Security Engineering, Ramsay Health Care)
+
+tag:
+challenges
+
+topic:
+Ensuring secure access and data protection
+
+text:
+When it comes to serving our customers and protecting their data, we look to ensure that our staff have safe access to the digital resources they require and when they require it. And ensuring that the patient data is never compromised.
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+Julian Zelones (Manager of Security Engineering, Ramsay Health Care)
+
+tag:
+challenges
+
+topic:
+Limitations of previous solutions
+
+text:
+Our previous solution, we were using a number of on prem appliances, and we also used a different solution for our remote users. As we began to take on more and more cloud services, on prem footprint was going to need to expand, and it just wasn't feasible due to the additional licensing costs. And purchase of physical hardware.
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+Julian Zelones (Manager of Security Engineering, Ramsay Health Care)
+
+tag:
+products_and_solutions
+
+topic:
+Choosing Zscaler Zero Trust Exchange
+
+text:
+The reason we chose the Zscaler zero trust exchange platform was we were outgrowing our existing solutions and also COVID happened. And that meant that we had a lot of our workforce were now working remotely. We needed a solution that was gonna be assistant for on premise internal network users and for our remote users.
+
+Segment 6
+
+segment_id:
+6
+
+speaker:
+Julian Zelones (Manager of Security Engineering, Ramsay Health Care)
+
+tag:
+products_and_solutions
+
+topic:
+Value of Zscaler Digital Experience
+
+text:
+The Zscaler digital experience product has been very valuable. We've been able to diagnose performance related issues very quickly. And has given us additional visibility into a remote user's network and device where we had no visibility before. That delivered us an ability to provide a consistent experience and we were able to provide the exact same security policy across both those types of users no matter where they were located.
+
+Segment 7
+
+segment_id:
+7
+
+speaker:
+Julian Zelones (Manager of Security Engineering, Ramsay Health Care)
+
+tag:
+metrics_and_results
+
+topic:
+Performance improvements and scalability
+
+text:
+Performance has been a key win for us as we've been able to leverage the local internet services at all of our sites, which has freed up our wan links for our internal application traffic. We've been able to reduce our on prem infrastructure, which was going to be a real struggle to actually scale to the use cases that we have now. And we've replaced it with a a much simpler method that is obviously a lot more scalable.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+112598519
+
+created_at:
+1701294520
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Zscaler Digital Experience has been very valuable. We've been able to diagnose performance-related issues very quickly.
+
+## speaker
+
+name:
+Julian Zelones
+
+title:
+Manager of Security Engineering
+
+company:
+Ramsay Health Care 
+
+====================================================
+# customer_case_study
+
+title:
+null
+
+sections:
+[]
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 3
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 4
+
+name:
+Secure Remote Access
+
+url:
+https://www.zscaler.com/products-and-solutions/vpn-alternative
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+72586
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Ramsay Health Care  Ramsay Health Care Transforms Security and UX with Replaces Legacy On-Premises Hardware by Moving to the Cloud.
+
+og_title:
+Ramsay Health Care  Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/ramsay-health-care

@@ -1,0 +1,500 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/man-energy-solutions
+
+slug:
+man-energy-solutions
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:36.991413Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+MAN Energy Solutions Makes Zero Trust Possible
+
+subtitle:
+with Zscaler Private Access
+
+customer_name:
+MAN Energy Solutions
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- MAN provided application access to a distributed workforce using traditional VPN, causing performance and security issues.
+
+## results
+
+- Delivers a better experience for end users
+- Reduces attack surface via application access without network access
+- Enables strong authentication and granular application access control, globally
+- Gains ability to deploy and securely access and manage VPCs
+- Ensures optimal path between users and apps for increased performance
+- Increases visibility into applications and user activity
+
+====================================================
+# customer_snapshot
+
+title:
+MAN Energy Solutions
+
+description:
+MAN Energy Solutions is the world’s leading provider of large-bore diesel engines and turbomachinery for marine and stationary applications. It designs two- and four-stroke engines that are manufactured both by the company and by its licensees. MAN also designs and manufactures gas turbines.
+
+industry:
+Manufacturing
+
+headquarters:
+Augsburg, Germany
+
+size:
+12,000 users in 100+ locations across 70 countries
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+We can decrease network cost and complexity. Our consultant onboarding process is much faster. We can now onboard within hours, rather than weeks.
+
+## speaker
+
+name:
+Tony Fergusson
+
+title:
+IT Infrastructure Architect
+
+company:
+MAN Energy Solutions
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+when-traditional-security-approaches-falter
+
+title:
+When Traditional Security Approaches Falter
+
+### paragraphs
+
+Paragraph 1
+
+- While experiencing global growth of the business, there are rapid changes occurring in technologies such as IoT on engines and systems of all sizes deployed around the globe, many of which are in motion in transportation.
+- At the same time, a large and distributed global workforce is increasingly mobile and requires mobile access to web apps and custom business applications.
+
+Paragraph 2
+
+- The traditional castle and moat approaches to network and app security are mismatched to the modern cloud deployments which enabled global scale, global access, and the potential for an improved security posture as workloads migrated to AWS and Azure, and the internet became the new corporate network.
+- What is desired is to make these applications dark to the internet, with authenticated access only between trusted users and trusted applications.
+
+Paragraph 3
+
+- MAN Energy Solutions found that the improved speed and agility gained in cloud deployment were being offset by a poor user experience associated with accessing apps through legacy corporate VPN solutions, with increasing appliance, software, and MPLS networking costs.
+- Furthermore, there was a desire to gain security advantages associated with making the apps invisible on the internet.
+
+Paragraph 4
+
+- “We were providing application access to a distributed, mobile workforce using traditional VPN to discoverable access ports.
+- Performance was suffering.
+- Our employees were not satisfied with their experience.
+- Our security stance was not realizing its potential.
+- This was inconsistent with what our AWS and Azure deployments could provide,” says Tony Fergusson, IT Infrastructure Architect for MAN.
+- “Also, we have a relatively small operations team managing on-premises infrastructure, while our data set and need for real-time analytics and app access was exploding.
+- That was getting more difficult to do as we modernized our internal applications, brought more data sources online, and deployed advanced products and technologies globally.”
+
+### quotes
+
+Quot 1
+
+quote:
+We were providing application access to a distributed, mobile workforce using traditional VPN to discoverable access ports. Performance was suffering. Our employees were not satisfied with their experience. Our security stance was not realizing its potential. This was inconsistent with what our AWS and Azure deployments could provide. Also, we have a relatively small operations team managing on-premises infrastructure, while our data set and need for real-time analytics and app access was exploding. That was getting more difficult to do as we modernized our internal applications, brought more data sources online, and deployed advanced products and technologies globally.
+
+#### speaker
+
+name:
+Tony Fergusson
+
+title:
+IT Infrastructure Architect
+
+company:
+MAN Energy Solutions
+
+Section 2
+
+id:
+the-power-of-zscaler-zero-trust
+
+title:
+The Power of Zscaler Zero Trust
+
+### paragraphs
+
+Paragraph 1
+
+- For MAN Energy Solutions (MAN), moving to the cloud provided clear advantages for realizing its business challenges.
+- “We continued to see more companies successfully implementing global scale use cases to the cloud, and we identified architectural approaches that fit our technical objectives,” Fergusson says.
+
+Paragraph 2
+
+- MAN turned to Zscaler in 2011 to improve user experience, reduce bandwidth cost, and meet increasing security objectives.
+- MAN started by connecting globally distributed mobile users to their SaaS applications using Zscaler Internet Access (ZIA).
+- Zscaler was later selected to address advanced persistent threat (APT) requirements.
+
+Paragraph 3
+
+- Next, Zscaler Private Access (ZPA) was selected to provide anywhere, any time access for the mobile workforce and contractors to apps running on premises.
+- Most recently, ZPA was introduced for secure access to apps running on AWS and Azure, improving mobile user experience while reducing networking costs.
+
+### quotes
+
+Quot 1
+
+quote:
+Performance was suffering. Our employees were not satisfied… Our security stance was not realizing its potential.
+
+#### speaker
+
+name:
+Tony Fergusson
+
+title:
+IT Infrastructure Architect
+
+company:
+MAN Energy Solutions
+
+Section 3
+
+id:
+zero-trust-access-to-internal-applications
+
+title:
+Zero Trust Access to Internal Applications
+
+### paragraphs
+
+Paragraph 1
+
+- Zscaler Private Access (ZPA) provides policy-based, secure access to private applications and assets without the cost, complexity, or security risks of a VPN.
+- The idea of making the internal applications “dark” to unauthorized users has gained momentum since the introduction of software-defined network (SDN).
+- The zero trust model approach makes your services invisible, and both apps and users need to be authorized using SAML before user access is established.
+
+Paragraph 2
+
+- “We were able to implement a zero trust model, or what I call Blackcloud (SDP),” said Mr.
+- Fergusson.
+- “We have implemented our solution so as to reduce our attack surface, and replaced traditional approaches with this modern, secure, cloud-first implementation.
+- We also have granular control over user permissions, with each employee and contractor getting access to only what they need to have access to.” With ZPA, contractor access is segmented by application, not network.
+
+Paragraph 3
+
+- This approach also prevents the ability for malicious software to move laterally.
+- It ensures that access is initiated only by a client to a server, and never the other way around.
+- Combining these two paradigms prevents malicious lateral movement by validating all sessions before access is granted.
+- Thus greater security is achieved by assuming a zero trust model, and enforcing policy based on user authentication, authorization, and known and unknown applications.
+
+### quotes
+
+Quot 1
+
+quote:
+We were able to implement a zero trust model, or what I call Blackcloud (SDP). We have implemented our solution so as to reduce our attack surface, and replaced traditional approaches with this modern, secure, cloud-first implementation. We also have granular control over user permissions, with each employee and contractor getting access to only what they need to have access to.
+
+#### speaker
+
+name:
+Mr.
+
+title:
+
+
+company:
+MAN Energy Solutions
+
+Quot 2
+
+quote:
+We continued to see more companies successfully implementing global scale use cases to the cloud.
+
+#### speaker
+
+name:
+Tony Fergusson
+
+title:
+IT Infrastructure Architect
+
+company:
+MAN Energy Solutions
+
+Section 4
+
+id:
+a-modern-approach-to-connecting-users-on-a-global-scale
+
+title:
+A Modern Approach to Connecting Users on a Global Scale
+
+### paragraphs
+
+Paragraph 1
+
+- There were a number of business drivers that required a faster, more secure way of connecting end users to their apps, including the migration of internal business apps and development projects to the cloud, increased adoption of cloud services, and the need to roll out access to a growing set of globally distributed employees and partners.
+- While this provides increased business flexibility and agility, if they were to continue to rely on traditional VPN approaches it would increase the burden on both IT and network resources.
+
+Paragraph 2
+
+- The Zscaler cloud provides an elegant and powerful alternative.
+- It removed the need for traditional hardware and software security stacks for remote access, eliminates the need for end users to use a VPN client and remote access heuristics when traveling, and it provides an alternative path for traffic.
+- This reduces the need for MPLS tunnels for internet-based connectivity.
+
+### quotes
+
+Quot 1
+
+quote:
+We can deploy new VPCs, and create new namespaces, within minutes.
+
+#### speaker
+
+name:
+Tony Fergusson
+
+title:
+IT Infrastructure Architect
+
+company:
+MAN Energy Solutions
+
+Section 5
+
+id:
+gaining-speed-agility-and-performance
+
+title:
+Gaining Speed, Agility, and Performance
+
+### paragraphs
+
+Paragraph 1
+
+- MAN Energy Solutions improved the end user experience while reducing complexity and costs.
+- End users now have a completely seamless, cloud-like experience when accessing internal applications, regardless of whether the application is running in the datacenter or cloud.
+- Users are taken directly to applications, via the global Zscaler cloud, completely bypassing traditional remote access choke points.
+
+Paragraph 2
+
+- This provides complete flexibility of where applications are hosted, and protects sensitive data with a TLS-based encrypted microtunnel connection.
+- Users are never placed on the network, applications are never exposed to unauthorized users and cloud reduces complexity typically introduced by traditional solutions.
+
+Paragraph 3
+
+- Double-digit percentage reduction in costs were realized by eliminating VPN infrastructure and software licensing.
+- Furthermore, network performance was improved by utilizing bandwidth controls to prioritize mission-critical traffic over lower priority traffic, such as web browsing.
+
+Paragraph 4
+
+- One of the main technical benefits is that their team was able to reduce their attack surface and secure all administration into AWS and Azure.
+- MAN utilizes ZPA’s logging and analytics cluster for log streaming to their SIEM for increased visibility into user access and activity.
+
+Paragraph 5
+
+- “We can deploy new VPCs, and create new namespaces, within minutes.
+- The big advantage for us is using namespace routing, so we can control traffic based on namespace, not IP.
+- This allows us to create meaningful policies.
+- We can decrease network cost and complexity.
+- Our consultant onboarding process is much faster.
+- We can now onboard within hours, rather than weeks,” said Mr.
+- Fergusson.
+
+### quotes
+
+Quot 1
+
+quote:
+We can deploy new VPCs, and create new namespaces, within minutes. The big advantage for us is using namespace routing, so we can control traffic based on namespace, not IP. This allows us to create meaningful policies. We can decrease network cost and complexity. Our consultant onboarding process is much faster. We can now onboard within hours, rather than weeks.
+
+#### speaker
+
+name:
+Mr.
+
+title:
+
+
+company:
+MAN Energy Solutions
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 2
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 3
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 3
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+21981
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how MAN Energy Solutions MAN Energy Solutions Makes Zero Trust Possible with with Zscaler Private Access.
+
+og_title:
+MAN Energy Solutions Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/man-energy-solutions

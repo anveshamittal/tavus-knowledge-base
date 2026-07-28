@@ -1,0 +1,501 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/trimedx
+
+slug:
+trimedx
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:56:49.308660Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+TRIMEDX Eliminates VPN to Secure Remote Workstations
+
+subtitle:
+with the Zscaler Zero Trust Exchange
+
+customer_name:
+TRIMEDX
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Standardize security, mitigate risk, and manage remote workstations throughout the US without the shortcomings of a VPN
+
+## results
+
+- Reduces risk by ensuring machines are consistently managed
+- Replaces VPN and secures remote workstations
+- Deploys quickly and easily—POC in half an hour
+- Takes an outside-in zero trust approach
+
+====================================================
+# customer_snapshot
+
+title:
+TRIMEDX
+
+description:
+TRIMEDX delivers clinical engineering services, clinical asset informatics, and medical device cybersecurity, helping healthcare providers transform clinical assets into strategic tools, reduce costs, maximize resources for patient care, and deliver improved safety and protection.
+
+industry:
+Services
+
+headquarters:
+Indianapolis, Indiana, USA
+
+size:
+2,000+ employees in the US
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/b0ku2yrxps
+
+provider:
+wistia
+
+video_id:
+b0ku2yrxps
+
+title:
+TriMedX | Using SDP as an alternative to VPN
+
+description:
+TriMedX, a Healthcare Technology Management organization, needed a way to secure and manage their remote workstations located all across the country.  Looking to standardize security and mitigate risk for these remote workstations, TriMedX found ZPA, resulting in the elimination of their VPN and enabling a zero trust security strategy. 
+
+duration_seconds:
+185.936
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/6637991422bb9e5ce995f725e34467f73da387e7.bin
+
+### transcript
+
+language:
+eng
+
+#### sentences
+
+1.
+My name is Steve Bock, information security manager at TriNet X Holdings LLC.
+
+2.
+Triemon X is a technology services company that basically does clinical engineering and clinical asset management for a host of hospitals all the country and and in the Cayman Islands as well.
+
+3.
+But we have a very unique solution in that, you know, we have remote workstations all over the country, and they don't need our incumbent VPN in order to do any type of their day to day job.
+
+4.
+So we reached out to one of our resellers and said, Hey, we here's our specific problem what solutions do we have when we looked at some other solutions, but at the end of the day, ZSCAR private access was perfect for what we needed it to do.
+
+5.
+The initial use case was risk mitigation and, like, at active directory in our remote workstation management application from a reducing the risk by ensuring that our machines are consistently managed through group policies, but also making sure that they the latest patches applied when we approve them.
+
+6.
+So if the workstations are out there, they can't get to the remote workstation management application, then they're not gonna get the patches that we've approved.
+
+7.
+So zero trust in me is you basically just the the, assume the devices on a compromised network and you don't trust anything around it.
+
+8.
+So we kind of take that approach with our remote work because these are on guest networks and hospitals where you could have somebody with a rooted phone or a compromised, you know, a laptop or somebody if somebody that's visiting the it'll.
+
+9.
+So the outside in approach is perfect for us in that standpoint of with the connectors and the workstation, then it kinda meet in the middle.
+
+10.
+Our workstation on networks.
+
+11.
+We don't control, and we don't wanna poke a bunch of holes in the firewall.
+
+12.
+I think the biggest thing to me that was the eye opener that really told us this was a solution for us when we did POC, and we had, like, just a handful of techs that, at at remote sites that we knew were not checking in with our remote management, workstation management solution.
+
+13.
+And we installed D scale and did a GP update, forced a GP update, and immediately, the user was prompted to change their password, you know, like, that's it.
+
+14.
+That's exactly what we need because that is the gap.
+
+15.
+It's one of the main gaps that we had was the fact that users weren't prompted to change their password.
+
+16.
+So when we did that, we had the user reboot, and they were prompted at the pre boot authentication with the whole disc encryption And the password went through, the service desk manager was like, whoa.
+
+17.
+That was like way easier than it needed.
+
+18.
+It's like, yeah, exactly.
+
+19.
+They basically sold it right there.
+
+20.
+It was one of those things of where you have that aha moment where it was the solution, that was when we had that sitting in the conference room in Indianapolis.
+
+21.
+It was like, okay, this is exactly what we need.
+
+22.
+The solution is perfect.
+
+23.
+I mean, I don't think there's anybody placed in the same space, and it couldn't be a I mean, it would it's so easy to deploy with the connectors.
+
+24.
+I mean, we again, we did the POC, and we had the we literally spend a half an hour probably sending up the connectors, setting it up, setting up our first application stolen the app when we were done.
+
+25.
+I mean, literally a half an hour to do a POC is pretty impressive in like said, get the immediate benefit of seeing that happen is it was it was mind blowing and it was just open your eyes and say, this is the solution we need.
+
+26.
+And at that point, It was an easy sell.
+
+27.
+So it's one of those things that if for a specific VPN replacement or if you have a lot of remote workstations, the this is the perfect solution and it it just it's simple, and it's easy to manage, and it just works.
+
+28.
+And that's that's what I like.
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+Steve Bonek (Information Security Manager, TRIMEDX)
+
+tag:
+self_introduction
+
+topic:
+Introduction and company background
+
+text:
+My name is Steve Bock, information security manager at TriNet X Holdings LLC. Triemon X is a technology services company that basically does clinical engineering and clinical asset management for a host of hospitals all the country and and in the Cayman Islands as well.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+Steve Bonek (Information Security Manager, TRIMEDX)
+
+tag:
+challenges
+
+topic:
+Remote workstations and VPN issues
+
+text:
+But we have a very unique solution in that, you know, we have remote workstations all over the country, and they don't need our incumbent VPN in order to do any type of their day to day job.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+Steve Bonek (Information Security Manager, TRIMEDX)
+
+tag:
+products_and_solutions
+
+topic:
+Choosing Zscaler Private Access
+
+text:
+So we reached out to one of our resellers and said, Hey, we here's our specific problem what solutions do we have when we looked at some other solutions, but at the end of the day, ZSCAR private access was perfect for what we needed it to do.
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+Steve Bonek (Information Security Manager, TRIMEDX)
+
+tag:
+challenges
+
+topic:
+Risk mitigation and patch management
+
+text:
+The initial use case was risk mitigation and, like, at active directory in our remote workstation management application from a reducing the risk by ensuring that our machines are consistently managed through group policies, but also making sure that they the latest patches applied when we approve them. So if the workstations are out there, they can't get to the remote workstation management application, then they're not gonna get the patches that we've approved.
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+Steve Bonek (Information Security Manager, TRIMEDX)
+
+tag:
+challenges
+
+topic:
+Zero trust and compromised networks
+
+text:
+So zero trust in me is you basically just the the, assume the devices on a compromised network and you don't trust anything around it. So we kind of take that approach with our remote work because these are on guest networks and hospitals where you could have somebody with a rooted phone or a compromised, you know, a laptop or somebody if somebody that's visiting the it'll.
+
+Segment 6
+
+segment_id:
+6
+
+speaker:
+Steve Bonek (Information Security Manager, TRIMEDX)
+
+tag:
+products_and_solutions
+
+topic:
+Zscaler connectors and firewalls
+
+text:
+So the outside in approach is perfect for us in that standpoint of with the connectors and the workstation, then it kinda meet in the middle. Our workstation on networks. We don't control, and we don't wanna poke a bunch of holes in the firewall.
+
+Segment 7
+
+segment_id:
+7
+
+speaker:
+Steve Bonek (Information Security Manager, TRIMEDX)
+
+tag:
+metrics_and_results
+
+topic:
+POC success and password updates
+
+text:
+I think the biggest thing to me that was the eye opener that really told us this was a solution for us when we did POC, and we had, like, just a handful of techs that, at at remote sites that we knew were not checking in with our remote management, workstation management solution. And we installed D scale and did a GP update, forced a GP update, and immediately, the user was prompted to change their password, you know, like, that's it. That's exactly what we need because that is the gap. It's one of the main gaps that we had was the fact that users weren't prompted to change their password.
+
+Segment 8
+
+segment_id:
+8
+
+speaker:
+Steve Bonek (Information Security Manager, TRIMEDX)
+
+tag:
+metrics_and_results
+
+topic:
+Improved user experience with Zscaler
+
+text:
+So when we did that, we had the user reboot, and they were prompted at the pre boot authentication with the whole disc encryption And the password went through, the service desk manager was like, whoa. That was like way easier than it needed. It's like, yeah, exactly. They basically sold it right there.
+
+Segment 9
+
+segment_id:
+9
+
+speaker:
+Steve Bonek (Information Security Manager, TRIMEDX)
+
+tag:
+quote
+
+topic:
+Aha moment with Zscaler
+
+text:
+It was one of those things of where you have that aha moment where it was the solution, that was when we had that sitting in the conference room in Indianapolis. It was like, okay, this is exactly what we need. The solution is perfect. I mean, I don't think there's anybody placed in the same space, and it couldn't be a I mean, it would it's so easy to deploy with the connectors.
+
+Segment 10
+
+segment_id:
+10
+
+speaker:
+Steve Bonek (Information Security Manager, TRIMEDX)
+
+tag:
+metrics_and_results
+
+topic:
+Fast POC deployment
+
+text:
+I mean, we again, we did the POC, and we had the we literally spend a half an hour probably sending up the connectors, setting it up, setting up our first application stolen the app when we were done. I mean, literally a half an hour to do a POC is pretty impressive in like said, get the immediate benefit of seeing that happen is it was it was mind blowing and it was just open your eyes and say, this is the solution we need.
+
+Segment 11
+
+segment_id:
+11
+
+speaker:
+Steve Bonek (Information Security Manager, TRIMEDX)
+
+tag:
+general_discussion
+
+topic:
+Closing thoughts on Zscaler
+
+text:
+And at that point, It was an easy sell. So it's one of those things that if for a specific VPN replacement or if you have a lot of remote workstations, the this is the perfect solution and it it just it's simple, and it's easy to manage, and it just works. And that's that's what I like.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+35606208
+
+created_at:
+1533168043
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+We looked at some other solutions, but at the end of the day, Zscaler Private Access was perfect for what we needed it to do.
+
+## speaker
+
+name:
+Steve Bonek
+
+title:
+Information Security Manager
+
+company:
+TRIMEDX
+
+====================================================
+# customer_case_study
+
+title:
+null
+
+sections:
+[]
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+27346
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how TRIMEDX TRIMEDX Eliminates VPN to Secure Remote Workstations with with the Zscaler Zero Trust Exchange.
+
+og_title:
+TRIMEDX Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/trimedx

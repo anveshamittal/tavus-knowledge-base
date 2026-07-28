@@ -1,0 +1,801 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/university-south-carolina
+
+slug:
+university-south-carolina
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:56:55.820649Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+The University of South Carolina Achieves CMMC Compliance
+
+subtitle:
+with the Zscaler Zero Trust Exchange
+
+customer_name:
+University of South Carolina
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Create a secure, compliant research enclave for government-funded projects involving sensitive data and CMMC requirements
+
+## results
+
+- Enables a secure and scalable self-contained environment for government research projects
+- Meets DoW CMMC security service edge compliance requirements
+- Applies dynamic, consistent, and transparent security, regardless of where users work
+- Reduces vulnerabilities introduced by user error by decreasing the attack surface
+- Provides an agile and scalable platform for growth and future collaboration
+
+====================================================
+# customer_snapshot
+
+title:
+University of South Carolina
+
+description:
+The University of South Carolina, College of Engineering and Computing, is located in Columbia, South Carolina and offers 47 programs of study in 18 disciplines. The college is committed to research-driven innovation that supports top industries and government agencies, including the DoW.
+
+industry:
+Education
+
+headquarters:
+Columbia, South Carolina, USA
+
+size:
+300+ faculty and staff and 3,500+ students
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+The Zero Trust Exchange ticked all the boxes. It provides us with a cloud platform that performs content filtering to help prevent exfiltration of highly sensitive data. It works outside of the traditional on-premises environment and accommodates remote users.
+
+## speaker
+
+name:
+Marshall Hollis
+
+title:
+Systems Architect
+
+company:
+University of South Carolina
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+a-strategy-for-building-a-secure-research-environment
+
+title:
+A strategy for building a secure research environment
+
+### paragraphs
+
+Paragraph 1
+
+- Spanning eight buildings across the University of South Carolina campus, the College of Engineering and Computing is the primary partner for the university’s Research Computing department and the chief architect of the Carolina Enclave for Secure Research (CESR).
+- Just prior to the COVID-19 pandemic, the college launched the Carolina Enclave for Secure Research to provide its more than 50 researchers and faculty members with a self-contained environment where they could access sensitive resources for Department of War (DoW) projects.
+
+Paragraph 2
+
+- When Research Computing first approached the college and suggested a partnership, it made sense economically to set up a scalable and flexible environment that could easily be extended to any department at the university with similar needs.
+
+Paragraph 3
+
+- The College of Engineering and Computing saw a 170% increase in federal funding between 2016 and 2022, driven largely by federal agencies and industry partners.
+- In 2022, the college received more than $55 million in research funding for projects that address national security and resilience.
+- Partners include the Department of Energy, the Naval Information Warfare Center Atlantic, the Office of Naval Research, NASA, Air Force Research Labs, Army Research Labs, and the Applied Research Laboratory for Information and Security.
+
+Paragraph 4
+
+- Tasked with building the Carolina Enclave for Secure Research from the ground up, the small team, consisting of Systems Architect Marshall Hollis and Director of IT Services Ronni Wilkinson, had specific requirements: a simple setup with no on-premises equipment to maintain or support, robust content filtering, and the ability to accommodate remote users.
+
+Paragraph 5
+
+- Most solutions Wilkinson and Hollis evaluated fell short, as they required on-premises hardware, didn’t scale well, and weren’t certified for use in federal projects.
+- However, the unified, cloud native Zscaler Zero Trust Exchange platform fit the bill for this greenfield deployment.
+- The College of Engineering and Computing decided to deploy Zscaler for simplified CMMC, DFARS, and other federal compliance initiatives to win more government-funded research grants.
+
+Paragraph 6
+
+- “The Zscaler Zero Trust Exchange checked all the boxes.
+- It provides us with a cloud platform that performs content filtering to help prevent exfiltration of highly sensitive data.
+- It works outside of the traditional on-premises environment and accommodates remote users.
+- And it allows us to install agents on all devices, which makes it seamless for users to access what they need while enforcing policy and simplifying management,” said Hollis.
+
+### quotes
+
+Quot 1
+
+quote:
+The Zscaler Zero Trust Exchange checked all the boxes. It provides us with a cloud platform that performs content filtering to help prevent exfiltration of highly sensitive data. It works outside of the traditional on-premises environment and accommodates remote users. And it allows us to install agents on all devices, which makes it seamless for users to access what they need while enforcing policy and simplifying management.
+
+#### speaker
+
+name:
+Hollis
+
+title:
+
+
+company:
+University of South Carolina
+
+Section 2
+
+id:
+how-the-pandemic-moved-the-needle-on-requirements
+
+title:
+How the pandemic moved the needle on requirements
+
+### paragraphs
+
+Paragraph 1
+
+- Before the pandemic, the college had simple requirements for the Enclave for Secure Research: faculty and researchers needed a secure way to edit sensitive DoW-related documents and collect data.
+- However, the team discovered that accessing internal applications and data through the university’s VPN wasn’t an option because the encryption didn’t meet compliance standards.
+- Additionally, with the sudden pivot to work from home during the pandemic, the college had to find a way to enable those working on DoW projects to safely browse the web, use collaborative SaaS tools like Microsoft Teams and Microsoft 365, and access key applications.
+
+Paragraph 2
+
+- This spurred interest in the Zero Trust Exchange, which Hollis had piloted in a previous job.
+
+Paragraph 3
+
+- “The Zero Trust Exchange emerged as the right solution for us.
+- Zscaler Internet Access gives our users secure, direct-to-cloud access to the internet and SaaS applications.
+- And Zscaler Private Access serves as our VPN replacement in this environment and meets government compliance standards for content filtering.
+- These factors cemented our decision to go with Zscaler,” said Wilkinson.
+
+### quotes
+
+Quot 1
+
+quote:
+The Zero Trust Exchange emerged as the right solution for us. Zscaler Internet Access gives our users secure, direct-to-cloud access to the internet and SaaS applications. And Zscaler Private Access serves as our VPN replacement in this environment and meets government compliance standards for content filtering. These factors cemented our decision to go with Zscaler.
+
+#### speaker
+
+name:
+Wilkinson
+
+title:
+
+
+company:
+University of South Carolina
+
+Section 3
+
+id:
+content-and-data-controls-from-anywhere
+
+title:
+Content and data controls from anywhere
+
+### paragraphs
+
+Paragraph 1
+
+- Content filtering is a number one security priority for the Enclave for Secure Research.
+- As Hollis pointed out, “Because we are dealing with sensitive government data in a secure environment, we have to limit where users can go.
+- For example, we need to block users from personal email accounts in third-party mail services and file-hosting services because they are an easy vector for exfiltrating data by attackers.
+- Prior to Zscaler, we did not have a solution in place for that.”
+
+Paragraph 2
+
+- In the early stages of developing the enclave, the team wasn’t planning to provide internet access at all, but that proved impractical.
+- Now, with Zscaler Internet Access (ZIA), users can navigate approved online resources.
+- ZIA has multiple controls in place to ensure the safety and integrity of sensitive data.
+- It includes URL filtering to block users from accessing certain websites or categories of sites.
+- Sandboxing and file control block file download/upload to applications based on certain restrictions.
+- Inline forward proxy and TLS/SSL inspection capabilities prevent sensitive information from flowing to risky websites or cloud apps in real time.
+
+Paragraph 3
+
+- “Zscaler gives us truly comprehensive security and content filtering capabilities—so we can unify zero trust for all our users with a single platform.
+- At the same time, we have a lot of flexibility,” said Wilkinson.
+- “With the way Zscaler content filtering works, if there is a blocked site that a researcher needs to access, we can go in and make an exception and allow access in a couple of minutes.
+- Zscaler has enabled us to provide an environment that is easy for users to access and enables them to get their work done in a secure way.”
+
+### quotes
+
+Quot 1
+
+quote:
+Because we are dealing with sensitive government data in a secure environment, we have to limit where users can go. For example, we need to block users from personal email accounts in third-party mail services and file-hosting services because they are an easy vector for exfiltrating data by attackers. Prior to Zscaler, we did not have a solution in place for that.
+
+#### speaker
+
+name:
+Hollis
+
+title:
+
+
+company:
+University of South Carolina
+
+Quot 2
+
+quote:
+Zscaler gives us truly comprehensive security and content filtering capabilities—so we can unify zero trust for all our users with a single platform. At the same time, we have a lot of flexibility. With the way Zscaler content filtering works, if there is a blocked site that a researcher needs to access, we can go in and make an exception and allow access in a couple of minutes. Zscaler has enabled us to provide an environment that is easy for users to access and enables them to get their work done in a secure way.
+
+#### speaker
+
+name:
+Wilkinson
+
+title:
+
+
+company:
+University of South Carolina
+
+Section 4
+
+id:
+enhancing-user-experience-anywhere-and-on-any-device
+
+title:
+Enhancing user experience anywhere and on any device
+
+### paragraphs
+
+Paragraph 1
+
+- Post-pandemic, Carolina Enclave for Secure Research users need flexibility.
+- While a small handful are 100% remote, many researchers work out of different locations: onsite at a college lab or office, at home, or on the road when they travel to conferences, taking CMMC machines with them.
+- In all scenarios, the team reports, it’s been a seamless experience.
+
+Paragraph 2
+
+- As Wilkinson pointed out, Zscaler enables simplified sign-on and two-factor requirements.
+- If a user has logged into Zscaler and already gone through the multifactor authentication (MFA) process on that network, they don’t have to repeat the steps in other areas of the environment.
+- Zscaler serves as a secure gateway for certain resources or devices, such as IoT-enabled microscopes or similar devices that cannot use MFA.
+
+Paragraph 3
+
+- “This goes back to reducing complexity for users—and they are very happy with that.
+- One of the things they dislike most is doing two-factor authentication for multiple systems.
+- Since Zscaler eliminates this issue, users are more productive,” Wilkinson added.
+- “That’s the beauty of zero trust.
+- Once you’re past the barrier, you’re known to be authenticated.
+
+Paragraph 4
+
+- Zscaler allows the Carolina Enclave for Secure Research to be more flexible and usable, which enables the team to more rapidly bring in researchers and provide them with the resources they need.
+- This not only improves the user experience, but also lightens the management burden.
+
+Paragraph 5
+
+- “Previously, the environment was very locked down.
+- It used to take several weeks to onboard a user—now, with Zscaler, it takes just a couple of days.
+- When the user signs in with a research-approved device, Microsoft Intune deploys the Zscaler agent, and that agent is always there when they log in, so they are already in compliance.
+- The installation of the agent is completely automated and hands-off,” said Hollis.
+
+Paragraph 6
+
+- The team has also started to use Zscaler Digital Experience (ZDX), part of the Zscaler Zero Trust Exchange platform, to monitor and measure end-to-end user experience.
+- They are already gaining insights into and correlating campus-level networking and cloud access issues so they can proactively inform users and fix problems.
+- Wilkinson and Hollis have demonstrated the product to the university’s central networking team and believe it can be of great value for the entire campus IT environment.
+
+### quotes
+
+Quot 1
+
+quote:
+This goes back to reducing complexity for users—and they are very happy with that. One of the things they dislike most is doing two-factor authentication for multiple systems. Since Zscaler eliminates this issue, users are more productive.
+
+#### speaker
+
+name:
+Wilkinson
+
+title:
+
+
+company:
+University of South Carolina
+
+Quot 2
+
+quote:
+Previously, the environment was very locked down. It used to take several weeks to onboard a user—now, with Zscaler, it takes just a couple of days. When the user signs in with a research-approved device, Microsoft Intune deploys the Zscaler agent, and that agent is always there when they log in, so they are already in compliance. The installation of the agent is completely automated and hands-off.
+
+#### speaker
+
+name:
+Hollis
+
+title:
+
+
+company:
+University of South Carolina
+
+Quot 3
+
+quote:
+Zscaler gives us truly comprehensive security and data protection capabilities—so we can unify zero trust for all our users...
+
+#### speaker
+
+name:
+Ronni Wilkinson
+
+title:
+Director of IT Services
+
+company:
+University of South Carolina
+
+Section 5
+
+id:
+compliance-made-easier-with-zscaler
+
+title:
+Compliance made easier with Zscaler
+
+### paragraphs
+
+Paragraph 1
+
+- A must-have for the Carolina Enclave for Secure Research is alignment with Cybersecurity Maturity Model Certification (CMMC), the DoW’s framework to protect sensitive unclassified information.
+- CMMC is designed to subject DoW contractors to third-party cybersecurity assessments and provide assurance that these contractors have adequate protection against cyberthreats, including advanced persistent threats (APTs), which could result in sensitive defense information falling into the hands of US adversaries.
+- CMMC has more than 100 required controls.
+
+Paragraph 2
+
+- “The Zero Trust Exchange meets all major security service edge [SSE] requirements in the areas of encryption, secure access through multifactor authentication and single sign-on, and remote work.
+- It enables us to be compliant and provides us with both the reassurance that sensitive government data is secure when users are accessing it and that CESR has the necessary controls to prevent unauthorized access to that data or our internal applications,” said Hollis.
+
+Paragraph 3
+
+- Zscaler solutions are also authorized by the Federal Risk and Authorization Management Program (FedRAMP) and for DoW IL5, which enables management of sensitive Controlled Unclassified Information (CUI) and unclassified National Security Systems (NSSs) for government agencies and contractors.
+
+Paragraph 4
+
+- With CMMC 2.0 now published and soon to be codified, Wilkinson says that compliance with new requirements should be straightforward: “On the technical side, Zscaler makes us feel more confident.”
+
+### quotes
+
+Quot 1
+
+quote:
+The Zero Trust Exchange meets all major security service edge [SSE] requirements in the areas of encryption, secure access through multifactor authentication and single sign-on, and remote work. It enables us to be compliant and provides us with both the reassurance that sensitive government data is secure when users are accessing it and that CESR has the necessary controls to prevent unauthorized access to that data or our internal applications.
+
+#### speaker
+
+name:
+Hollis
+
+title:
+
+
+company:
+University of South Carolina
+
+Quot 2
+
+quote:
+On the technical side, Zscaler makes us feel more confident.
+
+#### speaker
+
+name:
+Wilkinson
+
+title:
+
+
+company:
+University of South Carolina
+
+Section 6
+
+id:
+reducing-the-attack-surface-to-protect-valuable-data
+
+title:
+Reducing the attack surface to protect valuable data
+
+### paragraphs
+
+Paragraph 1
+
+- The Zscaler zero trust architecture, based on the principle of “never trust, always verify,” and its layered approach to preventing loss of sensitive data across the internet and cloud apps have boosted the security posture of the Enclave for Secure Research.
+
+Paragraph 2
+
+- Gaps in user training and knowledge about working in a complex environment are no longer a big problem.
+- As Hollis pointed out, “Zscaler reduces the attack surface and user errors that typically present security issues.” With Zscaler Trust Exchange in place, the environment is less likely to experience vulnerabilities due to user slip-ups.
+
+Paragraph 3
+
+- “Zscaler has helped make security boundaries for our users more definite and concrete, and the beauty of it is that they’re not even aware of that.
+- They just open up the laptop and start working.
+- Security is transparent,” said Wilkinson.
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler reduces the attack surface and user errors that typically present security issues.
+
+#### speaker
+
+name:
+Hollis
+
+title:
+
+
+company:
+University of South Carolina
+
+Quot 2
+
+quote:
+Zscaler has helped make security boundaries for our users more definite and concrete, and the beauty of it is that they’re not even aware of that. They just open up the laptop and start working. Security is transparent.
+
+#### speaker
+
+name:
+Wilkinson
+
+title:
+
+
+company:
+University of South Carolina
+
+Quot 3
+
+quote:
+Zscaler reduces the attack surface and user errors that typically present security issues.
+
+#### speaker
+
+name:
+Marshall Hollis
+
+title:
+Systems Architect
+
+company:
+University of South Carolina
+
+Section 7
+
+id:
+simple-and-swift-implementation-and-integrations
+
+title:
+Simple and swift implementation and integrations
+
+### paragraphs
+
+Paragraph 1
+
+- After the team spent an afternoon walking through Zscaler, deployment was seamless and fast—it took a matter of weeks.
+
+Paragraph 2
+
+- The deployment process also included integrating Zscaler with Microsoft Azure Active Directory for SSO capabilities for users.
+- Hollis pointed out the minimal effort involved: simply clicking a button in Azure Active Directory.
+- Through native integration with Azure Active Directory, users are automatically authenticated whenever they send traffic through the Zscaler cloud or access private applications.
+
+Paragraph 3
+
+- To install agents on user devices, the team deployed the Zscaler Client Connector to Microsoft Intune, a cloud-based service for mobile device management (MDM) and mobile application management (MAM).
+- Hollis described the process as “super quick and easy.” Thanks to the interoperability between Zscaler and Microsoft, users don’t have to use additional login portals or remember extra passwords to use the Enclave for Secure Research.
+
+### quotes
+
+Quot 1
+
+quote:
+super quick and easy.
+
+#### speaker
+
+name:
+Hollis
+
+title:
+
+
+company:
+University of South Carolina
+
+Section 8
+
+id:
+facilitating-collaboration-and-secure-research-for-other-departments
+
+title:
+Facilitating collaboration and secure research for other departments
+
+### paragraphs
+
+Paragraph 1
+
+- Both Hollis and Wilkinson acknowledge that the Enclave for Secure Research can now be easily extended to provide opportunities for the college’s researchers to collaborate with other departments and with third parties outside the university, such as federal agencies or government contractors, as the need arises.
+- Additionally, other departments not directly collaborating with the college on government projects can be onboarded into the platform to facilitate their own secure research.
+
+Paragraph 2
+
+- “If outside users are brought in, they can be assigned Azure Active Directory accounts and then provided a limited scope of collaboration if they need access to a specific user or resources.
+- With VPN, it would be more complicated and would involve setting up firewall rules and other time-consuming processes,” said Hollis.
+- “In our case, all we have to do is create an account and give an individual access to a particular application, which will provide a seamless user experience.
+- We can easily facilitate that level of interaction.”
+
+Paragraph 3
+
+- The Zero Trust Exchange, and especially Zscaler Private Access, enables anytime, anywhere access to internal resources for secure projects via policy.
+- No matter where someone is on campus or in the world, they have the exact same experience and can interact with the same set of resources.
+- Once the team defines policy for a particular research group, that policy works the same for all users.
+
+Paragraph 4
+
+- “Zero trust has gotten us to that place fairly easily because you have agents on all devices.
+- It’s a secure, moving edge and is transparent to the user.
+- They don’t know and don’t need to know that the secure edge is moving with them no matter where they are, and this opens up many possibilities for expansion,” said Wilkinson.
+- “Zscaler reduces complexity both on the implementation side and on the user side.
+- Most importantly, it makes it easier for the user, so they can concentrate on the research and not on the environment.”
+
+### quotes
+
+Quot 1
+
+quote:
+If outside users are brought in, they can be assigned Azure Active Directory accounts and then provided a limited scope of collaboration if they need access to a specific user or resources. With VPN, it would be more complicated and would involve setting up firewall rules and other time-consuming processes. In our case, all we have to do is create an account and give an individual access to a particular application, which will provide a seamless user experience. We can easily facilitate that level of interaction.
+
+#### speaker
+
+name:
+Hollis
+
+title:
+
+
+company:
+University of South Carolina
+
+Quot 2
+
+quote:
+Zero trust has gotten us to that place fairly easily because you have agents on all devices. It’s a secure, moving edge and is transparent to the user. They don’t know and don’t need to know that the secure edge is moving with them no matter where they are, and this opens up many possibilities for expansion. Zscaler reduces complexity both on the implementation side and on the user side. Most importantly, it makes it easier for the user, so they can concentrate on the research and not on the environment.
+
+#### speaker
+
+name:
+Wilkinson
+
+title:
+
+
+company:
+University of South Carolina
+
+Quot 3
+
+quote:
+Zscaler reduces complexity both on the implementation side and on the user side … so they can concentrate on the research.
+
+#### speaker
+
+name:
+Ronni Wilkinson
+
+title:
+Director of IT Services
+
+company:
+University of South Carolina
+
+====================================================
+# products
+
+Product 1
+
+name:
+Sandbox
+
+url:
+https://www.zscaler.com/technology/cloud-sandbox
+
+Product 2
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 3
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 4
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 5
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 3
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 4
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+58396
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how University of South Carolina The University of South Carolina Achieves CMMC Compliance with with the Zscaler Zero Trust Exchange.
+
+og_title:
+University of South Carolina Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/university-south-carolina

@@ -1,0 +1,704 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/ciena
+
+slug:
+ciena
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:13.553583Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Ciena Secures Its Digital Transformation Journey
+
+subtitle:
+and Builds Competitive Advantage with Zscaler
+
+customer_name:
+Ciena
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Lead digital transformation and transform IT into a competitive advantage for the business
+
+## results
+
+- Secures work-from-anywhere access to internet, SaaS, and private applications
+- Cuts MPLS costs and help desk tickets by 50%
+- Reduces application latency by 20%
+- Improves user experience and doubles meeting participation
+- Quickly resolves 95% of user experience issues, up from 25%
+
+====================================================
+# customer_snapshot
+
+title:
+Ciena
+
+description:
+Ciena is a networking systems, services, and software company that delivers best-in-class networking technology through high-touch consultative relationships. The company enables its customers to optimize their existing frameworks while incorporating new technologies and ways of working.
+
+industry:
+Telecommunications
+
+headquarters:
+Hanover, Maryland, USA
+
+size:
+8,600+ employees in 35 countries
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+We have done so much strategically to embrace the cloud and mobility and prepare for the future. Our partnership with Zscaler has allowed us to start living out IT’s vision of being a competitive advantage for the business.
+
+## speaker
+
+name:
+Craig Williams
+
+title:
+CIO
+
+company:
+Ciena
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+it-as-a-competitive-advantage
+
+title:
+IT as a competitive advantage
+
+### paragraphs
+
+Paragraph 1
+
+- Pre-COVID-19 pandemic, before Zoom and Microsoft Teams became ubiquitous, Ciena CEO Gary B.
+- Smith challenged his CIO to help raise the engagement level of all employees, specifically during daily phone meetings.
+- As a result, the Ciena IT team began investigating deploying video conferencing technology.
+
+Paragraph 2
+
+- However, they quickly realized that, in addition to the increasing amount of traffic attempting to access cloud-based applications, adding video conferencing at its 70 locations around the globe would heavily tax its legacy hub-and-spoke architecture.
+- Ciena CIO Craig Williams subsequently realized that his team would need to “reimagine IT” in order to make it a competitive advantage for Ciena.
+
+Paragraph 3
+
+- “We made it a point to rethink our entire infrastructure, applications, systems, and support models to empower our growing company,” said CIO Williams.
+- “The first step of our business transformation was to hire the right talent.
+- Next, we set out to replace our WAN and put in place an aggressive plan to phase out data centers, to become a cloud-first company that embraced the work-from-anywhere culture.”
+
+### quotes
+
+Quot 1
+
+quote:
+We made it a point to rethink our entire infrastructure, applications, systems, and support models to empower our growing company. The first step of our business transformation was to hire the right talent. Next, we set out to replace our WAN and put in place an aggressive plan to phase out data centers, to become a cloud-first company that embraced the work-from-anywhere culture.
+
+#### speaker
+
+name:
+CIO
+
+title:
+
+
+company:
+Ciena
+
+Section 2
+
+id:
+transition-to-sd-wan-sets-stage-for-wfa
+
+title:
+Transition to SD-WAN sets stage for WFA
+
+### paragraphs
+
+Paragraph 1
+
+- “We knew that we would need to make some adjustments to our existing infrastructure to support the move to video,” said Henry Ku, VP, IT – Head of Infrastructure at Ciena.
+- “Specifically, we were looking for low-latency, high-value security solutions available from anywhere, anytime, on any device, that make it easy for our users to connect.”
+
+Paragraph 2
+
+- The research done by Ku and his team led them to SD-WAN technology and the joint solution of the Zscaler Zero Trust Exchange platform and VMware SD-WAN by VeloCloud.
+- By using software-defined policies to select the best path to route traffic to the internet, cloud applications, and the data center, the Zscaler-VeloCloud SD-WAN solution reduces complexity and improves performance.
+
+Paragraph 3
+
+- “When Zscaler came in, they did not just focus on the security team, they got all of us invested early on,” noted Ku.
+- “Having VeloCloud and Zscaler working closely together with us was extremely helpful.
+- Their experience made the process much smoother.
+- If we had a problem, one phone call is all it took to bring everyone together to quickly solve the issue.”
+
+### quotes
+
+Quot 1
+
+quote:
+We knew that we would need to make some adjustments to our existing infrastructure to support the move to video. Specifically, we were looking for low-latency, high-value security solutions available from anywhere, anytime, on any device, that make it easy for our users to connect.
+
+#### speaker
+
+name:
+Henry
+
+title:
+
+
+company:
+Ciena
+
+Quot 2
+
+quote:
+When Zscaler came in, they did not just focus on the security team, they got all of us invested early on. Having VeloCloud and Zscaler working closely together with us was extremely helpful. Their experience made the process much smoother. If we had a problem, one phone call is all it took to bring everyone together to quickly solve the issue.
+
+#### speaker
+
+name:
+Ku.
+
+title:
+
+
+company:
+Ciena
+
+Quot 3
+
+quote:
+After we implemented Zscaler, we saw 90%+ adoption of collaboration tools and slashed costs and support tickets by over 50%.
+
+#### speaker
+
+name:
+Craig Williams
+
+title:
+CIO
+
+company:
+Ciena
+
+Section 3
+
+id:
+reducing-latency-by-20-and-lowering-costs-by-50
+
+title:
+Reducing latency by 20% and lowering costs by 50%
+
+### paragraphs
+
+Paragraph 1
+
+- The Zscaler and VMware SD-WAN by VeloCloud allowed Ciena to secure local internet breakouts at all its global locations.
+- Removing MPLS backhauling reduced latency by 20% and provided a dramatically improved experience for the company’s employees, who are scattered across more than 35 countries.
+
+Paragraph 2
+
+- With the Zscaler-VeloCloud SD-WAN solution, Ciena was able to simplify its branch IT operations and rapidly deploy new locations and services with cloud-controlled, centralized security and WAN management.
+- Plus, because SD-WAN security is provided as a cloud-delivered service, every user in every location gets identical protection—including access control, threat prevention, native SSL inspection, and data protection.
+
+Paragraph 3
+
+- With the improved operational simplicity and reduced reliance on hardware-based solutions, Ciena saw its costs reduced by 50%.
+- “We knew that moving to the cloud would bring a host of benefits, but the cost benefit was even larger than we initially anticipated,” said Ku.
+
+### quotes
+
+Quot 1
+
+quote:
+We knew that moving to the cloud would bring a host of benefits, but the cost benefit was even larger than we initially anticipated.
+
+#### speaker
+
+name:
+Ku.
+
+title:
+
+
+company:
+Ciena
+
+Section 4
+
+id:
+extending-the-zero-trust-exchange
+
+title:
+Extending the Zero Trust Exchange
+
+### paragraphs
+
+Paragraph 1
+
+- After implementing the SD-WAN, the Ciena IT team turned its attention to leveraging further the Zscaler Zero Trust Exchange, which provides all the cloud security services of a security service edge (SSE)—secure web gateway (SWG), zero trust network access (ZTNA), and cloud access security broker (CASB), and more.
+- First, Ciena activated the Zscaler Internet Access (ZIA) and Zscaler Private Access (ZPA) services.
+
+Paragraph 2
+
+- “Previously we only had firewall protection at our corporate offices,” noted Ed DeGrange, Ciena’s Director of Cybersecurity Operations and Programs.
+- “With ZIA, every one of our endpoints across the globe has an integrated cloud firewall and all traffic is inspected, even SSL traffic, starting on day one.
+- Our on-prem solutions could not be scaled easily to support that SSL inspection.
+- Even if we had done it today, tomorrow it would have been out-of-date.”
+
+### quotes
+
+Quot 1
+
+quote:
+Previously we only had firewall protection at our corporate offices. With ZIA, every one of our endpoints across the globe has an integrated cloud firewall and all traffic is inspected, even SSL traffic, starting on day one. Our on-prem solutions could not be scaled easily to support that SSL inspection. Even if we had done it today, tomorrow it would have been out-of-date.
+
+#### speaker
+
+name:
+Ed DeGrange
+
+title:
+Ciena’s Director of Cybersecurity Operations and Programs
+
+company:
+Ciena
+
+Quot 2
+
+quote:
+ZDX is now the starting point for all user performance issues at Ciena. And we can pinpoint the root cause 95% of the time.
+
+#### speaker
+
+name:
+Ed DeGrange
+
+title:
+Director of Cybersecurity Operations and Programs
+
+company:
+Ciena
+
+Section 5
+
+id:
+empowering-work-from-anywhere-anytime-any-device
+
+title:
+Empowering work from anywhere, anytime, any device
+
+### paragraphs
+
+Paragraph 1
+
+- Already supportive of a hybrid working environment for its employees, Ciena was more prepared than most when the pandemic hit.
+- The company had just finished deploying ZPA for secure, direct access to internal applications from anywhere, whether on premises, at home, or on the road.
+- With ZPA, the IT team was able to transition easily from securing 70 offices to securing more than 6,500 employee “offices” worldwide.
+
+Paragraph 2
+
+- “ZPA works on all devices and, because the UI was easy to understand, adoption was very high,” said Williams.
+- “Now, the experience that our users have while working from home, or anywhere for that matter, is no different than if they were in one of our corporate offices.
+- As a result, our VPN infrastructure is not nearly as critical as it used to be and corporate resilience has improved significantly too.”
+
+### quotes
+
+Quot 1
+
+quote:
+ZPA works on all devices and, because the UI was easy to understand, adoption was very high. Now, the experience that our users have while working from home, or anywhere for that matter, is no different than if they were in one of our corporate offices. As a result, our VPN infrastructure is not nearly as critical as it used to be and corporate resilience has improved significantly too.
+
+#### speaker
+
+name:
+Williams
+
+title:
+
+
+company:
+Ciena
+
+Section 6
+
+id:
+okta-integration-enhances-user-experience-and-security
+
+title:
+Okta integration enhances user experience and security
+
+### paragraphs
+
+Paragraph 1
+
+- As part of its zero trust strategy, Ciena had previously deployed Okta identity and access management to authenticate users before granting access to applications.
+- After implementing ZPA, the company took advantage of the seamless integration of Okta’s solution with the Zero Trust Exchange.
+- Today, the Zscaler-Okta solution authenticates over 10,000 employee, contractor, and third-party identities and their respective devices before allowing access to more than 500 applications.
+
+Paragraph 2
+
+- “The Zscaler-Okta integration not only helps us secure users, but also helps them have a better user experience,” said Michael Powers, Ciena Director of Identity Management Systems.
+- “Monday morning, I log into my machine, Zscaler verifies me and sends me directly to the Okta single sign-on page for reauthentication.
+- A few clicks and I'm in for the week.”
+
+Paragraph 3
+
+- “Okta with single sign-on replaced the huge hassle and security risk associated with having tons of passwords,” Powers continued.
+- “The addition of Zscaler Private Access made things even easier for users, plus now we’re double protected.”
+
+### quotes
+
+Quot 1
+
+quote:
+The Zscaler-Okta integration not only helps us secure users, but also helps them have a better user experience. Monday morning, I log into my machine, Zscaler verifies me and sends me directly to the Okta single sign-on page for reauthentication. A few clicks and I'm in for the week.
+
+#### speaker
+
+name:
+Michael
+
+title:
+
+
+company:
+Ciena
+
+Quot 2
+
+quote:
+We knew that moving to the cloud would bring a host of benefits, but the cost benefit was even larger than we initially anticipated.
+
+#### speaker
+
+name:
+Henry Ku
+
+title:
+VP, IT – Head of Infrastructure
+
+company:
+Ciena
+
+Section 7
+
+id:
+faster-resolution-of-user-experience-issues
+
+title:
+Faster resolution of user experience issues
+
+### paragraphs
+
+Paragraph 1
+
+- After deploying ZIA and ZPA, Ciena rolled out the Zscaler Digital Experience (ZDX) service, which is part of the Zero Trust Exchange.
+- Ciena IT staff uses ZDX to monitor, analyze, troubleshoot, and resolve user experience issues, especially for business-critical applications, such as Okta, Microsoft 365, and internal web services.
+
+Paragraph 2
+
+- “Since deploying ZDX, we’ve quickly triaged and resolved many cryptic user issues,” said DeGrange.
+- “For example, ZDX showed us that the poor internet speeds experienced by a complaining user coincided with his MacBook repeatedly switching between sleep and wake states.
+- Updating the energy-saving setting solved the problem.
+- Or, another example, we rapidly determined that latency at our Silicon Valley offices was caused by traffic being routed through Dallas.”
+
+Paragraph 3
+
+- “ZDX is now the starting point for all user performance issues at Ciena,” continued DeGrange.
+- “And we can pinpoint the root cause 95% of the time, up from 25% previously.
+- ZDX is a critical service to allow productive work-from-anywhere experiences.”
+
+### quotes
+
+Quot 1
+
+quote:
+Since deploying ZDX, we’ve quickly triaged and resolved many cryptic user issues. For example, ZDX showed us that the poor internet speeds experienced by a complaining user coincided with his MacBook repeatedly switching between sleep and wake states. Updating the energy-saving setting solved the problem. Or, another example, we rapidly determined that latency at our Silicon Valley offices was caused by traffic being routed through Dallas.
+
+#### speaker
+
+name:
+DeGrange
+
+title:
+
+
+company:
+Ciena
+
+Quot 2
+
+quote:
+ZDX is now the starting point for all user performance issues at Ciena. And we can pinpoint the root cause 95% of the time, up from 25% previously. ZDX is a critical service to allow productive work-from-anywhere experiences.
+
+#### speaker
+
+name:
+DeGrange
+
+title:
+
+
+company:
+Ciena
+
+Section 8
+
+id:
+fulfilling-the-cio-s-vision
+
+title:
+Fulfilling the CIO’s vision
+
+### paragraphs
+
+Paragraph 1
+
+- “IT as a competitive advantage includes things like improving employee engagement, enhancing their experiences, and allowing them to work from anywhere, while also driving innovation and reducing cost,” said CIO Williams.
+- “After we implemented Zscaler, we saw 90%+ adoption of collaboration tools and slashed costs and support tickets by over 50%.
+- Plus, our IT leaders now have a foundation that allows them to be continually focused on reinventing the company.”
+
+Paragraph 2
+
+- “We have done so much strategically to embrace the cloud and mobility and prepare for the future,” continued Williams.
+- “Much of it we couldn’t have done without the investment we’ve made in Zscaler.
+- Our partnership with Zscaler has allowed us to start living out IT’s vision of being a competitive advantage for the business.”
+
+### quotes
+
+Quot 1
+
+quote:
+IT as a competitive advantage includes things like improving employee engagement, enhancing their experiences, and allowing them to work from anywhere, while also driving innovation and reducing cost. After we implemented Zscaler, we saw 90%+ adoption of collaboration tools and slashed costs and support tickets by over 50%. Plus, our IT leaders now have a foundation that allows them to be continually focused on reinventing the company.
+
+#### speaker
+
+name:
+CIO
+
+title:
+
+
+company:
+Ciena
+
+Quot 2
+
+quote:
+We have done so much strategically to embrace the cloud and mobility and prepare for the future. Much of it we couldn’t have done without the investment we’ve made in Zscaler. Our partnership with Zscaler has allowed us to start living out IT’s vision of being a competitive advantage for the business.
+
+#### speaker
+
+name:
+Williams
+
+title:
+
+
+company:
+Ciena
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zero Trust Firewall
+
+url:
+https://www.zscaler.com/resources/data-sheets/zscaler-firewall.pdf
+
+Product 2
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 3
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 4
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 5
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 3
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 4
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+36981
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Ciena Ciena Secures Its Digital Transformation Journey with and Builds Competitive Advantage with Zscaler.
+
+og_title:
+Ciena Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/ciena

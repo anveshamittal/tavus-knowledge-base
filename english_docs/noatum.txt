@@ -1,0 +1,535 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/noatum
+
+slug:
+noatum
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:55:45.393527Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Noatum implements a suite of Zscaler technology to support a variety of use cases
+
+subtitle:
+Including secure internet, SaaS, and private app access, improved cyberthreat detection, and optimized user experiences
+
+customer_name:
+Noatum
+
+## metrics
+
+Metric 1
+
+value:
+Day 1
+
+label:
+Immediate value from the platform
+
+Metric 2
+
+value:
+Zero
+
+label:
+reliance on VPNs and firewalls
+
+Metric 3
+
+value:
+360
+
+label:
+degrees of risk quantification
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Traditional VPNs left the organization too exposed to cyberattacks when users would access the internet
+- Legacy security such as firewalls left the organization unable to inspect encrypted traffic
+- Perimeter-based architectures made M&A onboarding take much longer than it should
+
+## results
+
+- Enables work-from-anywhere with confidence with secure, seamless user access
+- Minimizes user incidents and improves root cause analysis, delivering knowledge and agility
+- Improves risk evaluation as well as threat defense by hiding systems and apps from the internet
+
+====================================================
+# customer_snapshot
+
+title:
+Noatum
+
+description:
+Noatum is a leading multinational group in transport and logistics services
+
+industry:
+Transportation Services
+
+headquarters:
+Barcelona, Spain
+
+size:
+4,300+ employees
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/v7cd4qt99m
+
+provider:
+wistia
+
+video_id:
+v7cd4qt99m
+
+title:
+Zscaler x Noatum Extended Full Story
+
+description:
+a Customer Testimonials video
+
+duration_seconds:
+130.151
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/185273c2ab367f900ff242028cfe1f94.jpg
+
+### transcript
+
+language:
+spa
+
+#### sentences
+
+1.
+Renato es una empresa que se dedica especialmente a la parte de logística, gestión de puertos y aparte también de marytime.
+
+2.
+A día de hoy estamos en veintisiete países y creciendo, como se ha incrementado el mundo de los ataques de seguridad a nivel global y han aumentado los ratios de ataque que hemos recibido, ese punto nos ha hecho pensar en tecnología cero tras.
+
+3.
+Las tradicionales VPN era la problemática en cuanto a la exposición que teníamos de servicios de Internet y el riesgo en que estábamos al recibir, pues, distintos tipos de ataque constantemente y poder comprometer a la compañía.
+
+4.
+Ese punto fue realmente el catalizador de buscar una solución como Spark.
+
+5.
+A día de hoy tenemos implantada la solución FIA, el acceso seguro a Internet proxy, tenemos ZPA también para sustituir a las VPN adicionales.
+
+6.
+También el módulo de ZDX nos ha ayudado mucho para minimizar todo lo que serían incidencias de usuario y analizar concretamente dónde viene el problema.
+
+7.
+Nos ha aportado mucho conocimiento y agilidad a los departamentos de atención al cliente.
+
+8.
+Rich tres sesenta, pues, una nueva adquisición que hemos realizado para tener una visión del riesgo en cuanto a otro tipo de perspectiva, no tan técnica, sino más de negocio, en cuanto a costes, impacto de ese riesgo y transformar ese riesgo en número, en dinero.
+
+9.
+Un módulo de decepción portal es un módulo que nos ha permitido ofuscar parte de nuestros sistemas expuestos a Internet, realizando toda una infraestructura virtual para detectar posibles ataques y hacer que los hackers, pues, utilizaran esos sistemas expuestos y así aprender cómo están agregando a la infraestructura de NOATUM, ¿no?
+
+10.
+Una compañía nuestra está en una fase de expansión importante, tener una agilidad rápida a la adquisición de unas compañías implementando o continuando con la misma tecnología, ¿no?
+
+11.
+Ese es un reto importante, Zedus Garden nos facilitará mucho la vida en ese sentido, estamos en un camino de madurez y de control que antes no teníamos.
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+Josep Pou (CISO, Noatum)
+
+tag:
+self_introduction
+
+topic:
+Company overview and operations
+
+text:
+Renato es una empresa que se dedica especialmente a la parte de logística, gestión de puertos y aparte también de marytime. A día de hoy estamos en veintisiete países y creciendo.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+Josep Pou (CISO, Noatum)
+
+tag:
+challenges
+
+topic:
+Increased security attacks and VPN issues
+
+text:
+Como se ha incrementado el mundo de los ataques de seguridad a nivel global y han aumentado los ratios de ataque que hemos recibido, ese punto nos ha hecho pensar en tecnología cero tras. Las tradicionales VPN era la problemática en cuanto a la exposición que teníamos de servicios de Internet y el riesgo en que estábamos al recibir, pues, distintos tipos de ataque constantemente y poder comprometer a la compañía.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+Josep Pou (CISO, Noatum)
+
+tag:
+products_and_solutions
+
+topic:
+Implementation of Zscaler solutions
+
+text:
+Ese punto fue realmente el catalizador de buscar una solución como Spark. A día de hoy tenemos implantada la solución FIA, el acceso seguro a Internet proxy, tenemos ZPA también para sustituir a las VPN adicionales.
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+Josep Pou (CISO, Noatum)
+
+tag:
+products_and_solutions
+
+topic:
+Use of ZDX for user issue analysis
+
+text:
+También el módulo de ZDX nos ha ayudado mucho para minimizar todo lo que serían incidencias de usuario y analizar concretamente dónde viene el problema. Nos ha aportado mucho conocimiento y agilidad a los departamentos de atención al cliente.
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+Josep Pou (CISO, Noatum)
+
+tag:
+products_and_solutions
+
+topic:
+Rich 360 for risk assessment
+
+text:
+Rich tres sesenta, pues, una nueva adquisición que hemos realizado para tener una visión del riesgo en cuanto a otro tipo de perspectiva, no tan técnica, sino más de negocio, en cuanto a costes, impacto de ese riesgo y transformar ese riesgo en número, en dinero.
+
+Segment 6
+
+segment_id:
+6
+
+speaker:
+Josep Pou (CISO, Noatum)
+
+tag:
+products_and_solutions
+
+topic:
+Deception portal for attack detection
+
+text:
+Un módulo de decepción portal es un módulo que nos ha permitido ofuscar parte de nuestros sistemas expuestos a Internet, realizando toda una infraestructura virtual para detectar posibles ataques y hacer que los hackers, pues, utilizaran esos sistemas expuestos y así aprender cómo están agregando a la infraestructura de NOATUM, ¿no?
+
+Segment 7
+
+segment_id:
+7
+
+speaker:
+Josep Pou (CISO, Noatum)
+
+tag:
+challenges
+
+topic:
+Expansion and technology standardization
+
+text:
+Una compañía nuestra está en una fase de expansión importante, tener una agilidad rápida a la adquisición de unas compañías implementando o continuando con la misma tecnología, ¿no? Ese es un reto importante.
+
+Segment 8
+
+segment_id:
+8
+
+speaker:
+Josep Pou (CISO, Noatum)
+
+tag:
+quote
+
+topic:
+Zscaler facilitates growth and control
+
+text:
+Zedus Garden nos facilitará mucho la vida en ese sentido, estamos en un camino de madurez y de control que antes no teníamos.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+123893722
+
+created_at:
+1726077368
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+The traditional VPN was the problem, the exposure we had on internet services and the risk of receiving attacks constantly—this was really the catalyst for us to look for a solution like Zscaler.
+
+## speaker
+
+name:
+Josep Pou
+
+title:
+CISO
+
+company:
+Noatum
+
+Hero Quote 2
+
+quote:
+We have implemented Zscaler Internet Access (ZIA), a secure internet proxy. We also have implemented ZPA, to replace traditional VPNs.
+
+## speaker
+
+name:
+Josep Pou
+
+title:
+CISO
+
+company:
+Noatum
+
+Hero Quote 3
+
+quote:
+Zscaler Digital Experience (ZDX) has also helped us a lot to minimize user incidents and to analyze specifically where a problem comes from.
+
+## speaker
+
+name:
+Josep Pou
+
+title:
+CISO
+
+company:
+Noatum
+
+Hero Quote 4
+
+quote:
+Zscaler will make our life much easier … we are on a path of maturity and control that we did not have before.
+
+## speaker
+
+name:
+Josep Pou
+
+title:
+CISO
+
+company:
+Noatum
+
+====================================================
+# customer_case_study
+
+title:
+null
+
+sections:
+[]
+
+====================================================
+# products
+
+Product 1
+
+name:
+Deception
+
+url:
+https://www.zscaler.com/products/deception-technology
+
+Product 2
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 3
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 4
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 5
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 3
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 4
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 5
+
+name:
+Secure Remote Access
+
+url:
+https://www.zscaler.com/products-and-solutions/vpn-alternative
+
+Solution 6
+
+name:
+Accelerate M&A and Divestitures
+
+url:
+https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+83746
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Noatum Noatum implements a suite of Zscaler technology to support a variety of use cases with Including secure internet, SaaS, and private app access, improved cyberthreat detection, and optimized user experiences.
+
+og_title:
+Noatum Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/noatum

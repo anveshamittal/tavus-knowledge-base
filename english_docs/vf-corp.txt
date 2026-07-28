@@ -1,0 +1,312 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/vf-corp
+
+slug:
+vf-corp
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:57:00.294664Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+VF Corp Improves User Experiences and Threat Protection
+
+subtitle:
+With the Zscaler Zero Trust Exchange
+
+customer_name:
+VF Corp
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Provide secure access to our applications that reside in data centers, distribution centers, and public cloud
+
+## results
+
+- Delivers exceptional user experiences through a cloud-delivered approach
+- Improves threat protection with threat insights from the world’s largest security cloud
+- Reduces security appliance costs and the need for costly hardware and maintenance
+- Consolidates multiple legacy point products single cloud platform
+
+====================================================
+# customer_snapshot
+
+title:
+VF Corp
+
+description:
+VF Corporation is an American global apparel and footwear company founded in 1899 by John Barbey and headquartered in Denver, Colorado. The company's 13 brands are organized into three categories: Outdoor, Active, and Work.
+
+industry:
+Retail and Wholesale
+
+headquarters:
+Greensboro, NC, USA
+
+size:
+35,000 employees across 125+ countries
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+We’re very proud to partner with Zscaler which has extensive experience and a resilient and holistic SSE platform for enabling our secure digital transformation journey.
+
+## speaker
+
+name:
+Ken Athanasiou
+
+title:
+VP and CISO
+
+company:
+VF Corp
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+vf-corp-takes-its-first-steps-toward-transformation
+
+title:
+VF Corp takes its first steps toward transformation
+
+quotes:
+[]
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- You may not have heard of VF Corp but you certainly know our brands—Timberland, The North Face and Vans.
+- We are a global conglomerate with $12 billion in annual sales, 35,000 employees, and global operations in 60 countries.
+- Our products are sold in over 125 countries worldwide.
+
+Paragraph 2
+
+- At VF Corp, we are undergoing a massive digital transformation especially around our ecommerce environment, digitally-enabled value chain, and seamless consumer experience.
+- I have driven security and network transformation to provide secure access to our applications that reside in data centers, distribution centers, and public clouds with Zscaler’s Zero Trust platform, which is also called Security Service Edge, or SSE, for Users.
+
+Section 2
+
+id:
+the-advantage-of-prior-zscaler-experience
+
+title:
+The advantage of prior Zscaler experience
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- I started working with Zscaler 9 years ago when I was at AutoNation, the nation’s largest seller of cars, with over 300 dealerships.
+- We rolled out the Zscaler platform to transform our network from hundreds of little stacks of iron in our stores and traditional firewall and VPN-based security.
+- This helped us gain robust visibility across all our stores and corporate locations, dramatically decrease our costs, and improve protections for our associates and our consumers.
+- We also closed the digital divide between the in-dealership experience and our online experience.
+
+Paragraph 2
+
+- Zscaler has been innovating like no one else, and its Zero Trust Exchange platform goes far beyond SSE for Users.
+- Zscaler’s platform protects not just your users, but also your cloud workloads, your OT/IoT devices - like point of sales terminals and diagnostics tablets - and your business associates, suppliers, and consumers.
+
+Section 3
+
+id:
+future-forward-with-the-cloud-native-zscaler-platform
+
+title:
+Future-forward with the cloud native Zscaler platform
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- With Zscaler we were able to improve user experience for customers and employees in dealerships and at HQ, provide better threat protection, more easily bring new stores online, and reduce security appliance costs by consolidating multiple legacy point products into a single cloud native platform.
+
+Paragraph 2
+
+- We’re very proud to partner with Zscaler which has extensive experience and a resilient and holistic SSE platform for enabling our secure digital transformation journey.
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 3
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+64666
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how VF Corp VF Corp Improves User Experiences and Threat Protection with With the Zscaler Zero Trust Exchange.
+
+og_title:
+VF Corp Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/vf-corp

@@ -1,0 +1,635 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/consilio
+
+slug:
+consilio
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:55:17.042621Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Consilio Modernizes Its Architecture, Reducing Risk and Providing a Remote Access Solution Users Love
+
+subtitle:
+Zscaler provides secure, seamless private application connectivity for employees, M&A users, and third parties on unmanaged devices
+
+customer_name:
+Consilio
+
+## metrics
+
+Metric 1
+
+value:
+10x
+
+label:
+improvement in user experience scores
+
+Metric 2
+
+value:
+15
+
+label:
+minutes to setup secure agentless access for new users
+
+Metric 3
+
+value:
+50%
+
+label:
+lower TCO compared to previous VDI solution
+
+====================================================
+# summary
+
+## challenges
+
+- After a series of outages from major VPN providers, leadership mandated a transition from legacy remote access VPNs to a modern zero trust network access solution
+- Integrating M&A systems under a castle-and-moat architecture introduced operational complexity that ultimately slowed time to realize value
+- Using VDI to provide access to Consilio’s third-party review attorneys was costly, unreliable, and time-consuming for IT to maintain
+
+## phased_journey
+
+- Replaced VPNs to secure application access, choosing to expand with Zscaler after successful internet access initiative
+- Provided safe, zero trust connectivity for acquired systems and users with Zscaler Private Access and Cloud Browser Isolation
+- Switched from VDI to a cloud native, agentless approach to secure application access on review attorneys’ unmanaged devices
+
+## results
+
+- Mitigates risk with a modern zero trust architecture that minimizes the attack surface and strengthens Consilio’s overall security posture
+- Optimizes user experiences via faster, reliable connectivity and simple onboarding for employees, M&A users, and third parties
+- Reduces cost and administrative overhead through a single, multipurpose platform with one administrative interface to deploy global policy updates at the click of a button
+
+====================================================
+# customer_snapshot
+
+title:
+Consilio
+
+description:
+Consilio is a global leader in legal consulting services and technology, partnering with multinational law firms and corporations to solve complex legal challenges.
+
+industry:
+High Tech
+
+headquarters:
+Washington D.C., USA
+
+size:
+4,000+ employees, accessing from 85+ geolocations
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/rm1l3kq7el
+
+provider:
+wistia
+
+video_id:
+rm1l3kq7el
+
+title:
+Consilio ft. Jon Fowler, Duncan del Toro
+
+description:
+a Customer Testimonials video
+
+duration_seconds:
+224.608
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/997542a8244c748cf9d6766c29b2df4f.png
+
+### transcript
+
+language:
+eng
+
+#### sentences
+
+1.
+As we've grown from a million dollar company to a billion dollar company, the number and types of of risks have grown exponentially, and we've really tried to approach things in a thoughtful manner to be able to address and mitigate those risks as best possible.
+
+2.
+Concilia has over four thousand global employees.
+
+3.
+We have data centers and users across every geography.
+
+4.
+We needed to transition away from VPN after a series of events over maybe eighteen months or so where essentially every major VPN provider had some sort of zero day attack.
+
+5.
+I think what led us to Zscaler was the fact we had already rolled it out successfully internally.
+
+6.
+We rolled Zscaler Internet access out to all of our users.
+
+7.
+If you have something in house that already works, to be able to expand on an offering from that trusted known partner really makes it an easy choice for us to move forward with something like Zscaler private access as a replacement for our VPN infrastructure.
+
+8.
+One key benefit from ZPA has been the ability to have essentially micro tunnels to every data center simultaneously for our users.
+
+9.
+They can connect directly to an application.
+
+10.
+They don't have to connect to a data center and then take another hop or another two hops to get to where they need to be.
+
+11.
+And it really has paid dividends with our users.
+
+12.
+The user experiences we're hearing, everybody has been happy with this approach.
+
+13.
+One of the things Zscaler private access allowed us to do was accelerate the access that we're able to provide newly acquired companies to get into our systems.
+
+14.
+Bringing in those untrusted m and a systems has been a big challenge in the past.
+
+15.
+But being able to leverage cloud browser isolation and Zscaler private access, we've been able to bring those systems in and then also provide them safe access to the actual applications that they need to be able to do their jobs.
+
+16.
+Another ZPA win for us was our ability to replace the existing kind of virtual infrastructure that we had in place and start using Zscaler's platform to provide those services as well.
+
+17.
+So one of the challenges that we face at Concilio is being able to give access to internal resources and external resources to a group of our users, which are our review attorneys.
+
+18.
+Traditionally, that's been through the use of some sort of VDI technology.
+
+19.
+So that way that they don't have a way of taking data from the environment or adding data to the environment.
+
+20.
+We were able to leverage cloud browser isolation's EPA to do that at a much lower cost.
+
+21.
+We were able to reduce the amount of time a user required for initial setup from two hours down to about fifteen minutes per user.
+
+22.
+And also, we're able to reduce the total cost of ownership by about fifty percent.
+
+23.
+There's very low administrative overhead.
+
+24.
+You don't have to worry about the underlying technology.
+
+25.
+It just works.
+
+26.
+One of the things I'm really, really proud of on the Zscaler implementation, this is our private access implementation particularly.
+
+27.
+So So we went from having about three hundred users to onboarding our entire organization essentially in a day.
+
+28.
+And that went extremely smooth, which was pretty impressive considering we were going from a very allowing VPN style solution to a very restrictive zero trust solution.
+
+29.
+It just went swimmingly.
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+Jon Fowler (Chief Information Security Officer, Consilio)
+
+tag:
+challenges
+
+topic:
+Growth and increasing risks
+
+text:
+As we've grown from a million dollar company to a billion dollar company, the number and types of risks have grown exponentially, and we've really tried to approach things in a thoughtful manner to be able to address and mitigate those risks as best possible.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+Jon Fowler (Chief Information Security Officer, Consilio)
+
+tag:
+self_introduction
+
+topic:
+Company size and global presence
+
+text:
+Concilia has over four thousand global employees. We have data centers and users across every geography.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+Jon Fowler (Chief Information Security Officer, Consilio)
+
+tag:
+challenges
+
+topic:
+Transition away from VPN
+
+text:
+We needed to transition away from VPN after a series of events over maybe eighteen months or so where essentially every major VPN provider had some sort of zero day attack.
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+Jon Fowler (Chief Information Security Officer, Consilio)
+
+tag:
+products_and_solutions
+
+topic:
+Adopting Zscaler Internet Access
+
+text:
+I think what led us to Zscaler was the fact we had already rolled it out successfully internally. We rolled Zscaler Internet access out to all of our users. If you have something in house that already works, to be able to expand on an offering from that trusted known partner really makes it an easy choice for us to move forward with something like Zscaler private access as a replacement for our VPN infrastructure.
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+Jon Fowler (Chief Information Security Officer, Consilio)
+
+tag:
+products_and_solutions
+
+topic:
+Micro tunnels with ZPA
+
+text:
+One key benefit from ZPA has been the ability to have essentially micro tunnels to every data center simultaneously for our users. They can connect directly to an application. They don't have to connect to a data center and then take another hop or another two hops to get to where they need to be.
+
+Segment 6
+
+segment_id:
+6
+
+speaker:
+Jon Fowler (Chief Information Security Officer, Consilio)
+
+tag:
+metrics_and_results
+
+topic:
+Improved user experience
+
+text:
+And it really has paid dividends with our users. The user experiences we're hearing, everybody has been happy with this approach.
+
+Segment 7
+
+segment_id:
+7
+
+speaker:
+Duncan del Toro (Director, Consilio)
+
+tag:
+products_and_solutions
+
+topic:
+Accelerating M&A access with ZPA
+
+text:
+One of the things Zscaler private access allowed us to do was accelerate the access that we're able to provide newly acquired companies to get into our systems. Bringing in those untrusted m and a systems has been a big challenge in the past. But being able to leverage cloud browser isolation and Zscaler private access, we've been able to bring those systems in and then also provide them safe access to the actual applications that they need to be able to do their jobs.
+
+Segment 8
+
+segment_id:
+8
+
+speaker:
+Duncan del Toro (Director, Consilio)
+
+tag:
+products_and_solutions
+
+topic:
+Replacing virtual infrastructure with ZPA
+
+text:
+Another ZPA win for us was our ability to replace the existing kind of virtual infrastructure that we had in place and start using Zscaler's platform to provide those services as well.
+
+Segment 9
+
+segment_id:
+9
+
+speaker:
+Duncan del Toro (Director, Consilio)
+
+tag:
+challenges
+
+topic:
+Access for review attorneys
+
+text:
+So one of the challenges that we face at Concilio is being able to give access to internal resources and external resources to a group of our users, which are our review attorneys. Traditionally, that's been through the use of some sort of VDI technology. So that way that they don't have a way of taking data from the environment or adding data to the environment.
+
+Segment 10
+
+segment_id:
+10
+
+speaker:
+Duncan del Toro (Director, Consilio)
+
+tag:
+metrics_and_results
+
+topic:
+Cost and time savings with ZPA
+
+text:
+We were able to leverage cloud browser isolation's EPA to do that at a much lower cost. We were able to reduce the amount of time a user required for initial setup from two hours down to about fifteen minutes per user. And also, we're able to reduce the total cost of ownership by about fifty percent. There's very low administrative overhead. You don't have to worry about the underlying technology. It just works.
+
+Segment 11
+
+segment_id:
+11
+
+speaker:
+Duncan del Toro (Director, Consilio)
+
+tag:
+quote
+
+topic:
+Smooth onboarding with ZPA
+
+text:
+One of the things I'm really, really proud of on the Zscaler implementation, this is our private access implementation particularly. So So we went from having about three hundred users to onboarding our entire organization essentially in a day. And that went extremely smooth, which was pretty impressive considering we were going from a very allowing VPN style solution to a very restrictive zero trust solution. It just went swimmingly.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+127692864
+
+created_at:
+1733766295
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+[With ZPA, users] can connect directly to an application, they don't have to connect to a data center and then take another hop or another two hops [...] It really has paid dividends with our users, and everybody has been happy with this approach.
+
+## speaker
+
+name:
+Jon Fowler
+
+title:
+Chief Information Security Officer
+
+company:
+Consilio
+
+Hero Quote 2
+
+quote:
+We were able to leverage Cloud Browser Isolation and ZPA [as a VDI alternative] at a much lower cost. There's very low administrative overhead. You don't have to worry about the underlying technology. It just works.
+
+## speaker
+
+name:
+Duncan del Toro
+
+title:
+Director
+
+company:
+Consilio
+
+Hero Quote 3
+
+quote:
+Implementing zero trust was very difficult to realize with the legacy tech that we had—technology that they claim is zero trust, but in reality it's zero trust minus.
+
+## speaker
+
+name:
+Duncan del Toro
+
+title:
+Director
+
+company:
+Consilio
+
+Hero Quote 4
+
+quote:
+To be able to expand on an offering from [a] trusted, known partner really makes it an easy choice for us to move forward with something like Zscaler Private Access as a replacement for our VPN infrastructure.
+
+## speaker
+
+name:
+Jon Fowler
+
+title:
+Chief Information Security Officer
+
+company:
+Consilio
+
+====================================================
+# customer_case_study
+
+title:
+null
+
+sections:
+[]
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zero Trust Browser
+
+url:
+https://www.zscaler.com/products-and-solutions/browser-isolation
+
+Product 2
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 3
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 4
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 5
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Stop Cyberattacks
+
+url:
+https://www.zscaler.com/products-and-solutions/zscaler-risk-360
+
+Solution 3
+
+name:
+Secure Remote Access
+
+url:
+https://www.zscaler.com/products-and-solutions/vpn-alternative
+
+Solution 4
+
+name:
+VDI Alternative
+
+url:
+https://www.zscaler.com/demo/vdi-alternative
+
+Solution 5
+
+name:
+Accelerate M&A and Divestitures
+
+url:
+https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+86006
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Consilio Consilio Modernizes Its Architecture, Reducing Risk and Providing a Remote Access Solution Users Love with Zscaler provides secure, seamless private application connectivity for employees, M&A users, and third parties on unmanaged devices.
+
+og_title:
+Consilio Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/consilio

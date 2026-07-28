@@ -1,0 +1,525 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/korea-zinc
+
+slug:
+korea-zinc
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:33.724343Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Korea Zinc Boosts Operational Efficiency by 200% with Unified Zero Trust Platform
+
+subtitle:
+Zscaler consolidates the fragmented security infrastructure of the world's leading non-ferrous metal smelter into a single zero trust platform
+
+customer_name:
+Korea Zinc
+
+## metrics
+
+Metric 1
+
+value:
+21.3M
+
+label:
+policy violations prevented quarterly
+
+Metric 2
+
+value:
+50%
+
+label:
+TCO reduction
+
+Metric 3
+
+value:
+200%
+
+label:
+improvement in operational efficiency
+
+====================================================
+# summary
+
+## challenges
+
+- The traditional perimeter-based security model reached its limits with cloud-based work surging including high Microsoft 365 adoption
+- As remote work grew, inconsistent policies and visibility between on-premises and cloud environments created management difficulties
+- Multiple point solutions for DNS security, remote access, and endpoint protection fragmented policy management and added operational complexity
+
+## phased_journey
+
+- Established consistent internet security across all users, locations and devices, blocking malicious sites and ransomware before they reach users
+- Strengthened data protection by controlling sensitive data transfers and blocking file uploads to unauthorized generative AI services
+- Unified remote access on a zero trust framework, running internet security and private app access through a single agent
+
+## results
+
+- Strengthens security posture by eliminating ransomware incidents and inspecting 100% of encrypted traffic, which accounts for 87% of total traffic
+- Improves operational efficiency by 200% by managing a broader security scope on a unified SaaS platform without adding headcount
+- Establishes a foundation for global expansion with consistent security policies across worldwide operations, including the new US smelter
+
+====================================================
+# customer_snapshot
+
+title:
+Korea Zinc
+
+description:
+The world's leading non-ferrous metal smelter, operating the largest single smelting facility globally
+
+industry:
+Manufacturing
+
+headquarters:
+Seoul, South Korea
+
+size:
+3,000+ employees, with operations in Korea, Australia, and the US
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Zscaler was the only enterprise-grade zero trust cloud security platform we trust. Unifying internet security, data protection, and remote access on one platform was its greatest strength.
+
+## speaker
+
+name:
+Inku Hwang
+
+title:
+CISO and Head of Information Security
+
+company:
+Korea Zinc
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+non-ferrous-industry-leader-makes-bold-move-from-perimeter-based-security-model-to-zero-trust
+
+title:
+Non-ferrous industry leader makes bold move from perimeter-based security model to zero trust
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- Korea Zinc is the global leader in non-ferrous metal smelting, operating the world's largest single smelting facility at its Onsan complex in Ulsan, South Korea and producing more than 8% of the world's zinc.
+- Beyond zinc, lead, copper, gold, and silver, the company has expanded into rare metals like indium, antimony, and bismuth, and now employs its "Troika Drive" strategy, focused on secondary battery materials, renewable energy, and resource circulation.
+- A new smelting facility currently under construction in Tennessee, US marks the next chapter of its global expansion.
+
+Paragraph 2
+
+- Behind this growth, Korea Zinc's IT security environment was undergoing a fundamental shift.
+- The 2020 rollout of Microsoft 365 (M365) moved the company's work environment from on-premises to the cloud at an accelerated pace.
+- As email, collaboration, and authentication moved to the cloud, the traditional castle-and-moat model, built on the assumption that the internal network is safe, began to show its limits.
+
+Paragraph 3
+
+- At the time, Korea Zinc relied on a DNS-based security solution to block malicious sites.
+- The company was utilizing multiple point solutions in parallel, which fragmented policy management and added complexity.
+- The existing approach lacked the visibility and policy flexibility needed for cloud environments.
+- As such, the company needed dynamic, context-aware policies based on user location, device, and access environment.
+
+Section 2
+
+id:
+phase-1-making-the-move-to-zero-trust-with-zscaler-internet-access-zia
+
+title:
+Phase 1: Making the move to zero trust with Zscaler Internet Access (ZIA)
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- In 2021, Korea Zinc began evaluating zero trust security platforms.
+- At the time, Zscaler was effectively the only enterprise-grade zero trust cloud security platform available in the Korean market.
+- Zscaler stood out as the right choice: a Gartner Magic Quadrant leader for Security Service Edge (SSE), backed by a strong portfolio of global references and a unified platform approach — delivering a global-standard security solution ready to deploy without customization.
+
+Paragraph 2
+
+- Korea Zinc started by deploying Zscaler Internet Access (ZIA) to rebuild its internet access security from the ground up.
+- With ZIA, the company enforced consistent internet security policies for every user, regardless of location.
+- Beyond blocking malicious and unauthorized sites, ZIA delivered real-time SSL/TLS decryption, a capability missing from the previous solution, allowing Korea Zinc to find and stop threats hidden in encrypted traffic.
+
+Paragraph 3
+
+- To secure the M365 environment, the team leveraged the Tenant Control feature.
+- This allowed access only to the company's authorized tenants and shut down bypass attempts through personal accounts or unauthorized tenants.
+- In the first three months after deployment, the platform processed roughly 1 billion transactions, prevented 21.3 million policy violations, and blocked 1,842 threats hidden in encrypted traffic.
+
+Paragraph 4
+
+- The most dramatic change came in ransomware defense.
+- Before deployment, Korea Zinc dealt with four to five serious ransomware incidents a year, each severe enough to require a full PC reformat.
+- After deploying ZIA and integrating it with CrowdStrike EDR for endpoint protection, those incidents disappeared.
+
+### quotes
+
+Quot 1
+
+quote:
+Security needs a 'SaaS-first' strategy. Deploying Zscaler alone reduced our operational burden by more than 50%.
+
+#### speaker
+
+name:
+Inku Hwang
+
+title:
+CISO and Head of Information Security
+
+company:
+Korea Zinc
+
+Section 3
+
+id:
+phase-2-protecting-national-core-technology-with-zscaler-data-security
+
+title:
+Phase 2: Protecting national core technology with Zscaler Data Security
+
+quotes:
+[]
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- As cloud-based collaboration spread across the company, controlling data movement and protecting core assets became urgent.
+- Korea Zinc holds two technologies designated by the Korean government as national core technologies: the Hematite Manufacturing Technology for Iron Recovery in Hydrometallurgy and the Manufacturing Technology for Lithium Secondary Battery Cathode Precursors.
+- The company also helps stabilize the global supply chain for germanium, a critical mineral for aerospace and defense.
+- Strong controls to prevent leakage of this technical information were essential.
+
+Paragraph 2
+
+- To meet this need, Korea Zinc deployed Zscaler Data Security.
+- The team now monitors web uploads and internet traffic in real time for unauthorized transfers of unique data identifiers, including personal identification numbers.
+- With File Type Control, the company proactively blocks file uploads to unauthorized cloud storage, personal webmail, and external generative artificial intelligence (GenAI) services that have emerged as security risks.
+
+Paragraph 3
+
+- As GenAI use has surged across industries, raising data leakage concerns, Korea Zinc has taken a proactive stance, blocking low-relevance external AI services and arbitrary cloud platforms.
+- At the same time, the team reviews monthly Zscaler analytics reports to track employee AI usage and keep data visibility comprehensive.
+
+Paragraph 4
+
+- In the past, data flow management was confined to the firewall-protected internal network.
+- Now, Korea Zinc applies consistent data protection governance in the cloud, wherever users work.
+- Just as important, running ZIA and data protection on a single platform gave the company both policy consistency and operational efficiency.
+
+Section 4
+
+id:
+phase-3-completing-the-zero-trust-framework-with-zpa
+
+title:
+Phase 3: Completing the zero trust framework with ZPA
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- To work around the speed and security limits of traditional SSL-VPN, Korea Zinc initially deployed a separate remote access solution.
+- But running it alongside ZIA, with a different agent and management console, created two structural problems: a fragmented user experience for employees and dispersed operational resources for the security team.
+- Users had to switch agents depending on their access environment, and administrators had limited ability to enforce precise access control based on device posture.
+
+Paragraph 2
+
+- To solve this, Korea Zinc rolled out Zscaler Private Access (ZPA) across the enterprise in June 2026.
+- Employees now use one agent, Zscaler Client Connector, to secure both internet access and private application access.
+- The change is expected to sharply reduce end-user inquiries about agent conflicts and configuration errors, leading to better user experience and will also ease the security team's day-to-day load.
+
+Paragraph 3
+
+- Zscaler's global Point of Presence (PoP) architecture (more than 160+ data centers globally) also delivers high-quality connectivity and a stable user experience for traveling employees and staff at global sites, without slowing them down.
+- As a SaaS platform, it gives Korea Zinc a ready-made foundation for global expansion: when the new Tennessee smelter and other overseas operations come online, the company can apply the same zero trust policies as their headquarters, with no additional physical security infrastructure required.
+
+### quotes
+
+Quot 1
+
+quote:
+You cannot block what you cannot see. With comprehensive visibility from the Zscaler platform, we identify core assets and block threats in real time.
+
+#### speaker
+
+name:
+Inku Hwang
+
+title:
+CISO and Head of Information Security
+
+company:
+Korea Zinc
+
+Section 5
+
+id:
+looking-ahead-evolving-security-for-the-ai-era
+
+title:
+Looking ahead: Evolving security for the AI era
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- Building on ZIA, ZPA, and Zscaler Data Security, Korea Zinc is shaping a next-generation security roadmap.
+
+Paragraph 2
+
+- In the short term, the company plans to deploy Zscaler Zero Trust Firewall to strengthen DNS security and extend control to network-level application traffic.
+- The goal is to move beyond web- and application-centric access control and gain granular visibility and tight control across the broader network infrastructure including non-web protocols.
+
+Paragraph 3
+
+- Korea Zinc is also taking a proactive stance towards AI security.
+- As GenAI adoption accelerates and MCP (Model Context Protocol) environments emerge to connect AI models with core enterprise systems, controlling data flows to and from AI services has become a defining challenge for the next wave of security.
+- Korea Zinc is actively evaluating a PoC of Zscaler AI Security, with particular interest in capabilities that show which users connect to which AI services, and what data they share.
+
+Paragraph 4
+
+- The company also plans to deploy the Zscaler platform across its new US smelter project, where network infrastructure design is currently underway.
+- By applying the same cloud-based zero trust architecture as headquarters, Korea Zinc will strengthen its global security posture from day one.
+
+Section 6
+
+id:
+zero-trust-delivers-gains-in-operational-efficiency-and-global-readiness
+
+title:
+Zero trust delivers gains in operational efficiency and global readiness
+
+### paragraphs
+
+Paragraph 1
+
+- Since deploying Zscaler, Korea Zinc has seen measurable gains across operational efficiency, employee experience, and global compliance, well beyond simply blocking threats.
+
+Paragraph 2
+
+- On the operational side, the unified SaaS-based management framework has reduced total cost of ownership (TCO) for security by more than 50%.
+- In the past, security administrators spent significant time monitoring hardware status and handling firmware upgrades or equipment replacements as capacity limits hit.
+- Now, the team focuses on what matters most: setting and optimizing security policy in the cloud.
+- Deployment time for new security solutions has dropped by more than 80%.
+- What once took more than a month from procurement to rollout can now go live in days through policy configuration alone.
+
+Paragraph 3
+
+- Threat response has also strengthened through deeper integration.
+- With the Zscaler platform at the center, Korea Zinc has connected CrowdStrike EDR, Microsoft Defender for Cloud Apps (MDCA), and Microsoft Sentinel into a unified security operations framework.
+- Endpoint threats detected by CrowdStrike flow to Zscaler in real time to block network entry, while Zscaler's refined security logs flow to Microsoft Sentinel for unified analysis.
+- The team can now monitor external intrusion attempts and internal data exfiltration in a single view.
+
+Paragraph 4
+
+- Compliance, an essential gateway for global business, has also taken a major step forward.
+- The ability to consistently block unauthorized sites and inspect encrypted traffic, regardless of user location, has created a favorable environment for industry security certifications such as TISAX.
+- Zscaler became the first SaaS company to achieve CMMC Level 2 certification under US Department of Defense standards, enabling Korea Zinc to be well-positioned for regulatory compliance in future technology collaborations across the global defense supply chain.
+
+Paragraph 5
+
+- Korea Zinc's zero trust journey is not a simple swap of security solutions.
+- It is the work of embedding into corporate culture an operational model and governance framework that continuously verifies and controls users, devices, applications, and, most importantly, the company's data.
+- As AI-driven work environments accelerate and global expansion continues, Korea Zinc plans to advance its security framework alongside the Zscaler Zero Trust Exchange platform.
+
+### quotes
+
+Quot 1
+
+quote:
+SaaS security delivers the same protection anywhere. As we expand to new sites like our US smelter, we can apply consistent policies instantly.
+
+#### speaker
+
+name:
+Inku Hwang
+
+title:
+CISO and Head of Information Security
+
+company:
+Korea Zinc
+
+====================================================
+# products
+
+Product 1
+
+name:
+Web and Email DLP
+
+url:
+https://www.zscaler.com/products-and-solutions/data-loss-prevention
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 2
+
+name:
+Zero Trust
+
+url:
+null
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+115166
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Korea Zinc Korea Zinc Boosts Operational Efficiency by 200% with Unified Zero Trust Platform with Zscaler consolidates the fragmented security infrastructure of the world's leading non-ferrous metal smelter into a single zero trust platform.
+
+og_title:
+Korea Zinc Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/korea-zinc

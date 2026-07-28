@@ -1,0 +1,3138 @@
+phishing_kits:
+[]
+
+cloud_providers:
+[]
+
+hosting_providers:
+[]
+
+domains:
+[]
+
+cves:
+[]
+
+urls:
+[]
+
+emails:
+[]
+
+ips:
+[]
+
+hashes:
+[]
+
+certificates:
+[]
+
+registry_keys:
+[]
+
+mutexes:
+[]
+
+user_agents:
+[]
+
+ja3_fingerprints:
+[]
+
+targeted_paths:
+[]
+
+repositories:
+[]
+
+code_snippets:
+[]
+
+====================================================
+# metadata
+
+title:
+ThreatLabz 2026 AI Security Report
+
+subtitle:
+Navigating the Security Horizon of Enterprise AI Adoption
+
+report_type:
+Security Research Report
+
+report_year:
+2026
+
+publication_date:
+2026-07-24
+
+version:
+1.0
+
+language:
+en
+
+publisher:
+Zscaler, Inc.
+
+organization:
+Zscaler ThreatLabz
+
+copyright:
+©2026 Zscaler, Inc. All rights reserved.
+
+url:
+https://research.zscaler.com
+
+filename:
+threatlabz-ai-security-report-2026.pdf
+
+pages:
+49
+
+scraped_at:
+2026-07-24T09:24:25.207927+00:00
+
+summary:
+Comprehensive report by Zscaler ThreatLabz analyzing enterprise AI/ML transaction growth (845B+ transactions), top LLM application usage, DLP policy violations, DPRK threat actor GenAI abuse, red teaming vulnerability data, and AI governance.
+
+defanging_policy:
+as_printed
+
+## authors
+
+- Zscaler ThreatLabz
+
+## tags
+
+- ai security
+- generative ai
+- llm
+- dlp
+- dprk
+- red teaming
+- zscaler ai protect
+- chatgpt
+- codeium
+- shadow ai
+
+## extraction_methods_used
+
+- text
+- vision
+
+====================================================
+# executive_summary
+
+page_start:
+3
+
+page_end:
+4
+
+## paragraphs
+
+Paragraph 1
+
+paragraph_id:
+p1
+
+### sentences
+
+1.
+Enterprise AI usage has reached a tipping point, growing from experimental pilots to a foundational layer of modern business operations.
+
+2.
+Between January and December 2025, Zscaler Zero Trust Exchange logged over 845 billion AI/ML transactions across global enterprises.
+
+Paragraph 2
+
+paragraph_id:
+p2
+
+### sentences
+
+1.
+87.5% of enterprise organizations now engage with AI/ML tools on a daily basis.
+
+2.
+However, rapid adoption has created significant security challenges, including shadow AI usage, sensitive data loss, embedded AI exposures in SaaS platforms, and GenAI-enhanced threat actor campaigns.
+
+## key_takeaways
+
+- Total AI/ML transactions reached 845+ Billion in 2025.
+- Grammarly and ChatGPT lead enterprise transaction volume.
+- ChatGPT accounts for the majority of DLP policy violations (410M+ violations).
+- DPRK-linked threat actors are actively leveraging GenAI for social engineering lures and malware development.
+- Zscaler Red Teaming revealed 90% of enterprise AI systems fail under adversarial probes within 1h 27m.
+
+## statistics
+
+Statistic 1
+
+metric:
+Total AI/ML transactions
+
+value:
+845B+
+
+time_period:
+2025
+
+Statistic 2
+
+metric:
+Enterprise AI adoption rate
+
+value:
+87.5%
+
+time_period:
+2025
+
+Statistic 3
+
+metric:
+ChatGPT DLP policy violations
+
+value:
+410,181,006
+
+time_period:
+2025
+
+Statistic 4
+
+metric:
+Median time to critical AI system failure in Red Teaming
+
+value:
+1 hour 27 minutes
+
+time_period:
+2025
+
+## figures
+
+- Figure 1
+- Figure 2
+
+====================================================
+# key_findings
+
+Key_finding 1
+
+id:
+kf1
+
+title:
+AI transaction volume grew exponentially to 845+ billion
+
+description:
+Zscaler cloud telemetry logged over 845 billion AI/ML transactions globally, representing a massive shift in how employees interact with AI tools in daily workflows.
+
+page:
+5
+
+## statistics
+
+- 845B+ transactions
+
+## related_entities
+
+- Zscaler Zero Trust Exchange
+
+## related_sections
+
+- AI/ML Usage Trends
+
+Key_finding 2
+
+id:
+kf2
+
+title:
+Grammarly, ChatGPT, and Codeium lead enterprise AI adoption
+
+description:
+Transaction volume is heavily concentrated among top productivity and coding tools: Grammarly (327.3B transactions), ChatGPT (120.2B transactions), and Codeium (42.3B transactions).
+
+page:
+5
+
+## statistics
+
+- Grammarly 327.3B
+- ChatGPT 120.2B
+- Codeium 42.3B
+
+## related_entities
+
+- Grammarly
+- ChatGPT
+- Codeium
+
+## related_sections
+
+- Top LLM vendors, applications, and departments
+
+Key_finding 3
+
+id:
+kf3
+
+title:
+ChatGPT accounts for the vast majority of AI DLP policy violations
+
+description:
+Data loss prevention telemetry recorded 410,181,006 DLP policy violations for ChatGPT, followed by Codeium (242,263,311) and GitHub Copilot (31,223,009).
+
+page:
+5
+
+## statistics
+
+- ChatGPT 410M violations
+- Codeium 242M violations
+
+## related_entities
+
+- ChatGPT
+- Codeium
+- GitHub Copilot
+
+## related_sections
+
+- Data loss to AI applications
+
+Key_finding 4
+
+id:
+kf4
+
+title:
+Embedded AI capabilities in SaaS tools introduce silent risk
+
+description:
+Features embedded directly in standard SaaS applications invoke AI automatically, sharing enterprise content without dedicated AI application visibility or governance.
+
+statistics:
+[]
+
+page:
+6
+
+## related_entities
+
+- SaaS Platforms
+
+## related_sections
+
+- The rise of embedded AI
+
+Key_finding 5
+
+id:
+kf5
+
+title:
+DPRK-linked threat actors weaponize GenAI for malware and lures
+
+description:
+Campaigns such as Contagious Interview leverage GenAI to draft hyper-realistic recruitment messages and refine malicious payloads like BeaverTail and InvisibleFerret.
+
+statistics:
+[]
+
+page:
+6
+
+## related_entities
+
+- DPRK
+- Contagious Interview
+- BeaverTail
+- InvisibleFerret
+
+## related_sections
+
+- Case study: GenAI-enhanced malware and social engineering in DPRK-linked campaigns
+
+Key_finding 6
+
+id:
+kf6
+
+title:
+90% of enterprise AI systems fail under adversarial red teaming in under 1.5 hours
+
+description:
+Empirical exploit data from Zscaler red teaming across 25+ enterprise environments showed a median time to first critical failure of 1 hour 27 minutes, with probe failure rates led by Bias (49%) and Off Topic (47%).
+
+page:
+6
+
+## statistics
+
+- 1h 27m median fail time
+- 49% bias probe fall rate
+- 90% systems failed
+
+## related_entities
+
+- Zscaler Red Teaming
+
+## related_sections
+
+- Case study: What’s really breaking in enterprise AI systems
+
+====================================================
+# sections
+
+Section 1
+
+id:
+sec1
+
+title:
+Executive Summary
+
+subtitle:
+
+
+page_start:
+3
+
+page_end:
+4
+
+section_type:
+summary
+
+tables:
+[]
+
+rankings:
+[]
+
+lists:
+[]
+
+quotes:
+[]
+
+callouts:
+[]
+
+references:
+[]
+
+related_entities:
+[]
+
+subsections:
+[]
+
+## paragraphs
+
+Paragraph 1
+
+paragraph_id:
+p1
+
+### sentences
+
+1.
+Enterprise AI usage has reached a tipping point, growing from experimental pilots to a foundational layer of modern business operations.
+
+2.
+Between January and December 2025, Zscaler Zero Trust Exchange logged over 845 billion AI/ML transactions across global enterprises.
+
+Paragraph 2
+
+paragraph_id:
+p2
+
+### sentences
+
+1.
+87.5% of enterprise organizations now engage with AI/ML tools on a daily basis.
+
+2.
+However, rapid adoption has created significant security challenges, including shadow AI usage, sensitive data loss, embedded AI exposures in SaaS platforms, and GenAI-enhanced threat actor campaigns.
+
+## key_points
+
+- Total AI/ML transactions reached 845+ Billion in 2025.
+- Grammarly and ChatGPT lead enterprise transaction volume.
+- ChatGPT accounts for the majority of DLP policy violations (410M+ violations).
+- DPRK-linked threat actors are actively leveraging GenAI for social engineering lures and malware development.
+- Zscaler Red Teaming revealed 90% of enterprise AI systems fail under adversarial probes within 1h 27m.
+
+## statistics
+
+Statistic 1
+
+metric:
+Total AI/ML transactions
+
+value:
+845B+
+
+time_period:
+2025
+
+Statistic 2
+
+metric:
+Enterprise AI adoption rate
+
+value:
+87.5%
+
+time_period:
+2025
+
+Statistic 3
+
+metric:
+ChatGPT DLP policy violations
+
+value:
+410,181,006
+
+time_period:
+2025
+
+Statistic 4
+
+metric:
+Median time to critical AI system failure in Red Teaming
+
+value:
+1 hour 27 minutes
+
+time_period:
+2025
+
+## figures
+
+- Figure 1
+- Figure 2
+
+Section 2
+
+id:
+sec2
+
+title:
+Key Findings
+
+subtitle:
+
+
+page_start:
+5
+
+page_end:
+6
+
+section_type:
+key_findings
+
+paragraphs:
+[]
+
+statistics:
+[]
+
+tables:
+[]
+
+rankings:
+[]
+
+lists:
+[]
+
+figures:
+[]
+
+quotes:
+[]
+
+callouts:
+[]
+
+references:
+[]
+
+related_entities:
+[]
+
+subsections:
+[]
+
+## key_points
+
+- AI transaction volume grew exponentially to 845+ billion
+- Grammarly, ChatGPT, and Codeium lead enterprise AI adoption
+- ChatGPT accounts for the vast majority of AI DLP policy violations
+- Embedded AI capabilities in SaaS tools introduce silent risk
+- DPRK-linked threat actors weaponize GenAI for malware and lures
+- 90% of enterprise AI systems fail under adversarial red teaming in under 1.5 hours
+
+Section 3
+
+id:
+sec3
+
+title:
+AI/ML Usage Trends
+
+subtitle:
+
+
+page_start:
+7
+
+page_end:
+25
+
+section_type:
+trend_analysis
+
+paragraphs:
+[]
+
+key_points:
+[]
+
+statistics:
+[]
+
+tables:
+[]
+
+rankings:
+[]
+
+lists:
+[]
+
+figures:
+[]
+
+quotes:
+[]
+
+callouts:
+[]
+
+references:
+[]
+
+related_entities:
+[]
+
+## subsections
+
+Subsection 1
+
+id:
+sec3_1
+
+title:
+Global growth in AI/ML transactions
+
+page_start:
+8
+
+page_end:
+9
+
+Subsection 2
+
+id:
+sec3_2
+
+title:
+Top LLM vendors, applications, and departments
+
+page_start:
+10
+
+page_end:
+12
+
+Subsection 3
+
+id:
+sec3_3
+
+title:
+Blocked transactions
+
+page_start:
+13
+
+page_end:
+13
+
+Subsection 4
+
+id:
+sec3_4
+
+title:
+Data transferred to AI applications
+
+page_start:
+14
+
+page_end:
+14
+
+Subsection 5
+
+id:
+sec3_5
+
+title:
+Data loss to AI applications
+
+page_start:
+15
+
+page_end:
+16
+
+Subsection 6
+
+id:
+sec3_6
+
+title:
+The rise of embedded AI
+
+page_start:
+17
+
+page_end:
+17
+
+Subsection 7
+
+id:
+sec3_7
+
+title:
+AI/ML usage by industry
+
+page_start:
+18
+
+page_end:
+21
+
+Subsection 8
+
+id:
+sec3_8
+
+title:
+AI/ML usage by country
+
+page_start:
+22
+
+page_end:
+25
+
+Section 4
+
+id:
+sec4
+
+title:
+Enterprise AI Risks and Threat Landscape
+
+subtitle:
+
+
+page_start:
+26
+
+page_end:
+37
+
+section_type:
+threat_landscape
+
+paragraphs:
+[]
+
+key_points:
+[]
+
+statistics:
+[]
+
+tables:
+[]
+
+rankings:
+[]
+
+lists:
+[]
+
+figures:
+[]
+
+quotes:
+[]
+
+callouts:
+[]
+
+references:
+[]
+
+related_entities:
+[]
+
+subsections:
+[]
+
+Section 5
+
+id:
+sec5
+
+title:
+The Latest Phase of AI Governance
+
+subtitle:
+
+
+page_start:
+38
+
+page_end:
+39
+
+section_type:
+governance
+
+paragraphs:
+[]
+
+key_points:
+[]
+
+statistics:
+[]
+
+tables:
+[]
+
+rankings:
+[]
+
+lists:
+[]
+
+figures:
+[]
+
+quotes:
+[]
+
+callouts:
+[]
+
+references:
+[]
+
+related_entities:
+[]
+
+subsections:
+[]
+
+Section 6
+
+id:
+sec6
+
+title:
+AI Security Predictions for 2026
+
+subtitle:
+
+
+page_start:
+40
+
+page_end:
+41
+
+section_type:
+predictions
+
+paragraphs:
+[]
+
+key_points:
+[]
+
+statistics:
+[]
+
+tables:
+[]
+
+rankings:
+[]
+
+lists:
+[]
+
+figures:
+[]
+
+quotes:
+[]
+
+callouts:
+[]
+
+references:
+[]
+
+related_entities:
+[]
+
+subsections:
+[]
+
+Section 7
+
+id:
+sec7
+
+title:
+Best Practices: Secure Enterprise AI Adoption
+
+subtitle:
+
+
+page_start:
+42
+
+page_end:
+44
+
+section_type:
+best_practices
+
+paragraphs:
+[]
+
+key_points:
+[]
+
+statistics:
+[]
+
+tables:
+[]
+
+rankings:
+[]
+
+lists:
+[]
+
+figures:
+[]
+
+quotes:
+[]
+
+callouts:
+[]
+
+references:
+[]
+
+related_entities:
+[]
+
+subsections:
+[]
+
+Section 8
+
+id:
+sec8
+
+title:
+How Zscaler Delivers Comprehensive AI Protection
+
+subtitle:
+
+
+page_start:
+45
+
+page_end:
+47
+
+section_type:
+product_mitigations
+
+paragraphs:
+[]
+
+key_points:
+[]
+
+statistics:
+[]
+
+tables:
+[]
+
+rankings:
+[]
+
+lists:
+[]
+
+figures:
+[]
+
+quotes:
+[]
+
+callouts:
+[]
+
+references:
+[]
+
+related_entities:
+[]
+
+subsections:
+[]
+
+Section 9
+
+id:
+sec9
+
+title:
+Research Methodology & About ThreatLabz
+
+subtitle:
+
+
+page_start:
+48
+
+page_end:
+49
+
+section_type:
+methodology_about
+
+paragraphs:
+[]
+
+key_points:
+[]
+
+statistics:
+[]
+
+tables:
+[]
+
+rankings:
+[]
+
+lists:
+[]
+
+figures:
+[]
+
+quotes:
+[]
+
+callouts:
+[]
+
+references:
+[]
+
+related_entities:
+[]
+
+subsections:
+[]
+
+====================================================
+# statistics
+
+Statistic 1
+
+id:
+stat1
+
+metric:
+Total AI/ML transactions 2025
+
+value:
+845B+
+
+page:
+3
+
+Statistic 2
+
+id:
+stat2
+
+metric:
+Daily enterprise AI adoption rate
+
+value:
+87.5%
+
+page:
+3
+
+Statistic 3
+
+id:
+stat3
+
+metric:
+Grammarly total transactions
+
+value:
+327,311,080,013
+
+percentage:
+38.71
+
+page:
+11
+
+Statistic 4
+
+id:
+stat4
+
+metric:
+ChatGPT total transactions
+
+value:
+120,227,890,252
+
+percentage:
+14.22
+
+page:
+11
+
+Statistic 5
+
+id:
+stat5
+
+metric:
+Codeium total transactions
+
+value:
+42,337,652,986
+
+percentage:
+5.01
+
+page:
+11
+
+Statistic 6
+
+id:
+stat6
+
+metric:
+DeepL total transactions
+
+value:
+27,847,680,087
+
+percentage:
+3.29
+
+page:
+11
+
+Statistic 7
+
+id:
+stat7
+
+metric:
+Microsoft Copilot total transactions
+
+value:
+25,503,137,940
+
+percentage:
+3.02
+
+page:
+11
+
+Statistic 8
+
+id:
+stat8
+
+metric:
+ChatGPT DLP policy violations
+
+value:
+410,181,006
+
+page:
+15
+
+Statistic 9
+
+id:
+stat9
+
+metric:
+Codeium DLP policy violations
+
+value:
+242,263,311
+
+page:
+15
+
+Statistic 10
+
+id:
+stat10
+
+metric:
+GitHub Copilot DLP policy violations
+
+value:
+31,223,009
+
+page:
+15
+
+Statistic 11
+
+id:
+stat11
+
+metric:
+Claude DLP policy violations
+
+value:
+14,417,246
+
+page:
+15
+
+Statistic 12
+
+id:
+stat12
+
+metric:
+Red Teaming median time to critical failure
+
+value:
+1 hour 27 minutes
+
+page:
+34
+
+Statistic 13
+
+id:
+stat13
+
+metric:
+Red Teaming fastest observed failure
+
+value:
+01 second
+
+page:
+34
+
+Statistic 14
+
+id:
+stat14
+
+metric:
+Red Teaming 90% systems failure window
+
+value:
+16 minutes
+
+page:
+34
+
+====================================================
+# countries
+
+Country 1
+
+name:
+United States
+
+iso:
+US
+
+## roles
+
+- target
+- origin
+
+Country 2
+
+name:
+India
+
+iso:
+IN
+
+## roles
+
+- target
+- origin
+
+Country 3
+
+name:
+United Kingdom
+
+iso:
+GB
+
+## roles
+
+- target
+
+Country 4
+
+name:
+Germany
+
+iso:
+DE
+
+## roles
+
+- target
+
+Country 5
+
+name:
+Japan
+
+iso:
+JP
+
+## roles
+
+- target
+
+====================================================
+# industries
+
+Industry 1
+
+name:
+Financial Services
+
+## statistics
+
+- Top AI adopting sector
+
+Industry 2
+
+name:
+Technology
+
+## statistics
+
+- High coding AI usage
+
+Industry 3
+
+name:
+Manufacturing
+
+## statistics
+
+- Industrial AI usage
+
+Industry 4
+
+name:
+Healthcare
+
+## statistics
+
+- Regulated AI adoption
+
+====================================================
+# brands
+
+Brand 1
+
+name:
+OpenAI
+
+category:
+LLM Provider
+
+Brand 2
+
+name:
+Anthropic
+
+category:
+LLM Provider
+
+Brand 3
+
+name:
+Grammarly
+
+category:
+AI Writing Assistant
+
+Brand 4
+
+name:
+Microsoft Copilot
+
+category:
+Enterprise AI Assistant
+
+Brand 5
+
+name:
+Codeium
+
+category:
+AI Coding Assistant
+
+Brand 6
+
+name:
+DeepL
+
+category:
+AI Translation
+
+====================================================
+# organizations
+
+Organization 1
+
+name:
+Zscaler ThreatLabz
+
+type:
+disclosing_body
+
+role:
+Research Arm
+
+Organization 2
+
+name:
+OpenAI
+
+type:
+vendor
+
+role:
+LLM Vendor
+
+Organization 3
+
+name:
+Anthropic
+
+type:
+vendor
+
+role:
+LLM Vendor
+
+Organization 4
+
+name:
+EU European Commission
+
+type:
+law_enforcement
+
+role:
+EU AI Act Regulatory Body
+
+Organization 5
+
+name:
+NIST
+
+type:
+disclosing_body
+
+role:
+AI Risk Management Framework
+
+====================================================
+# products
+
+Product 1
+
+name:
+ChatGPT
+
+vendor:
+OpenAI
+
+category:
+GenAI Chatbot
+
+Product 2
+
+name:
+Claude
+
+vendor:
+Anthropic
+
+category:
+GenAI Chatbot
+
+Product 3
+
+name:
+Codeium
+
+vendor:
+Codeium
+
+category:
+AI Code Generator
+
+Product 4
+
+name:
+GitHub Copilot
+
+vendor:
+GitHub / Microsoft
+
+category:
+AI Pair Programmer
+
+====================================================
+# applications
+
+Application 1
+
+name:
+Grammarly
+
+category:
+AI Writing Assistant
+
+## statistics
+
+- 327.3B transactions
+
+Application 2
+
+name:
+ChatGPT
+
+category:
+GenAI Chatbot
+
+## statistics
+
+- 120.2B transactions
+- 410M DLP violations
+
+Application 3
+
+name:
+Codeium
+
+category:
+AI Code Assistant
+
+## statistics
+
+- 42.3B transactions
+- 242M DLP violations
+
+Application 4
+
+name:
+DeepL
+
+category:
+AI Translation
+
+## statistics
+
+- 27.8B transactions
+
+Application 5
+
+name:
+Microsoft Copilot
+
+category:
+Enterprise AI Assistant
+
+## statistics
+
+- 25.5B transactions
+
+====================================================
+# datasets
+
+Dataset 1
+
+name:
+Zscaler Zero Trust Exchange Telemetry
+
+description:
+845+ billion AI/ML transactions logged in 2025
+
+====================================================
+# attack_vectors
+
+Attack_vector 1
+
+name:
+GenAI-Generated Recruitment Lures
+
+stage:
+Initial Access
+
+Attack_vector 2
+
+name:
+Prompt Injection / Adversarial Jailbreaking
+
+stage:
+Execution
+
+Attack_vector 3
+
+name:
+Shadow AI Sensitive Data Ingestion
+
+stage:
+Exfiltration
+
+====================================================
+# attack_techniques
+
+Attack_techniqu 1
+
+name:
+Prompt Injection
+
+category:
+Execution
+
+Attack_techniqu 2
+
+name:
+Adversarial Probe Exploitation (Bias/Manipulation)
+
+category:
+Evasion
+
+Attack_techniqu 3
+
+name:
+AI Assistant File Inventory Theft
+
+category:
+Credential Access
+
+====================================================
+# malware
+
+Malware 1
+
+name:
+BeaverTail
+
+type:
+Infostealer
+
+Malware 2
+
+name:
+InvisibleFerret
+
+type:
+Backdoor / Infostealer
+
+====================================================
+# campaigns
+
+Campaign 1
+
+name:
+Contagious Interview DPRK Campaign
+
+summary:
+DPRK actors using GenAI to generate recruitment lures and social engineering personas.
+
+Campaign 2
+
+name:
+South Asia Region AI Targeting Campaign
+
+summary:
+Threat activity leveraging AI indicators in South Asia.
+
+====================================================
+# threat_actors
+
+Threat_actor 1
+
+name:
+Lazarus Group / DPRK-linked actors
+
+description:
+North Korean state-sponsored threat actors weaponizing GenAI tools.
+
+## aliases
+
+- APT38
+
+====================================================
+# ai_platforms
+
+Ai_platform 1
+
+name:
+OpenAI (ChatGPT / GPT-4)
+
+category:
+AI chatbot builder
+
+## statistics
+
+- 120.2B transactions
+- 410M DLP violations
+
+Ai_platform 2
+
+name:
+Anthropic (Claude)
+
+category:
+AI chatbot builder
+
+## statistics
+
+- 4.9B transactions
+- 14.4M DLP violations
+
+Ai_platform 3
+
+name:
+DeepSeek
+
+category:
+AI chatbot builder
+
+Ai_platform 4
+
+name:
+xAI (Grok)
+
+category:
+AI chatbot builder
+
+Ai_platform 5
+
+name:
+Perplexity AI
+
+category:
+AI site builder
+
+Ai_platform 6
+
+name:
+Meta AI
+
+category:
+AI chatbot builder
+
+Ai_platform 7
+
+name:
+Codeium
+
+category:
+AI coding assistant
+
+## statistics
+
+- 42.3B transactions
+- 242M DLP violations
+
+====================================================
+# external_citations
+
+External_citation 1
+
+organization:
+EU European Commission
+
+claim:
+EU AI Act implementation timeline and security mandates.
+
+related_section:
+The Latest Phase of AI Governance
+
+page:
+38
+
+External_citation 2
+
+organization:
+NIST
+
+claim:
+NIST AI Risk Management Framework (RMF).
+
+related_section:
+The Latest Phase of AI Governance
+
+page:
+38
+
+====================================================
+# rankings
+
+Ranking 1
+
+title:
+Top 20 AI/ML Applications by Transaction Volume
+
+category:
+AI Application Usage
+
+page:
+11
+
+## items
+
+Item 1
+
+rank:
+1
+
+name:
+Grammarly
+
+value:
+327,311,080,013
+
+percentage:
+38.71
+
+Item 2
+
+rank:
+2
+
+name:
+ChatGPT
+
+value:
+120,227,890,252
+
+percentage:
+14.22
+
+Item 3
+
+rank:
+3
+
+name:
+Codeium
+
+value:
+42,337,652,986
+
+percentage:
+5.01
+
+Item 4
+
+rank:
+4
+
+name:
+DeepL
+
+value:
+27,847,680,087
+
+percentage:
+3.29
+
+Item 5
+
+rank:
+5
+
+name:
+Microsoft Copilot
+
+value:
+25,503,137,940
+
+percentage:
+3.02
+
+Item 6
+
+rank:
+6
+
+name:
+Perplexity
+
+value:
+12,386,054,978
+
+percentage:
+1.46
+
+Item 7
+
+rank:
+7
+
+name:
+GitHub Copilot
+
+value:
+11,348,420,722
+
+percentage:
+1.34
+
+Item 8
+
+rank:
+8
+
+name:
+OpenAI
+
+value:
+10,352,420,115
+
+percentage:
+1.22
+
+Item 9
+
+rank:
+9
+
+name:
+QuillBot
+
+value:
+8,913,115,535
+
+percentage:
+1.05
+
+Item 10
+
+rank:
+10
+
+name:
+ChurnZero
+
+value:
+8,153,526,358
+
+percentage:
+0.96
+
+Item 11
+
+rank:
+11
+
+name:
+Anthropic
+
+value:
+4,922,983,385
+
+percentage:
+0.58
+
+Item 12
+
+rank:
+12
+
+name:
+Glean
+
+value:
+4,542,501,122
+
+percentage:
+0.54
+
+Ranking 2
+
+title:
+Red Teaming Probe Failure Percentages in Enterprise AI
+
+category:
+AI Security Red Teaming
+
+page:
+34
+
+## items
+
+Item 1
+
+rank:
+1
+
+name:
+Bias
+
+percentage:
+49.0
+
+Item 2
+
+rank:
+2
+
+name:
+Off Topic
+
+percentage:
+47.0
+
+Item 3
+
+rank:
+3
+
+name:
+Manipulation
+
+percentage:
+45.0
+
+Item 4
+
+rank:
+4
+
+name:
+Competitor Check
+
+percentage:
+45.0
+
+Item 5
+
+rank:
+5
+
+name:
+Intentional Misuse
+
+percentage:
+44.0
+
+Item 6
+
+rank:
+6
+
+name:
+Q&A
+
+percentage:
+44.0
+
+Item 7
+
+rank:
+7
+
+name:
+URL Check
+
+percentage:
+43.0
+
+Item 8
+
+rank:
+8
+
+name:
+URL Check — One Shot
+
+percentage:
+36.0
+
+Item 9
+
+rank:
+9
+
+name:
+Privacy Violation
+
+percentage:
+33.0
+
+Item 10
+
+rank:
+10
+
+name:
+Phishing
+
+percentage:
+30.0
+
+====================================================
+# tables
+
+Tabl 1
+
+id:
+tbl1
+
+title:
+AI/ML Applications with the Most DLP Policy Violations
+
+page:
+15
+
+caption:
+AI/ML APPLICATIONS WITH THE MOST DLP POLICY VIOLATIONS
+
+## headers
+
+- Application
+- DLP Violations Count
+
+## rows
+
+Row 1
+
+- ChatGPT
+- 410,181,006
+
+Row 2
+
+- Codeium
+- 242,263,311
+
+Row 3
+
+- GitHub Copilot
+- 31,223,009
+
+Row 4
+
+- Claude
+- 14,417,246
+
+Row 5
+
+- Wordtune
+- 5,161,758
+
+Row 6
+
+- DeepL
+- 2,037,613
+
+Row 7
+
+- QuillBot
+- 1,960,391
+
+Row 8
+
+- Microsoft Copilot
+- 1,858,952
+
+Row 9
+
+- Perplexity
+- 1,235,129
+
+Row 10
+
+- Google Gemini
+- 841,374
+
+====================================================
+# figures
+
+Figur 1
+
+id:
+fig1
+
+figure_number:
+1
+
+title:
+Global AI/ML transaction growth throughout 2025
+
+page:
+8
+
+figure_type:
+line_chart
+
+Figur 2
+
+id:
+fig2
+
+figure_number:
+2
+
+title:
+Distribution of enterprise AI adoption
+
+page:
+9
+
+figure_type:
+pie_chart
+
+Figur 3
+
+id:
+fig3
+
+figure_number:
+3
+
+title:
+LLM vendor transaction trends throughout 2025
+
+page:
+10
+
+figure_type:
+line_chart
+
+Figur 4
+
+id:
+fig4
+
+figure_number:
+4
+
+title:
+Top 20 AI/ML applications by transaction volume
+
+page:
+11
+
+figure_type:
+bar_chart
+
+====================================================
+# case_studies
+
+Case_study 1
+
+title:
+GenAI-enhanced malware and social engineering in DPRK-linked campaigns
+
+summary:
+DPRK-linked actors (such as Lazarus / APT38) in campaigns like Contagious Interview use GenAI to generate hyper-realistic job offer lures and craft malware components like BeaverTail and InvisibleFerret.
+
+key_takeaway:
+GenAI is lowering the barrier for state-sponsored threat actors to craft authentic social engineering lures and iterate malware payloads.
+
+page_start:
+28
+
+page_end:
+32
+
+victim:
+Software engineers and cryptocurrency developers
+
+industry:
+Technology / Crypto
+
+threat_actor:
+DPRK-linked actors (Contagious Interview)
+
+campaign:
+Contagious Interview Recruitment Scam
+
+targeted_brand:
+LinkedIn, Various Tech Companies
+
+initial_access:
+AI-generated recruitment messages
+
+execution:
+Fake coding interview challenge downloading BeaverTail / InvisibleFerret
+
+payload:
+BeaverTail infostealer / InvisibleFerret backdoor
+
+impact:
+Cryptocurrency wallet theft and developer machine compromise
+
+attack_chain:
+[]
+
+attack_flow:
+[]
+
+lists:
+[]
+
+code_snippets:
+[]
+
+phishing_kits:
+[]
+
+cves:
+[]
+
+mitigations:
+[]
+
+figures:
+[]
+
+references:
+[]
+
+## timeline
+
+- 2025
+
+## tools
+
+- ChatGPT
+- Claude
+
+## malware
+
+- BeaverTail
+- InvisibleFerret
+
+## ai_platforms
+
+- OpenAI
+- Anthropic
+
+## iocs
+
+domains:
+[]
+
+urls:
+[]
+
+ips:
+[]
+
+emails:
+[]
+
+hashes:
+[]
+
+files:
+[]
+
+targeted_paths:
+[]
+
+repositories:
+[]
+
+registry_keys:
+[]
+
+mutexes:
+[]
+
+user_agents:
+[]
+
+certificates:
+[]
+
+ja3:
+[]
+
+Case_study 2
+
+title:
+Emerging AI indicators in campaign targeting the South Asia region
+
+summary:
+ThreatLabz detected emerging AI-driven indicators in threat activity targeting organizations in South Asia, including automated lure generation and dynamic C2 communication.
+
+key_takeaway:
+Regional campaigns are rapidly integrating GenAI tools to personalize lures and automate attack infrastructure.
+
+page_start:
+33
+
+page_end:
+33
+
+victim:
+South Asian government and defense entities
+
+industry:
+Government / Defense
+
+threat_actor:
+Unattributed regional actor
+
+campaign:
+South Asia Regional AI Campaign
+
+targeted_brand:
+Regional Government Portals
+
+initial_access:
+AI-crafted phishing communications
+
+execution:
+Automated payload delivery
+
+payload:
+Custom RAT / infostealer
+
+impact:
+Intelligence gathering and initial foothold
+
+attack_chain:
+[]
+
+attack_flow:
+[]
+
+lists:
+[]
+
+code_snippets:
+[]
+
+tools:
+[]
+
+malware:
+[]
+
+phishing_kits:
+[]
+
+ai_platforms:
+[]
+
+cves:
+[]
+
+mitigations:
+[]
+
+figures:
+[]
+
+references:
+[]
+
+## timeline
+
+- 2025
+
+## iocs
+
+domains:
+[]
+
+urls:
+[]
+
+ips:
+[]
+
+emails:
+[]
+
+hashes:
+[]
+
+files:
+[]
+
+targeted_paths:
+[]
+
+repositories:
+[]
+
+registry_keys:
+[]
+
+mutexes:
+[]
+
+user_agents:
+[]
+
+certificates:
+[]
+
+ja3:
+[]
+
+Case_study 3
+
+title:
+What’s really breaking in enterprise AI systems
+
+summary:
+Zscaler Red Teaming conducted empirical vulnerability testing across 25+ enterprise AI deployments, revealing a median time to first critical failure of 1 hour 27 minutes, with 90% of systems failing within 16 minutes.
+
+key_takeaway:
+Enterprise AI models lack robust guardrails out of the box; prompt injection, bias, off-topic manipulation, and privacy violations remain major attack surfaces requiring inline AI security guardrails.
+
+page_start:
+34
+
+page_end:
+37
+
+victim:
+Enterprise AI deployments
+
+industry:
+Cross-industry
+
+threat_actor:
+Zscaler Red Team (Adversarial Simulation)
+
+campaign:
+Enterprise AI Red Teaming Benchmark
+
+targeted_brand:
+Custom Enterprise LLM Assistants
+
+initial_access:
+Adversarial prompt injection and probe inputs
+
+execution:
+Bypassing system prompt guardrails to elicit confidential data or unauthorized actions
+
+payload:
+Prompt jailbreaks
+
+impact:
+Data leakage, system prompt extraction, brand manipulation
+
+attack_chain:
+[]
+
+attack_flow:
+[]
+
+lists:
+[]
+
+code_snippets:
+[]
+
+malware:
+[]
+
+phishing_kits:
+[]
+
+ai_platforms:
+[]
+
+cves:
+[]
+
+figures:
+[]
+
+references:
+[]
+
+## timeline
+
+- 2025
+
+## tools
+
+- Zscaler Red Teaming Suite
+
+## iocs
+
+domains:
+[]
+
+urls:
+[]
+
+ips:
+[]
+
+emails:
+[]
+
+hashes:
+[]
+
+files:
+[]
+
+targeted_paths:
+[]
+
+repositories:
+[]
+
+registry_keys:
+[]
+
+mutexes:
+[]
+
+user_agents:
+[]
+
+certificates:
+[]
+
+ja3:
+[]
+
+## mitigations
+
+- Zscaler AI Protect
+- Inline Prompt Inspection
+
+====================================================
+# predictions
+
+Prediction 1
+
+title:
+Embedded AI Will Become the primary Vector for Unnoticed Data Loss
+
+description:
+Features embedded in everyday SaaS applications will silently transmit sensitive corporate data to external LLM providers without explicit user consent or traditional security team visibility.
+
+implication:
+Organizations must extend DLP and shadow AI controls beyond standalone AI websites to cover embedded API connections inside core SaaS tools.
+
+page:
+40
+
+## related_entities
+
+- Embedded AI
+- SaaS Platforms
+
+Prediction 2
+
+title:
+Adversaries Will Deploy Autonomous AI Agents for Real-Time Vulnerability Exploitation
+
+description:
+Threat actors will transition from AI-assisted content generation to fully autonomous AI agents capable of discovering software vulnerabilities, writing tailored exploits, and pivoting through networks.
+
+implication:
+Defenders must automate threat containment to respond at machine speed rather than relying on human SOC analyst reaction times.
+
+page:
+40
+
+## related_entities
+
+- Autonomous AI Exploitation
+
+Prediction 3
+
+title:
+AI Model Inversion and Data Poisoning Will Threaten Proprietary Enterprise Models
+
+description:
+Attackers will target enterprise-customized models to reconstruct fine-tuning data sets (model inversion) or manipulate training pipelines (data poisoning) to introduce logic flaws.
+
+implication:
+Enterprise AI pipelines need end-to-end data integrity validation and strict access controls over model weights and training repositories.
+
+page:
+41
+
+## related_entities
+
+- Model Inversion
+- Data Poisoning
+
+Prediction 4
+
+title:
+Regulatory Enforcement Will Penalize Unmonitored AI Data Transfers
+
+description:
+Global privacy regulators (under the EU AI Act and state AI laws) will issue significant fines for organizations that fail to audit or restrict employee data transfers to non-compliant AI providers.
+
+implication:
+Compliance and security teams must implement strict AI governance and real-time transaction monitoring.
+
+page:
+41
+
+## related_entities
+
+- EU AI Act
+
+Prediction 5
+
+title:
+Inline AI Security Control Will Replace Post-Hoc Auditing
+
+description:
+Log-based post-incident audits will be recognized as inadequate; organizations will mandate real-time inline proxy inspection of AI prompts and responses to prevent leaks before they hit the wire.
+
+implication:
+Inline SSL inspection and real-time prompt filtering will become standard architecture requirements.
+
+page:
+41
+
+## related_entities
+
+- Zscaler AI Protect
+
+====================================================
+# best_practices
+
+Best_practic 1
+
+category:
+Gain Full Visibility Into Standalone and Embedded AI Usage
+
+page:
+42
+
+## recommendations
+
+- Perform continuous shadow AI discovery across all enterprise endpoints and SaaS apps
+- Catalog all approved and unapproved AI applications and LLM vendors in use
+
+Best_practic 2
+
+category:
+Enforce Strict Granular Access Controls
+
+page:
+42
+
+## recommendations
+
+- Implement role-based access policies restricting high-risk AI applications by department
+- Require user authentication and tenant restrictions for approved AI tools
+
+Best_practic 3
+
+category:
+Prevent Data Loss to External Models
+
+page:
+43
+
+## recommendations
+
+- Deploy inline DLP inspection for all prompts, uploads, and file attachments sent to AI services
+- Block source code, PII, financial data, and intellectual property transfers to unauthorized models
+
+Best_practic 4
+
+category:
+Isolate High-Risk AI Interactions
+
+page:
+43
+
+## recommendations
+
+- Use Zero Trust Browser Isolation when users interact with unvetted GenAI websites
+- Prevent execution of untrusted AI-generated scripts without sandbox analysis
+
+Best_practic 5
+
+category:
+Conduct Regular Red Teaming and Vulnerability Assessments
+
+page:
+44
+
+## recommendations
+
+- Subject internal LLMs and RAG pipelines to systematic prompt injection and bias testing
+- Audit system prompts and fine-tuning datasets for exposed secrets or bypass routes
+
+Best_practic 6
+
+category:
+Establish Comprehensive AI Governance and Compliance
+
+page:
+44
+
+## recommendations
+
+- Align enterprise AI policies with frameworks like NIST AI RMF and EU AI Act requirements
+- Maintain clear incident response playbooks for AI data leaks or model compromises
+
+Best_practic 7
+
+category:
+Secure Custom RAG and Agentic Workflows
+
+page:
+44
+
+## recommendations
+
+- Apply zero trust access controls between enterprise databases, vector stores, and AI agents
+- Restrict agent privilege levels to minimum required data sources
+
+====================================================
+# zscaler_products
+
+Zscaler_product 1
+
+name:
+Zscaler AI Protect
+
+description:
+Delivers comprehensive zero trust security for enterprise AI initiatives, discovering shadow AI, blocking sensitive data loss, and enforcing inline prompt guardrails.
+
+## use_cases
+
+- Shadow AI Discovery
+- Inline Prompt DLP
+- GenAI Guardrails
+
+Zscaler_product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+description:
+Inspects all outbound web and AI transactions, enforcing URL filtering and threat protection.
+
+## use_cases
+
+- AI URL Filtering
+- Malware Blocking
+
+Zscaler_product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+description:
+Secures connectivity to internal enterprise LLM deployments and vector databases.
+
+## use_cases
+
+- Private LLM Access
+- Microsegmentation
+
+Zscaler_product 4
+
+name:
+Data Loss Prevention (DLP)
+
+description:
+Prevents intellectual property, PII, and source code from leaking into external AI models.
+
+## use_cases
+
+- AI Prompt Data Inspection
+
+Zscaler_product 5
+
+name:
+Zscaler Deception
+
+description:
+Deploys AI decoys to detect reconnaissance against enterprise AI infrastructure.
+
+## use_cases
+
+- AI Infrastructure Threat Detection
+
+====================================================
+# methodology
+
+timeframe:
+January 2025 - December 2025
+
+## datasets
+
+- Zscaler Zero Trust Exchange global telemetry (845+ billion AI/ML transactions logged in 2025)
+- Zscaler Red Teaming benchmark dataset across 25+ enterprise AI environments
+
+## paragraphs
+
+Paragraph 1
+
+paragraph_id:
+m1
+
+### sentences
+
+1.
+This report analyzes anonymized, aggregated telemetry processed by the Zscaler Zero Trust Exchange between January and December 2025.
+
+2.
+ThreatLabz evaluated global transaction volumes, application usage patterns, DLP policy violations, and red teaming exploit data to provide empirical insights into enterprise AI security risks.
+
+## limitations
+
+- Telemetry reflects traffic routed through Zscaler Zero Trust Exchange; unrouted direct device traffic is excluded.
+
+====================================================
+# glossary
+
+Glossary 1
+
+term:
+LLM
+
+definition:
+Large Language Model: Deep learning model trained on massive text datasets for natural language understanding and generation.
+
+Glossary 2
+
+term:
+RAG
+
+definition:
+Retrieval-Augmented Generation: Architecture connecting an LLM to external enterprise databases for context-aware responses.
+
+Glossary 3
+
+term:
+Prompt Injection
+
+definition:
+Technique where malicious user input manipulates an LLM into ignoring system instructions or executing unauthorized actions.
+
+Glossary 4
+
+term:
+Shadow AI
+
+definition:
+Unsanctioned or unmonitored use of external AI applications by enterprise employees.
+
+====================================================
+# references
+
+Referenc 1
+
+title:
+EU Artificial Intelligence Act
+
+organization:
+European Union
+
+url:
+https://ec.europa.eu
+
+type:
+Regulation
+
+Referenc 2
+
+title:
+NIST AI Risk Management Framework
+
+organization:
+NIST
+
+url:
+https://www.nist.gov
+
+type:
+Framework
+
+Referenc 3
+
+title:
+ThreatLabz Research Portal
+
+organization:
+Zscaler ThreatLabz
+
+url:
+https://research.zscaler.com
+
+type:
+Blog
+
+====================================================
+# relationships
+
+Relationship 1
+
+source_type:
+Threat Actor
+
+source:
+DPRK / Lazarus
+
+relationship:
+uses
+
+target_type:
+Application
+
+target:
+GenAI Chatbots
+
+evidence:
+Uses GenAI to draft recruitment messages and refine malware
+
+Relationship 2
+
+source_type:
+Application
+
+source:
+ChatGPT
+
+relationship:
+causes
+
+target_type:
+Risk
+
+target:
+DLP Policy Violations
+
+evidence:
+Logged 410,181,006 DLP violations in 2025
+
+====================================================
+# about
+
+organization:
+Zscaler ThreatLabz
+
+## paragraphs
+
+Paragraph 1
+
+paragraph_id:
+a1
+
+### sentences
+
+1.
+ThreatLabz is the security research arm of Zscaler.
+
+2.
+This world-class team is responsible for hunting new threats and ensuring that the thousands of organizations using the global Zscaler platform are always protected.
+
+3.
+ThreatLabz regularly publishes in-depth analyses of new and emerging threats on its portal, research.zscaler.com.
+
+====================================================
+# extra_metadata
+
+contact_phone:
++1 408.533.0288
+
+address:
+120 Holger Way, San Jose, CA 95134
+
+stock_ticker:
+NASDAQ: ZS
+
+## twitter_handles
+
+- @ThreatLabz
+- @zscaler

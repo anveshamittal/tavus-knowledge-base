@@ -1,0 +1,443 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/csr
+
+slug:
+csr
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:55:17.572387Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+CSR Gains Consistent Decryption and Inspection Anywhere
+
+subtitle:
+with the Zscaler Zero Trust Exchange
+
+customer_name:
+CSR
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Protect users anywhere from malware and other threats with consistent policy enforcement, TLS/SSL decryption, and inspection
+
+## results
+
+- Provides complete decryption and inspection of TLS/SSL traffic
+- Filters content intelligently, without restricting benign traffic
+- Enables consistent policy enforcement without continuous manual tuning
+- Expands services easily on a fully integrated, cloud native platform
+- Delivers identical protection at any location—in-office or remote
+
+====================================================
+# customer_snapshot
+
+title:
+CSR
+
+description:
+Founded in 1855, CSR manufactures trusted products for home building, renovation, and commercial construction. It is a top 200 ASX-listed company with more than 2,500 employees across Australia and New Zealand, and a network of retail outlets, manufacturing sites, distributors, and sales and support staff.
+
+industry:
+Manufacturing
+
+headquarters:
+North Ryde, Australia
+
+size:
+2,500+ employees at 130+ sites in in Australia and New Zealand
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/6y8pe5aro5
+
+provider:
+wistia
+
+video_id:
+6y8pe5aro5
+
+title:
+CSR on Why Zscaler
+
+description:
+a CSR on Why Zscaler video
+
+duration_seconds:
+124.24
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/d8c6659aac050dd0beb42a76490136d7.png
+
+### transcript
+
+language:
+eng
+
+#### sentences
+
+1.
+Says Art is a an Australian New Zealand building products company.
+
+2.
+We manufacture, a lot of products that you would probably find in your house, everything from roof tiles to glass, bricks, paving, insulation, CSR has around four thousand employees.
+
+3.
+We have around a hundred and seventy sites, which range from small trade centers to large factory environments.
+
+4.
+So malware was a particular problem.
+
+5.
+We we didn't really have an effective malware filtering, could role within the existing, platform.
+
+6.
+We wanted a way to deploy a policy, which would be applied consistently regardless of where the user is located, and and the old system we the traffic was essentially unfiltered.
+
+7.
+The users were connected to the corporate VPN, but when they disconnect that traffic would go directly to the internet.
+
+8.
+So that there was a real gap in in the capability there.
+
+9.
+One of the other challenges we had was around SSL decryption and actually being able to inspect the content in order to enforce policies consistently.
+
+10.
+We try not to restrict content, except where it's potentially malicious.
+
+11.
+And we have really entrusted that part, to Zscaler, and we feel confident that the technology is continually evolving to keep pace with the types of threats that exist.
+
+12.
+We really wanted a bit of a set and forget with regards to these are the things that we want people to use, and these are the things that we don't, and then, and we we don't really want to have to spend too much time actually you know, tweaking those systems.
+
+13.
+So we're very happy with the Zscaler service.
+
+14.
+And indeed, we're looking to build on, services that we currently use with regards to our remote sites and looking at ways that we can consume the internet directly at those sites.
+
+15.
+And that's an absolutely key and essential part of, the cloud based approach that, we've gotten with Zscaler and very, very fundamental to the strategy for those sites going forward.
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+Dave Edge (Security Architect, CSR)
+
+tag:
+self_introduction
+
+topic:
+Company overview and operations
+
+text:
+Says Art is a an Australian New Zealand building products company. We manufacture, a lot of products that you would probably find in your house, everything from roof tiles to glass, bricks, paving, insulation, CSR has around four thousand employees. We have around a hundred and seventy sites, which range from small trade centers to large factory environments.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+Dave Edge (Security Architect, CSR)
+
+tag:
+challenges
+
+topic:
+Malware filtering and VPN issues
+
+text:
+So malware was a particular problem. We we didn't really have an effective malware filtering, could role within the existing, platform. We wanted a way to deploy a policy, which would be applied consistently regardless of where the user is located, and and the old system we the traffic was essentially unfiltered.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+Dave Edge (Security Architect, CSR)
+
+tag:
+challenges
+
+topic:
+Traffic bypassing corporate VPN
+
+text:
+The users were connected to the corporate VPN, but when they disconnect that traffic would go directly to the internet. So that there was a real gap in in the capability there.
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+Dave Edge (Security Architect, CSR)
+
+tag:
+challenges
+
+topic:
+SSL decryption and policy enforcement
+
+text:
+One of the other challenges we had was around SSL decryption and actually being able to inspect the content in order to enforce policies consistently.
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+Dave Edge (Security Architect, CSR)
+
+tag:
+products_and_solutions
+
+topic:
+Zscaler for content filtering
+
+text:
+We try not to restrict content, except where it's potentially malicious. And we have really entrusted that part, to Zscaler, and we feel confident that the technology is continually evolving to keep pace with the types of threats that exist.
+
+Segment 6
+
+segment_id:
+6
+
+speaker:
+Dave Edge (Security Architect, CSR)
+
+tag:
+products_and_solutions
+
+topic:
+Set-and-forget policy management
+
+text:
+We really wanted a bit of a set and forget with regards to these are the things that we want people to use, and these are the things that we don't, and then, and we we don't really want to have to spend too much time actually you know, tweaking those systems.
+
+Segment 7
+
+segment_id:
+7
+
+speaker:
+Dave Edge (Security Architect, CSR)
+
+tag:
+products_and_solutions
+
+topic:
+Cloud-based approach with Zscaler
+
+text:
+So we're very happy with the Zscaler service. And indeed, we're looking to build on, services that we currently use with regards to our remote sites and looking at ways that we can consume the internet directly at those sites. And that's an absolutely key and essential part of, the cloud based approach that, we've gotten with Zscaler and very, very fundamental to the strategy for those sites going forward.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+84662787
+
+created_at:
+1643226384
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+We’re very happy with the Zscaler service, and indeed we’re looking to build on the services that we currently use with regards to remote sites.
+
+## speaker
+
+name:
+Dave Edge
+
+title:
+Security Architect
+
+company:
+CSR
+
+Hero Quote 2
+
+quote:
+We try not to restrict content except where it’s potentially malicious, and we have really entrusted that part to Zscaler.
+
+## speaker
+
+name:
+Dave Edge
+
+title:
+Security Architect
+
+company:
+CSR
+
+Hero Quote 3
+
+quote:
+We feel confident that [Zscaler’s] technology is continually evolving to keep pace with the types of threats that exist.
+
+## speaker
+
+name:
+Dave Edge
+
+title:
+Security Architect
+
+company:
+CSR
+
+Hero Quote 4
+
+quote:
+We really wanted a bit of a set and forget … we don’t want to have to spend too much time actually tweaking those systems.
+
+## speaker
+
+name:
+Dave Edge
+
+title:
+Security Architect
+
+company:
+CSR
+
+====================================================
+# customer_case_study
+
+title:
+null
+
+sections:
+[]
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+21996
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how CSR CSR Gains Consistent Decryption and Inspection Anywhere with with the Zscaler Zero Trust Exchange.
+
+og_title:
+CSR Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/csr

@@ -1,0 +1,474 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/primetals
+
+slug:
+primetals
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:50.375839Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Primetals Technologies Creates a Secure Hybrid Workplace with the Zscaler Zero Trust Exchange
+
+subtitle:
+Global leader in metal production ditches the data centers and consolidates a legacy security stack to accelerate digital transformation with Zscaler
+
+customer_name:
+Primetals Technologies
+
+## metrics
+
+Metric 1
+
+value:
+7.5K
+
+label:
+users secured with zero trust
+
+Metric 2
+
+value:
+35%
+
+label:
+reduction in infrastructure costs
+
+Metric 3
+
+value:
+4.53/5
+
+label:
+employee satisfaction rating
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- A traditional security stack built around data centers could not scale to support cloud-first digital transformation
+- Legacy security appliances, including firewalls and VPNs, were not agile enough to support a new SD-WAN network redesign
+- Outdated VPN appliances did not effectively secure remote connectivity for a globally dispersed, hybrid workforce
+
+## results
+
+- Simplifies the security stack, reduces reliance on data centers, and lowers spend on overall infrastructure costs
+- Secures seamless outbound and inbound connectivity for a hybrid user group, 25% of whom are working fully remote
+- Reduces the volume of help-desk tickets and resolves issues faster, improving end-user experience and easing administrative overhead
+
+====================================================
+# customer_snapshot
+
+title:
+Primetals Technologies
+
+description:
+Global leader in metallurgical plant solutions, specializing in steel production
+
+industry:
+High Tech
+
+headquarters:
+London, UK
+
+size:
+7,500+ employees
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+In the course of transitioning to the cloud, it was necessary to modernize the security stack… the Zscaler Zero Trust Exchange (ZTE) played a pivotal role in making that vision a reality.
+
+## speaker
+
+name:
+Ralph Deleja-Hotko
+
+title:
+Head of Backend and Cloud Solutions, Primetals Technologies
+
+company:
+Primetals Technologies
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+the-vision-of-an-internet-centric-workplace
+
+title:
+The vision of an internet-centric workplace
+
+### paragraphs
+
+Paragraph 1
+
+- As a global leader in metallurgical plant solutions, innovation is at the heart of Primetal Technologies’ business.
+- Driving technical progress in the metals industry with pioneering achievements in the field of future-oriented steel production is central to its mission.
+
+Paragraph 2
+
+- That trailblazing spirit carries over into its internal operational processes.
+- The IT team envisioned migrating work and production-related processes to the cloud with the goal of an internet-centric workplace.
+- To achieve this, the team realized that direct-to-internet connectivity would be required for an optimal user experience.
+
+Paragraph 3
+
+- “Direct connections to the internet are simply the best, most efficient, secure, and cost-effective way to access cloud services.
+- In the course of transitioning to the cloud, it was necessary to modernize the security stack, which was previously held centrally in the data centers,” said Ralph Deleja-Hotko, Head of Backend and Cloud Solutions at Primetals Technologies.
+- “Zscaler Zero Trust Exchange (ZTE) played a pivotal role in making that vision a reality.”
+
+Paragraph 4
+
+- The organization’s trusted technology partner, T-Systems, advocated for a holistic transformation approach with SD-WAN from Aruba combined with cloud-based internet security.
+- Based on the partner’s recommendations, the IT department initiated a network redesign that enabled direct-to-internet connectivity with the help of SD-WAN and replaced centrally held security hardware with the ZTE cloud-based platform.
+
+Paragraph 5
+
+- “It was clear to us that implementing SD-WAN would require that we lose the legacy security stack and procure an equivalent.
+- The path to the cloud was preordained for us,” observed Norbert Modl, Head of Information and Cybersecurity.
+
+### quotes
+
+Quot 1
+
+quote:
+Direct connections to the internet are simply the best, most efficient, secure, and cost-effective way to access cloud services. In the course of transitioning to the cloud, it was necessary to modernize the security stack, which was previously held centrally in the data centers. Zscaler Zero Trust Exchange (ZTE) played a pivotal role in making that vision a reality.
+
+#### speaker
+
+name:
+Ralph Deleja-Hotko
+
+title:
+Head of Backend and Cloud Solutions
+
+company:
+Primetals Technologies
+
+Section 2
+
+id:
+acceleration-of-the-hybrid-work-model
+
+title:
+Acceleration of the hybrid work model
+
+### paragraphs
+
+Paragraph 1
+
+- Primetals Technologies is involved in project planning, assembling, and commissioning of new plants spanning from Brazil to Europe, the Middle East, and Japan.
+- Given how geographically dispersed their customers are, much of the workforce is on the road.
+- When the COVID-19 pandemic required people to conduct business from home, one fourth of their employees began working remotely.
+- This sudden shift acted as a catalyst for adopting a hybrid work model.
+
+Paragraph 2
+
+- To lay the groundwork for a hybrid environment, the company moved to SaaS applications like Microsoft Teams and Microsoft 365.
+- With more employees accessing the network remotely, traditional VPN connectivity caused high levels of backhauling traffic and bottlenecks in the central internet connections.
+- The IT team knew they needed to find a way to prevent spikes in bandwidth and meet user demand for seamless connectivity to resources.
+
+Paragraph 3
+
+- The pandemic ultimately accelerated migration to cloud applications, a parallel push in network redesign, and IT security.
+
+Paragraph 4
+
+- “Through proactive planning and implementation of Zscaler, we were able to reduce high latency, inadequate performance, and remote worker dissatisfaction,” said Deleja-Hotko.
+
+### quotes
+
+Quot 1
+
+quote:
+Through proactive planning and implementation of Zscaler, we were able to reduce high latency, inadequate performance, and remote worker dissatisfaction.
+
+#### speaker
+
+name:
+Deleja-Hotko
+
+title:
+
+
+company:
+Primetals Technologies
+
+Quot 2
+
+quote:
+Thanks to Zscaler, we were able to shut down a number of our global data centers, and that saved us 30% to 35% of our costs.
+
+#### speaker
+
+name:
+Ralph Deleja-Hotko
+
+title:
+Head of Backend and Cloud Solutions
+
+company:
+Primetals Technologies
+
+Quot 3
+
+quote:
+Zscaler (has) brought us a big step closer to our vision, it has also solved many of our technical, financial, and application issues.
+
+#### speaker
+
+name:
+Ralph Deleja-Hotko
+
+title:
+Head of Backend and Cloud Solutions
+
+company:
+Primetals Technologies
+
+Quot 4
+
+quote:
+(By implementing) Zscaler, we were able to reduce high latency, inadequate performance, and remote worker dissatisfaction.
+
+#### speaker
+
+name:
+Ralph Deleja-Hotko
+
+title:
+Head of Backend and Cloud Solutions
+
+company:
+Primetals Technologies
+
+Section 3
+
+id:
+securing-the-future-in-partnership-with-zscaler
+
+title:
+Securing the future in partnership with Zscaler
+
+### paragraphs
+
+Paragraph 1
+
+- The new cloud platform supports a key pillar of the company's strategy, as it enables Primetals Technologies to implement a comprehensive zero trust approach.
+
+Paragraph 2
+
+- For example, partnering with Zscaler will enable faster onboarding of new employees from M&As.
+- ZPA enables these users to access business-critical resources without the need to migrate the entire network.
+- The organization is already planning to expand this microsegmentation approach to other areas.
+
+Paragraph 3
+
+- “In the long term, there should only be one global data center, and the rest of the infrastructure will be moved to the cloud.
+- Zero trust will enable us to be more agile,” explained Ralph Deleja-Hotko.
+
+### quotes
+
+Quot 1
+
+quote:
+In the long term, there should only be one global data center, and the rest of the infrastructure will be moved to the cloud. Zero trust will enable us to be more agile.
+
+#### speaker
+
+name:
+Ralph Deleja-Hotko
+
+title:
+Head of Backend and Cloud Solutions
+
+company:
+Primetals Technologies
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 4
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Accelerate M&A and Divestitures
+
+url:
+https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+
+Solution 2
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 3
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+Solution 4
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+64071
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Primetals Technologies Primetals Technologies Creates a Secure Hybrid Workplace with the Zscaler Zero Trust Exchange with Global leader in metal production ditches the data centers and consolidates a legacy security stack to accelerate digital transformation with Zscaler.
+
+og_title:
+Primetals Technologies Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/primetals

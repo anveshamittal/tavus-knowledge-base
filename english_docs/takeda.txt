@@ -1,0 +1,654 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/takeda
+
+slug:
+takeda
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:56:44.303957Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Takeda Pharmaceutical Empowers Users Worldwide
+
+subtitle:
+to Work from Anywhere with the Zscaler Zero Trust Exchange
+
+customer_name:
+Takeda
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Replace VPNS with secure remote access from anywhere worldwide
+
+## results
+
+- Reaps significant cost savings from retiring network hardware
+- Simplifies security administration
+- Improves user experience for both end users and operations
+- Provides policy-based, secure remote access from anywhere
+- Accelerates the company’s zero trust journey
+- Displaced VPNs and slashed NGFWs from 320 to less than 20
+
+====================================================
+# customer_snapshot
+
+title:
+Takeda
+
+description:
+The oldest pharmaceutical company in the world, Tokyo-based Takeda Pharmaceutical Company has more than 60 office and research locations in 110 countries around the world. From its Cambridge, Massachusetts offices, Takeda’s IT team manages systems for its global workforce.
+
+industry:
+Healthcare and Pharmaceutical
+
+headquarters:
+Tokyo, Japan
+
+size:
+47,000 employees in 110 countries
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Now IT can instead provide “an app-by-app type of approach to give folks what they need, and not have to over-provision access. … With the Zscaler Zero Trust Exchange, we’re much more flexible with what we can provide.
+
+## speaker
+
+name:
+Mike Towers
+
+title:
+Chief Digital Trust Officer
+
+company:
+Takeda
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+merger-drives-transformation-initiative
+
+title:
+Merger drives transformation initiative
+
+### paragraphs
+
+Paragraph 1
+
+- “When we acquired Shire PLC, we doubled the size of the company,” said Mike Towers, Takeda Pharmaceutical Company’s Chief Digital Trust Officer.
+- Tasked with merging the security infrastructure of the two entities, Towers found himself having to integrate an incongruous patchwork of network hardware technologies and protect an even more widely dispersed user base.
+
+Paragraph 2
+
+- The merger led to the creation of a corporate initiative to enable employees to work from anywhere.
+- Towers prioritized four objectives: secure remote access, VPN replacement, better user experience, and a focus on control, regardless of whether a system is on premises or in the cloud.
+
+### quotes
+
+Quot 1
+
+quote:
+When we acquired Shire PLC, we doubled the size of the company.
+
+#### speaker
+
+name:
+Mike Towers
+
+title:
+Chief Digital Trust Officer
+
+company:
+Takeda
+
+Section 2
+
+id:
+improving-agility-and-protection-without-ngfws
+
+title:
+Improving agility and protection without NGFWs
+
+### paragraphs
+
+Paragraph 1
+
+- Fortunately, Takeda had already invested in the Zscaler Zero Trust Exchange and begun rolling out its Zscaler Internet Access (ZIA) service, initially to secure employee internet egress via the cloud and provide employees with a better, more consistent user experience no matter their location or device.
+- But ZIA proved particularly valuable when Towers and his team were confronted with integrating what he called a “quite disjointed” network architecture.
+
+Paragraph 2
+
+- “[The combined company] had about 320 firewalls in local sites, regional sites, core sites, and so on,” recalled Towers.
+- “It was a very, very traditional, on-premises, network appliance-based architecture designed to protect the perimeter.”
+
+Paragraph 3
+
+- Towers knew that this legacy castle-and-moat security infrastructure was already inadequate to provide the desired level of protection against cyberthreats, so the merger just accelerated Takeda’s migration to the cloud.
+- “We were ready to move toward a zero trust type of model,” continued Towers.
+- “We wanted to do that as quickly as possible, so we standardized on ZIA.
+- By doing so, we displaced our next-gen firewalls.”
+
+Paragraph 4
+
+- Implementing a zero trust approach with ZIA and the Zero Trust Exchange gave Takeda greater flexibility in enabling secure employee connectivity via local internet breakouts.
+- “For our tens of thousands of employees spanning over 100 countries, we can apply the same security policies and provide a consistent experience—regardless of whether they are on premises or off,” Towers explained.
+- “Because of that flexibility, Zscaler allows us to improve both user experience and security.”
+
+### quotes
+
+Quot 1
+
+quote:
+For our tens of thousands of employees spanning over 100 countries, we can apply the same security policies and provide a consistent experience—regardless of whether they are on premises or off. Because of that flexibility, Zscaler allows us to improve both user experience and security.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Takeda
+
+Section 3
+
+id:
+deploying-remote-access-slowly-then-very-very-fast
+
+title:
+Deploying remote access slowly…then very, very fast
+
+### paragraphs
+
+Paragraph 1
+
+- In an industry built on research, Takeda Pharmaceutical Company relies heavily on internal development, and that requires extensive use of proprietary technologies, applications, and intellectual property.
+- In the past, that dependence on machines that must stay on premises and regulatory pressures had prevented Takeda’s migration to the cloud.
+
+Paragraph 2
+
+- Yet, looking to a cloud future, Towers envisioned a model of remote access for historically on-premises applications.
+- “We wanted to provide secure access to those applications without granting access to the full network,” he said.
+
+Paragraph 3
+
+- Consequently, Towers and his team turned to the Zero Trust Exchange and its Zscaler Private Access (ZPA) service, which provides fast, direct, secure access to private apps and services.
+- The initial ZPA rollout proceeded cautiously, with deployment prioritized by both application and user.
+- ZPA Towers also noted that Tokyo-headquartered Takeda — the oldest pharmaceutical firm in the world — is “values-driven,” and shifting to a cloud solution was a bit of a cultural change for the company.
+
+### quotes
+
+Quot 1
+
+quote:
+We wanted to provide secure access to those applications without granting access to the full network.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Takeda
+
+Quot 2
+
+quote:
+We were ready to move toward a zero trust model. We wanted to do that as quickly as possible, so we standardized on ZIA. By doing so, we displaced our next-gen firewalls.
+
+#### speaker
+
+name:
+Mike Towers
+
+title:
+Chief Digital Trust Officer
+
+company:
+Takeda
+
+Section 4
+
+id:
+goodbye-vpns
+
+title:
+Goodbye VPNs
+
+### paragraphs
+
+Paragraph 1
+
+- Deploying ZPA meant that Takeda could accomplish one of the initiative’s key objectives: replacing VPN hardware.
+- “Remote access historically has meant remote network access,” said Towers.
+- “We no longer think that way.
+- … access should be more about the applications and services folks need.”
+
+Paragraph 2
+
+- Besides providing more secure remote access, Takeda wanted to improve the user experience.
+- “ZPA allows us to have the application accessed without somebody having to ever think about whether they must click some other window or some other emulation engine to get to it,” continued Towers.
+- “We want to support that capability as quickly and with as little friction as possible.”
+
+### quotes
+
+Quot 1
+
+quote:
+Remote access historically has meant remote network access. We no longer think that way. … access should be more about the applications and services folks need.
+
+#### speaker
+
+name:
+Towers
+
+title:
+
+
+company:
+Takeda
+
+Quot 2
+
+quote:
+ZPA allows us to have the application accessed without somebody having to ever think about whether they must click some other window or some other emulation engine to get to it. We want to support that capability as quickly and with as little friction as possible.
+
+#### speaker
+
+name:
+Towers
+
+title:
+
+
+company:
+Takeda
+
+Quot 3
+
+quote:
+For our tens of thousands of employees spanning over 100 countries, we can apply the same security policies and provide a consistent experience—regardless of whether they are on premises or off.
+
+#### speaker
+
+name:
+Mike Towers
+
+title:
+Chief Digital Trust Officer
+
+company:
+Takeda
+
+Section 5
+
+id:
+when-working-from-home-becomes-the-new-normal
+
+title:
+When working from home becomes the new normal
+
+### paragraphs
+
+Paragraph 1
+
+- As Towers and his team were progressing with a measured ZPA rollout at Takeda, the coronavirus outbreak hit.
+- Like many multinational companies, Takeda saw its first operational impacts in China, where Towers notes branch offices were still using “legacy VPN infrastructure” on “dated network architectures that made application access and performance quite slow.” The solution?
+- A “quick pivot to ZPA,” led by Towers and team.
+
+Paragraph 2
+
+- But as the urgent need for employee remote access grew, Towers had to figure out how he and his colleagues around the world could sustain business continuity given such “unprecedented” challenges.
+- “We’ve never had a situation where we have so many people working from home,” he says.
+- “You practice for widespread work-from-home quite regularly, but no one practices with everyone doing it at the same time when all their children and families are home.” Access was one thing, managing crowded bandwidth was quite another: “Every worker [at home] is competing with Netflix and Xbox from the kids at the same time, so performance optimization for internet access is something that we’ve had to focus on.”
+
+Paragraph 3
+
+- Towers and team looked at how Takeda users work with internal applications.
+- They shifted Takeda’s “control and provisioning approach” so users would be concerned with which applications they needed to get their work done, and not so much with where those applications might reside.
+- “We don’t want to think that way anymore,” Towers explained.
+- “Now IT can instead provide “an app-by-app type of approach to give folks what they need, and not have to over-provision access.”
+
+### quotes
+
+Quot 1
+
+quote:
+legacy VPN infrastructure. dated network architectures that made application access and performance quite slow. quick pivot to ZPA.
+
+#### speaker
+
+name:
+Towers
+
+title:
+
+
+company:
+Takeda
+
+Quot 2
+
+quote:
+We’ve never had a situation where we have so many people working from home. You practice for widespread work-from-home quite regularly, but no one practices with everyone doing it at the same time when all their children and families are home. Every worker [at home] is competing with Netflix and Xbox from the kids at the same time, so performance optimization for internet access is something that we’ve had to focus on.
+
+#### speaker
+
+name:
+Towers
+
+title:
+
+
+company:
+Takeda
+
+Quot 3
+
+quote:
+control and provisioning approach. We don’t want to think that way anymore. Now IT can instead provide.
+
+#### speaker
+
+name:
+Towers
+
+title:
+
+
+company:
+Takeda
+
+Quot 4
+
+quote:
+This is a good time to be a security professional because you don’t have to worry about trying to balance user experience and security anymore. You can do both!
+
+#### speaker
+
+name:
+Mike Towers
+
+title:
+Chief Digital Trust Officer
+
+company:
+Takeda
+
+Section 6
+
+id:
+reaping-cost-savings-and-simplifying-security
+
+title:
+Reaping cost savings and simplifying security
+
+### paragraphs
+
+Paragraph 1
+
+- By leveraging the Zero Trust Exchange and its ZIA and ZPA services, Takeda has achieved what Towers calls “significant cost savings.” Retiring firewall hardware—from more than 320 appliances to a target of just a dozen—and VPN hardware eliminates a lot of future spending on upgrades and maintenance alone.
+- As employees have shifted to local internet breakouts, Towers has also been able to do away with costly networks.
+- “Ninety-eight percent of what [users are] going to is on the internet anyway,” he said.
+- “We can get rid of a lot of expensive WAN links.”
+
+Paragraph 2
+
+- In addition, after struggling with “a lot of niche point solutions,” Towers is now leveraging Cloud Access Security Broker (CASB) capabilities within the Zero Trust Exchange.
+- “Zscaler can help us do more with CASB controls, be smarter with the data, and make better security decisions based on data,” explained Towers.
+- “And because it’s in the cloud, and we’re already sending our traffic through it, we know that it will scale [and] be operationally stable.”
+
+### quotes
+
+Quot 1
+
+quote:
+significant cost savings. Ninety-eight percent of what [users are] going to is on the internet anyway. We can get rid of a lot of expensive WAN links.
+
+#### speaker
+
+name:
+Towers
+
+title:
+
+
+company:
+Takeda
+
+Quot 2
+
+quote:
+a lot of niche point solutions. Zscaler can help us do more with CASB controls, be smarter with the data, and make better security decisions based on data. And because it’s in the cloud, and we’re already sending our traffic through it, we know that it will scale [and] be operationally stable.
+
+#### speaker
+
+name:
+Towers
+
+title:
+
+
+company:
+Takeda
+
+Section 7
+
+id:
+looking-toward-a-bright-future
+
+title:
+Looking toward a bright future
+
+### paragraphs
+
+Paragraph 1
+
+- In the past two years, Towers and his IT team have had to adjust (much more adroitly than they could have imagined) to operational obstacles placed in their path.
+- But though Takeda’s secure cloud transformation may be progressing at a faster-than-expected pace within the company, Towers remains optimistic.
+
+Paragraph 2
+
+- “With the Zscaler Zero Trust Exchange, we’re much more flexible with what we can provide and since we’re running all our traffic through it, we know it can scale,” concluded Towers.
+- “This is a good time to be a security professional because you don’t have to worry about trying to balance user experience and security anymore.
+- You can do both!”
+
+### quotes
+
+Quot 1
+
+quote:
+With the Zscaler Zero Trust Exchange, we’re much more flexible with what we can provide and since we’re running all our traffic through it, we know it can scale. This is a good time to be a security professional because you don’t have to worry about trying to balance user experience and security anymore. You can do both!
+
+#### speaker
+
+name:
+Towers
+
+title:
+
+
+company:
+Takeda
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 2
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 3
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 3
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+42966
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Takeda Takeda Pharmaceutical Empowers Users Worldwide with to Work from Anywhere with the Zscaler Zero Trust Exchange.
+
+og_title:
+Takeda Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/takeda

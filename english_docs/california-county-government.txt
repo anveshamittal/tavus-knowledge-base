@@ -1,0 +1,816 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/california-county-government
+
+slug:
+california-county-government
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:08.538907Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+California County Gov’t Agency Enables Modern Workplace
+
+subtitle:
+for 70,000 Users to Work from Anywhere with Zscaler
+
+customer_name:
+California County Government
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Rapidly adopt a scalable zero trust network access solution to enable a smooth WFA transition and embrace a hybrid work model
+
+## results
+
+- Enables zero trust network access for WFA—20,000 employees transitioned within three weeks
+- Expands zero trust access to approximately 70,000 employees overall
+- Supplies executives with intuitive reporting that translates security data into actionable insights
+- Uncovers and protects apps previously unknown to the central security team across 36 business units
+- Provides a VPN-free solution to minimize attack surfaces and eliminate access barriers
+
+====================================================
+# customer_snapshot
+
+title:
+California County Government
+
+description:
+This California county government, the largest local government agency in the US, provides more than 12 million citizens—approximately 27% of California’s population—with services including law enforcement, tax collection, public health protection, social services, elections, and flood control.
+
+industry:
+Federal and Government
+
+headquarters:
+California, USA
+
+size:
+110,000 employees
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Zscaler enables our agency to operate using modern cybersecurity technologies and our users to enjoy a seamless work experience no matter where they are.
+
+## speaker
+
+name:
+Deputy General Mgr.
+
+title:
+Cybersecurity Governance and Operations
+
+company:
+California County Government
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+transforming-to-meet-shifting-priorities
+
+title:
+Transforming to meet shifting priorities
+
+### paragraphs
+
+Paragraph 1
+
+- Like many large enterprises, this large California county government was securing data for a modest number of remote employees until the COVID-19 pandemic transformed its workforce almost overnight.
+
+Paragraph 2
+
+- “Previously, we’d averaged about 1,000 remote workers and used a legacy system to secure access,” explained the Deputy General Manager of Cybersecurity Governance and Operations at the County.
+- “With the pandemic spreading, our board of supervisors notified everyone that they’d start working from home.
+- As our legacy system didn’t scale, we needed a new solution fast.”
+
+### quotes
+
+Quot 1
+
+quote:
+Previously, we’d averaged about 1,000 remote workers and used a legacy system to secure access. With the pandemic spreading, our board of supervisors notified everyone that they’d start working from home. As our legacy system didn’t scale, we needed a new solution fast.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+California County Government
+
+Section 2
+
+id:
+visibility-scalability-and-performance-with-zscaler
+
+title:
+Visibility, scalability, and performance with Zscaler
+
+### paragraphs
+
+Paragraph 1
+
+- As the largest local government agency in the US, with over 110,000 employees serving 12 million citizens, this County’s mandate ranges from animal control to public health.
+- From an organizational perspective, it operates as 36 autonomous groups, each supporting its own IT staff and technology applications, with the exception of services like cybersecurity.
+- “At the Internal Services Department, we’re responsible for cybersecurity across all of the departments,” the Deputy General Manager said.
+
+Paragraph 2
+
+- Faced with quickly securing access to thousands of applications, for which it had no prior visibility, the cybersecurity team stepped up its evaluation of cloud-based offerings and selected Zscaler as a holistic zero trust network access (ZTNA) solution.
+
+Paragraph 3
+
+- “Although we were already considering various cloud-based options, we needed to make the remote transition without knowing what applications were being accessed, or by whom,” said the Deputy General Manager.
+- “Zscaler stood out for providing secure access by deploying an app on a user’s device, minimizing performance impacts on even our oldest machines.”
+
+### quotes
+
+Quot 1
+
+quote:
+At the Internal Services Department, we’re responsible for cybersecurity across all of the departments.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+California County Government
+
+Quot 2
+
+quote:
+Although we were already considering various cloud-based options, we needed to make the remote transition without knowing what applications were being accessed, or by whom. Zscaler stood out for providing secure access by deploying an app on a user’s device, minimizing performance impacts on even our oldest machines.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+California County Government
+
+Section 3
+
+id:
+rapid-zpa-deployment-to-first-18-000-users
+
+title:
+Rapid ZPA deployment to first 18,000 users
+
+### paragraphs
+
+Paragraph 1
+
+- To meet its immediate work-from-anywhere (WFA) needs, the County initially elected to deploy Zscaler Private Access (ZPA).
+- A VPN-free solution, ZPA accomplishes its zero trust mission using two lightweight applications.
+- The first, called Client Connector, is deployed on client devices.
+- The second, App Connector, is deployed to an enterprise’s internal applications, whether running on a public cloud or within a data center.
+
+Paragraph 2
+
+- “We simply gave each IT department the Zscaler Client Connector app on a Friday and asked them to deploy it on County-issued devices,” the Deputy General Manager said.
+
+Paragraph 3
+
+- Once Client Connector was on user devices, the cybersecurity team could see what internal applications each user needed.
+- Then, App Connector was implemented accordingly.
+
+Paragraph 4
+
+- “Over the weekend, we deployed ZPA to 500 information technology users,” said the Deputy General Manager.
+- “By the end of the first week, we were deployed to 5,000 users and within three weeks we’d completed all 18,000 County-owned devices.”
+
+### quotes
+
+Quot 1
+
+quote:
+We simply gave each IT department the Zscaler Client Connector app on a Friday and asked them to deploy it on County-issued devices.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+California County Government
+
+Quot 2
+
+quote:
+Over the weekend, we deployed ZPA to 500 information technology users. By the end of the first week, we were deployed to 5,000 users and within three weeks we’d completed all 18,000 County-owned devices.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+California County Government
+
+Section 4
+
+id:
+expanding-its-zero-trust-platform-with-zia
+
+title:
+Expanding its zero trust platform with ZIA
+
+### paragraphs
+
+Paragraph 1
+
+- Next, the cybersecurity team turned to protecting cloud-based applications accessed via the internet, like Microsoft Office 365.
+- “Our workforce heavily leverages Office 365, particularly Teams, Outlook, OneDrive, and SharePoint,” the Deputy General Manager said.
+- “We also needed an access solution that could accommodate our long device refresh cycles.”
+
+Paragraph 2
+
+- The County elected to expand its Zscaler Zero Trust Exchange™ platform deployment by adopting Zscaler Internet Access (ZIA).
+- With ZIA, the agency can provide WFA access to SaaS applications and the internet, complementing private-access ZPA.
+
+Paragraph 3
+
+- “Like the ZPA solution, ZIA also uses the same agent, Zscaler Client Connector, on devices,” said the Deputy General Manager.
+- “Others require multiple agents that can bog down devices with memory limitations.”
+
+Paragraph 4
+
+- In addition, Zscaler’s direct peering connection to Microsoft was a plus for accelerating, simplifying, and securing Office 365 access.
+- “Routing traffic directly to Microsoft, rather than out to the internet and back to our systems, was a significant differentiator for optimizing user experiences, especially bandwidth-hungry Teams,” the Deputy General Manager said.
+
+### quotes
+
+Quot 1
+
+quote:
+Our workforce heavily leverages Office 365, particularly Teams, Outlook, OneDrive, and SharePoint. We also needed an access solution that could accommodate our long device refresh cycles.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+California County Government
+
+Quot 2
+
+quote:
+Like the ZPA solution, ZIA also uses the same agent, Zscaler Client Connector, on devices. Others require multiple agents that can bog down devices with memory limitations.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+California County Government
+
+Quot 3
+
+quote:
+Routing traffic directly to Microsoft, rather than out to the internet and back to our systems, was a significant differentiator for optimizing user experiences, especially bandwidth-hungry Teams.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+California County Government
+
+Quot 4
+
+quote:
+By the end of the first week, we were deployed to 5,000 users and within three weeks we’d completed all 18,000 County-owned devices.
+
+#### speaker
+
+name:
+Deputy General Manager
+
+title:
+Cybersecurity Governance and Operations
+
+company:
+California County Government
+
+Section 5
+
+id:
+zscaler-professional-services-help-meet-compressed-deadline
+
+title:
+Zscaler professional services help meet compressed deadline
+
+### paragraphs
+
+Paragraph 1
+
+- With its year-end deadline approaching for migrating approximately 70,000 workers from an existing solution to ZIA, the County contended with an exceedingly compressed implementation of about six weeks.
+
+Paragraph 2
+
+- “As if working as a dispersed organization during the pandemic wasn’t challenging enough, we couldn’t alter our systems before November 10th due to an election freeze,” said the Deputy General Manager.
+
+Paragraph 3
+
+- By utilizing Zscaler professional services, the County completed the initiative on time.
+- “In collaboration with Zscaler, we migrated all users well ahead of our deadline,” the Deputy General Manager said.
+- “Among other things, we credit Zscaler’s comprehensive and systematic project management approach with ensuring we stayed on track.”
+
+### quotes
+
+Quot 1
+
+quote:
+As if working as a dispersed organization during the pandemic wasn’t challenging enough, we couldn’t alter our systems before November 10th due to an election freeze.
+
+#### speaker
+
+name:
+Deputy General Manager
+
+title:
+Cybersecurity Governance and Operations
+
+company:
+California County Government
+
+Quot 2
+
+quote:
+In collaboration with Zscaler, we migrated all users well ahead of our deadline. Among other things, we credit Zscaler’s comprehensive and systematic project management approach with ensuring we stayed on track.
+
+#### speaker
+
+name:
+Deputy General Manager
+
+title:
+Cybersecurity Governance and Operations
+
+company:
+California County Government
+
+Section 6
+
+id:
+itemizing-applications-across-all-business-units
+
+title:
+Itemizing applications across all business units
+
+### paragraphs
+
+Paragraph 1
+
+- Today, the County is realizing multiple rewards from its cloud-based Zscaler Zero Trust Exchange platform, which is designed to secure work-from-anywhere while facilitating exceptional user experiences.
+
+Paragraph 2
+
+- According to the Deputy General Manager, business users are pleased with access simplicity and seamlessness.
+- “They’re particularly impressed that they only need to log in once a day and require no training classes because it’s just that easy,” he said.
+
+Paragraph 3
+
+- For the County’s cybersecurity team, Zscaler delivered unprecedented visibility into the applications that users access.
+- “With Zscaler, we now have an itemization of all applications across every department that includes valuable specifics, such as how many individuals use a particular application, which department they work for, and how often the application is accessed,” said the Deputy General Manager.
+- “We’re using the information to build a detailed inventory that is exceptionally helpful for supporting our broader security strategy.”
+
+### quotes
+
+Quot 1
+
+quote:
+They’re particularly impressed that they only need to log in once a day and require no training classes because it’s just that easy.
+
+#### speaker
+
+name:
+Deputy General Manager
+
+title:
+Cybersecurity Governance and Operations
+
+company:
+California County Government
+
+Quot 2
+
+quote:
+With Zscaler, we now have an itemization of all applications across every department that includes valuable specifics, such as how many individuals use a particular application, which department they work for, and how often the application is accessed. We’re using the information to build a detailed inventory that is exceptionally helpful for supporting our broader security strategy.
+
+#### speaker
+
+name:
+Deputy General Manager
+
+title:
+Cybersecurity Governance and Operations
+
+company:
+California County Government
+
+Quot 3
+
+quote:
+Among other things, we credit Zscaler’s comprehensive and systematic project management approach with ensuring we stayed on track.
+
+#### speaker
+
+name:
+Deputy General Manager
+
+title:
+Cybersecurity Governance and Operations
+
+company:
+California County Government
+
+Section 7
+
+id:
+executive-insights-app-supplies-real-time-context
+
+title:
+Executive Insights App supplies real-time context
+
+### paragraphs
+
+Paragraph 1
+
+- A platform feature the County’s senior leadership particularly appreciates is the Zscaler Executive Insights App.
+- It translates cybersecurity data into real-time curated views across all Zscaler solutions.
+- Visualizations include the County’s risk scores and network usage along with industry benchmarks, breaking security news, and research.
+
+Paragraph 2
+
+- “Our executives are excited they can use their smartphone or tablet to see which applications are being accessed by whom, where, and when,” said the Deputy General Manager.
+
+Paragraph 3
+
+- The app also assists with maintaining business productivity, displaying traffic trends and identifying application utilization.
+- “It empowers executives to pose more insightful questions and assists our security team with understanding the source of a question in order to supply a relevant answer,” the Deputy General Manager said.
+- “Plus, having contextual insights enables us to adjust policies, which ultimately contributes to making us more secure,” he added.
+
+### quotes
+
+Quot 1
+
+quote:
+Our executives are excited they can use their smartphone or tablet to see which applications are being accessed by whom, where, and when.
+
+#### speaker
+
+name:
+Deputy General Manager
+
+title:
+Cybersecurity Governance and Operations
+
+company:
+California County Government
+
+Quot 2
+
+quote:
+It empowers executives to pose more insightful questions and assists our security team with understanding the source of a question in order to supply a relevant answer. Plus, having contextual insights enables us to adjust policies, which ultimately contributes to making us more secure.
+
+#### speaker
+
+name:
+Deputy General Manager
+
+title:
+Cybersecurity Governance and Operations
+
+company:
+California County Government
+
+Section 8
+
+id:
+zero-trust-platform-contributes-to-work-life-and-sustainability-goals
+
+title:
+Zero trust platform contributes to work-life and sustainability goals
+
+### paragraphs
+
+Paragraph 1
+
+- Moving forward, the County intends to continue expanding its zero trust approach to facilitate the agency’s planned post-COVID hybrid work model, which will address work-life balance and environmental sustainability goals.
+
+Paragraph 2
+
+- “Our County spans 110 miles end to end, which means a four hour round-trip commute for some people,” said the Deputy General Manager.
+- “Our employees are definitely more enthusiastic about working remotely, which means we foresee continuing to expand our cloud-based applications and cybersecurity.”
+
+Paragraph 3
+
+- With Zscaler, the County can enable its envisioned hybrid workplace.
+- Among the options under consideration are ZPA Private Service Edge.
+- This allows employees at hybrid work environments to enjoy the same zero trust access experience when they’re in the office as they do when remote.
+
+Paragraph 4
+
+- “We plan to supply workers with the same seamless experience when they’re on-premise as they have when they’re off,” the Deputy General Manager said.
+- “It also ensures our security team can maintain visibility and enable evolving our least-privileged access policies to continue improving our security posture.”
+
+Paragraph 5
+
+- Regardless of which additional solutions it adopts, the County expects to continue receiving a range of benefits from its new zero trust platform.
+- “Zscaler enables our agency to operate using modern cybersecurity technologies,” said the Deputy General Manager.
+- “And our users receive a smooth access experience no matter where they are.”
+
+### quotes
+
+Quot 1
+
+quote:
+Our County spans 110 miles end to end, which means a four hour round-trip commute for some people. Our employees are definitely more enthusiastic about working remotely, which means we foresee continuing to expand our cloud-based applications and cybersecurity.
+
+#### speaker
+
+name:
+Deputy General Manager
+
+title:
+Cybersecurity Governance and Operations
+
+company:
+California County Government
+
+Quot 2
+
+quote:
+We plan to supply workers with the same seamless experience when they’re on-premise as they have when they’re off. It also ensures our security team can maintain visibility and enable evolving our least-privileged access policies to continue improving our security posture.
+
+#### speaker
+
+name:
+Deputy General Manager
+
+title:
+Cybersecurity Governance and Operations
+
+company:
+California County Government
+
+Quot 3
+
+quote:
+Zscaler enables our agency to operate using modern cybersecurity technologies. And our users receive a smooth access experience no matter where they are.
+
+#### speaker
+
+name:
+Deputy General Manager
+
+title:
+Cybersecurity Governance and Operations
+
+company:
+California County Government
+
+Quot 4
+
+quote:
+[Executive Insights lets us] visualize which applications are being used by whom, where they are and when they’re accessing the network.
+
+#### speaker
+
+name:
+Deputy General Manager
+
+title:
+Cybersecurity Governance and Operations
+
+company:
+California County Government
+
+Section 9
+
+id:
+leapfrogging-to-a-modern-zero-trust-approach
+
+title:
+Leapfrogging to a modern zero-trust approach
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- Faced with a near-overnight transition to a WFA during COVID-19, the California County leveraged challenging circumstances to leapfrog intermediate cybersecurity technologies and take a modern zero trust approach.
+- This enables the County to continue its transformation to cloud-based business applications and implement a post-pandemic hybrid workplace model.
+
+Paragraph 2
+
+- As a result, the County can provide its 110,000 employees with greater work-life balance while also reducing greenhouse gas emissions to meet State of California climate change mandates and goals.
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 3
+
+name:
+Optimize Digital Experiences
+
+url:
+null
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+45856
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how California County Government California County Gov’t Agency Enables Modern Workplace with for 70,000 Users to Work from Anywhere with Zscaler.
+
+og_title:
+California County Government Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/california-county-government

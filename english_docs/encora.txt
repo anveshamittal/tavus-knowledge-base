@@ -1,0 +1,708 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/encora
+
+slug:
+encora
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:24.175930Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Encora Unlocks the Full Potential of Secure Remote Work
+
+subtitle:
+with the Zscaler Zero Trust Exchange
+
+customer_name:
+Encora
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Gain full security and visibility across the multicloud infrastructure as the global organization pivots to remote work
+
+## results
+
+- Ensures consistent visibility of security posture across a globally dispersed workforce
+- Processed 2.2 billion transactions in three months in the world’s largest security cloud
+- Prevented 34.5 million policy violations in three months
+- Blocks hundreds of thousands of security threats monthly
+- Enabled a rapid pivot to remote work (from 10% to 95% in <1 year)
+- Improves the company’s security posture without increasing cybersecurity headcount
+
+====================================================
+# customer_snapshot
+
+title:
+Encora
+
+description:
+Encora is a global IT services company focused on driving transformational outcomes for clients through disciplined digital engineering. Having doubled in size over the last three years, Encora accelerates innovation for digitally-native and large-scale enterprises across LatAm, India and APAC.
+
+industry:
+High Tech
+
+headquarters:
+Bangalore, India
+
+size:
+10,000+ employees across 48 offices in 14 countries
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Zscaler directly addresses our use cases. It gives us intelligent control and contextual awareness. Rather than allowing everything, we can create situational rules.
+
+## speaker
+
+name:
+Ankit Agarwal
+
+title:
+Head of IT Infrastructure and Global Systems Architect
+
+company:
+Encora
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+a-dramatic-transition-to-remote-work
+
+title:
+A dramatic transition to remote work
+
+### paragraphs
+
+Paragraph 1
+
+- For Encora, the pandemic created a major change in the work environment that demanded a new way of thinking about security.
+- In March 2020, staff switched to working from home almost overnight.
+- Before that, when most employees worked on premises, the organization’s security posture was considered “reasonably safe” in the words of Ankit Agarwal, Head of IT Infrastructure and Global Systems Architect.
+- When remote work was implemented, Encora faced two major challenges: ensuring business continuity and strengthening cybersecurity.
+
+Paragraph 2
+
+- “Previously, only a select few were given company-issued laptops and allowed to work remotely.
+- Now, thousands of colleagues had to work from home from various machines and accessing multiple browsers.
+- We had very little visibility into their activities,” said Agarwal.
+
+Paragraph 3
+
+- To keep users productive, the company needed fast and secure access to the internet, SaaS applications, and private applications from any location and on any device.
+- Moreover, Encora needed to establish consistent security and access controls for its global users while aligning with regional compliance mandates.
+- Agarwal knew that adopting a zero trust framework was the right solution.
+
+### quotes
+
+Quot 1
+
+quote:
+Previously, only a select few were given company-issued laptops and allowed to work remotely. Now, thousands of colleagues had to work from home from various machines and accessing multiple browsers. We had very little visibility into their activities.
+
+#### speaker
+
+name:
+Agarwal
+
+title:
+
+
+company:
+Encora
+
+Section 2
+
+id:
+the-zscaler-zero-trust-approach-addresses-key-security-challenges
+
+title:
+The Zscaler zero trust approach addresses key security challenges
+
+section_type:
+challenge
+
+### paragraphs
+
+Paragraph 1
+
+- The dramatic shift in the work environment meant that Agarwal and his team had to find a better way to manage the expanded cybersecurity perimeter and keep users secure while giving them access to the resources they need.
+- With zero trust in mind, Agarwal and his team created a hierarchy of their most common use cases.
+
+Paragraph 2
+
+- “We made some realistic assumptions: everything is SaaS, we cannot be reactive only, we need contextual awareness, and every country has its own set of regulations,” Agarwal explained.
+- His team created an RFP consisting of 150 questions that they presented to multiple vendors.
+
+Paragraph 3
+
+- “When we initiated a proof of concept with Zscaler, we saw that it scored higher than any of its peers, and its approach was in line with our zero trust goal,” said Agarwal.
+- “The Zscaler Zero Trust Exchange™ platform was the obvious answer for us, providing cloud-native security and connectivity for Encora’s users, workloads, and devices over any network and from anywhere.”
+
+Paragraph 4
+
+- In less than one year after deploying Zscaler, close to 95% were able to work from anywhere securely.
+- Now, Agarwal feels confident about protecting his remote workforce and maintaining a robust security posture.
+- Additionally, Encora’s clients are assured that their data is used and shared safely.
+- Zscaler has also dispelled concerns about potential latency: employees are fully productive without experiencing any connectivity performance issues.
+
+### quotes
+
+Quot 1
+
+quote:
+We made some realistic assumptions: everything is SaaS, we cannot be reactive only, we need contextual awareness, and every country has its own set of regulations.
+
+#### speaker
+
+name:
+Agarwal
+
+title:
+
+
+company:
+Encora
+
+Quot 2
+
+quote:
+When we initiated a proof of concept with Zscaler, we saw that it scored higher than any of its peers, and its approach was in line with our zero trust goal. The Zscaler Zero Trust Exchange™ platform was the obvious answer for us, providing cloud-native security and connectivity for Encora’s users, workloads, and devices over any network and from anywhere.
+
+#### speaker
+
+name:
+Agarwal
+
+title:
+
+
+company:
+Encora
+
+Quot 3
+
+quote:
+We have seen a drastic reduction in phishing attempts because malicious URLs are blocked by Zscaler.
+
+#### speaker
+
+name:
+Ankit Agarwal
+
+title:
+Head of IT Infrastructure and Global Systems Architect
+
+company:
+Encora
+
+Section 3
+
+id:
+the-clear-choice-for-secure-access-to-the-internet-and-saas-from-anywhere
+
+title:
+The clear choice for secure access to the internet and SaaS from anywhere
+
+### paragraphs
+
+Paragraph 1
+
+- Encora has a complex, multilayered, and tightly interconnected partner ecosystem.
+- Secure and fast access to the internet and to SaaS applications and services is essential for team collaboration and for enabling the development and delivery of customized solutions to the organization’s clients, which span multiple industries.
+
+Paragraph 2
+
+- Key use cases include proactively controlling use of corporate-issued email for personal use and vice versa, alignment of URL block and allow policies with compliance mandates in various countries or regions to minimize potential legal liabilities, and consistent application of policies.
+- Agarwal approached Zscaler with three requirements based on these use cases: a web proxy to protect internet traffic, a cloud access security broker (CASB) to secure SaaS applications and data at rest and in motion, and data loss prevention (DLP).
+
+Paragraph 3
+
+- As a core component of the platform, Zscaler Internet Access™ (ZIA™) ensures safe, fast access to the internet and SaaS applications and services that are critical to Encora’s software development services and other offerings.
+- These include GitHub, Slack, Microsoft Azure, Amazon Web Services, Google Cloud, several data platforms and database engines, Salesforce, Adobe, and others.
+
+Paragraph 4
+
+- “This wasn’t about selecting a tool and seeing how we could apply it,” said Agarwal.
+- “Zscaler directly addresses our use cases.
+- It gives us intelligent control and contextual awareness.
+- Rather than allowing everything, we can create situational rules.”
+
+Paragraph 5
+
+- Now, all Encora user, workload, and device connections to SaaS and the internet go through the Zscaler Zero Trust Exchange, which prevents compromise and stops data loss with a scalable proxy-based architecture and full TLS/SSL inspection.
+
+### quotes
+
+Quot 1
+
+quote:
+This wasn’t about selecting a tool and seeing how we could apply it. Zscaler directly addresses our use cases. It gives us intelligent control and contextual awareness. Rather than allowing everything, we can create situational rules.
+
+#### speaker
+
+name:
+Agarwal
+
+title:
+
+
+company:
+Encora
+
+Section 4
+
+id:
+safeguarding-internal-applications-with-privileged-remote-user-access
+
+title:
+Safeguarding internal applications with privileged remote user access
+
+### paragraphs
+
+Paragraph 1
+
+- After making the switch to remote work, Encora users needed access to internal web-based tools.
+- Prior to implementing Zscaler, Encora had two choices: VPN or opening URL scripts for public access.
+- At the time, there were no controls or single sign-on (SSO) capabilities in place.
+
+Paragraph 2
+
+- Agarwal and his team deployed Zscaler Private Access™ (ZPA™) to grant authorized remote users secure and direct access to private applications from any device without the need to scale up its VPNs.
+- With ZPA, access to private applications is secure and fast.
+- Additionally, security teams have a complete view of all users.
+
+Paragraph 3
+
+- “We have moved all of our internal applications behind ZPA, so that access is available only to users who have Zscaler installed.
+- This has reduced unnecessary exposure of those applications over unlisted IPs or over unlisted and untrusted networks.
+- ZPA has significantly contributed to bandwidth savings and to a reduction in time spent on vulnerability management,” said Agarwal.
+
+### quotes
+
+Quot 1
+
+quote:
+We have moved all of our internal applications behind ZPA, so that access is available only to users who have Zscaler installed. This has reduced unnecessary exposure of those applications over unlisted IPs or over unlisted and untrusted networks. ZPA has significantly contributed to bandwidth savings and to a reduction in time spent on vulnerability management.
+
+#### speaker
+
+name:
+Agarwal
+
+title:
+
+
+company:
+Encora
+
+Quot 2
+
+quote:
+With Zscaler, employees can now work from anywhere, with a consistent level of security across the organization.
+
+#### speaker
+
+name:
+Ankit Agarwal
+
+title:
+Head of IT Infrastructure and Global Systems Architect
+
+company:
+Encora
+
+Section 5
+
+id:
+zscaler-positively-impacts-encora-s-security-posture
+
+title:
+Zscaler positively impacts Encora’s security posture
+
+### paragraphs
+
+Paragraph 1
+
+- Now that Encora has fully embraced a zero trust approach to security, it has strengthened its security posture and, by extension, its business continuity position.
+
+Paragraph 2
+
+- Agarwal points to how Zscaler’s CASB has proven its value.
+- Its powerful and unique ability to automatically flag and block connections to newly registered domains for the first three months has noticeably mitigated phishing risk.
+
+Paragraph 3
+
+- And Zscaler Cloud Sandbox, an AI-driven malware prevention engine, quarantines suspicious files before they reach users, preventing compromise, lateral threats, and data loss.
+
+Paragraph 4
+
+- “We have observed cases where any URL that is not allowed is dynamically discovered, and Zscaler swiftly issues alerts that we can act on,” he said.
+- “We have seen a drastic reduction in phishing attempts because malicious URLs are blocked by Zscaler.”
+
+Paragraph 5
+
+- Zscaler has solved another problem: it prevents users from uploading source code or other proprietary corporate files to personal GitHub repositories.
+- “It’s a great comfort to us, as our clients can rest assured that their source code cannot be transferred out anywhere,” he remarked.
+
+### quotes
+
+Quot 1
+
+quote:
+We have observed cases where any URL that is not allowed is dynamically discovered, and Zscaler swiftly issues alerts that we can act on. We have seen a drastic reduction in phishing attempts because malicious URLs are blocked by Zscaler.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Encora
+
+Section 6
+
+id:
+measurable-and-impressive-results
+
+title:
+Measurable and impressive results
+
+### paragraphs
+
+Paragraph 1
+
+- The engagement with Zscaler has produced some stunning results.
+- From April through June 2023, Encora’s bandwidth consumption increased from 61 TB to 106.2 TB (74%).
+- In that time, Zscaler processed 2.2 billion transactions, prevented 34.5 million policy violations, and blocked 696,829 security threats—stopping countless data leaks, safeguarding valuable client data, and protecting Encora’s reputation in the industry.
+
+Paragraph 2
+
+- “With Zscaler, employees can now work from anywhere, with a consistent level of security across the organization,” said Agarwal.
+- “And our clients can feel confident that their data is safe with us.”
+
+Paragraph 3
+
+- At the Encora offices in India, a key site for the company’s ongoing client projects and product development pipeline, 96% of traffic is now encrypted.
+- Leveraging full TLS/SSL inspection, the Zscaler platform found 246,581 encrypted threats in just three months.
+
+### quotes
+
+Quot 1
+
+quote:
+With Zscaler, employees can now work from anywhere, with a consistent level of security across the organization. And our clients can feel confident that their data is safe with us.
+
+#### speaker
+
+name:
+Agarwal
+
+title:
+
+
+company:
+Encora
+
+Quot 2
+
+quote:
+We’re actively engaged with Zscaler… Zscaler shares new product insights, and we share new use cases. We both benefit.
+
+#### speaker
+
+name:
+Ankit Agarwal
+
+title:
+Head of IT Infrastructure and Global Systems Architect
+
+company:
+Encora
+
+Section 7
+
+id:
+increased-visibility-and-control
+
+title:
+Increased visibility and control
+
+### paragraphs
+
+Paragraph 1
+
+- Prior to Zscaler, Agarwal and his team had little to no visibility into who was doing what.
+- That has changed with Zscaler; at any point in time, they know exactly when, where, and by whom access has occurred.
+- On the Zscaler dashboards, the team can view which threats were proactively blocked, security recommendations, and complete details on the applications users are accessing at any given time.
+- Once they have a handle on that, they implement controls not only on endpoints but also on the type of software employees are allowed to use, including the type of browser, versions, and extensions.
+
+Paragraph 2
+
+- “Encora takes full responsibility for protecting endpoints against data leakage.
+- Zscaler helps us maintain control over corporate devices and gain contextual awareness through its advanced artificial intelligence and machine learning models,” he said.
+
+### quotes
+
+Quot 1
+
+quote:
+Encora takes full responsibility for protecting endpoints against data leakage. Zscaler helps us maintain control over corporate devices and gain contextual awareness through its advanced artificial intelligence and machine learning models.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Encora
+
+Section 8
+
+id:
+looking-ahead-on-the-zero-trust-path
+
+title:
+Looking ahead on the zero trust path
+
+### paragraphs
+
+Paragraph 1
+
+- Agarwal understands that zero trust is a journey and that Encora has an opportunity to further refine and expand its implementation.
+- He and his team aim to continually reduce the complexity and costs of managing security threats.
+- Remote work is now the norm, and the business is unlikely to return to an office-only work environment.
+
+Paragraph 2
+
+- In the future, Agarwal hopes to protect access to Encora’s private and SaaS applications from unmanaged devices, as well as to ensure secure application-to-internet connectivity.
+- He’s considering Zscaler Posture Control™, a 100% agentless cloud-native application protection platform (CNAPP) that identifies and remediates hidden risk across cloud workloads, typically the result of misconfigurations, threats, and vulnerabilities.
+- This will help Encora remediate security issues in the development environment more quickly without impacting the workflow.
+
+Paragraph 3
+
+- To continue managing security threats without increasing cybersecurity headcount, Agarwal wants to maximize the productivity of security administrators by minimizing the time they spend stitching together insights across disconnected solutions.
+- To accomplish that, Agarwal sees great value in the comprehensive, native integration across all capabilities of the Zscaler platform.
+- The current global security and risk and compliance team consists of 10 professionals, supplemented by a third-party managed security service provider (MSSP) that works 24/7 collecting event log data.
+
+Paragraph 4
+
+- “We’re actively engaged with Zscaler in creating customizable solutions that address new scenarios.
+- Zscaler shares new product insights, and we share new use cases.
+- We both benefit,” he said.
+
+### quotes
+
+Quot 1
+
+quote:
+We’re actively engaged with Zscaler in creating customizable solutions that address new scenarios. Zscaler shares new product insights, and we share new use cases. We both benefit.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Encora
+
+====================================================
+# products
+
+Product 1
+
+name:
+Sandbox
+
+url:
+https://www.zscaler.com/technology/cloud-sandbox
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 4
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Secure Remote Access
+
+url:
+https://www.zscaler.com/products-and-solutions/vpn-alternative
+
+Solution 2
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 3
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 4
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+69041
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Encora Encora Unlocks the Full Potential of Secure Remote Work with with the Zscaler Zero Trust Exchange.
+
+og_title:
+Encora Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/encora

@@ -1,0 +1,357 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/british-american-tobacco
+
+slug:
+british-american-tobacco
+
+page_type:
+video_case_study
+
+scraped_at:
+2026-07-24T06:55:07.727230Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+British American Tobacco Information Security Team
+
+subtitle:
+Seen as Business Enabler with Zscaler
+
+customer_name:
+British American Tobacco
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Give employees safe, fast access to the internet no matter where they are
+
+## results
+
+- Provides users with safe, fast internet and SaaS access from anywhere
+- Improves user productivity and satisfaction by enabling greater use of the internet
+- Transforms internal view of security operations from roadblock to business enabler
+- Enables applying consistent policies worldwide, boosting overall security posture
+- Quickly demonstrates value to Board
+
+====================================================
+# customer_snapshot
+
+title:
+British American Tobacco
+
+description:
+British American Tobacco is a British multinational company that manufactures and sells cigarettes, tobacco, and other nicotine products. Established in 1902, today, the company is the largest tobacco company in the world based on net sales, with roughly 200 brands and operations in around 180 countries.
+
+industry:
+Food, Beverage, and Tobacco
+
+headquarters:
+London, England, UK
+
+size:
+55,000 employees in 180 countries
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+true
+
+url:
+https://fast.wistia.net/embed/iframe/lozpu1l843
+
+provider:
+wistia
+
+video_id:
+lozpu1l843
+
+title:
+British American Tobacco Enables Business Through Security with Zscaler
+
+description:
+a Customer Testimonial Videos video
+
+duration_seconds:
+65.852
+
+thumbnail_url:
+https://embed-ssl.wistia.com/deliveries/60d93f5121bc096f73b6eb97240868e979aee8f6.bin
+
+### transcript
+
+language:
+eng
+
+#### sentences
+
+1.
+From a structure perspective, the organization business model was we operated as independent companies within each one of the countries that we worked in, different processes, different technologies.
+
+2.
+Had to bring that together.
+
+3.
+So one of the things that was very painful for a lot of the business was access to the internet and just doing day to day things was very, very restrictive.
+
+4.
+Because we were able to show quickly what Zscaler could offer and deliver and how we want to change the environment, then the board came back and said, let's just make it happen.
+
+5.
+Financially, from an accounting perspective worked quite well, but from a user perspective, the fact we were able to open up access to the internet and have a an adult interaction with the internet spoke for itself.
+
+6.
+We're sort moving away from being a blocker to the business and being a major enabler for the business.
+
+7.
+I wanted safe access to the internet regardless of where you're coming from.
+
+8.
+We've gone down that path, so as long as everything's routed through Zscaler from a security perspective, I'm happy.
+
+#### tagged_segments
+
+Segment 1
+
+segment_id:
+1
+
+speaker:
+John Taylor (Global Head of IT Security and Service Continuity, British American Tobacco)
+
+tag:
+challenges
+
+topic:
+Independent companies with different processes
+
+text:
+From a structure perspective, the organization business model was we operated as independent companies within each one of the countries that we worked in, different processes, different technologies.
+
+Segment 2
+
+segment_id:
+2
+
+speaker:
+John Taylor (Global Head of IT Security and Service Continuity, British American Tobacco)
+
+tag:
+challenges
+
+topic:
+Restrictive internet access for business
+
+text:
+Had to bring that together. So one of the things that was very painful for a lot of the business was access to the internet and just doing day to day things was very, very restrictive.
+
+Segment 3
+
+segment_id:
+3
+
+speaker:
+John Taylor (Global Head of IT Security and Service Continuity, British American Tobacco)
+
+tag:
+products_and_solutions
+
+topic:
+Zscaler implementation and benefits
+
+text:
+Because we were able to show quickly what Zscaler could offer and deliver and how we want to change the environment, then the board came back and said, let's just make it happen.
+
+Segment 4
+
+segment_id:
+4
+
+speaker:
+John Taylor (Global Head of IT Security and Service Continuity, British American Tobacco)
+
+tag:
+metrics_and_results
+
+topic:
+Improved internet access and user experience
+
+text:
+Financially, from an accounting perspective worked quite well, but from a user perspective, the fact we were able to open up access to the internet and have a an adult interaction with the internet spoke for itself.
+
+Segment 5
+
+segment_id:
+5
+
+speaker:
+John Taylor (Global Head of IT Security and Service Continuity, British American Tobacco)
+
+tag:
+quote
+
+topic:
+Enabling business through safe internet
+
+text:
+We're sort moving away from being a blocker to the business and being a major enabler for the business. I wanted safe access to the internet regardless of where you're coming from.
+
+Segment 6
+
+segment_id:
+6
+
+speaker:
+John Taylor (Global Head of IT Security and Service Continuity, British American Tobacco)
+
+tag:
+products_and_solutions
+
+topic:
+Routing through Zscaler for security
+
+text:
+We've gone down that path, so as long as everything's routed through Zscaler from a security perspective, I'm happy.
+
+### extra_metadata
+
+account_id:
+658399
+
+media_id:
+95607106
+
+created_at:
+1663976144
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Because we were able to show quickly what Zscaler could offer and deliver, and how we wanted to improve the environment, the Board came back and said let’s make it happen.
+
+## speaker
+
+name:
+John Taylor
+
+title:
+Global Head of IT Security and Service Continuity
+
+company:
+British American Tobacco
+
+====================================================
+# customer_case_study
+
+title:
+null
+
+sections:
+[]
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+21961
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how British American Tobacco British American Tobacco Information Security Team with Seen as Business Enabler with Zscaler.
+
+og_title:
+British American Tobacco Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/british-american-tobacco

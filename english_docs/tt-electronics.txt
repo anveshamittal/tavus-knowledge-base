@@ -1,0 +1,494 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/tt-electronics
+
+slug:
+tt-electronics
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:56:50.011397Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+TT Electronics Journeys Toward Zero Trust
+
+subtitle:
+and a SASE Architecture with Zscaler
+
+customer_name:
+TT Electronics
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- The Zero Trust Exchange offers TT Electronics users a seamless, fast, secure experience as they work on any device, anywhere
+
+## results
+
+- Rolled out quickly at scale—3,000+ workers worldwide in just three weeks
+- Supports all users regardless of device or location
+- Offers deep insight to foster granular control
+- Eliminates bandwidth limitations and high MPLS costs
+- Reduces costs by 30–40%
+
+====================================================
+# customer_snapshot
+
+title:
+TT Electronics
+
+description:
+TT Electronics is a global provider of engineered electronics focused around power, connectivity, sensors, and manufacturing. To support business continuity and its global customers, many essential in the fight against the COVID-19 pandemic, the company implemented the Zscaler Zero Trust Exchange™.
+
+industry:
+Manufacturing
+
+headquarters:
+Woking, England, UK
+
+size:
+4,800+ employees in 29 locations worldwide
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Zscaler just works. No more bandwidth limitations, no more frustrated users, no more skyrocketing MPLS costs.
+
+## speaker
+
+name:
+Jaye Tillson
+
+title:
+Head of Architecture
+
+company:
+TT Electronics
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+migration-to-the-cloud-enhances-user-experience
+
+title:
+Migration to the cloud enhances user experience
+
+### paragraphs
+
+Paragraph 1
+
+- In 2010, TT Electronics began an agreement with its network provider to set up a global MPLS network with web scanning, email scanning, and virtual private networking (VPN), with the goal of setting up a streamlined global IT function.
+
+Paragraph 2
+
+- “We needed to create a global network so that we could come up with a centralized function for IT, connect all the sites together, and support any site from anywhere,” said Jaye Tillson, Head of Architecture for TT Electronics.
+
+Paragraph 3
+
+- The company renewed its contract in 2015, increasing its bandwidth and user count, which sounds straightforward—but the increased bandwidth proved to be inadequate due to the increased speed of transitioning to cloud apps.
+
+Paragraph 4
+
+- “In 2016 we thought, ‘this isn’t really working for us anymore,’” Tillson said.
+- “We had issues with bandwidth and latency, preventing users from working effectively from home.”
+
+Paragraph 5
+
+- Two years later in 2018, TT Electronics began a conversation with Zscaler about securing the company’s rapid transition to cloud apps and an increasingly mobile workforce.
+
+### quotes
+
+Quot 1
+
+quote:
+We needed to create a global network so that we could come up with a centralized function for IT, connect all the sites together, and support any site from anywhere.
+
+#### speaker
+
+name:
+Jaye Tillson
+
+title:
+Head of Architecture
+
+company:
+TT Electronics
+
+Quot 2
+
+quote:
+In 2016 we thought, ‘this isn’t really working for us anymore,’. We had issues with bandwidth and latency, preventing users from working effectively from home.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+TT Electronics
+
+Section 2
+
+id:
+zero-trust-transition-expedited-by-a-global-pandemic
+
+title:
+Zero trust transition expedited by a global pandemic
+
+### paragraphs
+
+Paragraph 1
+
+- After researching different solutions throughout 2019, in early 2020, TT Electronics opted to do a proof of concept (POC) trial with Zscaler.
+- When the COVID-19 pandemic hit, the TT Electronics IT team decided to enable users in China as part of the POC as they were having difficulties connecting over the old remote access VPN with limited and inflexible bandwidth.
+
+Paragraph 2
+
+- “We already knew our employees in China needed to use personal machines because many didn’t have company laptops.
+- We enabled [Zscaler Private Access] for them and created remote desktop service environments across the sites in China so that people could get into our network remotely using the browser access version of Zscaler,” Tillson said.
+
+Paragraph 3
+
+- To get ahead of more shelter-in-place orders, the company moved forward with a large-scale rollout and implemented ZPA for more than 3,000 workers worldwide in just three weeks.
+- Some remote workers were taking their desktop machines home, while others were working from laptops, and ZPA was able to be installed and used by all, regardless of device or location.
+
+### quotes
+
+Quot 1
+
+quote:
+We already knew our employees in China needed to use personal machines because many didn’t have company laptops. We enabled [Zscaler Private Access] for them and created remote desktop service environments across the sites in China so that people could get into our network remotely using the browser access version of Zscaler.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+TT Electronics
+
+Quot 2
+
+quote:
+The Zscaler Zero Trust Exchange is an absolute game-changer for us.
+
+#### speaker
+
+name:
+Jaye Tillson
+
+title:
+Head of Architecture
+
+company:
+TT Electronics
+
+Section 3
+
+id:
+sase-solution-for-granular-policies
+
+title:
+SASE solution for granular policies
+
+### paragraphs
+
+Paragraph 1
+
+- With its prior solution, TT Electronics was not able to restrict people to specific applications or get insight into who was accessing what.
+- ZPA provided the company with that insight, enabling it to have more control at a granular level.
+
+Paragraph 2
+
+- TT Electronics also extended its agreement with Zscaler to include Zscaler Internet Access, which has allowed the company to restrict certain applications based on specific policies.
+
+Paragraph 3
+
+- “For us, that means everything is in one package, one solution,” Tillson said.
+- “You can configure policies based on the country users are in and whether they are in the office or at home.
+- For us, that’s fantastic.”
+
+### quotes
+
+Quot 1
+
+quote:
+For us, that means everything is in one package, one solution. You can configure policies based on the country users are in and whether they are in the office or at home. For us, that’s fantastic.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+TT Electronics
+
+Quot 2
+
+quote:
+We’ve consolidated multiple vendors into one solution. This will reduce costs by 30 to 40 percent.
+
+#### speaker
+
+name:
+Jaye Tillson
+
+title:
+Head of Architecture
+
+company:
+TT Electronics
+
+Section 4
+
+id:
+positive-feedback-and-planning-for-the-future
+
+title:
+Positive feedback and planning for the future
+
+### paragraphs
+
+Paragraph 1
+
+- TT Electronics employees around the world reacted positively to the enhanced user experience they had with Zscaler, with some thinking it was too good to be true.
+
+Paragraph 2
+
+- “All of our users are amazed at how well they can work from home with ZPA,” Tillson said.
+- “They don’t need to turn it on, they don’t need to turn it off, it’s just there in the background.”
+
+Paragraph 3
+
+- Looking toward the future, TT Electronics plans to leverage more functionality out of the systems and technologies it already has in place while working with existing partners and vendors.
+- This includes rolling out SD-WAN and potentially leveraging the Zscaler and CrowdStrike partnership.
+
+Paragraph 4
+
+- “Our strategy is to get the best out of what we already pay for,” Tillson said.
+- “The Zscaler SASE platform offers all the features we are looking for as we move into the next chapter.”
+
+### quotes
+
+Quot 1
+
+quote:
+All of our users are amazed at how well they can work from home with ZPA. They don’t need to turn it on, they don’t need to turn it off, it’s just there in the background.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+TT Electronics
+
+Quot 2
+
+quote:
+Our strategy is to get the best out of what we already pay for. The Zscaler SASE platform offers all the features we are looking for as we move into the next chapter.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+TT Electronics
+
+Quot 3
+
+quote:
+You can configure policies based on the country users are in and whether they are in the office or at home. For us, that’s fantastic.
+
+#### speaker
+
+name:
+Jaye Tillson
+
+title:
+Head of Architecture
+
+company:
+TT Electronics
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+41176
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how TT Electronics TT Electronics Journeys Toward Zero Trust with and a SASE Architecture with Zscaler.
+
+og_title:
+TT Electronics Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/tt-electronics

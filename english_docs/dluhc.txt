@@ -1,0 +1,850 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/dluhc
+
+slug:
+dluhc
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:20.651051Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+DLUHC Improves Remote Experiences, Cutting Time to Connect By 80%
+
+subtitle:
+by Replacing Problematic VPNs with a Zero Trust Architecture
+
+customer_name:
+DLUHC
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Become a cloud-first organization to support a distributed workforce by switching to zero trust security
+
+## results
+
+- Prevented 81 million policy violations and blocked nearly 99,000 security threats in three months
+- Improves remote user experience and reduces time to connect to private apps by nearly 80%
+- Eliminates the cost, complexity, and inconsistent security of perimeter-based security appliances
+- Enables work-from-anywhere zero trust security for a fully mobile workforce
+- Replaces problematic VPNs to better protect critical resources
+- Enables secure cross-government department collaboration
+
+====================================================
+# customer_snapshot
+
+title:
+DLUHC
+
+description:
+From helping revitalize town centers to ensuring community resilience during disaster recovery, the Department for Levelling Up, Housing and Communities supports a range of initiatives to help local councils, community groups, and stakeholders enrich daily life for more than 67 million UK residents.
+
+industry:
+Federal and Government
+
+headquarters:
+London, England
+
+size:
+382 local authorities and councils across the UK 
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+We wanted a zero trust security platform that could protect our users and applications across any location.
+
+## speaker
+
+name:
+Dave Baldwin
+
+title:
+CTO
+
+company:
+DLUHC
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+mission-critical-work-requires-zero-trust-security
+
+title:
+Mission-critical work requires zero trust security
+
+### paragraphs
+
+Paragraph 1
+
+- Implementing life-changing programs at a local level is​​ work that cannot be confined to an office.
+- The ability to work whenever and wherever is mission-critical for the Department for Levelling Up, Housing and Communities (DLUHC).
+
+Paragraph 2
+
+- The department has a workforce of nearly 5,000, and almost anyone on the team could be dispatched to support projects on-location in UK communities.
+- Securing such a geographically dispersed workforce inspired a zero trust digital transformation for the DLUHC.
+
+Paragraph 3
+
+- “We wanted to break away from traditional thinking around technology provisioning,” said Dave Baldwin, CTO at the DLUHC.
+- “You can’t embark on a non-traditional path while still relying on traditional security methods.
+- Achieving zero trust security was part of the bigger picture for us.
+
+### quotes
+
+Quot 1
+
+quote:
+We wanted to break away from traditional thinking around technology provisioning.
+
+#### speaker
+
+name:
+Dave Baldwin
+
+title:
+CTO
+
+company:
+DLUHC
+
+Section 2
+
+id:
+zscaler-leads-the-evolution-to-holistic-zero-trust
+
+title:
+Zscaler leads the evolution to holistic zero trust
+
+### paragraphs
+
+Paragraph 1
+
+- Becoming a cloud-first organization required the DLUHC to reconsider their security.
+- The department had been using a traditional perimeter-based model reliant on legacy hardware, firewalls, and VPNs.
+- Fragmented solutions made remote work more challenging for staff, provided poor visibility to threats, and increased costs and complexity for Baldwin.
+
+Paragraph 2
+
+- “We were evolving beyond maintaining servers in a data center, so traditional perimeter security was no longer viable,” said Baldwin.
+- “We wanted a zero trust security platform that could protect our users and applications across any location.”
+
+Paragraph 3
+
+- To address these challenges, the DLUHC chose the Zscaler Zero Trust Exchange.
+- Zscaler delivers comprehensive security from a cloud native platform that eliminates the need for legacy infrastructure, VPNs, firewalls, and multiple point solutions.
+- This vastly simplifies operations while providing industry leading zero trust security.
+
+Paragraph 4
+
+- “Zscaler is a leader in zero trust technology that supports the cloud experience,” shared Baldwin.
+- “With the Zero Trust Exchange, we’ve achieved a more comprehensive approach to security that is actually easier to manage and more cost effective.
+- We have greater visibility across our users and devices, and we can control access to resources in a more granular way.
+- This allows our staff to work effectively, no matter where they are needed.”
+
+### quotes
+
+Quot 1
+
+quote:
+We were evolving beyond maintaining servers in a data center, so traditional perimeter security was no longer viable. We wanted a zero trust security platform that could protect our users and applications across any location.
+
+#### speaker
+
+name:
+Baldwin
+
+title:
+
+
+company:
+DLUHC
+
+Quot 2
+
+quote:
+Zscaler is a leader in zero trust technology that supports the cloud experience. With the Zero Trust Exchange, we’ve achieved a more comprehensive approach to security that is actually easier to manage and more cost effective. We have greater visibility across our users and devices, and we can control access to resources in a more granular way. This allows our staff to work effectively, no matter where they are needed.
+
+#### speaker
+
+name:
+Baldwin
+
+title:
+
+
+company:
+DLUHC
+
+Quot 3
+
+quote:
+We’ve achieved a more comprehensive approach to security that is actually easier to manage and more cost effective.
+
+#### speaker
+
+name:
+Dave Baldwin
+
+title:
+CTO
+
+company:
+DLUHC
+
+Section 3
+
+id:
+the-zero-trust-exchange-enables-secure-work-from-any-location
+
+title:
+The Zero Trust Exchange enables secure work from any location
+
+### paragraphs
+
+Paragraph 1
+
+- With the department’s mission to support local communities and respond to unplanned events such as flooding or pandemics, hundreds of staff may sometimes need to quickly start remote work in a brand-new location.
+- Zscaler Internet Access (ZIA) enables fast and secure access to the internet and SaaS applications for the DLUHC’s mobile staff.
+
+Paragraph 2
+
+- Users enjoy direct-to-internet access, and the Zscaler platform inspects all traffic and applies inline security controls to prevent compromise and help stop data loss.
+- Functionality for cloud firewall protection, URL filtering, and SSL inspection is built into the platform, eliminating the need for multiple outbound demilitarized zone (DMZ) solutions.
+
+Paragraph 3
+
+- “The Zscaler platform protects our staff regardless of where they are working, and that protection is achieved with a significantly streamlined outbound security stack,” Baldwin said.
+- “This has been a big technology leap for us.”
+
+### quotes
+
+Quot 1
+
+quote:
+The Zscaler platform protects our staff regardless of where they are working, and that protection is achieved with a significantly streamlined outbound security stack. This has been a big technology leap for us.
+
+#### speaker
+
+name:
+Baldwin
+
+title:
+
+
+company:
+DLUHC
+
+Section 4
+
+id:
+zscaler-technology-transforms-the-remote-user-experience
+
+title:
+Zscaler technology transforms the remote user experience
+
+### paragraphs
+
+Paragraph 1
+
+- In addition to anytime, anywhere, secure access to the internet and SaaS apps, embracing Zscaler Private Access (ZPA) for connecting to private DLUHC resources further transformed the remote user experience.
+
+Paragraph 2
+
+- Previous VPN services left employees feeling frustrated by what Baldwin described as a “very clunky” process to access essential department applications remotely.
+- “There were a lot of steps involved to get staff from opening a laptop to actually working, and any one of them could be a failure point,” Baldwin elaborated.
+
+Paragraph 3
+
+- Zscaler eliminates the need for VPN appliances by enabling fast, seamless, zero trust access to DLUHC private applications.
+- Users connect directly to the applications they need, so they can work more efficiently and productively.
+
+Paragraph 4
+
+- “With the Zscaler platform, we’ve reduced the average time it takes for a remote employee to successfully connect and start working by nearly 80%,” shared Baldwin.
+- “Staff can be effectively and securely working in less than 30 seconds after turning on their laptops.
+- We calculated that this collective time saved across our total workforce on the Zero Trust Exchange equates to an overall productivity boost of about 50,000 extra hours each year.”
+
+### quotes
+
+Quot 1
+
+quote:
+There were a lot of steps involved to get staff from opening a laptop to actually working, and any one of them could be a failure point.
+
+#### speaker
+
+name:
+Baldwin
+
+title:
+
+
+company:
+DLUHC
+
+Quot 2
+
+quote:
+With the Zscaler platform, we’ve reduced the average time it takes for a remote employee to successfully connect and start working by nearly 80%. Staff can be effectively and securely working in less than 30 seconds after turning on their laptops. We calculated that this collective time saved across our total workforce on the Zero Trust Exchange equates to an overall productivity boost of about 50,000 extra hours each year.
+
+#### speaker
+
+name:
+Baldwin
+
+title:
+
+
+company:
+DLUHC
+
+Section 5
+
+id:
+zscaler-connects-users-to-private-apps-with-less-risk
+
+title:
+Zscaler connects users to private apps with less risk
+
+### paragraphs
+
+Paragraph 1
+
+- Connecting users to DLUHC private applications isn’t just faster and simpler with Zscaler; it is also more secure.
+- Unlike traditional VPN appliances, the Zscaler platform is built to support a holistic zero trust architecture.
+
+Paragraph 2
+
+- Not only are apps hidden behind the Zero Trust Exchange to reduce the attack surface, but, as previously mentioned, Zscaler connects users directly to DLUHC applications and not to the network as a whole, preventing lateral threat movement.
+- User identity, device security posture, and other context are verified before a connection is made.
+- Inline traffic inspection enforces access control and actively prevents web attacks.
+
+Paragraph 3
+
+- The department hosts 100% of its applications within Amazon Web Services (AWS).
+- Because the Zscaler platform integrates with AWS, zero trust protection seamlessly extends to every private application in the cloud.
+
+Paragraph 4
+
+- “We had internal-facing systems and resources that we were simply not willing to expose to the internet,” Baldwin shared.
+- “The Zscaler platform keeps our critical resources invisible to the internet while allowing DLUHC staff the controlled, secure access they need to carry out their work from anywhere.”
+
+### quotes
+
+Quot 1
+
+quote:
+We had internal-facing systems and resources that we were simply not willing to expose to the internet. The Zscaler platform keeps our critical resources invisible to the internet while allowing DLUHC staff the controlled, secure access they need to carry out their work from anywhere.
+
+#### speaker
+
+name:
+Baldwin
+
+title:
+
+
+company:
+DLUHC
+
+Quot 2
+
+quote:
+We’ve reduced the average time it takes for a remote employee to successfully connect and start working by nearly 80%.
+
+#### speaker
+
+name:
+Dave Baldwin
+
+title:
+CTO
+
+company:
+DLUHC
+
+Section 6
+
+id:
+zscaler-solves-unique-remote-work-challenges
+
+title:
+Zscaler solves unique remote work challenges
+
+section_type:
+challenge
+
+### paragraphs
+
+Paragraph 1
+
+- Installing Zscaler Client Connector on all DLUHC laptops as part of the Zero Trust Exchange deployment has helped Baldwin mitigate the challenge of captive portals—the splash screens used in public places, like coffee shops and trains, to broker a Wi-Fi connection.
+- The department’s old VPN solution did not recognize captive portals, so staff were unable to connect to Wi-Fi while in transit between remote locations.
+
+Paragraph 2
+
+- “The Zscaler platform can recognize these captive portals and provide access for a minute to allow staff to connect to Wi-Fi via those splash screens before locking connectivity back down securely,” explained Baldwin.
+- “Solving for the captive portal challenge has been another boost to overall staff productivity and satisfaction.”
+
+### quotes
+
+Quot 1
+
+quote:
+The Zscaler platform can recognize these captive portals and provide access for a minute to allow staff to connect to Wi-Fi via those splash screens before locking connectivity back down securely. Solving for the captive portal challenge has been another boost to overall staff productivity and satisfaction.
+
+#### speaker
+
+name:
+Baldwin
+
+title:
+
+
+company:
+DLUHC
+
+Section 7
+
+id:
+zscaler-scalability-supports-operational-efficiencies
+
+title:
+Zscaler scalability supports operational efficiencies
+
+### paragraphs
+
+Paragraph 1
+
+- In addition to the boost in individual staff productivity and satisfaction, organizational efficiency has also increased with Zscaler.
+- The scalability of the Zero Trust Exchange allows the DLUHC to react quickly to the ever-changing demands inherent in public sector work.
+
+Paragraph 2
+
+- Baldwin and his team can now increase the number of staff in the field with ease.
+- “There have been times when we’ve needed to onboard 600 staff in two weeks,” Baldwin explained.
+- “We couldn’t have done that previously, but with Zscaler, it’s fast and easy.”
+
+Paragraph 3
+
+- The COVID-19 pandemic—perhaps the ultimate test of an organization’s readiness for secure remote work at full scale—didn’t present the typical challenges for Baldwin, since DLUHC had fully deployed Zscaler several years prior.
+- “When asked about what we might need to do to prepare for nationwide work-from-home mandates during the pandemic, I was really pleased to tell our leaders that there was absolutely nothing to do.
+- With Zscaler, we were already fully prepared for everyone to work remotely for as long as needed,” Baldwin recalled.
+
+### quotes
+
+Quot 1
+
+quote:
+There have been times when we’ve needed to onboard 600 staff in two weeks. We couldn’t have done that previously, but with Zscaler, it’s fast and easy.
+
+#### speaker
+
+name:
+Baldwin
+
+title:
+
+
+company:
+DLUHC
+
+Quot 2
+
+quote:
+When asked about what we might need to do to prepare for nationwide work-from-home mandates during the pandemic, I was really pleased to tell our leaders that there was absolutely nothing to do. With Zscaler, we were already fully prepared for everyone to work remotely for as long as needed.
+
+#### speaker
+
+name:
+Baldwin
+
+title:
+
+
+company:
+DLUHC
+
+Section 8
+
+id:
+robust-analytics-enable-transparency-and-compliance
+
+title:
+Robust analytics enable transparency and compliance
+
+### paragraphs
+
+Paragraph 1
+
+- Zscaler technology also makes it easier for the DLUHC to fulfill unique reporting obligations with transparency and speed.
+- Performance monitoring and security analytics insights available through Zscaler allow the DLUHC to better manage Freedom of Information (FOI) Act requests that government departments and public authorities are required to respond to, often within specific time frames.
+
+Paragraph 2
+
+- “We’re able to answer FOI requests faster because of the simplified reporting features available on the Zscaler platform,” said Baldwin.
+- “With our previous solutions, reporting was a fragmented process.
+- With Zscaler, I have a single platform to gain an overall view of our traffic and activity.”
+
+Paragraph 3
+
+- Enhanced reporting also makes general operational decisions easier to navigate.
+- “The reporting capabilities we now have with Zscaler give us greater visibility into staff use,” explained Baldwin.
+- “We can make better informed decisions around all the details that go into keeping staff secure and productive, like increasing bandwidth at individual remote work sites.”
+
+### quotes
+
+Quot 1
+
+quote:
+We’re able to answer FOI requests faster because of the simplified reporting features available on the Zscaler platform. With our previous solutions, reporting was a fragmented process. With Zscaler, I have a single platform to gain an overall view of our traffic and activity.
+
+#### speaker
+
+name:
+Baldwin
+
+title:
+
+
+company:
+DLUHC
+
+Quot 2
+
+quote:
+The reporting capabilities we now have with Zscaler give us greater visibility into staff use. We can make better informed decisions around all the details that go into keeping staff secure and productive, like increasing bandwidth at individual remote work sites.
+
+#### speaker
+
+name:
+Baldwin
+
+title:
+
+
+company:
+DLUHC
+
+Section 9
+
+id:
+fostering-deeper-and-safer-collaborations-through-zscaler
+
+title:
+Fostering deeper and safer collaborations through Zscaler
+
+### paragraphs
+
+Paragraph 1
+
+- The DLUHC is supported by 15 affiliated agencies and public bodies that help it carry out its mission.
+- One of the most profound benefits of adopting Zscaler has been the improvement in secure collaboration.
+
+Paragraph 2
+
+- With the Zero Trust Exchange, private DLUHC applications can be shared with external departments and bodies with reduced risk, ensuring adherence to cross-government standards for cybersecurity.
+- The zero trust protection that DLUHC staff have can be expanded to external users with minimal administrative overhead.
+
+Paragraph 3
+
+- “Zscaler technology allows us to extend our secure edge into these external environments to share critical resources safely,” Baldwin explained.
+- “With our previous security solution, achieving that level of resource sharing would have taken significant effort and posed increased risk.”
+
+Paragraph 4
+
+- In a single three-month period, Zscaler processed more than 3 billion transactions for the DLUHC, preventing 81 million policy violations and blocking nearly 99,000 security threats.
+- “Zscaler is blocking many threats for us on a daily basis,” said Baldwin.
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler technology allows us to extend our secure edge into these external environments to share critical resources safely. With our previous security solution, achieving that level of resource sharing would have taken significant effort and posed increased risk.
+
+#### speaker
+
+name:
+Baldwin
+
+title:
+
+
+company:
+DLUHC
+
+Quot 2
+
+quote:
+Zscaler is blocking many threats for us on a daily basis.
+
+#### speaker
+
+name:
+Baldwin
+
+title:
+
+
+company:
+DLUHC
+
+Section 10
+
+id:
+zscaler-plays-a-tangible-role-in-helping-uk-communities-thrive
+
+title:
+Zscaler plays a tangible role in helping UK communities thrive
+
+### paragraphs
+
+Paragraph 1
+
+- As the DLUHC continues its zero trust journey, Baldwin anticipates a lasting partnership with Zscaler.
+- While he’s still exploring other Zscaler solutions for the future, he appreciates that Zscaler is always innovating existing solutions to help clients get the most out of the platform today.
+
+Paragraph 2
+
+- Baldwin is currently working with Zscaler to enhance source IP anchoring (SIPA) policies, as well as expand data loss prevention (DLP) measures, allowing the DLUHC to further streamline its security infrastructure.
+- Fully leveraging Zscaler technology gives Baldwin confidence to, as he stated, “reduce the estate in terms of hardware volume and type of equipment.”
+
+Paragraph 3
+
+- “With Zscaler, we aren’t reliant on a series of managed service providers and mismatched point product solutions,” said Baldwin.
+- “We have one comprehensive platform that supports our cloud-first experience with holistic zero trust security.
+- Zscaler has been critical to our technology transformation.”
+
+Paragraph 4
+
+- That technology transformation has been critical to the department’s ability to carry out its mission to help UK communities thrive.
+- “With the Zscaler platform, staff can work anywhere they are needed, and the seamless user experience enables them to effectively meet objectives,” concluded Baldwin.
+- “In this way, Zscaler is tangibly helping the DLUHC improve quality of life across the UK.”
+
+### quotes
+
+Quot 1
+
+quote:
+reduce the estate in terms of hardware volume and type of equipment.
+
+#### speaker
+
+name:
+Baldwin
+
+title:
+
+
+company:
+DLUHC
+
+Quot 2
+
+quote:
+With Zscaler, we aren’t reliant on a series of managed service providers and mismatched point product solutions. We have one comprehensive platform that supports our cloud-first experience with holistic zero trust security. Zscaler has been critical to our technology transformation.
+
+#### speaker
+
+name:
+Baldwin
+
+title:
+
+
+company:
+DLUHC
+
+Quot 3
+
+quote:
+With the Zscaler platform, staff can work anywhere they are needed, and the seamless user experience enables them to effectively meet objectives. In this way, Zscaler is tangibly helping the DLUHC improve quality of life across the UK.
+
+#### speaker
+
+name:
+Baldwin
+
+title:
+
+
+company:
+DLUHC
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 2
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 3
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 3
+
+name:
+Secure Remote Access
+
+url:
+https://www.zscaler.com/products-and-solutions/vpn-alternative
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+75556
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how DLUHC DLUHC Improves Remote Experiences, Cutting Time to Connect By 80% with by Replacing Problematic VPNs with a Zero Trust Architecture.
+
+og_title:
+DLUHC Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/dluhc

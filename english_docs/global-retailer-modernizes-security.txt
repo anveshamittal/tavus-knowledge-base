@@ -1,0 +1,759 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/global-retailer-modernizes-security
+
+slug:
+global-retailer-modernizes-security
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:27.809761Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Global Beauty Retail Brand Partners with Zscaler to Kick-Start Total Digital Transformation
+
+subtitle:
+The Zero Trust Exchange protects 9,000 employees, thousands of retail shops, and 40 corporate offices as operations shift to the cloud
+
+customer_name:
+Global Retailer Modernizes Security
+
+## metrics
+
+Metric 1
+
+value:
+4.9B
+
+label:
+transactions processed in one quarter
+
+Metric 2
+
+value:
+63.8M
+
+label:
+policy violations prevented in three months
+
+Metric 3
+
+value:
+97.7K+
+
+label:
+security threats blocked in 90 days
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Legacy network infrastructure and security appliances were not flexible enough to scale with expanding global operations
+- Outdated internet proxy and firewalls could not reliably or securely connect thousands of retail stores and corporate offices
+- Traditional VPNs did not enable role-based, least-privileged app access, putting all assets on the network at greater risk of a breach
+
+## results
+
+- Switching to a zero trust security infrastructure ensures corporate readiness for broader digital transformation efforts
+- Provides consistent and reliable branch connectivity across global retail locations and corporate offices
+- Achieves stronger security posture, lower costs, and an integrated cloud architecture with the multitenant Zscaler platform
+
+====================================================
+# customer_snapshot
+
+title:
+Global Retailer Modernizes Security
+
+description:
+A global retailer offering premium cosmetics, skincare, and wellness products
+
+industry:
+Retail and Wholesale
+
+headquarters:
+Europe
+
+size:
+Thousands of retail locations across 90 countries
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+The Zero Trust Exchange isn’t just a collection of solutions, it’s the backbone of our comprehensive digital security ecosystem. We intend to leverage all the capabilities that Zscaler offers.
+
+## speaker
+
+name:
+Head of Network and Security Services
+
+title:
+Global Beauty Retailer
+
+company:
+Global Retailer Modernizes Security
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+implementing-zero-trust-security-to-protect-an-expanding-digital-ecosystem
+
+title:
+Implementing zero trust security to protect an expanding digital ecosystem
+
+### paragraphs
+
+Paragraph 1
+
+- It all began when a young entrepreneur began distilling botanicals and making all-natural vegetable soaps.
+- In the decades since those first soaps were produced, the resulting company has become a leading international manufacturer and retailer of beauty and wellness products, now representing multiple premium beauty brands across the globe.
+
+Paragraph 2
+
+- The global beauty retailer recently embarked on a total digital transformation, prioritizing cloud-first technologies to strengthen an omnichannel, customer-centric approach to retail.
+- To ensure readiness for that transformation, company leaders chose to replace existing legacy security infrastructure with a modern zero trust platform.
+
+Paragraph 3
+
+- “An aging infrastructure could not adequately support our evolving cloud-first strategies,” shared the company’s Head of Network and Security Services.
+- “By implementing zero trust security principles, we can continue to innovate the retail experience for customers and better protect our expanding digital ecosystem.”
+
+### quotes
+
+Quot 1
+
+quote:
+An aging infrastructure could not adequately support our evolving cloud-first strategies. By implementing zero trust security principles, we can continue to innovate the retail experience for customers and better protect our expanding digital ecosystem.
+
+#### speaker
+
+name:
+Head of Network and Security Services
+
+title:
+Global Beauty Retailer
+
+company:
+Global Retailer Modernizes Security
+
+Section 2
+
+id:
+zscaler-becomes-the-zero-trust-partner-of-choice-for-leading-global-beauty-brand
+
+title:
+Zscaler becomes the zero trust partner of choice for leading global beauty brand
+
+### paragraphs
+
+Paragraph 1
+
+- An outdated MPLS network and legacy security appliances could not support the company's digital transformation goals or mobility needs, so the retailer opted to displace that network with SD-WAN.
+- This pivotal infrastructure refresh presented the perfect opportunity to replace cumbersome legacy security appliances with a comprehensive zero trust platform.
+
+Paragraph 2
+
+- The company wanted a cloud native, zero trust solution that would seamlessly integrate with its new SD-WAN, securely connecting retail stores and corporate offices.
+- With a range of Microsoft offerings already in use to support cloud-first operations (Microsoft 365, Microsoft Azure, Microsoft Entra ID, and Microsoft Defender for Endpoint), compatibility with Microsoft was also important.
+- Lastly, the global brand wanted a zero trust partner with broad geographical coverage to support the company’s expanding retail presence.
+
+Paragraph 3
+
+- IT leaders chose the Zscaler Zero Trust Exchange.
+- Zscaler maintains a strong SD-WAN partnership ecosystem, ensuring easy integration between the Zscaler platform and the company’s new SD-WAN approach.
+- Zscaler also offers deep integrations with Microsoft.
+- Most importantly, Zscaler delivers zero trust security from 160+ edge locations spanning six continents—more than meeting the brand’s global reach criteria.
+
+Paragraph 4
+
+- A phased deployment of the Zero Trust Exchange allowed the company to streamline its security stack, while also ensuring greater protection and consistent performance across users, devices, apps, and locations worldwide.
+
+Paragraph 5
+
+- “The Zscaler platform is a technically mature, unified zero trust security solution, and deploying the Zero Trust Exchange was a critical step on our larger journey to digital transformation,” said the company’s Head of Network and Security Services.
+
+### quotes
+
+Quot 1
+
+quote:
+The Zscaler platform is a technically mature, unified zero trust security solution, and deploying the Zero Trust Exchange was a critical step on our larger journey to digital transformation.
+
+#### speaker
+
+name:
+Head of Network and Security Services
+
+title:
+Global Beauty Retailer
+
+company:
+Global Retailer Modernizes Security
+
+Quot 2
+
+quote:
+From day one with Zscaler, I knew we had greater protection for users, devices, and apps at every location.
+
+#### speaker
+
+name:
+Head of Network and Security Services
+
+title:
+Global Beauty Retailer
+
+company:
+Global Retailer Modernizes Security
+
+Section 3
+
+id:
+phase-1-direct-to-internet-connectivity-without-the-burden-of-legacy-proxy-and-firewalls
+
+title:
+Phase 1: Direct-to-internet connectivity without the burden of legacy proxy and firewalls
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- The global beauty retailer employs a hybrid workforce of 9,000 employees spread across thousands of retail locations and offices.
+- Safely and reliably connecting geographically dispersed employees and store locations to the internet and public SaaS applications was no longer feasible with the existing on-premises proxy and firewalls.
+- “When you need to protect thousands of internet access points, positioning a firewall on each of them is no longer a viable solution,” explained the company’s Head of Network and Security Services.
+
+Paragraph 2
+
+- The retail brand retired its internet proxy and legacy firewalls, instead deploying Zscaler Internet Access (ZIA).
+- ZIA replaces traditional proxy appliances as a safer way to broker direct-to-internet access.
+- Zscaler delivers security inspection and policy enforcement as close to the end user as possible, eliminating the need to backhaul internet traffic to central data centers for access and security.
+- Multiple point products are no longer required to facilitate security measures because the comprehensive Zero Trust Exchange includes functionality for cloud firewall protection, URL filtering, TLS/SSL traffic inspection, and advanced threat protection.
+- Individual users benefit from secure, reliable, and faster connections to the internet and SaaS applications no matter where they are.
+
+Paragraph 3
+
+- As part of ZIA deployment, Zscaler Client Connector was installed on all end user devices to enable even greater security controls for connectivity with remote employees.
+- Client Connector automatically determines if a user is trying to access the web, a SaaS application, or an internal private application, and then routes traffic to its destination via the Zero Trust Exchange.
+
+Paragraph 4
+
+- “Before Zscaler, our outbound security was a tangle of firewalls positioned around an outdated perimeter.
+- This led to inconsistent connectivity experiences that varied widely across locations,” said the Head of Network and Security Services.
+- “On the Zero Trust Exchange, every user benefits from equally reliable and secure internet connectivity, no matter if they are located in a retail store, a corporate office, or a remote work location.”
+
+### quotes
+
+Quot 1
+
+quote:
+When you need to protect thousands of internet access points, positioning a firewall on each of them is no longer a viable solution.
+
+#### speaker
+
+name:
+Head of Network and Security Services
+
+title:
+Global Beauty Retailer
+
+company:
+Global Retailer Modernizes Security
+
+Quot 2
+
+quote:
+Before Zscaler, our outbound security was a tangle of firewalls positioned around an outdated perimeter. This led to inconsistent connectivity experiences that varied widely across locations. On the Zero Trust Exchange, every user benefits from equally reliable and secure internet connectivity, no matter if they are located in a retail store, a corporate office, or a remote work location.
+
+#### speaker
+
+name:
+Head of Network and Security Services
+
+title:
+Global Beauty Retailer
+
+company:
+Global Retailer Modernizes Security
+
+Section 4
+
+id:
+phase-2-ditching-the-all-or-nothing-vpns-to-embrace-identity-based-least-privileged-access
+
+title:
+Phase 2: Ditching the all-or-nothing VPNs to embrace identity-based, least-privileged access
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- Because the company designs, produces, and distributes its products globally, leaders must prepare for security challenges across numerous industry sectors ranging from research to retail.
+- Protecting private resources and proprietary data—including product formulations and customer details—is essential for business continuity.
+- With an increasing number of remote employees, as well as new retail locations, the company wanted an efficient and secure way to connect users to private resources.
+
+Paragraph 2
+
+- Its legacy VPNs did not support the granular private application access policies leadership wanted to implement.
+- Most VPNs operate with an all-or-nothing access approach, lacking the nuance needed for identity-based, least-privileged access.
+- This kind of blanket approach creates a wide attack surface and allows lateral movement across the internal network, increasing the risk of unauthorized access to sensitive information.
+
+Paragraph 3
+
+- The company replaced its VPN appliances with Zscaler Private Access (ZPA).
+- ZPA eliminates the need for VPNs by directly connecting users to only the private applications they are authorized to access, meaning users are never placed on the network.
+- The company’s private applications and data, hosted on Microsoft Azure, are hidden behind the Zero Trust Exchange, making them invisible to threat actors and minimizing the attack surface.
+- Zscaler verifies user identity, device posture, and context on a per-session basis.
+- Full inline traffic inspection and AI-powered microsegmentation eliminate the threat of lateral movement and improve security posture.
+
+Paragraph 4
+
+- In addition to the critical security gaps inherent with VPN solutions, the user experience is typically poor due to inconsistent connectivity, latency, and slow application performance, which can frustrate users and increase calls to the IT help desk.
+- Because Zscaler provides secure, direct-to-application connectivity and eliminates backhauling traffic, the daily work experience for employees is fast and seamless.
+
+Paragraph 5
+
+- “For us, zero trust security is about protecting every resource we have, whether it exists inside or outside of our infrastructure,” said the Head of Network and Security Services.
+- “On the Zscaler platform, we can safeguard all traffic with equally rigorous zero trust processes.”
+
+### quotes
+
+Quot 1
+
+quote:
+For us, zero trust security is about protecting every resource we have, whether it exists inside or outside of our infrastructure. On the Zscaler platform, we can safeguard all traffic with equally rigorous zero trust processes.
+
+#### speaker
+
+name:
+Head of Network and Security Services
+
+title:
+Global Beauty Retailer
+
+company:
+Global Retailer Modernizes Security
+
+Quot 2
+
+quote:
+The scalability of the Zscaler platform gives us the flexibility to expand with agility while also maintaining our security edge.
+
+#### speaker
+
+name:
+Head of Network and Security Services
+
+title:
+Global Beauty Retailer
+
+company:
+Global Retailer Modernizes Security
+
+Section 5
+
+id:
+phase-3-harnessing-the-power-of-the-zero-trust-exchange-to-maximize-user-experience
+
+title:
+Phase 3: Harnessing the power of the Zero Trust Exchange to maximize user experience
+
+section_type:
+phase
+
+### paragraphs
+
+Paragraph 1
+
+- With outbound and inbound traffic secured through the Zero Trust Exchange, the global brand wants to explore all the powerful features available on the Zscaler platform.
+- “The Zero Trust Exchange isn’t just a collection of solutions, it’s the backbone of our comprehensive digital security ecosystem,” the Head of Network and Security Services said.
+- “We intend to leverage all the capabilities that Zscaler offers.”
+
+Paragraph 2
+
+- Implementing Zscaler Digital Experience (ZDX) will enhance global user experience by providing comprehensive end-to-end visibility, from user to application, simplifying monitoring across diverse devices, networks, and applications.
+- Leveraging AI-driven root cause analysis, ZDX will expedite the IT team’s ability to identify and address performance issues.
+- Additionally, integrated reporting dashboards will offer deeper insights into platform usage across global operations.
+
+Paragraph 3
+
+- Making use of Zscaler Cloud Sandbox will provide greater protection against threats like sophisticated malware and zero-day attacks.
+- The Zscaler sandbox is the world’s first inline, AI-powered malware prevention engine.
+- Zscaler automatically detects, prevents, and intelligently quarantines unknown threats and suspicious files, even threats hiding in encrypted traffic.
+
+Paragraph 4
+
+- “Bad actors are using AI-powered threats to try and outsmart common security measures,” said the Head of Network and Security Services.
+- “Zscaler technology is keeping our brand safe from those bad actors by using the power of AI to identify and eliminate the most sophisticated cyberthreats.”
+
+### quotes
+
+Quot 1
+
+quote:
+The Zero Trust Exchange isn’t just a collection of solutions, it’s the backbone of our comprehensive digital security ecosystem. We intend to leverage all the capabilities that Zscaler offers.
+
+#### speaker
+
+name:
+Head of Network and Security Services
+
+title:
+Global Beauty Retailer
+
+company:
+Global Retailer Modernizes Security
+
+Quot 2
+
+quote:
+Bad actors are using AI-powered threats to try and outsmart common security measures. Zscaler technology is keeping our brand safe from those bad actors by using the power of AI to identify and eliminate the most sophisticated cyberthreats.
+
+#### speaker
+
+name:
+Head of Network and Security Services
+
+title:
+Global Beauty Retailer
+
+company:
+Global Retailer Modernizes Security
+
+Section 6
+
+id:
+improving-today-s-performance-and-accelerating-tomorrow-s-growth-with-zscaler
+
+title:
+Improving today's performance and accelerating tomorrow's growth with Zscaler
+
+### paragraphs
+
+Paragraph 1
+
+- The company’s products can be found in 90 countries As the global brand continues on this growth trajectory, Zscaler technology will help simplify and expedite the integration of new entities into the established security infrastructure.
+- Because Zscaler operates the world’s largest inline security cloud, the Zero Trust Exchange can automatically scale to support expanding volumes of traffic and users, regardless of location.
+
+Paragraph 2
+
+- Since deploying the Zscaler platform, company leaders are pleased with the notable improvement in security, speed, and reliability at existing retail locations.
+- Using previous legacy security solutions, a brand store in Spain, for example, would have internet traffic backhauled to a data center in North Europe.
+- With Zscaler, that same Spanish store now has direct internet access protected from a Zscaler edge location in Spain, ensuring faster and more consistent connections.
+
+Paragraph 3
+
+- The improvement in performance at existing stores illustrates how transformational the Zscaler platform could be during future expansion efforts, whether adding new retail locations or newly acquired brand partners.
+- “As the brand continues to grow, we will be able to better support those efforts using the Zero Trust Exchange,” said the company’s Head of Network and Security Services.
+- “The scalability of the Zscaler platform gives us the flexibility to expand with agility while also maintaining our security edge.”
+
+### quotes
+
+Quot 1
+
+quote:
+As the brand continues to grow, we will be able to better support those efforts using the Zero Trust Exchange. The scalability of the Zscaler platform gives us the flexibility to expand with agility while also maintaining our security edge.
+
+#### speaker
+
+name:
+Head of Network and Security Services
+
+title:
+Global Beauty Retailer
+
+company:
+Global Retailer Modernizes Security
+
+Quot 2
+
+quote:
+The progress we’ve made towards our cloud-first digital transformation goals has only been possible because Zscaler is protecting our employees, customers, and data.
+
+#### speaker
+
+name:
+Head of Network and Security Services
+
+title:
+Global Beauty Retailer
+
+company:
+Global Retailer Modernizes Security
+
+Section 7
+
+id:
+the-zscaler-platform-helps-reduce-technology-spend-without-compromising-security-posture
+
+title:
+The Zscaler platform helps reduce technology spend without compromising security posture
+
+### paragraphs
+
+Paragraph 1
+
+- The global beauty retailer has leveraged Zscaler technology to overhaul its legacy network and security infrastructure, streamlining a heavy tech stack and significantly reducing total cost of ownership (TCO).
+- Using the Zscaler platform with a more modern SD-WAN approach, the company has eliminated its reliance on an expensive legacy MPLS network.
+- For a global brand of this size, an MPLS network could cost in excess of €1 million per year.
+
+Paragraph 2
+
+- The company has also successfully retired previous legacy security solutions, instead relying on the multitenant Zero Trust Exchange.
+- Eliminating multiple security point products adds to the TCO savings.
+
+Paragraph 3
+
+- Despite a streamlined technology infrastructure and reduced security spend, the retail brand has actually achieved a more robust security posture since deploying the Zscaler platform.
+- In a recent quarter, Zscaler processed 4.9 billion transactions and 530 TB of traffic for the company, preventing nearly 64 million policy violations and blocking more than 95,000 security threats.
+- Nearly 87,000 of those threats were hidden in encrypted traffic where previous legacy solutions would have struggled to detect them.
+
+Paragraph 4
+
+- Because Zscaler automates these mitigations, the company’s IT team can spend less time focused on managing security and more time devoted to delivering exceptional customer experiences across the globe.
+- “From day one with Zscaler, I knew we had greater security for users, devices, and apps at every location,” shared the brand’s Head of Network and Security Services.
+- “This confidence allows us to focus more fully on the customer experience because we know we have greatly improved the staff user experience.”
+
+### quotes
+
+Quot 1
+
+quote:
+From day one with Zscaler, I knew we had greater security for users, devices, and apps at every location. This confidence allows us to focus more fully on the customer experience because we know we have greatly improved the staff user experience.
+
+#### speaker
+
+name:
+Head of Network and Security Services
+
+title:
+Global Beauty Retailer
+
+company:
+Global Retailer Modernizes Security
+
+Section 8
+
+id:
+zscaler-is-an-essential-partner-on-digital-transformation-journey
+
+title:
+Zscaler is an essential partner on digital transformation journey
+
+### paragraphs
+
+Paragraph 1
+
+- As the global beauty retailer continues to advance its cloud-first goals, leaders anticipate a lasting partnership with Zscaler.
+- “Zscaler has been such an essential partner on our digital transformation journey so far,” shared the company’s Head of Network and Security Services.
+- “I honestly can’t envision any future efforts that don’t include expanding our Zscaler platform.”
+
+Paragraph 2
+
+- Additional Zscaler solutions the company may consider in the near future include Zscaler Data Security to strengthen data loss prevention efforts.
+- Zscaler Data Security could help the retailer identify sensitive information wherever it goes, providing better visibility around data exposure risk across the company’s systems, providing even greater protection for proprietary company information and confidential customer data.
+
+Paragraph 3
+
+- At present, the company continues to focus on navigating digital evolution with the Zero Trust Exchange as its north star.
+- “The progress we’ve made towards our cloud-first digital transformation goals has only been possible because Zscaler is protecting our employees, customers, and data,” concluded the brand’s Head of Network and Security Services.
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler has been such an essential partner on our digital transformation journey so far. I honestly can’t envision any future efforts that don’t include expanding our Zscaler platform.
+
+#### speaker
+
+name:
+Head of Network and Security Services
+
+title:
+Global Beauty Retailer
+
+company:
+Global Retailer Modernizes Security
+
+Quot 2
+
+quote:
+The progress we’ve made towards our cloud-first digital transformation goals has only been possible because Zscaler is protecting our employees, customers, and data.
+
+#### speaker
+
+name:
+Head of Network and Security Services
+
+title:
+Global Beauty Retailer
+
+company:
+Global Retailer Modernizes Security
+
+====================================================
+# products
+
+Product 1
+
+name:
+Sandbox
+
+url:
+https://www.zscaler.com/technology/cloud-sandbox
+
+Product 2
+
+name:
+Zscaler Digital Experience (ZDX)
+
+url:
+https://www.zscaler.com/products/zscaler-digital-experience
+
+Product 3
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 4
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust
+
+url:
+null
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+109876
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Global Retailer Modernizes Security Global Beauty Retail Brand Partners with Zscaler to Kick-Start Total Digital Transformation with The Zero Trust Exchange protects 9,000 employees, thousands of retail shops, and 40 corporate offices as operations shift to the cloud.
+
+og_title:
+Global Retailer Modernizes Security Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/global-retailer-modernizes-security

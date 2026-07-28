@@ -1,0 +1,707 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/bombardier
+
+slug:
+bombardier
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:06.442289Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Bombardier Enhances Security to Stop Patient-Zero Attacks
+
+subtitle:
+with Zscaler Sandbox
+
+customer_name:
+Bombardier
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Reduce risks from patient-zero threats while minimizing IT overhead
+
+## results
+
+- Enables rapid deployment and expansion, with the initial 70K users onboarded in less than six weeks
+- Delivers the highest level of protection against known and unknown threats, including patient-zero attacks
+- Improves situational awareness and risk reduction posture to increase security for modern and legacy IT technologies
+- Offers granular data and AI-powered analytics for instant threat mitigation and optimizing the entire security stack
+- Supports ESG goals by embedding data privacy in systems and processes to help reduce the energy IT consumes
+
+====================================================
+# customer_snapshot
+
+title:
+Bombardier
+
+description:
+Bombardier is a global aviation leader with a worldwide fleet of more than 4,900 aircraft, serving customers including multinational corporations, charter providers, governments, and private individuals.
+
+industry:
+Transportation Services
+
+headquarters:
+Montréal, Canada
+
+size:
+13,000
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+In addition to offering superior protection, we determined the Zscaler solution was the easiest to deploy and operationalize. There’s no heavy lifting for IT.
+
+## speaker
+
+name:
+Mark Ferguson
+
+title:
+CISO
+
+company:
+Bombardier
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+visibility-need-prompts-recalibration
+
+title:
+Visibility need prompts recalibration
+
+### paragraphs
+
+Paragraph 1
+
+- Having built its brand on providing high-end business aircraft to discerning customers, Bombardier perennially leads the aviation market by constantly innovating its operations, including IT security.
+
+Paragraph 2
+
+- “We embarked on a zero trust journey to provide us with a solution that gives us visibility and mitigates threats rapidly,” explained Bombardier Chief Information Security Officer Mark Ferguson.
+
+### quotes
+
+Quot 1
+
+quote:
+We embarked on a zero trust journey to provide us with a solution that gives us visibility and mitigates threats rapidly.
+
+#### speaker
+
+name:
+Mark Ferguson
+
+title:
+CISO
+
+company:
+Bombardier
+
+Section 2
+
+id:
+expanding-zero-trust-for-competitive-advantage
+
+title:
+Expanding zero trust for competitive advantage
+
+### paragraphs
+
+Paragraph 1
+
+- As a provider of sophisticated products to an elite group of customers, Bombardier is responsible for keeping aircraft and purchaser data secure for passenger and crew safety.
+- Simultaneously, the company needs to operate efficiently, effectively and with the highest integrity to maintain its competitive edge, all of which is codified in the company’s extensive Environmental, Social, and Governance (ESG) plan.
+
+Paragraph 2
+
+- These imperatives led Bombardier to consider how it could enhance its Zero Trust approach.
+- After reviewing the options for improving threat mitigation and risk reduction, Bombardier decided to expand its deployment of the cloud-native Zscaler Zero Trust Exchange platform.
+
+Paragraph 3
+
+- “In addition to offering superior protection, we determined the Zscaler solution was the easiest to deploy and operationalize,” Ferguson said.
+- “There’s no heavy lifting for IT.”
+
+### quotes
+
+Quot 1
+
+quote:
+In addition to offering superior protection, we determined the Zscaler solution was the easiest to deploy and operationalize. There’s no heavy lifting for IT.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Bombardier
+
+Quot 2
+
+quote:
+With the Zscaler Advanced Cloud Sandbox, there’s no heavy lifting for IT, which is critical as today’s talent market is so tight that hiring is extremely challenging.
+
+#### speaker
+
+name:
+Mark Ferguson
+
+title:
+CISO
+
+company:
+Bombardier
+
+Section 3
+
+id:
+instantly-mitigating-patient-zero-threats
+
+title:
+Instantly mitigating patient-zero threats
+
+### paragraphs
+
+Paragraph 1
+
+- Having previously adopted Zscaler Internet Access (ZIA), a fundamental building block of the Zero Trust Exchange platform, Bombardier elected to deploy the Zscaler Advanced Cloud Sandbox, which protects against patient zero attacks.
+
+Paragraph 2
+
+- Using real-time, AI-powered analysis, Advanced Cloud Sandbox conducts inline inspections of suspicious files and issues an instant verdict, quickly allowing benign traffic to continue.
+- The remaining traffic is quarantined and receives further AI analysis.
+- Concurrently, this suspicious traffic is blocked for every Zscaler user.
+- As an integrated Zscaler service, protections are updated in real time from billions of transactions per day.
+
+Paragraph 3
+
+- “Zscaler Advanced Cloud Sandbox is significantly widening our range of situational awareness,” Ferguson noted.
+- “We not only have modern systems to protect, but also various legacy solutions that are more vulnerable.
+- Advanced Cloud Sandbox is helping keep all of those systems safe, which is improving how we sleep at night.”
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler Advanced Cloud Sandbox is significantly widening our range of situational awareness. We not only have modern systems to protect, but also various legacy solutions that are more vulnerable. Advanced Cloud Sandbox is helping keep all of those systems safe, which is improving how we sleep at night.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Bombardier
+
+Section 4
+
+id:
+integrations-and-data-help-optimize-security-framework
+
+title:
+Integrations and data help optimize security framework
+
+### paragraphs
+
+Paragraph 1
+
+- Adopting Advanced Cloud Sandbox is also adding data to the insights Bombardier is already gathering from ZIA and combining it with other solutions to help optimize enterprise security.
+
+Paragraph 2
+
+- “Along with expanding our Zscaler platform, we’re in the process of moving to Sailpoint as our cloud-based identity governance and administration (IGA) platform,” Ferguson said.
+- In addition, Bombardier is using VMware Carbon Black for endpoint security.
+
+Paragraph 3
+
+- “We appreciate Zscaler’s tight integration with both of those solutions as it enables us to collect and analyze threat data for optimizing our entire security framework,” Ferguson continued.
+- “With good data, we can also educate our business users more effectively, as well as make data-driven decisions, like evaluating which legacy solutions we should prioritize for retirement.”
+
+### quotes
+
+Quot 1
+
+quote:
+Along with expanding our Zscaler platform, we’re in the process of moving to Sailpoint as our cloud-based identity governance and administration (IGA) platform.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Bombardier
+
+Quot 2
+
+quote:
+We never get any phone calls about Zscaler – that’s a huge win for us.
+
+#### speaker
+
+name:
+Mark Ferguson
+
+title:
+CISO
+
+company:
+Bombardier
+
+Section 5
+
+id:
+hiding-assets-from-external-threats
+
+title:
+Hiding assets from external threats
+
+### paragraphs
+
+Paragraph 1
+
+- By deploying Zscaler Zero Threat Exchange, Bombardier reduces exposure points and commonly known attack surfaces in the first place, because Zero Trust can’t be achieved while relying on legacy firewalls and VPNs.
+- The Zero Trust Exchange platform connects
+
+Paragraph 2
+
+- Bombardier’s users and devices to applications, rather than to the network, preventing lateral movement of infections while making users and applications invisible to external threats.
+
+Paragraph 3
+
+- Fewer avenues for breaches means reduced risk and fewer incidents for Bombardier: Hackers can’t attack what they can’t see.
+- In addition, the platform inspects all traffic, including encrypted traffic, for the effective prevention of threats and data loss.
+
+Paragraph 4
+
+- “When everyone went remote during the first wave of COVID-19, we learned that many of our employees completed the majority of their job functions using Microsoft 365,” Ferguson said.
+- “By adopting ZIA, employees using M365 no longer need to utilize our virtual private network [VPN] to log into our data center only for us to send traffic back out to the Microsoft cloud.”
+
+Paragraph 5
+
+- Connecting users directly to M365 has significantly reduced remote worker traffic to Bombardier’s data center.
+- “This reduces the risk of lateral infections, as well as decreases various other known security vulnerabilities associated with VPNs,” Ferguson said.
+
+### quotes
+
+Quot 1
+
+quote:
+When everyone went remote during the first wave of COVID-19, we learned that many of our employees completed the majority of their job functions using Microsoft 365. By adopting ZIA, employees using M365 no longer need to utilize our virtual private network [VPN] to log into our data center only for us to send traffic back out to the Microsoft cloud.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Bombardier
+
+Quot 2
+
+quote:
+This reduces the risk of lateral infections, as well as decreases various other known security vulnerabilities associated with VPNs.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Bombardier
+
+Section 6
+
+id:
+boosting-private-app-security-on-deck
+
+title:
+Boosting private app security on deck
+
+### paragraphs
+
+Paragraph 1
+
+- Moving forward, Bombardier is also planning to adopt Zscaler Private Access™ (ZPA™), which can eliminate its dependence on VPNs altogether.
+- Like ZIA, ZPA connects users to applications, providing secure access to private applications residing in Bombardier’s data center and in its Microsoft Azure environment.
+
+Paragraph 2
+
+- “Adding ZPA would assist with fully implementing a least-privileged access model,” says Ferguson.
+- “This will confine user access to only the applications they require for their jobs.
+- It fits in with our IGA transformation as it requires building upon least-privilege principles and policies.”
+
+Paragraph 3
+
+- Given Bombardier’s smooth ZIA implementation, Ferguson also looks forward to an easy ZPA deployment.
+- “We adopted ZIA at the beginning of the pandemic but before our recent divestiture, when we had about 70,000 employees,” Ferguson explained.
+- “We added about 10,000 employees to the platform a week, with the entire deployment lasting less than six weeks.”
+
+### quotes
+
+Quot 1
+
+quote:
+We adopted ZIA at the beginning of the pandemic but before our recent divestiture, when we had about 70,000 employees.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Bombardier
+
+Quot 2
+
+quote:
+Zscaler’s intense dedication to forming a value-added partnership is what differentiates it from the rest.
+
+#### speaker
+
+name:
+Mark Ferguson
+
+title:
+CISO
+
+company:
+Bombardier
+
+Section 7
+
+id:
+further-innovation-to-address-esg-and-other-goals
+
+title:
+Further innovation to address ESG and other goals
+
+### paragraphs
+
+Paragraph 1
+
+- With a significant application migration to Azure on the horizon, Bombardier will consider other Zscaler solutions, including Zscaler Workload Segmentation™ (ZWS™) and the Zscaler Cloud Protection suite.
+- Both solutions help alleviate challenges related to migrating legacy solutions to cloud platforms, such as Azure, Amazon Web Services (AWS) and Google Cloud Platform, due to Zscaler’s tight integration with each cloud provider.
+
+Paragraph 2
+
+- Bombardier’s continued expansion of Zero Trust and the Zscaler platform is a vital component for meeting the company’s ESG goals, including establishing systems and processes that embed data privacy best practices worldwide and achieving a 20% reduction in energy consumption.
+
+Paragraph 3
+
+- “Zscaler is another tool in our cyber controls that gives us confidence our IT environment is operating securely,” Ferguson said.
+- “In addition, Zscaler’s commitment to using 100% renewable energy sources in its operations aligns with our ESG priorities of improving our cybersecurity and driving positive environmental impact by reducing our security appliances.”
+
+### quotes
+
+Quot 1
+
+quote:
+Zscaler is another tool in our cyber controls that gives us confidence our IT environment is operating securely. In addition, Zscaler’s commitment to using 100% renewable energy sources in its operations aligns with our ESG priorities of improving our cybersecurity and driving positive environmental impact by reducing our security appliances.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Bombardier
+
+Section 8
+
+id:
+strong-partnership-robust-pipeline-success
+
+title:
+Strong partnership + robust pipeline = success
+
+### paragraphs
+
+Paragraph 1
+
+- Overall, Bombardier will continue to benefit from Zscaler’s strong partnership culture, according to Ferguson.
+- “IT and security technologies are constantly evolving,” he said.
+- “So, our emphasis isn’t on determining which company is the current leader, it’s on selecting providers that demonstrate a commitment to partnership and have a strong innovation pipeline.”
+
+Paragraph 2
+
+- “In Zscaler, we have a partner that dedicates resources to closely examining our situation and making a variety of suggestions based on accumulated insights and expertise,” Ferguson continued.
+- “Zscaler’s intense dedication to forming value-added partnerships is what differentiates it from the rest.”
+
+Paragraph 3
+
+- Most importantly, adopting Zscaler has significantly improved user and IT experiences.
+- “Our users love our Zscaler deployment because it’s transparent to them,” Ferguson said.
+- “They appreciate not using a VPN and we never get any phone calls about Zscaler – that’s a huge win for us.”
+
+### quotes
+
+Quot 1
+
+quote:
+IT and security technologies are constantly evolving. So, our emphasis isn’t on determining which company is the current leader, it’s on selecting providers that demonstrate a commitment to partnership and have a strong innovation pipeline.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Bombardier
+
+Quot 2
+
+quote:
+In Zscaler, we have a partner that dedicates resources to closely examining our situation and making a variety of suggestions based on accumulated insights and expertise. Zscaler’s intense dedication to forming value-.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Bombardier
+
+Quot 3
+
+quote:
+Our users love our Zscaler deployment because it’s transparent to them. They appreciate not using a VPN and we never get any phone calls about Zscaler – that’s a huge win for us.
+
+#### speaker
+
+name:
+
+
+title:
+
+
+company:
+Bombardier
+
+Section 9
+
+id:
+toward-more-sustainable-flight
+
+title:
+Toward more sustainable flight
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- An innovator for over 100 years, Bombardier’s commitment to excellence extends to its comprehensive ESG efforts, including dedicating a substantial amount of its R&D investments towards greener aircraft, and is a signatory to the United Nations’ Global Compact.
+
+Paragraph 2
+
+- With Zero Trust protecting the integrity of its data, Bombardier can rely on the insights it gathers to ensure its workplaces are becoming more inclusive, its business more responsible and its aircraft greener for a more sustainable and financially resilient future.
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 2
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 3
+
+name:
+Zero Trust Firewall
+
+url:
+https://www.zscaler.com/resources/data-sheets/zscaler-firewall.pdf
+
+Product 4
+
+name:
+Sandbox
+
+url:
+https://www.zscaler.com/technology/cloud-sandbox
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 2
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+49091
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Bombardier Bombardier Enhances Security to Stop Patient-Zero Attacks with with Zscaler Sandbox.
+
+og_title:
+Bombardier Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/bombardier

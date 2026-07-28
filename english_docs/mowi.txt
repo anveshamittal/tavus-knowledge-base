@@ -1,0 +1,359 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/mowi
+
+slug:
+mowi
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:41.296555Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+Mowi Secures Employees and Global Food Supply
+
+subtitle:
+with the Zscaler Zero Trust Exchange
+
+customer_name:
+Mowi
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Quickly transition to allow workers across the globe to work securely from anywhere
+
+## results
+
+- Enabled the entire staff of 4,000 to work remotely in just a few weeks
+- Resulted in immediate positive feedback from satisfied users
+- Changed the company’s view of IT from cost center to business enabler
+- Fortifies overall security posture with zero trust access to private apps
+
+====================================================
+# customer_snapshot
+
+title:
+Mowi
+
+description:
+Mowi, formerly known as Marine Harvest, is one of the world’s largest seafood companies, with operations worldwide. The Norwegian company's primary focus is fish farming, with Atlantic salmon farming operations off Norway, Scotland, Canada, the Faroe Islands, Ireland, and Chile.
+
+industry:
+Food, Beverage, and Tobacco
+
+headquarters:
+Bergen, Norway
+
+size:
+15,000 employees in 25 countries
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+Within four or five weeks we had the entire staff of Mowi able to work from home using ZPA. People started noticing immediate benefits.
+
+## speaker
+
+name:
+Robert Berkenpas
+
+title:
+Group Manager
+
+company:
+Mowi
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+changing-the-mindset-from-cost-center-to-business-enabler
+
+title:
+Changing the Mindset: From Cost Center to Business Enabler
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- Blog by Robert Berkenpas, Group Manager Infrastructure & Operations, MOWI
+
+Paragraph 2
+
+- It is not unusual that innovation happens when we are faced with a crisis.
+- Dealing with a shortage of resources, lacking time, being faced with an economic downturn or a global health crisis, our plans and budgets which have been thoroughly calculated, debated, and negotiated, all of a sudden are no longer the rule book by which we play.
+
+Paragraph 3
+
+- Unusual times cause us to be quick on our feet, rethink, pivot, and make changes that had been unimaginable before.
+- Just six months ago, had you told me that MOWI’s offices and production facilities, like the Brugge production plant for example, were going to look like ghost towns, only with essential personnel on the floor that handle and filet freshly caught salmon from Norway (even ramping up production volume) with the factory actually being run from our employees’ homes, I would have called you crazy.
+
+Paragraph 4
+
+- Here we are, half a year into the worst pandemic of my life-time that has affected millions of people around the world and brought so many businesses around the globe to a standstill.
+- Being one of the largest seafood producers in the world, MOWI has an obligation to care for our employees and the fish we raise and to secure the supply of food for people all around the world.
+
+Paragraph 5
+
+- While it has been a difficult time, I want to highlight a positive development that I have been very lucky to observe over the past few months: IT being recognized as a business enabler rather than a cost center.
+
+Paragraph 6
+
+- Earlier this year, when it became evident that COVID-19 was spreading globally and social distancing was going to be essential, my team stepped up and rolled out technology that would enable us to work anywhere and keep our employees, their loved ones, and all our colleagues safe.
+
+Paragraph 7
+
+- When people had started working from home it became evident that our incumbent VPN was not able to handle the sheer amount of users and data.
+- We had already completed a proof-of-value of Zscaler Private Access (ZPA) which enabled us to fast-track the rollout to all staff in less than a month and proved to us that we had been on the right path when we evaluated ZPA.
+
+Section 2
+
+id:
+section-2
+
+title:
+
+
+### paragraphs
+
+Paragraph 1
+
+- We deployed the solution remotely and got a few confused looks when we told people to just turn off their VPNs and continue working.
+- Over the next weeks my team received many compliments on the ease of use - no more generating codes and entering pins as you fire up your VPN, just turning on your laptop and starting to work.
+
+Paragraph 2
+
+- The success we have had with Zscaler didn’t go unnoticed across all areas of the business.
+- This has been one of those rare occasions in my career where we have been able to change the trajectory of our department, even for our business, through this very important technology decision that we made.
+- My team proved that IT is there to support the business, not to put unnecessary obstacles in their way as it was often perceived in the past and as a bonus increase security.
+- We probably pulled off the fastest IT project in the history of the company and demonstrated to our colleagues across the board that we have a vision on how to leverage technology to enable business outcomes.
+
+Paragraph 3
+
+- This recognition has already manifested itself in our team being invited to meetings and discussions that we were previously not included in, or being brought to the table at an early stage where our expertise can actually propel projects forward.
+
+Paragraph 4
+
+- The mindset has changed and the company is more aware than ever about the value IT brings and how they can leverage our expertise to drive positive business outcomes, not just solve technical problems.
+
+Paragraph 5
+
+- We are learning a lot with new technologies, like using AI to improve feed patterns for our fish, or leveraging cloud technology to become a mobile workforce.
+- And this is just the beginning.
+- When we as a business leverage technology to optimize or create new processes, we ensure that our company keeps innovating and supports a sustainable future.
+
+Paragraph 6
+
+- I am a firm believer that technology and innovation will create opportunities for MOWI when IT comes in as an innovator and a key partner in the business to make sure we add value at every step of the way.
+- And I would like to salute and pay respect to my team because they are doing an awesome job, they delivered and exceeded the expectations of the business and I am really proud of them.
+
+### quotes
+
+Quot 1
+
+quote:
+The success we have had with Zscaler … has been one of those rare occasions in my career where we have been able to change the trajectory of our department, even of our business, through this very important technology decision.
+
+#### speaker
+
+name:
+Robert Berkenpas
+
+title:
+Group Manager
+
+company:
+Mowi
+
+Quot 2
+
+quote:
+We probably pulled off the fastest IT project in the history of the company and demonstrated to our colleagues across the board that we have a vision on how to leverage technology to enable business outcomes.
+
+#### speaker
+
+name:
+Robert Berkenpas
+
+title:
+Group Manager
+
+company:
+Mowi
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+Product 2
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 3
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 2
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+Solution 3
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+39676
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how Mowi Mowi Secures Employees and Global Food Supply with with the Zscaler Zero Trust Exchange.
+
+og_title:
+Mowi Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/mowi

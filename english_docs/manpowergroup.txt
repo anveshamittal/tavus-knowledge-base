@@ -1,0 +1,381 @@
+====================================================
+# metadata
+
+url:
+https://www.zscaler.com/customers/manpowergroup
+
+slug:
+manpowergroup
+
+page_type:
+customer_story
+
+scraped_at:
+2026-07-24T06:55:37.293844Z
+
+language:
+en
+
+====================================================
+# hero
+
+title:
+ManpowerGroup Secures Digital Transformation of Entire Ecosystem
+
+subtitle:
+Including Employees, Associates, and Partners with Zscaler
+
+customer_name:
+ManpowerGroup
+
+metrics:
+[]
+
+====================================================
+# summary
+
+phased_journey:
+[]
+
+## challenges
+
+- Adopt a modern, unified remote access solution to improve the user experience and secure a distributed global workforce
+
+## results
+
+- Deployed selective, zero-trust WFA access for 25,000 users in 18 days
+- Reduced help desk tickets by 97% despite introducing new technology
+- Reduces security operations burden while adding resiliency and agility
+- Improves user experience and saves administrative time by eliminating VPN upgrade
+- Provides secure internet and SaaS access to a new country or franchise in less than three hours
+- Accelerates securing of M&A and divestiture transitions
+
+====================================================
+# customer_snapshot
+
+title:
+ManpowerGroup
+
+description:
+ManpowerGroup is the world’s leading workforce solutions company. The Fortune 500 corporation develops innovative solutions for hundreds of thousands of organizations every year to address the complex workforce challenges that organizations face today in staffing, talent management, outsourcing, and talent development.
+
+industry:
+Services
+
+headquarters:
+Milwaukee, Wisconsin, USA
+
+size:
+30,000 + employees in 2,500 offices across 80+ countries
+
+extra_fields:
+{}
+
+====================================================
+# media
+
+## video
+
+exists:
+false
+
+url:
+null
+
+provider:
+null
+
+video_id:
+null
+
+title:
+null
+
+description:
+null
+
+duration_seconds:
+null
+
+thumbnail_url:
+null
+
+transcript:
+null
+
+extra_metadata:
+{}
+
+====================================================
+# hero_quotes
+
+Hero Quote 1
+
+quote:
+[Zscaler] allows us to very quickly either create trusted environments to bring in new entities or to segregate out entities during those transition periods that happen on either side of an acquisition.
+
+## speaker
+
+name:
+Randy Herold
+
+title:
+CIO and Chief Privacy Officer
+
+company:
+ManpowerGroup
+
+====================================================
+# customer_case_study
+
+title:
+Customer Case Study
+
+## sections
+
+Section 1
+
+id:
+rethinking-vpn-manpowergroup-modernizes-remote-access-in-just-18-days
+
+title:
+Rethinking VPN: ManpowerGroup Modernizes Remote Access in Just 18 Days
+
+quotes:
+[]
+
+### paragraphs
+
+Paragraph 1
+
+- Company extends secure private application access to 30,000 employees
+
+Paragraph 2
+
+- Organizations have had to quickly adapt in response to the COVID-19 pandemic.
+- Helping employees maintain productivity remotely can be challenging, from setting up remote office space and providing device choices (managed or BYOD) to allowing flexible schedules and providing secure access to data and applications.
+
+Paragraph 3
+
+- Traditionally, IT teams have relied on virtual private networks (VPNs) for remote workers, as a typical pre-pandemic remote workforce consisted of a fraction of all employees who generally were not logging on at the same time.
+
+Paragraph 4
+
+- In this model, remote devices are placed on the corporate network using a VPN to backhaul traffic from the user’s remote location to an inbound gateway hosted within the company’s data center, where the applications would typically reside.
+- As the pandemic emerged and employees began working at home in vast numbers, IT teams aimed to scale quickly by increasing their VPN seats, significantly increasing their budgets in the process.
+
+Paragraph 5
+
+- However, many companies discovered problems with this approach.
+- One problem is from the users’ standpoint: backhauling traffic from remote users to data centers often results in complications (such as dropped connections and repeated logins) and latency, leading users to bypass the VPN thereby defeating the purpose of deploying it in the first place.
+- Another problem is on the IT side: VPN appliances must be managed and patched frequently to prevent them from becoming vulnerable to attack.
+- There have been many recent reports of security holes and bugs detected in VPNs, one of which required more than 800,000 appliances to be updated and patched.
+- VPN appliances are known to increase an organization’s attack surface, and the more you have, the greater the risk.
+
+Paragraph 6
+
+- Since the beginning of the pandemic, cyberattacks in general have increased, and so have attacks on VPNs.
+- With so many people seeking information to keep themselves and their families safe, attackers are using this opportunity to plant malware in links and applications and carry out attacks such as Windows server exploits, remote code exploits, social engineering, and ransomware attacks.
+- Workers who are unaccustomed to working remotely, or are not used to VPNs, have fallen prey to VPN exploits.
+- In one instance, Twitter employees were lured into giving out their VPN credentials.
+- This request didn’t seem out of the ordinary for the users, given the issues they’d been having with VPN use.
+
+Section 2
+
+id:
+manpowergroup-took-a-different-approach
+
+title:
+ManpowerGroup took a different approach
+
+### paragraphs
+
+Paragraph 1
+
+- ManpowerGroup is one of many organizations using the pandemic to look into long-term, pandemic-proof secure solutions.
+- We had the opportunity to chat with Randy Herold, CISO and CPO of ManpowerGroup, to understand the company’s success in providing secure access to employees and quickly adapt to a remote workforce.
+
+Paragraph 2
+
+- ManpowerGroup is a world leader in innovative workforce solutions connecting people to meaningful work across a wide range of skills and industries.
+- ManpowerGroup was already on its journey to digital transformation, but Randy and his team found they had to accelerate it to accommodate the “new normal.” Randy explains that what would have taken the company 18 months to deploy was decided on and implemented in 18 days due to the urgent need for employees to work remotely at full capacity.
+
+Paragraph 3
+
+- Previously, ManpowerGroup used VPN for remote employees, which comprised only a small portion of the company’s workforce.
+- Varied VPN protocols across the company’s global workforce had to keep up with security patches to prevent cyberattacks.
+- Randy describes implementing those security protections as an “operational nightmare.” Randy and his team were looking for a unified solution that would also improve user experience for more than 30,000 employees worldwide.
+
+Paragraph 4
+
+- In its quest for a cloud-driven environment, the company implemented Zscaler Private Access (ZPA) to provide the ability to support multicloud environments with a single ruleset.
+- This decision resulted in flexibility and reassurance that security protections would be in place regardless of the cloud or on-prem solutions employees were accessing.
+
+Paragraph 5
+
+- Learn how ManpowerGroup enabled a fully remote workforce with ZPA and the business value that ZPA has brought since implementation.
+
+### quotes
+
+Quot 1
+
+quote:
+Within 18 days we were able to scale up and support more than 90 percent of our [30,000 global] users in order to support activities, keep productivity high, and keep businesses running with the resources supplied through ZPA.
+
+#### speaker
+
+name:
+Randy Herold
+
+title:
+CIO and Chief Privacy Officer
+
+company:
+ManpowerGroup
+
+Quot 2
+
+quote:
+I think [ZPA] was one of the most critical solutions that we had implemented and most beneficial and effective solutions. It helped us literally overnight make people still effective, productive, and immediately ready to go back to work.
+
+#### speaker
+
+name:
+Abdul Khan
+
+title:
+VP, Global Infrastructure & Operations
+
+company:
+ManpowerGroup
+
+Quot 3
+
+quote:
+[Zscaler] allows us to very quickly either create trusted environments to bring in new entities or to segregate out entities during those transition periods that happen on either side of an acquisition.
+
+#### speaker
+
+name:
+Randy Herold
+
+title:
+CIO and Chief Privacy Officer
+
+company:
+ManpowerGroup
+
+====================================================
+# products
+
+Product 1
+
+name:
+Zscaler Internet Access (ZIA)
+
+url:
+https://www.zscaler.com/products/zscaler-internet-access
+
+Product 2
+
+name:
+Zscaler Private Access (ZPA)
+
+url:
+https://www.zscaler.com/products/zscaler-private-access
+
+Product 3
+
+name:
+Zscaler Zero Trust Exchange (ZTE)
+
+url:
+https://www.zscaler.com/platform/zero-trust-exchange
+
+====================================================
+# solutions
+
+Solution 1
+
+name:
+Accelerate M&A and Divestitures
+
+url:
+https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+
+Solution 2
+
+name:
+Zero Trust App Access
+
+url:
+null
+
+Solution 3
+
+name:
+Data Security
+
+url:
+https://www.zscaler.com/products-and-solutions/data-security
+
+Solution 4
+
+name:
+Ransomware
+
+url:
+https://www.zscaler.com/products-and-solutions/ransomware-protection
+
+====================================================
+# related_company_content
+
+Related_company_content 1
+
+name:
+Abanca
+
+url:
+https://www.zscaler.com/customers/abanca
+
+Related_company_content 2
+
+name:
+Adventhealth
+
+url:
+https://www.zscaler.com/customers/adventhealth
+
+Related_company_content 3
+
+name:
+Akzonobel
+
+url:
+https://www.zscaler.com/customers/akzonobel
+
+Related_company_content 4
+
+name:
+Amn Healthcare
+
+url:
+https://www.zscaler.com/customers/amn-healthcare
+
+====================================================
+# extra_metadata
+
+nid:
+42971
+
+====================================================
+# page_metadata
+
+meta_description:
+Learn how ManpowerGroup ManpowerGroup Secures Digital Transformation of Entire Ecosystem with Including Employees, Associates, and Partners with Zscaler.
+
+og_title:
+ManpowerGroup Case Study | Customer Stories | Zscaler
+
+canonical_url:
+https://www.zscaler.com/customers/manpowergroup
