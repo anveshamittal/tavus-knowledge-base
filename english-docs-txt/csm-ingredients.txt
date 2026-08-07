@@ -1,0 +1,51 @@
+DOCUMENT TITLE: CSM Ingredients Redefines Remote Access
+SUBTITLE: with Zscaler Private Access
+CUSTOMER: CSM Ingredients
+
+=== COMPANY OVERVIEW ===
+CSM Ingredients is the leading supplier of the highest quality ingredients with a wide range across bakery fats, pastry, and bread ingredients as well as food solutions for multiple industrial applications in bakery, dairy, non-dairy, and the ice cream industry.
+Industry: Food, Beverage, and Tobacco
+Headquarters: Atlanta, Georgia, USA
+Company Size: 39 factories in 100 countries
+Source URL: https://www.zscaler.com/customers/csm-ingredients
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Fix control problems stemming from legacy VPN through a network redesign that begins in the cloud
+Key Results:
+  * Implemented Active Directory authentication after ditching VPN
+  * Simplifies access and reduces risk for third-party vendors
+  * Streamlines on- and offboarding with a straightforward authentication dashboard
+  * Reduces reliance on hardware- and appliance-based security
+
+=== KEY QUOTES ===
+"(ZPA) helped us to truly manage and control all access (not only for) CSM employees but also our vendors and contractors."
+  — Tony DeDiego, Director of Network Services, CSM Ingredients
+
+"…we had a lot of issues with managing our environment efficiently and providing services to our users that they required."
+  — Tony DeDiego, Director of Network Services, CSM Ingredients
+
+"We were trying to find something that was predictable, stable, and easy to use."
+  — Tony DeDiego, Director of Network Services, CSM Ingredients
+
+"We started looking at ZPA…we implemented AD authentication as part of that."
+  — Tony DeDiego, Director of Network Services, CSM Ingredients
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Ransomware
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: Thousands of CSM Bakery employees rely on ZPA to access private apps
+Video Description: a Zscaler Academy Customer Interviews video
+
+Transcript Segments:
+[Tony DeDiego (Director of Network Services, CSM Ingredients)] (Company overview and global presence): We are a global industrial Bakery company, and we operate in thirty nine factories across the globe. We, provide services in a hundred countries. We are primarily based in the US, Europe, and APAC.
+[Tony DeDiego (Director of Network Services, CSM Ingredients)] (Network redesign and control issues): So in the twenty sixteen, twenty seventeen time frame, we started investigating a network redesign. And we had a lot of control problems, and we had a lot of, issues with managing our environment, efficient and providing the services to our users that they required.
+[Tony DeDiego (Director of Network Services, CSM Ingredients)] (VPN issues affecting user experience): If the sales guy can't get connected to our digital asset management system while sitting at a customer's location to to show something and the VPN isn't working, then it just makes the whole company look bad. So we were trying to find something that was predictable, stable, and, easy to use.
+[Tony DeDiego (Director of Network Services, CSM Ingredients)] (Implementation of ZPA for authentication): One of the fantastic things that we were able to do is ZPA. And when we set it up in was that we wanted to, you know, how do we authenticate that incoming user?
+[Tony DeDiego (Director of Network Services, CSM Ingredients)] (Issues with traditional VPNs): The problem with the old traditional VPNs is I launch it. And if I know your user ID and your password, I can just load the the client on my laptop and I can connect to you and and really there's no authentication, at that that VPN particularly in the case where we had a carrier based VPN solution.
+[Tony DeDiego (Director of Network Services, CSM Ingredients)] (AD authentication with ZPA): But when we started looking at ZPA, we implemented the AD authentication as part of that. So if you have an active AD account within CSM, and you launch ZPA and you go to Connect, then we authenticate you using our active directory.
+[Tony DeDiego (Director of Network Services, CSM Ingredients)] (Access control for third-party vendors): If you don't have an active directory account, you can't get in. The other thing that that enabled us to do is the third party vendors that needed access to our internal internal systems. If the contract that vendor expires, all I have to do is go disable their AD account, which is part of our normal off boarding process anyhow, is EPA stop work. They can't get back in.
+[Tony DeDiego (Director of Network Services, CSM Ingredients)] (Legacy VPN account management issues): So with the old carrier based unless somebody knew to go delete that VPN account off this network based VPN system that account was still active.
+[Tony DeDiego (Director of Network Services, CSM Ingredients)] (Improved access control with ZPA): So it helped us to truly manage and control all access to not only CSM employees, but also our vendors and contractors.

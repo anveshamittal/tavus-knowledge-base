@@ -1,0 +1,63 @@
+DOCUMENT TITLE: Commonwealth Grants Commission Accelerates Cloud Adoption
+SUBTITLE: with the Zscaler Zero Trust Exchange
+CUSTOMER: Commonwealth Grants Commission (CGC)
+
+=== COMPANY OVERVIEW ===
+The Commonwealth Grants Commission (CGC) is an independent statutory body that advises the Australian Government on financial assistance for the nation’s states and territories. Its main responsibility is to advise how to distribute funds from grants made by the Commonwealth Government.
+Industry: Federal and Government
+Headquarters: Canberra, Australia
+Company Size: Serves the people of Australia
+Source URL: https://www.zscaler.com/customers/commonwealth-grants-commission
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Replacing their secure internet gateway (SIG), which caused congestion and performance issues.
+Transformation Journey:
+  * -For -several -years,- -the -CGC'-s- -staff -had -relied -o-n- -a- -secure -internet -gateway -(-SIG)- -service -based -o-n- -a- -10Mbps -network -link.-
+  * -Working -with -a- -technology -partner,- -the -CGC -I-T- -team -examined -a- -range -o-f- -solutions -a-s- -part -o-f- -a- -larger -project -that -involved -migrating -from -the -existing,- -o-n---premise -hardware -t-o- -the -Azure -cloud -and -the -adoption -o-f- -Microsoft -Office -365.-
+  * -With -Zscaler -i-n- -place -and -the -new -cloud--based -resources -fully -functional,- -the -CGC -quickly -realized -significant -benefits.-
+  * -A-s- -the -shift -t-o- -home -working -occurred -s-o- -rapidly,- -the -CGC -I-T- -team -i-s- -currently -undertaking -a- -review -o-f- -the -new -architecture -t-o- -determine -whether -any -changes -o-r- -additions -might -b-e- -required.-
+Key Results:
+  * Delivers secure work-from-anywhere for entire staff
+  * Migrated core applications to Azure and equips staff with Office 365 E5
+  * Sees significant upgrade in bandwidth capabilities (100 Mbps+)
+  * Saves on gigabit-speed connection with Zscaler overlay
+
+=== KEY QUOTES ===
+"We were able to shift everyone from being office based to working from home within a week which would simply not have been possible before Zscaler."
+  — Greg Freeman, COO, Commonwealth Grants Commission (CGC)
+
+=== CASE STUDY DETAILS ===
+
+--- Replacing an aging access infrastructure ---
+For several years, the CGC’s staff had relied on a secure internet gateway (SIG) service based on a 10Mbps network link. This SIG was the only link with the outside world and congestion and performance had gradually become a significant issue.
+“In mid-2019, we realized we needed to find a different way to deploy and maintain our IT infrastructure,” says CGC Chief Operating Officer, Greg Freeman. “At that time, we had our own servers and local area networking equipment on-premise and wanted to shift to a cloud-based platform.”
+Freeman says this move to the cloud was part of an ‘anywhere, anytime, any device’ strategy that had been adopted by the organization and enables the organization to maintain business continuity and rapidly support staff wherever they may be located. There was also a plan in place to shift into new premises in about 18 months and a need to improve performance to access cloud-based solutions.
+“To upgrade the bandwidth available through the SIG would have been prohibitively expensive,” he says. “We had already been spending a significant amount annually with our SIG provider for the 10Mbps connection and we were quoted several multiples of this to move to a 100Mbps connection. We knew we had to find a better solution to resolve the incompatibility issues between the traditional SIG services and the Digital Transformation Agency’s cloud strategies.”
+"In mid-2019, we realized we needed to find a different way to deploy and maintain our IT infrastructure. At that time, we had our own servers and local area networking equipment on-premise and wanted to shift to a cloud-based platform."
+  — Greg Freeman, COO, Commonwealth Grants Commission (CGC)
+
+--- Why a cloud-based alternative? ---
+Working with a technology partner, the CGC IT team examined a range of solutions as part of a larger project that involved migrating from the existing, on-premise hardware to the Azure cloud and the adoption of Microsoft Office 365.
+The team commissioned a new gigabit network link and deployed Zscaler over the top. The partnership with Microsoft enabled core applications to be migrated to Azure and all staff equipped with a subscription to Office 365 E5 cloud-based suite of productivity apps combined with advanced voice, analytics, security, and compliance services. The project began in late 2019 and was completed early in 2020.
+“The fact that Zscaler had achieved a successful Information Security Registered Assessors Program (IRAP) assessment gave us confidence that this was the right move,” says Freeman. “We could see this was the best way forward for the organization.”
+Indeed, an IRAP assessment provides government agencies with confidence in Zscaler’s suitability for processing, storing or communicating sensitive information, making it easier for agencies to evaluate and adopt the technology.
+"The fact that Zscaler had achieved a successful Information Security Registered Assessors Program (IRAP) assessment gave us confidence…"
+  — Greg Freeman, COO, Commonwealth Grants Commission (CGC)
+
+--- Business benefits recognized immediately ---
+With Zscaler in place and the new cloud-based resources fully functional, the CGC quickly realized significant benefits. Staff now have the flexibility to work from any location while still enjoying the same level of security they would have when in the office.
+“In hindsight, the timing of the move could not have been better as it was completed just before the COVID-19 shutdowns took place,” says Freeman. “We were able to shift everyone from being office based to working from home within a week which would simply not have been possible before Zscaler.”
+“The concept of a centralized office has now morphed into a collaboration space where staff can meet as required, but our office is now really in the cloud.”
+Freeman says there have also been benefits around cost. “We moved to the new business grade gigabit connection and implemented Zscaler for significantly less than the amount we were quoted for the upgrade to 100 Mbps through the existing SIG.”
+"We knew we had to...resolve the incompatibility issues between the traditional SIG services and the Digital Transformation Agency’s cloud strategies."
+  — Greg Freeman, COO, Commonwealth Grants Commission (CGC)
+
+--- Future-readiness with Zscaler ---
+As the shift to home working occurred so rapidly, the CGC IT team is currently undertaking a review of the new architecture to determine whether any changes or additions might be required.
+“Zscaler will certainly help us to achieve this and will continue to be a valuable component of the CGC IT infrastructure for many years to come. We now have in place a secure foundation that will support our activities and allow us to continue to provide our services to the Australian Government,” says Freeman.
+"Zscaler…will continue to be a valuable component of the CGC IT infrastructure for many years to come."
+  — Greg Freeman, COO, Commonwealth Grants Commission (CGC)
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access

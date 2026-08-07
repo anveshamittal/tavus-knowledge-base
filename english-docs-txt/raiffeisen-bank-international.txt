@@ -1,0 +1,51 @@
+DOCUMENT TITLE: Raiffeisen Bank International Transforms Security on the Zscaler Zero Trust Exchange
+SUBTITLE: Zscaler replaces legacy appliances to provide comprehensive threat protection, enable work-from-anywhere flexibility, and reduce security costs
+CUSTOMER: Raiffeisen Bank International
+
+=== COMPANY OVERVIEW ===
+One of Austria's leading corporate and investment banks
+Industry: Financial Services and Insurance
+Headquarters: Vienna, Austria
+Company Size: Millions of clients in 12 markets
+Source URL: https://www.zscaler.com/customers/raiffeisen-bank-international
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 44K: employees protected by zero trust
+- 18.6M: customers enjoy secure banking
+- One: platform delivers total zero trust
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * A traditional security infrastructure was not compatible with a cloud-first approach, putting users and workloads at risk
+  * Legacy security appliances did not support work-from-anywhere flexibility, resulting in latency and poor performance
+  * VPNs did not enable identity-based access for private apps, leading to inconsistent policies and a wider attack surface
+Key Results:
+  * Secures outbound and inbound connectivity for a hybrid workforce, delivering consistent protection at every location
+  * Reduces latency and enhances SaaS and private application performance to improve in-office and remote user experiences
+  * Streamlines security architecture and delivers comprehensive protection against threats while reducing security spend
+
+=== KEY QUOTES ===
+"Partnering with Zscaler brought us better security, less costs, and a better user experience by applying our zero trust principles."
+  — Peter Gerdenitsch, Group CISO, Raiffeisen Bank International
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Ransomware
+- Optimize Digital Experiences
+- Secure Remote Access
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: Raiffeisen Bank International partners with Zscaler for Better: Security, User Experience &amp; Less Costs
+Video Description: a Customer Testimonials video
+
+Transcript Segments:
+[Peter Gerdenitsch (Group CISO, Raiffeisen Bank International)] (Introduction to RBI and transformation): Raiffeisen Bank International also known as RBI regards Austria as the leading corporate investment bank, as well as Central and Eastern Europe, we decided to transform our old legacy structure by applying the zero trust architectural principles.
+[Peter Gerdenitsch (Group CISO, Raiffeisen Bank International)] (Legacy structure and cost issues): So we have adjusted to a cloud first, approach and strategy, getting our security footprint better making it easier for our users to access our cloud workloads as well, as saving costs in comparison, to the solutions we had beforehand.
+[Peter Gerdenitsch (Group CISO, Raiffeisen Bank International)] (Using ZIA for secure access): We are using, zero trust architecture from Zscaler ZIA for secure internet access to facilitate working from home or working from anywhere for that matter.
+[Peter Gerdenitsch (Group CISO, Raiffeisen Bank International)] (Issues with legacy VPN): When we implemented zero trust, this quite massively changed the way that we connect to our infrastructure because before we were using just a normal VPN connection, and now they just turn on their computer, are connected, can access all the applications without needing to think about opening the VPN clicking connect authenticating or anything like that.
+[Peter Gerdenitsch (Group CISO, Raiffeisen Bank International)] (Comprehensive application visibility): A big benefit for us was that now we actually know what we have in terms of applications, Now, we have really a comprehensive list of all of our applications that we can refer to in the form of policies that allow access or not.
+[Peter Gerdenitsch (Group CISO, Raiffeisen Bank International)] (Improved cyber threat protection): Additional benefits that we've seen is that now our users are protected from cyber threats no matter where they are.
+[Peter Gerdenitsch (Group CISO, Raiffeisen Bank International)] (Blind spots in home office protection): So before, we had a bit a blind spot when they were in home office because it was not the same protection level as if they were in office, but now we have the same protection level across the board no matter where they are, if they're traveling, if they're at home, if they're in the office.
+[Peter Gerdenitsch (Group CISO, Raiffeisen Bank International)] (Latency and performance improvements): After implementing Private Service Edges we saw a huge improvement in, latency and also in performance of of applications that we had problems with before.
+[Peter Gerdenitsch (Group CISO, Raiffeisen Bank International)] (Publicly available private service edges): We then also got on to implement publicly available private service edges so we could also have this benefit from home.
+[Peter Gerdenitsch (Group CISO, Raiffeisen Bank International)] (Summary of Zscaler partnership benefits): Partnering with Zscaler brought us better security, less costs, and a better user experience, by applying our Zero Trust principles.

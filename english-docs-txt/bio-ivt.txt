@@ -1,0 +1,118 @@
+DOCUMENT TITLE: BioIVT Accelerates Growth and M&A Integration with Zero Trust Across 27 Global Sites
+SUBTITLE: Zscaler eliminates costly SD-WAN, firewalls, and VPN appliances while protecting data from impersonation attacks and GenAI oversharing
+CUSTOMER: BioIVT
+
+=== COMPANY OVERVIEW ===
+A global leader in providing high-quality biospecimens and research services to the life science and diagnostic industries.
+Industry: Healthcare and Pharmaceutical
+Headquarters: Baltimore, MD
+Company Size: 900 users in 27 locations across 18 countries
+Source URL: https://www.zscaler.com/customers/bio-ivt
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 48 Hours: acquired company was accessing business-critical apps
+- 20%: cost reduction in cyber insurance costs
+- 181%: traffic growth in 1 year without adding latency
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Global sites that were added by acquisition over time were never fully integrated, creating a disjointed and complex multi-vendor infrastructure that resulted in security gaps
+  * On-premises security appliances, including outdated SD-WAN, were costly, high-maintenance, vulnerable to threats, and offered a poor user experience
+  * Business email compromise attacks and GenAI usage that could lead to data loss were increasing concerns
+Transformation Journey:
+  * Next, Pallett deployed Zscaler to the rest of BioIVT’s users, numbering 650, including employees and contractors.
+  * To further unify the BioIVT security infrastructure, Pallett integrated Zscaler with several key security solutions.
+Key Results:
+  * Decreases risk and improves security posture by providing users and devices with zero trust access to the internet and apps, minimizing the attack surface and preventing lateral threat movement
+  * Protects data across every channel and prevents impersonation phishing threats and Gen-AI misuse
+  * Speeds up new M&A integrations, from 180 days to just two days, to support rapid business expansion
+  * Reduces security spend by replacing legacy solutions with a cloud native, comprehensive zero trust architecture across all worldwide locations
+  * Cuts cyber insurance costs with demonstrable security maturity and compliance
+
+=== KEY QUOTES ===
+"Deploying Zero Trust Branch is a win-win for everyone. It shrinks the attack surface, benefits our bottom line, and provides users with uninterrupted service."
+  — Chad Pallett, Acting CISO, BioIVT
+
+=== CASE STUDY DETAILS ===
+
+--- Striving to increase security maturity and decrease risk ---
+BioIVT, recognized as a worldwide provider of high-quality biological specimens for life sciences and pharmaceutical research, has grown largely through M&A activity. With 19 acquisitions to date, the company’s technology infrastructure was a mix of on-premises data centers and public clouds (AWS and Azure). As is often the case with M&A activity, the integration process presented typical challenges that led to a fragmented and siloed security infrastructure. Over time, this resulted in a mix of aging SD-WAN hardware, firewalls, and VPNs from multiple vendors, along with a patchwork of legacy security solutions that reflected the varied systems of the original organizations.
+When CIO Bill Pierce and Acting CISO Chad Pallett joined BioIVT a few years ago, their charter became clear: to close security gaps and work toward a more mature cybersecurity posture by consolidating the sprawling security stack and integrating the 27 global locations. An attack surface assessment performed by a Zscaler executive, who had a long-term relationship with Pierce, revealed an excessive number of public-facing IP addresses. With many of BioIVT’s legacy solutions coming up for renewal, the timing was right for making the transition to zero trust.
+“The assessment results, along with the need to cut costs, maintain compliance, safeguard our data, protect against advanced threats, and better manage user access, reaffirmed our conviction that building a zero trust architecture was the best path toward achieving our goals,” said Pierce.
+"The assessment results, along with the need to cut costs, maintain compliance, safeguard our data, protect against advanced threats, and better manage user access, reaffirmed our conviction that building a zero trust architecture was the best path toward achieving our goals."
+  — Pierce, BioIVT
+
+--- Phase 1: A successful pilot yields stronger security and a better user experience by replacing costly legacy technology ---
+After a six-month proof-of-concept, Pierce and Pallett were convinced that the Zscaler Zero Trust Exchange platform was the best choice for BioIVT. From there, Pallett embarked on revamping BioIVT’s security infrastructure. He began by deploying the Zscaler platform to 250 users at the Kansas City location (formerly Xenotech, a recent acquisition) where Pallett works.
+At Kansas City, Pallett faced many challenges. Outdated laptops lacked the latest security updates and patches. Overlapping IP ranges between the Xenotech and BioIVT systems complicated management and troubleshooting, caused traffic routing issues, and multiplied security vulnerabilities.
+Pallett rolled out Zscaler Internet Access (ZIA), which routes internet traffic through Zscaler’s global cloud for proxying. This provides users with secure, direct access to the web and to the SaaS apps they use daily, such as Microsoft 365, Microsoft Teams, Salesforce, Zoom, and Tableau, as well as GenAI apps. The AI-powered platform detects and blocks zero-day malware, ransomware, and phishing attempts. It also performs 100% inspection of TLS/SSL-encrypted traffic to secure BioIVT’s research data, intellectual property, and the personal data of plasma and tissue donors.
+Zscaler Private Access (ZPA) was deployed at the same time for secure, direct access to BioIVT’s core private apps, which were mostly hosted in the cloud. With ZPA’s granular, context-based access controls, users can only access authorized apps and resources, eliminating lateral threat movement. Pallett describes BioIVT users as his “customers,” and, with that in mind, is attentive to providing a positive and productive user experience. As such, he launched Zscaler Digital Experience (ZDX) to proactively monitor device, network, and application usage and performance.“ZDX gives us a holistic view of our environment with granular, end-to-end visibility for every user, no matter where they’re located. Its AI-powered insights allow us to identify the root cause of user experience issues in minutes, enabling faster and more efficient resolution. One of its standout features is the ability to see which apps users are accessing and the quality of their experience. If there’s a problem, we can quickly get them back on track without disrupting their workflow to keep them productive and focused,” said Pallett.
+The Kansas City deployment became the model for future rollouts at other sites. Zscaler created a more streamlined and cohesive security architecture and replaced expensive, high-maintenance VPNs and firewalls. By doing so, it dramatically improved security, reduced cost and complexity, and elevated user satisfaction.
+“Our pilot in Kansas City fully proved Zscaler’s value. At that phase of our deployment, we were confident that zero trust architecture with Zscaler would help us rebuild our security to a greater level of maturity,” said Pallett.
+"ZDX gives us a holistic view of our environment with granular, end-to-end visibility for every user, no matter where they’re located. Its AI-powered insights allow us to identify the root cause of user experience issues in minutes, enabling faster and more efficient resolution. One of its standout features is the ability to see which apps users are accessing and the quality of their experience. If there’s a problem, we can quickly get them back on track without disrupting their workflow to keep them productive and focused."
+  — Pallett, BioIVT
+"Our pilot in Kansas City fully proved Zscaler’s value. At that phase of our deployment, we were confident that zero trust architecture with Zscaler would help us rebuild our security to a greater level of maturity."
+  — Pallett, BioIVT
+"…we were confident that Zscaler zero trust would help us rebuild our security and realign our M&A playbook so that we could quickly integrate acquisitions right out of the gate."
+  — Chad Pallett, Acting CISO, BioIVT
+
+--- M&A integrations completed in days rather than months ---
+Zscaler further proved its worth during a recent acquisition. In the midst of the Zscaler deployment, BioIVT acquired ZenBio, a leader in advanced cell products and services, to expand its portfolio and facilitate drug and cosmetic research. The transaction was completed on a Friday.
+To accelerate the transition, Pallett and his team shut down ZenBio’s multivendor VPNs and firewalls and spun up ZPA over the weekend. During that time, they leveraged metrics from Zscaler to track threat activity and found an immediate rise of AI-generation BEC phishing attacks, which can lead to data exfiltration and financial fraud. Bad actors often track M&A press release announcements and take advantage of vulnerabilities or security lapses that can occur during the IT conversion period. Pallett leveraged Zscaler to monitor and block these threats.
+Since Zscaler decouples security and connectivity from the network, there’s no longer any need to integrate networks in order to allow users at acquired companies to access the resources at BioIVT. Instead, all Pallett has to do is add a new user group that is permitted direct access to authorized apps.
+“This was our fastest M&A on record. In just 48 hours, the acquired company was fully integrated into BioIVT, and employees were securely accessing business-critical apps by Monday morning. Before Zscaler, it would take as long as 180 days for an M&A integration,” said Pallett.
+"This was our fastest M&A on record. In just 48 hours, the acquired company was fully integrated into BioIVT, and employees were securely accessing business-critical apps by Monday morning. Before Zscaler, it would take as long as 180 days for an M&A integration."
+  — Pallett, BioIVT
+
+--- Phase 2: Extending zero trust to all users while reinforcing data protection and assuring compliance ---
+Next, Pallett deployed Zscaler to the rest of BioIVT’s users, numbering 650, including employees and contractors. Rolling out Zscaler the second time around was even easier and faster because all policies were already in place.
+Pallett further fortified secure access by implementing Zscaler Zero Trust Browser, which can be leveraged in agentless mode for contractors who use unmanaged devices and had previously accessed apps and resources via VPN. When a Zero Trust Browser agent is deployed on an employee’s managed device, it detects suspicious web page content and prevents threats from reaching the user's device. For unmanaged devices, it prevents data from being pulled onto a contractor’s device and stops a malicious file from being uploaded to apps. The file is then sent to Zscaler Cloud Sandbox, where it is detonated and analyzed to determine if it is indeed malicious. These two technologies work together to strengthen security and prevent potential data loss while allowing all BioIVT users to access the websites and SaaS apps required for their jobs.
+Next, concerns about business email compromise (BEC), phishing threats, and possible data exposure through GenAI usage prompted Pallett to implement Zscaler Data Protection. AI Auto Data Discovery and Classification provides Pallett with immediate visibility into sensitive data across all channels in the entire BioIVT estate: inline, the web, email, SaaS, the cloud, and endpoints.
+“Zscaler Data Protection enables us to see and control the movement of data and enforce consistent data security policies wherever users go. For a global company involved in healthcare, it also assures compliance with GDPR, HIPAA, and other data privacy regulations,” Pallett pointed out.
+The broader deployment across BioIVT’s 900 global users made it clear that Zscaler is truly a business and productivity enabler. “Zscaler has allowed us to focus on business needs. We now have a zero trust café model, so users can work from anywhere seamlessly and safely,” explained Pallett.
+"Zscaler Data Protection enables us to see and control the movement of data and enforce consistent data security policies wherever users go. For a global company involved in healthcare, it also assures compliance with GDPR, HIPAA, and other data privacy regulations."
+  — Pallett, BioIVT
+"Zscaler has allowed us to focus on business needs. We now have a zero trust café model, so users can work from anywhere seamlessly and safely."
+  — Pallett, BioIVT
+"As our organization moves forward with our M&A-driven expansion, we are now in a position of strength from a security perspective. Zscaler serves as the springboard for maturing our cybersecurity and protecting our future growth as a company."
+  — Chad Pallett, Acting CISO, BioIVT
+
+--- Phase 3: Goodbye to expensive legacy SD-WAN, VPN, and firewall appliances ---
+A work-in-progress is replacing legacy SD-WAN appliances with high-availability Zscaler Zero Trust Branch for all BioIVT locations. Zscaler’s plug-and-play appliances provide secure zero trust connections and uniform policy enforcement for all traffic egressing from branches. Zero Trust Branch allows branches and data centers to communicate seamlessly and securely through the Zscaler cloud. This not only simplifies the network, it also reduces security expenditures by putting an end to bandwidth-based licensing costs for network SD-WAN, eliminating branch office firewalls, and retiring site-to-site VPNs.
+“Deploying Zero Trust Branch is a win-win for everyone. It shrinks the attack surface, benefits our bottom line, and provides users with uninterrupted service,” said Pallett. “Once we complete the implementation, I will also get 100% visibility into traffic and device security posture worldwide—something I never had before.”
+"Deploying Zero Trust Branch is a win-win for everyone. It shrinks the attack surface, benefits our bottom line, and provides users with uninterrupted service. Once we complete the implementation, I will also get 100% visibility into traffic and device security posture worldwide—something I never had before."
+  — Pallett, BioIVT
+
+--- Next up: Full platform utilization, app-to-app communication, and business continuity ---
+Looking ahead, Pallett’s top priorities are completing the rollout of Zero Trust Branch and fully leveraging all the features of the Zscaler platform. He expressed interest in Zscaler Cloud Connector, a virtual machine that extends the capabilities of ZIA and ZPA to cloud-native workloads, securely enabling workloads—regardless of where they are hosted—to communicate with each other, the internet, SaaS destinations, the data center, apps, and more.
+While the Zero Trust Exchange boasts a 99.99% uptime guarantee, Pallett and Pierce are also considering Zscaler Resilience to ensure business continuity during any failure scenario for the Zero Trust Exchange—no matter how rare. The Zscaler public cloud has a robust infrastructure that automatically and transparently handles minor failures such as disk failures. If the flow of traffic to the cloud or other destinations is disrupted (brownout), Zscaler Resilience intelligently routes traffic via the next best path. If a Zscaler data center goes down (blackout), traffic is sent to the next nearest alternative. And in the event of a catastrophic failure where the entire Zscaler cloud goes down, it fails over to a separate private cloud or a VM in the customer’s cloud or data center.
+"This was our fastest M&A on record. In just 48 hours, the acquired company was fully integrated into BioIVT … Before Zscaler, it would take as long as 180 days for an M&A integration."
+  — Chad Pallett, Acting CISO, BioIVT
+
+--- Integrations enrich the security stack and enable faster incident detection and response ---
+To further unify the BioIVT security infrastructure, Pallett integrated Zscaler with several key security solutions.
+He integrated DarkTrace Enterprise Immune System with Zscaler to more rapidly identify and block emerging threats. DarkTrace uses AI to discover unusual and often subtle deviations in user activity and behaviors that are indicators of previously unseen threats. By ingesting user and connectivity data from ZPA and ZIA, it fine-tunes its AI model’s ability to accurately detect and neutralize anomalous behavior and novel threats.
+Pallett also integrated SentinelOne with Zscaler. The joint solution feeds Zscaler data into SentinelOne’s Singularity XDR solution. Zscaler’s contextualized data on abnormal activity helps accelerate SentinelOne’s threat detection, investigation, and response.
+With the Zscaler-Rubrik integration, Pallett and his team prevent data breaches by gaining visibility into the movement of sensitive and critical business data, such as intellectual property, trade secrets, and high-value forms. The Rubrik security cloud forwards this data to Zscaler Data Protection, which performs indexed document matching (IDM). This creates a document repository that Zscaler refers to when inspecting outbound traffic against data loss prevention (DLP) policy.
+
+--- Quantifiable results underscore the value of zero trust ---
+Pierce and Pallett can point to multiple concrete successes resulting from the Zscaler deployment. For example, in 90 days, Zscaler prevented 5.2 million policy violations and blocked thousands of threats, including those hidden in encrypted traffic. It also accommodated a 181% growth in traffic in one year without adding latency.
+They also phased out 15 security point products, reducing management complexity and costs. In the near future, all VPNs, firewalls, and SD-WAN appliances will be completely decommissioned. By streamlining the global security infrastructure, BioIVT is better equipped to protect over 60 donor centers and hundreds of blood banks across the UK from advanced cybersecurity threats.
+Thanks to Zscaler, BioITV executives were also able to negotiate better terms for cyber insurance coverage, which translated to a 20% savings on the annual premium (a $10,000 benefit per year), with double the coverage and a 50% lower deductible.
+"Since Zscaler decouples security and connectivity from the network, there’s no longer any need to integrate networks in order to allow users at acquired companies to access the resources at BioIVT"
+  — Chad Pallett, Acting CISO, BioIVT
+
+--- Zero trust provides a secure foundation for expansion and spurs a cultural shift ---
+The transformation of BioIVT from a company with a traditional hub-and-spoke network and a castle-and-moat security model to a modern organization with zero trust architecture not only fostered substantial cost reductions and dramatically improved security posture, but also catalyzed cultural change.
+Big believers in transparency and open communication, Pierce and Pallett have fostered a more security-aware culture at every level. Employees who were initially resistant to change now appreciate and understand how true zero trust helps the company stay compliant while creating a superior, more secure user experience. Zscaler’s accurate, data-driven reporting also gives executives and the board a view into BioIVT’s risk posture to inform business decisions.
+“As BioIVT moves forward with its M&A-driven expansion, we are now in a position of strength from a security perspective. Zscaler serves as the springboard for maturing our cybersecurity and our future growth as a company,” said Pallett.
+"As BioIVT moves forward with its M&A-driven expansion, we are now in a position of strength from a security perspective. Zscaler serves as the springboard for maturing our cybersecurity and our future growth as a company."
+  — Pallett, BioIVT
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Secure Remote Access
+- Data Security
+- Zero Trust
+- Optimize Digital Experiences
+- Ransomware
+- SASE & SSE

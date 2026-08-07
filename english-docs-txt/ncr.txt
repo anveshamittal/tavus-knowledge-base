@@ -1,0 +1,42 @@
+DOCUMENT TITLE: NCR Embraces Zero Trust to Drive Business Initiatives
+SUBTITLE: With Zscaler
+CUSTOMER: NCR
+
+=== COMPANY OVERVIEW ===
+NCR is the world’s enterprise technology leader for restaurants, retailers, and banks. As the #1 POS software provider for retail and hospitality, and the #1 provider of multivendor ATM software, NCR creates software, hardware, and services that run the enterprise from back office to the front end.
+Industry: High Tech
+Headquarters: Atlanta, Georgia, USA
+Company Size: 34,000+ employees in 160 countries
+Source URL: https://www.zscaler.com/customers/ncr
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Enhance security capabilities, reduce costs, and increase flexibility for the business through cloud vs. on-premises solutions
+Key Results:
+  * Frictionlessly replaces centralized egress infrastructure and physical devices
+  * Provides flexibility and an enhanced end user experience
+  * Allows immediate global adoption of new security capabilities
+  * Eliminates management of physical security infrastructure
+  * Enables zero trust in M&A without compromising security
+
+=== KEY QUOTES ===
+"The cloud-based architecture that we get with Zscaler allows us to be very flexible, really in an unprecedented way, and to accommodate changes in network design and traffic patterns for end users."
+  — Bob Varnadoe, CIO, NCR
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Accelerate M&A and Divestitures
+- Zero Trust App Access
+- Ransomware
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: NCR and Zscaler
+Video Description: a NCR video
+
+Transcript Segments:
+[Bob Varnadoe (CIO, NCR)] (Centralized egress infrastructure limitations): Historically, we've had a very centralized egress infrastructure. We backhauled traffic from remote off offices to, central locations, had a physical stack of security appliances, DLP, fire walls, IPS's, malware analysis, sandboxes, all best debris products that, you know, we had selected over time and, you know, served us well for many years. As we started to shift how our business worked, and adopt more cloud platforms. That architecture really limited and complicated our ability to adopt software defined networks and, enhance our user experience for those users cloud platforms.
+[Bob Varnadoe (CIO, NCR)] (Zscaler's cloud-based architecture benefits): The cloud based architecture that we get with Zscaler allows us to be very flexible, really in an unprecedented way. And to accommodate changes in network design and traffic patterns for end user. And enhance that end user experience. So that flexibility has really, really been key for us. We actually have seen a pretty significant security improvement as well.
+[Bob Varnadoe (CIO, NCR)] (Physical infrastructure limitations): You know, that best of breed stack that I talked about, it really limited us, into physical infrastructure. So you know, upgrades and changes made, adoption of new capabilities pretty difficult. Very expensive, very labor intensive things that we had to plan out over eighteen or twenty four months, to be able to accomplish from a funding perspective and deploying the change perspective.
+[Bob Varnadoe (CIO, NCR)] (Zscaler's immediate global availability): So Zscaler's platform allows us to get those features and functions as fast as we can adopt them. It's available to us immediately and globally, all at the same time.
+[Bob Varnadoe (CIO, NCR)] (Simplified security management): My team was was managing physical infrastructure. We don't have to do that anymore with with Zscaler. We were able to consolidate about nine different relationships down to one. And so we really simplified the work that the security team had to do in managing that egress security model.
+[Bob Varnadoe (CIO, NCR)] (Zero trust model for M&A): We've really embraced zero trust, and our M and A environment. So where we have acquisitions, this always created a lot of friction. And, you know, we've had to make some compromises at times that we just really didn't feel good about, in order to facilitate business. So, you know, the zero trust model allows us to, to get those acquired entities into some of our systems securely, frictionless quickly.
+[Bob Varnadoe (CIO, NCR)] (Faster integration post-acquisition): Sometimes the same week that the deal closes, Wow. You're providing access into some of our, sales and and finance systems. So, you know, I I think it can be a really big business cents enabler as well as, a security benefit, you know, to to help streamline some of the processes.

@@ -1,0 +1,55 @@
+DOCUMENT TITLE: Reckitt Benckiser Enables Secure Cloud Transformation
+SUBTITLE: with the Zscaler Zero Trust Exchange
+CUSTOMER: Reckitt Benckiser
+
+=== COMPANY OVERVIEW ===
+Reckitt Benckiser Group plc is a British multinational consumer goods company headquartered in Slough, England. It is a producer of health, hygiene and nutrition products. The company was formed in March 1999 by the merger of British company Reckitt & Colman plc and Dutch company Benckiser N.V..
+Industry: Manufacturing
+Headquarters: Slough, Great Britain, UK
+Company Size: 43,000+ employees
+Source URL: https://www.zscaler.com/customers/reckitt-benckiser
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Maintain productivity and security as business moves from 3,000 offices and factories to 40,000+ remote networks
+Key Results:
+  * Leverages zero trust to enable cloud-driven innovation
+  * Deploys ZPA without having to increase the number of endpoint agents
+  * Gains improved data insights with ZIA, ZPA, and ZDX
+  * Identifies and mitigates Microsoft 365 issues quickly
+
+=== KEY QUOTES ===
+"We continue to work with Zscaler and ZDX products and are encouraged and excited about the roadmap and how that plays out over the next few years."
+  — John Dawes, IT Director, Reckitt Benckiser
+
+"Today, we use the cloud for enterprise IT, big data, CRM, IoT, as well as (Microsoft) 365 for productivity."
+  — John Dawes, IT Director, Reckitt Benckiser
+
+"We’ve been transforming our network… to drive (the) internet as the corporate network utilizing SD-WAN and SDP technologies."
+  — John Dawes, IT Director, Reckitt Benckiser
+
+"We leveraged (existing) Zscaler cloud infrastructure and native integration with ZIA and ZPA, (giving) us the best data insights."
+  — John Dawes, IT Director, Reckitt Benckiser
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Ransomware
+- Optimize Digital Experiences
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: Reckitt_Benckiser_John_Dawes_Video
+Video Description: a ZDX Webpage video
+
+Transcript Segments:
+[John Dawes (IT Director, Reckitt Benckiser)] (Introduction and role at RB): Hi. I'm Jundles. I'm the IT director for enterprise architecture at Recit Ben Kieser.
+[John Dawes (IT Director, Reckitt Benckiser)] (Company background and products): Recit Ben Kieser or RB are a global FMCG. We produce Dental Lysol, NeuroFEN, Finnish, a number of other health, nutrition, and hygiene products.
+[John Dawes (IT Director, Reckitt Benckiser)] (Cloud as an innovation engine): At RB, we see the cloud as our innovation engine. Today, we use the cloud for enterprise IT, big data, CRM, IoT, as well as Office three six five for productivity.
+[John Dawes (IT Director, Reckitt Benckiser)] (Cloud regions and network transformation): We've got workloads in some thirty public cloud regions, and we've been transforming our network over the past year to drive internet as the corporate network. Utilizing SD WAN and SDP technologies.
+[John Dawes (IT Director, Reckitt Benckiser)] (COVID-19 impact on network management): When COVID nineteen disrupted everyone's way of life, we suddenly went from managing around three hundred offices and factories, to nearly forty thousand networks as employees work from home all over the world.
+[John Dawes (IT Director, Reckitt Benckiser)] (Critical manufacturing and supply challenges): Frabi, the manufacturing and supply of Dental and Lysol were critical to the COVID nineteen response, So it was essential for our colleagues to continue to work.
+[John Dawes (IT Director, Reckitt Benckiser)] (Bandwidth competition at home and outside): At home, they were competing for bandwidth, be it with online school classes, kids watching Netflix or playing roadblocks, And outside the home, they were competing with ISPs and CSPs who initially struggled to meet that enormous new bandwidth demand.
+[John Dawes (IT Director, Reckitt Benckiser)] (Need for visibility and insights): For RB, how could we get greater visibility and insights for our employees to support them?
+[John Dawes (IT Director, Reckitt Benckiser)] (ZIA, ZPA, and ZApp deployment): We came back to this concept of the cloud as an innovation engine. As a customer of ZIA and ZPA, we had already deployed ZApp. Utilizing ZATAP didn't increase the number of agents on the endpoint. It didn't require a new infrastructure for us to stand up. And we leverage that existing Zscaler's cloud infrastructure, and native integration with ZIA and ZPA gave us the best data insights for our end users.
+[John Dawes (IT Director, Reckitt Benckiser)] (Early insights and O365 issue identification): Zed Gex has given us some great early insights. We've identified some regional office three six five issues, and on more than one occasion, we've encouraged our colleagues to prioritize their device on their home wifi network so Microsoft Teams works better or be it at expensive kids streaming Netflix.
+[John Dawes (IT Director, Reckitt Benckiser)] (Future collaboration on ZDX): We continue to work with Zscaler on ZDX products, and I'm encouraged and excited about the roadmap, and how that plays out over the next few years.
+[John Dawes (IT Director, Reckitt Benckiser)] (Closing remarks): Thanks, and that's it for me. Enjoy the rest.

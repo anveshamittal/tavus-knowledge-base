@@ -1,0 +1,95 @@
+DOCUMENT TITLE: XPO Logistics maximizes service center uptime and security with zero trust
+SUBTITLE: Zscaler drives cost savings, reduces complexity, and strengthens security at trucking and freight company by replacing legacy VPNs and firewalls
+CUSTOMER: XPO
+
+=== COMPANY OVERVIEW ===
+Leading provider of less-than-truckload freight transportation and world-class supply chain solutions
+Industry: Transportation Services
+Headquarters: Greenwich Connecticut, U.S.
+Company Size: 39,000 employees in 600+ locations in North America and Europe
+Source URL: https://www.zscaler.com/customers/xpo
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 10X: reduction in service desk tickets
+- 1B: threats blocked across 300+ service centers
+- 50M: policy violations prevented
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * The legacy architecture left the company more vulnerable to ransomware and breaches, making it difficult to curb the spread of threats across 300+ service centers
+  * Deploying and maintaining VPNs and firewalls at service centers was expensive, time-consuming, and complicated
+  * To further streamline its operations, the company needed a way to improve the user experience for all employees without compromising security
+Transformation Journey:
+  * Simplifies security and connectivity to the internet, SaaS, and private apps in the data center for existing and new service centers
+  * Provides a seamless user experience for 70,000+ employees by finding and fixing support and performance issues more rapidly
+  * Protects data and drives innovation with new technologies such as generative AI security and zero trust SIM cards
+Key Results:
+  * Ensures maximum uptime and operational resilience through secure zero trust connectivity, consistent policy enforcement, and advanced threat protection
+  * Saves millions of dollars by deploying zero trust at service centers rather than costly VPNs and firewalls
+  * Enables rapid and frictionless onboarding of service centers in hours rather than months
+
+=== KEY QUOTES ===
+"Zscaler helped us do three things: provide users with greater performance/uptime, achieve seamless cloud migration, and implement better security at scale."
+  — Peeyush Patel, CISO, XPO
+
+=== CASE STUDY DETAILS ===
+
+--- Leading the charge in digital transformation with zero trust ---
+With 70% of the world’s goods delivered by trucks, XPO serves a vital role in LTL shipping by transporting small freight that doesn't require a full truckload and stops at multiple delivery destinations.
+Even though the transportation and logistics sector emerged more than 100 years ago with the invention of the first purpose-built truck in 1917 (the Ford Model TT), it has been slow to adopt modern technology trends. XPO, on the other hand, has always been at the forefront of technological innovation. Ranked number one among the Fortune 500 in this industry, XPO provides world-class LTL thanks to its proprietary machine learning (ML)-based technology, XPO Smart™, which optimizes freight flow in real time for maximum efficiency.
+In line with this, XPO decided to transform its traditional on-premises IT infrastructure by migrating to the cloud—which also meant rearchitecting the company’s security. A few years before CISO Peeyush Patel joined the company, he managed successful Zscaler deployments at other organizations. Based on positive experiences in the past, he decided to implement the Zscaler Zero Trust Exchange to move XPO’s digital transformation plan forward at pace.
+“As we started adopting more SaaS applications and moving into the cloud, it became clear that we needed technology that would provide security for our edge computing model,” said Patel. “Zscaler helped us do three things: provide users with greater performance/uptime, achieve seamless cloud migration, and implement better security at scale.”
+Currently, the company is operating in hybrid mode, with 40% of its core applications and computing resources in Google Cloud. Next year, XPO plans to shut down all four of its global data centers—two in the US and two in Europe—and evolve into a 100% cloud company.
+"As we started adopting more SaaS applications and moving into the cloud, it became clear that we needed technology that would provide security for our edge computing model. Zscaler helped us do three things: provide users with greater performance/uptime, achieve seamless cloud migration, and implement better security at scale."
+  — Patel, XPO
+"Zscaler’s security fabric has been an excellent mechanism for us to understand our risk posture across the enterprise with the click of a button."
+  — Peeyush Patel, CISO, XPO
+
+--- Zscaler Internet Access secures SaaS and internet access for users and IoT devices ---
+During the COVID-19 pandemic, when most employees at XPO were working remotely, end user devices were accessing the internet via VPN but not connecting to the data center. Consequently, Patel and his team had no way of performing device posture checks or monitoring traffic for web-based threats. They were well aware that anyone could enter a corporate network through VPN and move laterally, gaining access to critical applications on the network even when they should not.
+Approximately 14,000 business employees at XPO access Microsoft 365, Salesforce, SAP SuccessFactors, Oracle cloud applications, and other SaaS applications on their laptops and other devices. The rest of XPO’s employees are drivers and dock workers who scan, tag, and label freight with Android handheld internet of things (IoT) devices, which number about 20,000 company-wide.
+After a one-month proof-of-concept (PoC), Zscaler Internet Access (ZIA), one of the key pillars of the Zero Trust Exchange platform, was fully implemented. It now provides all business employees with secure, high-performance access to the internet and the SaaS business applications they need to do their jobs. Field workers have a lightweight version of Zscaler installed on their handhelds.
+With Zscaler, Patel’s team can now determine access to corporate resources and SaaS applications by setting a policy that requires all devices to have a minimum level of security. Additionally, because Zscaler security sits between users and the internet, it inspects all inbound and outbound traffic, including SSL. These capabilities offer full protection against command-and-control attacks and other threats.
+“All our IoT traffic is routed through Zscaler, so we can detect any malware threats in the field environment as well as our business environment. This also allows our field workers to access the resources they need without logging onto the network,” pointed out Patel. “With Zscaler, we have one common solution that provides that single, consistent layer of security to enforce policy across our complex user landscape.
+"All our IoT traffic is routed through Zscaler, so we can detect any malware threats in the field environment as well as our business environment. This also allows our field workers to access the resources they need without logging onto the network."
+  — Patel, XPO
+"With Zscaler, we have one common solution that provides that single, consistent layer of security to enforce policy across our complex user landscape."
+  — Peeyush Patel, CISO, XPO
+
+--- Benefits abound: Outages eliminated, threats prevented, and divestiture simplified ---
+Reflecting back on life before Zscaler, Patel recalled that XPO frequently experienced outages that impacted user productivity, especially when VPNs failed or network disruptions occurred.
+“Since deploying Zscaler, we have not had a single outage. We don't have to worry about the network edge, which is something you can't put a measurable value on,” said Patel. “And we haven't had to increase the size of our team. It's been phenomenal to see XPO being more secure while maintaining the same staffing levels.”
+Over a year’s time, the Zscaler solution processed approximately 14.2 billion transactions and 613 TB of traffic while blocking an average of 480,000 cyberthreats for XPO. A recent third-party security health check found that XPO’s information security exceeds industry peers. Zscaler has also been instrumental in improving XPO’s risk management scorecard for environmental, social, and governance (ESG) factors. In 2021, XPO achieved a mean time to resolution (MTTR) for cybersecurity incidents of under one day—below the industry average of 1.73 days.
+Additionally, when XPO sold its intermodal division, which provided rail brokerage and drayage services to 48 locations, to STG Logistics in spring of 2022, Zscaler made the divestiture process easy and seamless for the 70,000 users who were transferred to the spinoff organizations and no longer worked for XPO.
+“On the first day the spinoff organizations transitioned, they didn't have to do much heavy lifting. They already had Zscaler connectivity and access to the SaaS applications they relied on. All we had to do was separate the internal domains and segment the spinoff networks and users by deploying Zscaler policies,” said Patel.
+"Since deploying Zscaler, we have not had a single outage. We don't have to worry about the network edge, which is something you can't put a measurable value on. And we haven't had to increase the size of our team. It's been phenomenal to see XPO being more secure while maintaining the same staffing levels."
+  — Patel, XPO
+"On the first day the spinoff organizations transitioned, they didn't have to do much heavy lifting. They already had Zscaler connectivity and access to the SaaS applications they relied on. All we had to do was separate the internal domains and segment the spinoff networks and users by deploying Zscaler policies."
+  — Patel, XPO
+"Since deploying Zscaler, we have not had a single outage. We don't have to worry about the network edge…"
+  — Peeyush Patel, CISO, XPO
+
+--- True zero trust is the centerpiece of the transformation journey ---
+Zscaler’s zero trust approach plays a major role in XPO’s trajectory toward a 100% cloud architecture. Zscaler not only addresses current use cases, but also provides a platform to build on, with an extensive ecosystem of partners such as CrowdStrike and others.
+Patel further noted that Zscaler is unique in its truly cloud native approach, whereas other vendors cannot fully deliver on their zero trust promises. Just as hardware appliances have scalability problems, virtual appliances in the cloud still have performance problems and entail the use of perimeter-based, hub-and-spoke networks and castle-and-moat security models. Furthermore, “born in the cloud” point solutions only address specific security challenges and lack the comprehensive security controls available in the Zero Trust Exchange platform.
+“I think what Zscaler has done is fantastic. The Zscaler CEO knew that data centers would soon be obsolete, and he moved zero trust all the way to the cloud,” observed Patel.
+"born in the cloud."
+  — Patel, XPO
+"I think what Zscaler has done is fantastic. The Zscaler CEO knew that data centers would soon be obsolete, and he moved zero trust all the way to the cloud."
+  — Patel, XPO
+"We’ve saved millions by not deploying firewalls and network gear across our 300+ service centers."
+  — Peeyush Patel, CISO, XPO
+
+--- Next on the agenda: ZPA, DLP, and ZDX ---
+Patel has some ambitious plans for expanding the Zscaler implementation as he pushes toward transforming XPO into a full-fledged cloud-first company. At the top of the list is adding Zscaler Private Access (ZPA) to completely replace traditional VPN and enable employees to safely access XPO’s proprietary tools, which will eventually reside in Google Cloud.
+At XPO, data is king. This includes shipping information, big data to predict freight volumes and plan capacity, and the personally identifiable information (PII) of employees, customers, suppliers, independent contractors, and other stakeholders. Boosting data protection with Zscaler Data Protection has become another priority.
+“From a data protection perspective, one of the big things we're focused on is making sure data is protected at rest and in flight as it’s transmitted between our systems and our SaaS applications. That’s where Zscaler DLP will add significant value.”
+Also on the horizon is deploying Zscaler Digital Experience (ZDX) to support and optimize the technology of XPO’s large distributed network of customer service representatives who work in call centers managing pickups and deliveries and handling billing. ZDX will help detect issues that impact user experience, reduce time to resolution, and keep employees productive no matter where they are in the world.
+"Traditionally, it would take us months and months and months to make a service center operational, but, with… Zscaler, we’ve been able to bring them online in hours."
+  — Peeyush Patel, CISO, XPO
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Ransomware
+- Secure Remote Access
+- Accelerate M&A and Divestitures

@@ -1,0 +1,125 @@
+DOCUMENT TITLE: ATN International Secures Operations and Improves Efficiency with the Zscaler Zero Trust Exchange
+SUBTITLE: Zscaler enhances remote work capabilities for 2,500+ employees, eliminates VPN-related user issues, and ensures safer M&A integration and onboarding
+CUSTOMER: ATN International
+
+=== COMPANY OVERVIEW ===
+Provides communications infrastructure and services with expertise in remote markets
+Industry: Telecommunications
+Headquarters: Beverly, Massachusetts, USA
+Company Size: 750,000 customers internationally
+Source URL: https://www.zscaler.com/customers/atn-international
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 100%: elimination of VPNs and VPN help tickets
+- All: employees secured with Zscaler
+- Minutes: vs. hours to mitigate user issues
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * On-premises security infrastructure could not efficiently support cloud-first business operations or future M&A goals
+  * Legacy VPN appliances struggled to scale with a surge in remote work, leading to poor user experiences and greater risk
+  * Traditional security solutions did not offer the critical cloud integrations to enable proactive user issue mitigation
+Transformation Journey:
+  * Zscaler Private Access™ (ZPA™) has displaced VPN and allows users to gain faster, more secure access to private applications on AWS without connecting to the corporate network.
+  * As ATN adds multiple points of protection over time, the company’s zero trust security practice is evolving.
+Key Results:
+  * Improves the remote work experience for 2,500+ users and eliminates VPN-related user issues—service tickets drop by 100%
+  * Accelerates M&A timelines and ensures safer onboarding of acquired companies with a zero trust security architecture
+  * Reduces the time needed to identify and resolve issues to just minutes with robust reporting and monitoring features
+
+=== KEY QUOTES ===
+"One of the things I look for in both infrastructure and security tools is that they should help you be more operationally efficient and make you more secure. Zscaler checks both of those boxes."
+  — Richard Casselberry, VP, IT Security, Architecture & Compliance, ATN International
+
+=== CASE STUDY DETAILS ===
+
+--- Powerful zero trust platform meets security and operational efficiency objectives ---
+Approximately 2.7 billion people worldwide lack sufficient telecommunications infrastructure to access the internet. ATN International is working to change that by bringing digital connectivity to underserved markets, with a focus on rural communities.
+Richard Casselberry, VP of IT Security, Architecture, and Compliance, joined ATN during the COVID-19 pandemic, when the organization’s legacy VPN was straining to keep up with the surge in employees working from home. VPN connections were slow, protection and privacy were insufficient, and users were frustrated.
+Casselberry and his team deployed short-term fixes, including split tunneling to increase connectivity speed, but this exposed traffic to more risk. At the time, security tools were on premises. That worked well when everyone was onsite or accessed the corporate network via VPN, but, with the increase in remote work, migration to Amazon Web Services (AWS), and reliance on SaaS applications, this model was no longer viable.
+Casselberry recognized the need for a more sustainable solution. As a satisfied user of the Zscaler Zero Trust Exchange™ at his previous employer, Liberty Mutual Insurance, he appreciated the benefits of the unified platform and was a proponent of a zero trust approach to security. He was confident that Zcsaler would greatly improve ATN’s security posture and overall efficiency.
+“One of the things I look for in both infrastructure and security tools is that they should help you be more operationally efficient and make you more secure. Zscaler checks both of those boxes,” said Casselberry.
+"One of the things I look for in both infrastructure and security tools is that they should help you be more operationally efficient and make you more secure. Zscaler checks both of those boxes."
+  — Casselberry, ATN International
+
+--- Securing employees from anywhere with Zscaler Internet Access ---
+Thanks to Zscaler Internet Access™ (ZIA™), all ATN employees can now work from anywhere as well as securely connect to the internet and SaaS applications, including Microsoft 365 and Teams, Salesforce, ServiceNow, and others. ZIA policy controls follow users, giving them an essential layer of security.
+Most employees don’t know that central logging and reporting are occurring in real time to ensure they are not downloading malicious content or visiting risky sites.
+“When I think about security tools, the best ones are those that nobody knows exists, because it means they're just working, they're not impacting you, and you can get done what you need to. But unbeknownst to you, you're really well protected. That’s Zscaler for us,” Casselberry said.
+"When I think about security tools, the best ones are those that nobody knows exists, because it means they're just working, they're not impacting you, and you can get done what you need to. But unbeknownst to you, you're really well protected. That’s Zscaler for us."
+  — Casselberry, ATN International
+
+--- Zscaler Private Access transforms the user experience ---
+Zscaler Private Access™ (ZPA™) has displaced VPN and allows users to gain faster, more secure access to private applications on AWS without connecting to the corporate network.
+In the past, employees working from home would often forget to connect via VPN before they changed their passwords. As a result, passwords would fall out of sync, and users would inevitably have to call the service desk for assistance. Before Zscaler, the service desk typically received more than 100 such calls every month.
+Once ZPA was deployed, users could change their passwords easily, and there were no more frustrated users calling the service desk.
+“Now employees don’t have to remember to log in. Zscaler just magically comes up, and it automatically connects them to the applications they need,” said Casselberry.
+"Now employees don’t have to remember to log in. Zscaler just magically comes up, and it automatically connects them to the applications they need."
+  — Casselberry, ATN International
+"Zscaler certainly saves time, but from my perspective, removing the risk is most important."
+  — Richard Casselberry, VP, IT Security, Architecture & Compliance, ATN International
+
+--- IT service desk elevated with Zscaler Digital Experience ---
+As part of his initiative to improve operations, Casselberry is especially excited about Zscaler Digital Experience™ (ZDX™), which enables the IT service desk to be more proactive by recognizing and resolving performance issues before users flag them.
+Casselberry observed that people often don’t contact IT when they’re having issues. “That doesn't mean they're happy; it just means that they're not unhappy enough to call,” he said. “Noticing there’s a problem and addressing it before the user calls elevates our team from being a good IT department to a great IT department. I’m super passionate about ZDX. It brings the IT organization from a position of ‘they're there if you need them’ to ‘I know they're really looking out for me.’ That's a big distinction.”
+"That doesn't mean they're happy; it just means that they're not unhappy enough to call. Noticing there’s a problem and addressing it before the user calls elevates our team from being a good IT department to a great IT department. I’m super passionate about ZDX. It brings the IT organization from a position of ‘they're there if you need them’ to ‘I know they're really looking out for me.’ That's a big distinction."
+  — Casselberry, ATN International
+
+--- Troubleshooting in minutes rather than hours ---
+ATN relies heavily on Microsoft Teams, so a vendor that could easily integrate with it was high on Casselberry’s list. He noticed how quickly Teams integrated with the Zscaler platform, with no loss in quality or capacity. “The fact that Zscaler integrates with Teams well has made our lives so much easier,” he recalled.
+The security team uses Teams to monitor support issues with ZDX. When combined, ZDX and Teams make for a powerful troubleshooting tool.
+Casselberry cited an incident when the security team was alerted to a group of users experiencing difficulties with Teams. At first, he and his staff could not identify the problem. However, by using the Teams administrative portal to identify affected users and ZDX to pinpoint where the problem was, they quickly discovered that not everyone was having the issue.
+“When you're troubleshooting something, making sure you get accurate data is extremely important. Tools like ZDX and the administrative console allow you to really zero in on what the actual problem is versus just seeing the reported symptoms. Before ZDX, it would probably take us hours to figure it out,” said Casselberry. “Using ZDX and Teams together, it now takes only minutes.”
+"The fact that Zscaler integrates with Teams well has made our lives so much easier."
+  — Casselberry, ATN International
+"When you're troubleshooting something, making sure you get accurate data is extremely important. Tools like ZDX and the administrative console allow you to really zero in on what the actual problem is versus just seeing the reported symptoms. Before ZDX, it would probably take us hours to figure it out. Using ZDX and Teams together, it now takes only minutes."
+  — Casselberry, ATN International
+
+--- Flexible integrations create a faster and safer user experience ---
+As ATN moves more of its infrastructure to AWS, integrating Zscaler with other security tools has evolved into a high-priority project. The organization recently added the Rapid7 endpoint and response solution to its arsenal and has completed initial integration with Zscaler. They are looking to leverage the Zscaler Nanolog Streaming Service (NSS) to move Rapid7 data into a security data lake in order to expand and enrich reporting.
+Also on the drawing board is integration with SentinelOne, which uses artificial intelligence to detect, identify, and defend against advanced threats on endpoints. The integration with Zscaler would allow SentinelOne to automatically lock user accounts in Okta when it sees threat indicators.
+Going forward, Casselberry is looking to use Zscaler Client Connector, a lightweight application that runs on endpoint devices, to give remote users even faster secure access to SaaS and private applications on AWS, helping to reduce agent bloat.
+"Addressing problems ahead of time and before users call raises the status of our IT team from good to great."
+  — Richard Casselberry, VP, IT Security, Architecture & Compliance, ATN International
+
+--- Catching threats before they reach the user ---
+Shortly after the Zscaler deployment, Casselberry and his team faced an incident in which a user clicked a ransomware link. Normally, the team would verify that their endpoint detection and response (EDR) tool had blocked it, but this time, they logged into the EDR console, found the affected device, and discovered that the EDR had not blocked anything.
+Zscaler quickly put to rest Casselberry’s fears of a worst-case scenario of a zero-day exploit that could completely compromise the organization.
+“Zscaler already identified the malware and blocked the payload from being downloaded,” said Casselberry. “The fact that the user clicked on it wasn't a big deal at all, because it never got down to the user. Now we know: Don’t look at EDR first; look at Zscaler first and see if the threat has been blocked.”
+"Zscaler already identified the malware and blocked the payload from being downloaded. The fact that the user clicked on it wasn't a big deal at all, because it never got down to the user. Now we know: Don’t look at EDR first; look at Zscaler first and see if the threat has been blocked."
+  — Casselberry, ATN International
+
+--- A zero trust security approach is like a funnel ---
+As ATN adds multiple points of protection over time, the company’s zero trust security practice is evolving.
+“Zero trust means bringing all these different signals together, like integrating with Okta to understand user behavior: where they’re logging in and on which device. If you assume bad actors are out there, how do you detect the threat, how do you limit the damage, and even better, how do you prevent it from occurring in the first place?” Casselberry remarked.
+For ATN, the Zero Trust Exchange is important because most of the company’s users are mobile. As Casselberry pointed out, the alternative means investing money in point products that won’t be nearly as effective.
+Casselberry views cybersecurity as a funnel: the goal is to stop as many potentially malicious and damaging things as possible at the top of the funnel. With that in mind, he identified a series of steps: “You put all your security controls in place—email filtering, user training, Zscaler, vulnerability and patch management, and EDR as your last line of defense. With Zscaler, you can stop a threat three layers further up—and that is a great thing.”
+"Zero trust means bringing all these different signals together, like integrating with Okta to understand user behavior: where they’re logging in and on which device. If you assume bad actors are out there, how do you detect the threat, how do you limit the damage, and even better, how do you prevent it from occurring in the first place?"
+  — Casselberry, ATN International
+"You put all your security controls in place—email filtering, user training, Zscaler, vulnerability and patch management, and EDR as your last line of defense. With Zscaler, you can stop a threat three layers further up—and that is a great thing."
+  — Casselberry, ATN International
+
+--- Eliminating risk from the M&A process ---
+ATN’s growth strategy depends on M&As, and the frequency and scope of M&A make it vital to adapt quickly to the network and security needs of every acquired organization. The Zero Trust Exchange helps in achieving that. For example, regulatory requirements in Guyana vary significantly from those of the Cayman Islands, Bermuda, or the US. Zscaler enables ATN to treat each company uniquely when it matters but continue to adhere to its stringent corporate security standards.
+The latest big acquisition, with a deal size of more than US$300 million, was completed in early 2022, and it was seamless. There was no need to connect the networks. Instead, users were able to get to the resources they needed by authenticating through Okta and then gaining access through Zscaler.
+“In the past, M&As were scary from a security perspective because you had to trust that the security controls of the acquired company were at least as good as yours. With Zscaler, that risk is eliminated. We only publish the applications the new users need to access, and they are as secure as ever, whether they are in the office or working remotely,” explained Casselberry.
+While he recognizes that performing cybersecurity due diligence is still prudent, Casselberry asserts that Zscaler “de-risks” things, enabling his team to comfortably handle post-closure surprises. “If we miss something or if an acquisition forgets to tell us about a site-to-site VPN to a partner, that oversight won’t expose the rest of the portfolio to the same risk,” he said. “Zscaler certainly saves time, but from my perspective, removing the risk is most important.”
+"In the past, M&As were scary from a security perspective because you had to trust that the security controls of the acquired company were at least as good as yours. With Zscaler, that risk is eliminated. We only publish the applications the new users need to access, and they are as secure as ever, whether they are in the office or working remotely."
+  — Casselberry, ATN International
+"things, enabling his team to comfortably handle post-closure surprises."
+  — Casselberry, ATN International
+"We’ve never had to second-guess our decision to go with Zscaler."
+  — Richard Casselberry, VP, IT Security, Architecture & Compliance, ATN International
+
+--- Scalability and peace of mind ---
+The Zscaler platform supports 100% of ATN employees—more than 2,500 users—and that figure is likely to grow as ATN acquires more companies. The beauty of the platform, according to Casselberry, is that ATN can expand and add new companies without any worries about whether an overlooked third-party architecture is going to bring down the whole network.
+“Ultimately, we really like the entire Zscaler platform,” Casselberry said. “The reporting and monitoring is stellar, and the ease of use is key for our team. Even the implementation process was smooth. We’ve never had to second-guess our decision to go with Zscaler.”
+"Ultimately, we really like the entire Zscaler platform. The reporting and monitoring is stellar, and the ease of use is key for our team. Even the implementation process was smooth. We’ve never had to second-guess our decision to go with Zscaler."
+  — Casselberry, ATN International
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Accelerate M&A and Divestitures
+- Secure Remote Access
+- Zero Trust App Access
+- Optimize Digital Experiences
+- Ransomware

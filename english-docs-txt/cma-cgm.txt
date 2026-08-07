@@ -1,0 +1,45 @@
+DOCUMENT TITLE: Multinational CMA CGM Simplifies M&A and Secures Digital Transformation
+SUBTITLE: with the Zscaler Zero Trust Exchange
+CUSTOMER: CMA CGM
+
+=== COMPANY OVERVIEW ===
+The CMA CGM Group is a world leader in shipping and logistics. Its 110,00 employees, 566 vessels, 755 offices, and 750 warehouses, serve more than 420 ports around the world, on all five continents. The company is constantly innovating to offer customers new maritime, inland, and logistics solutions.
+Industry: Transportation Services
+Headquarters: Marseille, France
+Company Size: 110,000 employees, 755 agencies in 160 countries
+Source URL: https://www.zscaler.com/customers/cma-cgm
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Improve user experience and minimize risk as embark on digital transformation
+Key Results:
+  * Scaled secure remote access from 400 users to 27,000 in just 48 hours
+  * Simplifies onboarding of employees from mergers and acquisitions
+  * Dramatically improves user experience while significantly bolstering security
+  * Provides easy visibility into user connections across 160 locations worldwide
+  * Used to mitigate an active attack immediately after proof of concept
+
+=== KEY QUOTES ===
+"[With ZPA,] we have been able to go from 400 to 27,000 users within two days, while configuring application segmenting for each application required for business."
+  — Michael Perrino, Group CIO, CMA CGM
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Accelerate M&A and Divestitures
+- Zero Trust App Access
+- Ransomware
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: CMA CGM Leverages Zscaler for Digital Transformation Journey
+Video Description: a CMA CGM Leverages Zscaler for Digital Transformation Journey video
+
+Transcript Segments:
+[Michael Perrino (Group CIO, CMA CGM)] (Introduction and role at CMA CGM): Hello, everyone. Please allow me to introduce myself. My name is Michael Perino, and I'm the group chief information security officer of CMSGM Group. I come to you today, considering myself more than lucky to participate every day to the cyber digital transformation of the group. Improving our security posture, reducing our risk and making a real difference on the business and cyber fronts.
+[Michael Perrino (Group CIO, CMA CGM)] (Legacy IT infrastructure and silos): Every company countries and acquisition operated in a silo with their own on premise IT stack. When I started, We didn't have any kind of central visibility, policies, nor security controls for the entire group. Let me explain you how our architecture was before this gallery. Nothing was centralized. No global visibility, no common approach on the access to the internet. As it is impossible to bring all the internet connection at the same place, we are to use the fact we are global to give access locally to all our offices. But it comes with complexity on a perimeter of more than seven hundred high walls dispatched all over the world So we add to face the following challenges, managing legacy firewall updates and obtain the information of their version. Patching them and having confirmation they are patched, accepting that we can have different policies between business units.
+[Michael Perrino (Group CIO, CMA CGM)] (Adopting Zscaler for cloud-based security): That's why we wanted to move on a cloud based solution like this scalar. Present everywhere, we facilitate the application of security policies And for sure, we give a global visibility. We started with ZIA Zscaler internet access to set the foundation before the COVID nineteen. Then we accelerated after the pandemic began.
+[Michael Perrino (Group CIO, CMA CGM)] (Deployment results and user visibility): The deployment was quick. And first results were visibility on users connecting from one hundred and sixty location worldwide, dramatic growth in Office three sixty five traffic without having talking about it. Great user experience with more security and Zscaler's cloud, native architecture ensured we could inspect and stop threat in all SSL traffic without worrying about capacity.
+[Michael Perrino (Group CIO, CMA CGM)] (Zero Trust architecture for access control): A typical way of granting granular access to users is by implementing network segmentation in a traditional approach which is complex, costly, and takes a very long time. The scalar serial trust architecture enables quick implementation of granular access control for users without the need to implement traditional feature component, mostly based on IP sources and destinations.
+[Michael Perrino (Group CIO, CMA CGM)] (VPN limitations and attack surface): As CMS AGM networks grows in a part merge by merge an acquisition, the group has to maintain networks with different level of integration. The previous approach was to enable traditional VPN connectivity back to each local agency using four different different vendors, meaning having multiple hundreds points of entry to our network, maintaining a cohesive policy across all these devices has always been a challenge and the lockdown around the world due to the COVID nineteen made the VPN entry points and additional attack surface.
+[Michael Perrino (Group CIO, CMA CGM)] (Rapid user scaling during cyber attack): After a successful proof of value at the beginning of summer, we moved to deployment with our Ocean region as a pilot. A cyber attack occurred a couple of days after we successfully finished our payload phase. And one action taken to reduce the breed of the attacks has been to disable interconnectivity between sites effectively rendering any internal communication impossible. We have been able to go from four hundred to twenty seven thousand users within two days. Why configuring application segment for each application required for business. This scanner is easy to deploy, easy to configure, and easy to manage.
+[Michael Perrino (Group CIO, CMA CGM)] (Convincing investment committee): Let me share with you my experience on how I make business case to assist with. During the COVID nineteen crisis, it was clear to me that it was required to quickly protect people walking remotely and having remote workstation constantly updated and patched. But Even if it's important, it's not enough. I remember when I came into the investment committee with this argument, I was challenged by them on the difficulty to find the right balance between necessary and sufficient. I was also challenged on the budget and the fact that a traditional VPN could be enough.
+[Michael Perrino (Group CIO, CMA CGM)] (Key argument for user experience): The only argument who had an impact was providing a better user experience.
+[Michael Perrino (Group CIO, CMA CGM)] (Closing thoughts and advice): So finally, if I can give you my thought, be prepared, present division, be passionate, it helps a lot to transform a crisis in opportunity and a good story to tell. Thank you.

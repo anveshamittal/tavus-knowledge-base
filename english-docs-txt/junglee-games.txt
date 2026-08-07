@@ -1,0 +1,141 @@
+DOCUMENT TITLE: Junglee Games Secures Employee and Customer Data with the Zscaler Zero Trust Exchange
+SUBTITLE: Zscaler consolidates security controls to streamline the protection of sensitive data for more than 140 million gamers across India
+CUSTOMER: Junglee Games
+
+=== COMPANY OVERVIEW ===
+The fastest-growing skill games company in India
+Industry: High Tech
+Headquarters: Gurgaon, Haryana, India
+Company Size: 900+ employees across five countries
+Source URL: https://www.zscaler.com/customers/junglee-games
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 50%: fewer staff to manage security
+- 581K: security threats blocked in three months
+- 50%: increase in security audit score
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Firewalls and VPNs exposed public IP addresses and widened the attack surface while failing to enable granular policy control
+  * On-premises security infrastructure could not adequately secure employee and customer data on a global scale
+  * Traditional security solutions could not keep pace with rapidly changing data protection regulations, putting customer data at risk
+Transformation Journey:
+  * More than 900 Junglees, as Junglee Games employees are known, work across five countries, with 90% of Junglees based in India, between Bangalore and Gurgaon.
+  * Junglee Games has more than 140 million registered players across India.
+  * Reflecting on Junglee Games’ zero trust journey to date, Yah says that partnering with Zscaler was the right call.
+Key Results:
+  * Secures the entire work-from-anywhere workforce with comprehensive zero trust architecture, deployed in just two months
+  * Improves connectivity and strengthens security posture with streamlined infrastructure, retiring nearly 100% of firewalls
+  * Increases visibility around sensitive information to protect 140 million customers' data and ensure regulatory compliance
+
+=== KEY QUOTES ===
+"With Zscaler, we have greater visibility into the sensitive data passing through our cloud environments, as well as the resources needed to establish and enforce granular policies that bolster our data protection efforts."
+  — Anvesh Yah, Head of Security, Junglee Games
+
+=== CASE STUDY DETAILS ===
+
+--- Keeping customer data secure with zero trust ---
+As one of the first companies to introduce skill games for cash prizes in India, Junglee Games is recognized as a pioneer in the Indian online gaming space, and is currently the fastest-growing skill-game company in Southeast Asia. In close collaboration with its parent company Flutter Entertainment, the world’s leading online sports betting and gaming operator, Junglee Games is focused on creating safer experiences for its customers, the players.
+“Even though we operate mostly within the Indian ecosystem, we strive to maintain global standards in terms of security,” said Anvesh Yah, Head of Security at Junglee Games.
+One of Junglee Games’ values is to value customers and their data. A strong commitment to protecting its player data, as well as the need to protect a geographically distributed workforce, led the company to deploy zero trust security. “To ensure the best protection for our employees and customers, making the transition to zero trust architecture was an imperative,” added Yah.
+"Even though we operate mostly within the Indian ecosystem, we strive to maintain global standards in terms of security."
+  — Anvesh Yah, Head of Security, Junglee Games
+"To ensure the best protection for our employees and customers, making the transition to zero trust architecture was an imperative."
+  — Yah, Junglee Games
+
+--- Striking a balance between employee agility and data security with Zscaler ---
+On-premises security infrastructure lacked the scalability Junglee Games needed to support work-from-anywhere flexibility for its employees. Moreover, legacy security solutions could not enable the dynamic access control policies required to secure the sensitive data collected from registered players.
+“We wanted to go for a café-like experience, enabling our workforce to connect securely from any location they choose,” explained Yah. “But one of the biggest challenges for supporting that experience was managing global security controls that could strike the right balance between employee agility and customer data integrity.”
+Junglee Games wanted a cloud native zero trust architecture to empower its move away from on-premises infrastructure. Aiming to decommission its physical firewalls, replace its VPNs, and implement a more robust strategy for data protection, the company hoped to achieve these goals with a single-platform solution.
+Flutter UK & Ireland, a Flutter Entertainment company in Europe, suggested that Junglee Games consider Zscaler. “On paper, the Zscaler platform offered an outstanding set of features that could satisfy our core requirements,” elaborated Yah. “Gaining deeper insights from our sister company around its experience with the Zscaler platform really solidified our confidence in choosing Zscaler as the partner to guide our zero trust security transformation.”
+An efficiently phased deployment of the Zscaler Zero Trust Exchange has enabled Junglee Games to dramatically streamline its technology estate, effectively secure outbound and inbound connectivity for its hybrid-work employees, and launch a more comprehensive data loss prevention (DLP) strategy—all in just two months.
+"We wanted to go for a café-like experience, enabling our workforce to connect securely from any location they choose. But one of the biggest challenges for supporting that experience was managing global security controls that could strike the right balance between employee agility and customer data integrity."
+  — Yah, Junglee Games
+"On paper, the Zscaler platform offered an outstanding set of features that could satisfy our core requirements. Gaining deeper insights from our sister company around its experience with the Zscaler platform really solidified our confidence in choosing Zscaler as the partner to guide our zero trust security transformation."
+  — Yah, Junglee Games
+"Zscaler technology significantly reduces our risk and gives us greater confidence that, even if an attack attempt occurs, we now have resilience."
+  — Anvesh Yah, Head of Security, Junglee Games
+
+--- Phase 1: Replacing legacy VPNs with zero trust access to secure sensitive data ---
+Companies operating in the online gaming space are a prime target of cyberattacks due to the volume of sensitive customer information and financial transactions they manage, according to a recent Zscaler ThreatLabz brief.
+Unfortunately, the company’s legacy VPN appliances created a wide attack surface. Because VPNs act as public-facing access points for remote connection to an internal network, they can become targets of attacks like ransomware and distributed denial of service (DDoS).
+“We were worried about risk posture,” recalled Yah. “One of our critical security audit requirements is resilience against DDoS attacks, and we realized we’d never achieve that using traditional VPNs.”
+Junglee Games replaced VPN appliances with Zscaler Private Access (ZPA). The company’s private applications and data, some hosted on Google Cloud Platform, are now hidden behind the Zero Trust Exchange, eliminating public IP addresses. Without public IPs, these sensitive resources are invisible to threat actors and the attack surface shrinks. User identity and device posture verifications are enforced before an inbound connection is established. Additionally, ZPA directly connects users only to the private applications they are authorized to access, rather than to the network as a whole. This effectively prevents the possibility of lateral threat movement on the network.
+“Using ZPA, we can easily establish and dynamically scale very granular access policies to safeguard our most critical resources and sensitive data,” said Yah. “Zscaler technology significantly reduces our risk and gives us greater confidence that, even if an attack attempt occurs, we now have resilience.”
+As part of the ZPA deployment, Zscaler Client Connector was installed on all endpoint devices. Client Connector automatically determines if a user is trying to access the web, a SaaS application, or an internal private application, and then routes the traffic to its destination via the Zero Trust Exchange. Installing this in the first phase of deployment made it easier and faster to mature the company’s zero trust architecture by implementing additional Zscaler services.
+"We were worried about risk posture. One of our critical security audit requirements is resilience against DDoS attacks, and we realized we’d never achieve that using traditional VPNs."
+  — Yah, Junglee Games
+"Using ZPA, we can easily establish and dynamically scale very granular access policies to safeguard our most critical resources and sensitive data. Zscaler technology significantly reduces our risk and gives us greater confidence that, even if an attack attempt occurs, we now have resilience."
+  — Yah, Junglee Games
+
+--- Phase 2: Securing work-from-anywhere without physical firewalls ---
+More than 900 Junglees, as Junglee Games employees are known, work across five countries, with 90% of Junglees based in India, between Bangalore and Gurgaon. Given the country’s size, even the Junglees working in India are dispersed across more than 2,000 kilometers. Making sure employees can work from any location is critical to maintaining the company’s growth.
+Junglee Games is rapidly expanding, crossing the 1,000 employee milestone in the coming months. Supporting a hybrid work environment for Junglees allows the company to manage an expanding workforce with more agility.
+A collection of on-premises firewalls made it challenging to safely and reliably connect a geographically diverse workforce to the internet and public SaaS applications. Physical firewalls are location-bound, so latency becomes a productivity-disrupting issue for remote users. Firewall appliances struggle to inspect encrypted web traffic at scale, leading to inconsistent security policies and a greater chance that encrypted threats might pass through defenses without detection.
+“If a Junglee wanted to work from a location 2,000 kilometers away from a physical firewall in the office, we had to choose between ensuring security controls at the expense of connectivity performance or improving connectivity performance by relaxing security controls,” explained Yah. “We realized that we could not have both reliable performance and effective security with traditional firewalls.”
+Junglee Games replaced its firewalls with Zscaler Internet Access (ZIA). ZIA secures direct access to the internet and SaaS applications from any location while enforcing zero trust policies for all outbound traffic. Zscaler delivers traffic inspection and policy enforcement as close to the end user as possible (from more than 160 full-compute data centers worldwide), eliminating the need to backhaul internet traffic, which adversely impacts the user experience. The Zscaler platform also includes functionality for cloud firewall protection, URL filtering, and advanced threat protection. As a high-performance cloud platform, Zscaler is able to efficiently inspect even TLS/SSL-encrypted traffic at scale.
+Junglee Games has already decommissioned all but one of its firewalls, keeping a physical firewall on hand to support VLAN networking in the office. “We’ve gone almost completely firewall-free,” said Yah. “With Zscaler, our employees can securely connect from any location, and the security team can effectively apply consistent policies with deeper visibility around all outbound traffic.”
+"If a Junglee wanted to work from a location 2,000 kilometers away from a physical firewall in the office, we had to choose between ensuring security controls at the expense of connectivity performance or improving connectivity performance by relaxing security controls. We realized that we could not have both reliable performance and effective security with traditional firewalls."
+  — Yah, Junglee Games
+"We’ve gone almost completely firewall-free. With Zscaler, our employees can securely connect from any location, and the security team can effectively apply consistent policies with deeper visibility around all outbound traffic."
+  — Yah, Junglee Games
+"With Zscaler, we’ve been able to establish a more comprehensive security infrastructure without adding complexity."
+  — Anvesh Yah, Head of Security, Junglee Games
+
+--- Phase 3: Leveraging Zscaler to expand and enhance data protection ---
+Junglee Games has more than 140 million registered players across India. As Yah sees it, the customer data flowing into the company is both an invaluable asset and a constant cause for concern. “I always tell my security team to treat customer data like Kryptonite. We have to manage sensitive data with extreme caution because improper handling of customer data can be a huge risk for the company as a whole,” elaborated Yah.
+Junglee Games is leveraging the feature-rich Zscaler Data Protection solution to implement a more robust data protection strategy.
+Zscaler DLP helps Junglee Games protect sensitive information and prevent data leakage by providing consistent security for data in motion and at rest across web, SaaS, email, and private applications. Zscaler offers advanced detection techniques to identify sensitive information wherever it goes and provides clear visibility around data exposure.
+Out-of-band (OOB) cloud access security broker (CASB) is integrated with Google Cloud Platform to enhance protection for data at rest in the cloud applications housed there. OOB scanning helps mitigate risk involved in file sharing, and granular policy controls manage data access based on identity and context.
+API retro scan is a CASB feature that enables Junglee Games to comprehensively scan historical data in cloud applications so they can detect any existing policy violations and help manage remediation. This historical data analysis will help Yah reduce future security risks and maintain compliance with regulatory requirements, like the Digital Personal Data Protection Act (DPDA) passed recently in India.
+Zscaler Data Protection has already been deployed for the customer experience team, which handles the largest volumes of sensitive data. More departments will be onboarded in the coming weeks. This incremental approach allows Yah to further customize his data protection strategy based on how individual teams engage with sensitive data.
+“With Zscaler, we have greater visibility into the sensitive data passing through our cloud environments, as well as the resources needed to establish and enforce granular policies that bolster our data protection efforts,” said Yah. “We’ve been able to expand our DLP capabilities without adding bulk to our security architecture because every solution we need or want is available on the Zscaler platform.”
+"I always tell my security team to treat customer data like Kryptonite. We have to manage sensitive data with extreme caution because improper handling of customer data can be a huge risk for the company as a whole."
+  — Yah, Junglee Games
+"With Zscaler, we have greater visibility into the sensitive data passing through our cloud environments, as well as the resources needed to establish and enforce granular policies that bolster our data protection efforts. We’ve been able to expand our DLP capabilities without adding bulk to our security architecture because every solution we need or want is available on the Zscaler platform."
+  — Yah, Junglee Games
+
+--- Mitigating data leaks with responsible AI use ---
+Junglee Games encourages its employees to leverage artificial intelligence (AI) as a way to improve productivity, and designers often leverage AI tools when developing code for Junglee Games. Yah believes that the company’s use of Zscaler Data Protection also helps ensure that employees use AI resources responsibly and safely.
+With Zscaler, the Junglee security team can monitor AI platform use and gain visibility into where their data code patterns are being shared. “We can now identify where Junglee code patterns appear online, as well as block our code from traveling to unapproved AI platforms,” said Yah.
+Extending DLP efforts to cover AI use cases in this way helps Junglee Games stop unintentional code leaks. “With Zscaler, we are not only safeguarding our customer data to the highest standards but also protecting our intellectual property from misuse,” explained Yah.
+"We can now identify where Junglee code patterns appear online, as well as block our code from traveling to unapproved AI platforms."
+  — Yah, Junglee Games
+"With Zscaler, we are not only safeguarding our customer data to the highest standards but also protecting our intellectual property from misuse."
+  — Yah, Junglee Games
+
+--- Zscaler delivers comprehensive security without added complexity ---
+The multitenant Zscaler platform is purpose-built for easy management, so Yah has been able to gain greater visibility without increasing administrative overhead. Built-in Zscaler dashboards offer Yah richer insights into platform use and security posture in real time, enabling the security team to better assess risks, ensure regulatory compliance, and optimize the company’s zero trust implementation. These insights are easily translated into executive-level reports that Yah can share with company leaders.
+“You can’t protect what you can’t see,” observed Yah. “With Zscaler we have greater visibility across our users, devices, and data. I also have more resources to communicate with the leadership about employee behavior, risk factors, and the next steps in our zero trust journey. Everyone from the top down feels more confident about our overall risk posture with the security provided by the Zero Trust Exchange.”
+Previously, the company would need at least four dedicated engineers to manage all the disparate security solutions. With the Zscaler architecture, one or two are sufficient to manage the platform internally. “Administration on the Zscaler platform has been really easy,” revealed Yah. “With Zscaler, we’ve been able to establish a more comprehensive security architecture without adding complexity.”
+In addition to reducing administrative overhead, Junglee Games has significantly streamlined its technology estate with the Zscaler platform. The company has eliminated legacy VPN appliances and removed nearly 100% of its physical firewalls.
+Maintaining fewer legacy point products lets the company focus its technology budget on more efficient and effective solutions. Yah estimates that adapting previous traditional firewalls with added security controls would have been at least six times more expensive than their baseline legacy costs. Not to mention, any traditional solution, no matter how enhanced, would never have been able to provide true zero trust security.
+Expressing his happiness about the company’s decision to redirect security investment into a holistic, cloud native zero trust architecture, Yah said: “We now have a single platform that can do it all, and the ease that comes with not having to manage a collection of point products from multiple vendors is priceless.”
+"You can’t protect what you can’t see. With Zscaler we have greater visibility across our users, devices, and data. I also have more resources to communicate with the leadership about employee behavior, risk factors, and the next steps in our zero trust journey. Everyone from the top down feels more confident about our overall risk posture with the security provided by the Zero Trust Exchange."
+  — Yah, Junglee Games
+"Administration on the Zscaler platform has been really easy. With Zscaler, we’ve been able to establish a more comprehensive security architecture without adding complexity."
+  — Yah, Junglee Games
+"We now have a single platform that can do it all, and the ease that comes with not having to manage a collection of point products from multiple vendors is priceless."
+  — Yah, Junglee Games
+"With Zscaler, we are not only safeguarding our customer data to the highest standards but also protecting our intellectual property from misuse."
+  — Anvesh Yah, Head of Security, Junglee Games
+
+--- Improving risk posture from day one with Zscaler ---
+Another priceless outcome is an already notable improvement in the company’s security posture. In a single three-month period, Zscaler processed more than 393 million transactions and 31.5 TB of traffic for Junglee Games, preventing nearly 14 million policy violations and blocking more than 581,000 security threats. Of the threats blocked, more than 45,000 were hidden in encrypted traffic, where legacy solutions would have struggled to detect them.
+“There is no doubt that our security posture improved from day one with Zscaler,” said Yah. Even parent company Flutter Entertainment recognizes the stronger security edge at Junglee Games. “Our parent company conducts routine security audits,” added Yah. “With the Zscaler platform deployed, we have increased our overall security score by 50%.”
+"There is no doubt that our security posture improved from day one with Zscaler. Our parent company conducts routine security audits. With the Zscaler platform deployed, we have increased our overall security score by 50%."
+  — Yah, Junglee Games
+
+--- Seamlessly navigating digital transformation with a singular zero trust partner ---
+Reflecting on Junglee Games’ zero trust journey to date, Yah says that partnering with Zscaler was the right call. “Transforming our security infrastructure was the launch point for a larger cloud-first digital transformation, so a lot was riding on that decision. With Zscaler, we have successfully deployed a comprehensive zero trust security platform in a very short time span,” he said.
+As the company prepares for its next steps, Yah is confident that Zscaler will continue to make the transition smoother. “Through this single partnership, we have the flexibility to seamlessly evolve our zero trust approach over time,” concluded Yah.
+"Transforming our security infrastructure was the launch point for a larger cloud-first digital transformation, so a lot was riding on that decision. With Zscaler, we have successfully deployed a comprehensive zero trust security platform in a very short time span."
+  — Yah, Junglee Games
+"Through this single partnership, we have the flexibility to seamlessly evolve our zero trust approach over time."
+  — Yah, Junglee Games
+
+=== SOLUTIONS & PRODUCTS USED ===
+- AI/ML
+- Data Security
+- Optimize Digital Experiences
+- Ransomware

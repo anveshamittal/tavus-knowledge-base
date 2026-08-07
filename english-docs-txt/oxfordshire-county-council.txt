@@ -1,0 +1,125 @@
+DOCUMENT TITLE: Oxfordshire County Council Implements Zero Trust to Create a Traditional WAN-Free, VPN-Free Architecture
+SUBTITLE: Zscaler displaces legacy network and security hardware to deliver fast, direct connections from anywhere, at nearly one-third the cost
+CUSTOMER: Oxfordshire County Council
+
+=== COMPANY OVERVIEW ===
+Local government council working to create a healthier county for Oxfordshire residents
+Industry: Federal and Government
+Headquarters: Oxford, UK
+Company Size: 725,000+ residents in 235 parishes
+Source URL: https://www.zscaler.com/customers/oxfordshire-county-council
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 50%: faster internet connectivity
+- 5,900: users working securely from anywhere
+- 64%: lower cost of connectivity
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Traditional network and security architecture based on VPN, traditional WAN, and firewalls couldn't support cloud-based operations
+  * Achieving good connectivity in a costly, bulky, and complex hardware environment required sacrificing high bandwidth
+  * Hairpinning every internet transaction through the data center was slowing traffic, hindering agility and productivity
+Transformation Journey:
+  * After migrating to Microsoft 365, Oxfordshire County Council quickly recognized that its traditional network architecture and legacy security stack would not adequately support continued cloud evolution.
+  * It no longer made sense to keep routing the council’s internet traffic through traditional data centers.
+  * When Oxfordshire County Council began its zero trust journey, Griffiths was already thinking miles ahead on the roadmap.
+Key Results:
+  * Secures connectivity and improves user experience across the county, encouraging 15% more residents to use safer Wi-Fi
+  * Streamlines security infrastructure without sacrificing security edge—prevents 10 million policy violations a quarter
+  * Seamlessly extends zero trust protection to third-party partner organizations, enabling safer county-wide collaboration
+
+=== KEY QUOTES ===
+"With Zscaler, we’ve reached what my technology team refers to as the ‘golden silence.’ Staff complaints and support requests have dramatically reduced because everything just works."
+  — Stewart Griffiths, Principal Technical Architect, Oxfordshire County Council
+
+=== CASE STUDY DETAILS ===
+
+--- Letting go of legacy technology to operate with more agility ---
+For council employees in Oxfordshire County, working to improve daily life for more than 725,000 residents is a lifetime commitment. “The council supports people from birth to death, and at nearly every stage in between,” shared Stewart Griffiths, Principal Technical Architect at Oxfordshire County Council.
+Empowering a flexible workforce of 5,900 to manage services across 144 locations inspired the council's zero trust digital transformation. “We're an organization all about people, and people need to be mobile," said Griffiths. "Embracing a zero trust architecture has allowed us to let go of legacy technologies and operate with greater agility."
+"The council supports people from birth to death, and at nearly every stage in between."
+  — Stewart Griffiths, Principal Technical Architect, Oxfordshire County Council
+"We're an organization all about people, and people need to be mobile. Embracing a zero trust architecture has allowed us to let go of legacy technologies and operate with greater agility."
+  — Griffiths, Oxfordshire County Council
+
+--- Phase 1: Embracing zero trust and leveraging industry-leading integrations on the Zero Trust Exchange ---
+After migrating to Microsoft 365, Oxfordshire County Council quickly recognized that its traditional network architecture and legacy security stack would not adequately support continued cloud evolution. The council’s perimeter-based, data center-centric security model struggled to keep pace with cloud-based operations, especially the rapid increase in outbound internet connections. “We experienced significant disruptions because our old security stack could not keep up with the demands of a cloud-first environment,” elaborated Griffiths.
+The council wanted a cloud native, comprehensive zero trust security platform that could displace legacy appliances no longer fit for purpose with a more efficient way of doing things. Griffiths and his IT Innovation & Digital Service team also wanted a solution deeply compatible with Microsoft, a cornerstone of the council’s cloud infrastructure. The council was already using several Microsoft solutions including Microsoft 365, Microsoft Entra ID, and Microsoft Defender for Endpoint.
+The Zscaler Zero Trust Exchange was the best choice for Oxfordshire County Council because Zscaler offers seamless integration and direct peering with Microsoft. “We were impressed with the partnership between Microsoft and Zscaler, so Zscaler was always a leading contender,” said Griffiths. “When we learned about the Zscaler one-click configuration for Microsoft 365, Zscaler was the only contender. We were sold.”
+"We experienced significant disruptions because our old security stack could not keep up with the demands of a cloud-first environment."
+  — Griffiths, Oxfordshire County Council
+"We were impressed with the partnership between Microsoft and Zscaler, so Zscaler was always a leading contender. When we learned about the Zscaler one-click configuration for Microsoft 365, Zscaler was the only contender. We were sold."
+  — Griffiths, Oxfordshire County Council
+"At the end of the day, Zscaler enables me to get a good night’s sleep knowing our users and resources are more secure"
+  — Stewart Griffiths, Principal Technical Architect, Oxfordshire County Council
+
+--- Phase 2: Safer, faster internet connectivity expands county-wide with Zscaler ---
+It no longer made sense to keep routing the council’s internet traffic through traditional data centers. “We moved to the cloud for agility, but routing every internet transaction through our data center was hairpinning the traffic and ultimately undermining that larger goal,” said Griffiths.
+Zscaler Internet Access (ZIA) brokers fast, direct connections to the internet and SaaS applications for council users from any location. By delivering zero trust connectivity from more than 160 edge locations, from as close to the end user as possible, Zscaler eliminates the need to backhaul traffic to a data center. Functionality for cloud firewall protection, URL filtering, TLS/SSL inspection, and advanced threat protection is built into the comprehensive Zscaler platform, rendering multiple legacy point products unnecessary.
+Zscaler has been instrumental to council implementation of the UK’s GovWifi initiative. “Anyone with a gov.uk email address can immediately authenticate to the internet hotspot at any of our council buildings,” explained Griffiths. “Internet connectivity is seamless and effortless, and the Zscaler platform has been a cornerstone in that.”
+Oxfordshire residents also enjoy safer connectivity. The council provides free public internet access at local libraries, and those sessions are protected by the same filtering and inspection protocols. “Anyone using council internet is protected by the same rigorous zero trust principles through Zscaler,” said Griffiths.
+"We moved to the cloud for agility, but routing every internet transaction through our data center was hairpinning the traffic and ultimately undermining that larger goal."
+  — Griffiths, Oxfordshire County Council
+"Anyone with a gov.uk email address can immediately authenticate to the internet hotspot at any of our council buildings. Internet connectivity is seamless and effortless, and the Zscaler platform has been a cornerstone in that."
+  — Griffiths, Oxfordshire County Council
+"Anyone using council internet is protected by the same rigorous zero trust principles through Zscaler."
+  — Griffiths, Oxfordshire County Council
+
+--- Phase 3: Zscaler replaced VPNs and enables a bold move to traditional WAN-free architecture ---
+When Oxfordshire County Council began its zero trust journey, Griffiths was already thinking miles ahead on the roadmap. He wanted to eliminate as much of the traditional wide area network (WAN) as possible.
+Legacy WANs are limited by performance inefficiencies and scalability issues, while traditional VPN appliances utilized with WANs inherently increase the attack surface. “This outdated inbound security architecture kept us tethered to a data center and inhibited our progress towards holistic zero trust,” shared Griffiths.
+Zscaler Private Access (ZPA) eliminates the need for VPN appliances by enabling seamless zero trust access to private applications and resources. Zscaler hides council applications behind the Zero Trust Exchange, minimizing the attack surface. Connecting users directly to the individual resources they need rather than the network as a whole limits exposure to lateral threat movement. User identity and device posture verification, along with inline traffic inspection, also help stop compromise.
+“Zscaler offers greater protection for our private applications in the cloud while also allowing us to dramatically reduce our WAN footprint,” said Griffiths. “For a few specific properties—mostly fire stations and libraries—we use a light touch SD-WAN solution. Otherwise, we've gone WAN-free across the county without compromising our security, and I'm proud of that.”
+"This outdated inbound security architecture kept us tethered to a data center and inhibited our progress towards holistic zero trust."
+  — Griffiths, Oxfordshire County Council
+"Zscaler offers greater protection for our private applications in the cloud while also allowing us to dramatically reduce our WAN footprint. For a few specific properties—mostly fire stations and libraries—we use a light touch SD-WAN solution. Otherwise, we've gone WAN-free across the county without compromising our security, and I'm proud of that."
+  — Griffiths, Oxfordshire County Council
+"Internet connectivity is seamless and effortless, and the Zscaler platform has been a cornerstone in that."
+  — Stewart Griffiths, Principal Technical Architect, Oxfordshire County Council
+
+--- A good place to work made great with Zscaler technology ---
+The council maintains hundreds of facilities and has thousands of council employees who require flexibility to work from any of those locations as needed. However, connectivity using legacy architecture was challenging across the largely rural Oxfordshire county, which covers 1,000+ square miles in southeast England.
+Since deploying the Zero Trust Exchange, council staff report that connectivity speeds are at least 10% faster—and in some cases up to 50% faster—due to intelligent traffic routing with no backhaul. Staff can now reliably and easily connect to the internet and applications at any council facility.
+“We heard increasing grumbles about flaky internet connectivity and network performance from frustrated colleagues,” recalled Griffiths. “With Zscaler, we’ve reached what my technology team refers to as the ‘golden silence.’ Staff complaints and support requests have dramatically reduced because everything just works.”
+This positive feedback around user experience also supports talent recruitment and retention efforts at the council. “People want to work for a company where using the systems is easy,” explained Griffiths. “Zscaler technology enhances our reputation as a great place to work.”
+There is also a measurable increase in satisfaction among citizen residents who use the free internet offered at public libraries across Oxfordshire. Griffiths cites a 15% increase in visitor footfall at these libraries.
+"We heard increasing grumbles about flaky internet connectivity and network performance from frustrated colleagues. With Zscaler, we’ve reached what my technology team refers to as the ‘golden silence.’ Staff complaints and support requests have dramatically reduced because everything just works."
+  — Griffiths, Oxfordshire County Council
+"People want to work for a company where using the systems is easy. Zscaler technology enhances our reputation as a great place to work."
+  — Griffiths, Oxfordshire County Council
+
+--- More protection with less overhead on the Zscaler platform ---
+The council’s legacy architecture was costly, bulky, and a barrier to organizational agility. To achieve high-quality connectivity, the team sacrificed bandwidth. Hairpinning traffic for inspection was disrupting workflows. Making administrative changes at county facilities was slow to happen, and threat visibility was limited.
+“We had a very expensive managed service WAN, but the return on that investment was low bandwidth, unreliable connectivity, administrative inertia, and limited intel about threats,” said Griffiths.
+On the Zero Trust Exchange, the council achieves a more robust security posture with a lighter tech stack and less administrative overhead. In a single three-month period, Zscaler processed 1.8 billion transactions and more than 130 TB of traffic for the council, preventing 10 million policy violations and blocking nearly 79,000 security threats. Griffiths estimates the council has reduced spending on internet and network connectivity by 64%. “We are effectively achieving more with less using Zscaler technology,” observed Griffiths.
+Stronger security also means less concern about risk. “We have greater real-time visibility to threats and more resources to mitigate risk,” explained Griffiths. “At the end of the day, Zscaler enables me to get a good night’s sleep knowing our users and resources are more secure.”
+"We had a very expensive managed service WAN, but the return on that investment was low bandwidth, unreliable connectivity, administrative inertia, and limited intel about threats."
+  — Griffiths, Oxfordshire County Council
+"We are effectively achieving more with less using Zscaler technology."
+  — Griffiths, Oxfordshire County Council
+"We have greater real-time visibility to threats and more resources to mitigate risk. At the end of the day, Zscaler enables me to get a good night’s sleep knowing our users and resources are more secure."
+  — Griffiths, Oxfordshire County Council
+"The Zero Trust Exchange has given us greater confidence and protection in a world with increasing cybersecurity threats."
+  — Stewart Griffiths, Principal Technical Architect, Oxfordshire County Council
+
+--- Critical partnerships made stronger and safer with Zscaler ---
+To deliver the lifetime services available to residents, the council relies on partnerships. Regional public service entities like district councils, police, and the National Health Service as well as volunteer organizations and charities collaborate with the council to manage programs.
+Legacy security architecture didn’t enable the most fruitful—or safe—collaborations. Connecting guest users to the internet was a cumbersome, manual process that had to be sorted at each building location. Sharing access to necessary private applications with non-staff partners exposed the whole network to added risk.
+On the Zero Trust Exchange, the council’s zero trust protection can be extended to additional users with minimal administrative overhead. The council’s GovWifi initiative, powered by Zscaler, provides the same secure mobile working environment for guests and partners as it does for staff. “The Zscaler platform makes it a lot easier and safer to support collaboration,” said Griffiths.
+It’s not just the partnerships across Oxfordshire County that Griffiths credits for the council’s progress. “Zscaler has been one of our most crucial partners,” said Griffiths. “The people at Zscaler share a clarity of vision about zero trust, and they work to nurture relationships with customers in a way that resonates for us as a public service organization.”
+"The Zscaler platform makes it a lot easier and safer to support collaboration."
+  — Griffiths, Oxfordshire County Council
+"Zscaler has been one of our most crucial partners. The people at Zscaler share a clarity of vision about zero trust, and they work to nurture relationships with customers in a way that resonates for us as a public service organization."
+  — Griffiths, Oxfordshire County Council
+
+--- Expanding zero trust platform with trusted partner of choice ---
+Griffiths plans to enhance its zero trust architecture at Oxfordshire County Council with additional Zscaler solutions. “Even though my job title has gotten fancier, in my heart I’m a technical architect,” confessed Griffiths. “As an architect, the Zscaler platform just makes complete sense to me.”
+Deploying Zscaler Digital Experience (ZDX)™ will optimize both administrator and user experience with end-to-end visibility from user to application. Zscaler Browser Isolation will help highly specialized staff safely access internet locations deemed too risky for the general workforce (for example, the trading standards team investigates newly registered domains). The council is also working to implement Zscaler Data Security to better manage data loss prevention efforts. Looking even farther into the future, the council is also exploring how to leverage the Zscaler platform to enhance 5G smart county capabilities.
+Griffiths believes the council is on the right path and he trusts the process with Zscaler. “Zero trust doesn’t mean no trust,” shared Griffiths. “You need to trust the provider you partner with and the platform you build upon. The Zero Trust Exchange has given us greater confidence and protection in a world with increasing cybersecurity threats. Zscaler has undoubtedly earned my trust. For me, there is no alternative.”
+"Even though my job title has gotten fancier, in my heart I’m a technical architect. As an architect, the Zscaler platform just makes complete sense to me."
+  — Griffiths, Oxfordshire County Council
+"Zero trust doesn’t mean no trust. You need to trust the provider you partner with and the platform you build upon. The Zero Trust Exchange has given us greater confidence and protection in a world with increasing cybersecurity threats. Zscaler has undoubtedly earned my trust. For me, there is no alternative."
+  — Griffiths, Oxfordshire County Council
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Data Security

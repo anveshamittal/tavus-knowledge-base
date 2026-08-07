@@ -1,0 +1,108 @@
+DOCUMENT TITLE: BEIS Secures Its Next-Gen Government App Platform
+SUBTITLE: and Blocks 400K Threats Monthly with the Zero Trust Exchange
+CUSTOMER: BEIS
+
+=== COMPANY OVERVIEW ===
+The Department for Business, Energy, and Industrial Strategy (BEIS) is the UK federal government agency leading economy-wide transformation by backing enterprise growth; generating cheaper, cleaner energy; and unleashing the UK as a science innovation superpower. It supports 43 agencies and public bodies.
+Industry: Federal and Government
+Headquarters: London, UK
+Company Size: 12,000+ users across 9 organizations
+Source URL: https://www.zscaler.com/customers/beis
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Support the transformation of UK federal government operations to digital and cloud by adopting zero trust for data security
+Transformation Journey:
+  * Having established an invaluable partnership with Zscaler, BEIS is strongly positioned to meet the needs of today and tomorrow.
+Key Results:
+  * Contributes to annual savings of $500,000 by eliminating legacy MPLS
+  * Increased the number of users by 70% without adding management overhead
+  * Protects 2B SaaS transactions and blocks 10M policy violations monthly
+  * Improves speed to market by reducing business application deployments from months or years to weeks or days
+  * Contributes significantly to UK government climate change and ESG goals
+
+=== KEY QUOTES ===
+"The Zero Trust Exchange enables supplying all users with the same high level of security and quality of experience, regardless of where they’re working."
+  — Karl Hoods, Chief Digital and Information Officer, BEIS
+
+=== CASE STUDY DETAILS ===
+
+--- Merger prompts security evolution ---
+During the merger of two significant UK federal government agencies to create the Department for Business, Energy, and Industrial Strategy (BEIS), IT leaders recognized the potential for digitalization and cloud technologies to revolutionize operations and power government innovation. However, this required securing data in new ways.
+“Transitioning from owning an on-premises network to consuming services over the internet required evolving beyond the legacy castle-and-moat security model,” said Karl Hoods, Chief Digital and Information Officer. “We needed to modernize our security approach.”
+"Transitioning from owning an on-premises network to consuming services over the internet required evolving beyond the legacy castle-and-moat security model. We needed to modernize our security approach."
+  — Karl Hoods, Chief Digital and Information Officer, BEIS
+
+--- Zscaler capabilities and innovation pipeline stand out ---
+As the entity responsible for providing IT infrastructure and related services to a number of government departments and public bodies, as well as supporting larger UK government goals around climate change and scientific leadership, BEIS required a data security solution that went beyond meeting its internal needs.
+BEIS also sought a solution that would supply the security layer for the cloud networking platform it was building, called Cirrus, to deliver networking infrastructure and business applications to other entities.
+After evaluating the market, BEIS determined that the Zscaler Zero Trust Exchange provided the necessary capabilities, flexibility, and scalability along with an innovation pipeline that aligned with the agency’s vision. “We believe zero trust is the right security model for our department and across the UK government estate,” Hoods said.
+"We believe zero trust is the right security model for our department and across the UK government estate."
+  — BEIS
+"Zscaler, with its demonstrated sustainability progress, is incredibly helpful for meeting our net zero goals."
+  — Karl Hoods, Chief Digital and Information Officer, BEIS
+
+--- Reduced infrastructure complexity saves nearly $500K annually ---
+For its Zero Trust Exchange adoption, BEIS deployed Zscaler Internet Access (ZIA), which supplies fast, direct, and secure connectivity to the internet and SaaS applications. In addition, BEIS implemented Zscaler Private Access (ZPA) for high-performance, VPN-free secure access to critical private applications residing in the agency’s hybrid IT environment, including those running on Amazon Web Services (AWS).
+The rollout contributed to significantly streamlining and simplifying networking infrastructure as the Zero Trust Exchange's direct-to-cloud architecture eliminated the need for costly multiprotocol label switching (MPLS) networks and their associated complexity. “Removing legacy MPLS services reduced costs by nearly $500,000 annually,” Hoods said.
+"Removing legacy MPLS services reduced costs by nearly $500,000 annually."
+  — BEIS
+
+--- Stopping more than 10M policy violations every month ---
+Fast-forward several years and BEIS now relies heavily on its Zero Trust Exchange deployment for protection from today’s complex threat landscape. For example, every month an average of nearly 400,000 security threats are blocked and over 10 million policy violations are prevented.
+Further, the Zero Trust Exchange secures over 2 billion transactions with SaaS applications, such as Microsoft 365, and approximately 500 million transactions with private applications monthly.
+All of these security enhancements protect agencies beyond BEIS, Hoods points out. “With the Zero Trust Exchange integrated into our Cirrus platform, all of the departments we support benefit from our investment in Zscaler and zero trust,” he said. “This includes everything from the Department of International Trade to the UK Space Agency.”
+"With the Zero Trust Exchange integrated into our Cirrus platform, all of the departments we support benefit from our investment in Zscaler and zero trust. This includes everything from the Department of International Trade to the UK Space Agency."
+  — BEIS
+"The tight integration between Zscaler and our SIEM has proven invaluable to enhancing our security monitoring."
+  — Karl Hoods, Chief Digital and Information Officer, BEIS
+
+--- Efficiently, effectively, and seamlessly supporting AWS ---
+For its AWS presence, BEIS leverages the Zero Trust Exchange in multiple ways. This includes streamlining and securing access to modern and legacy applications hosted on AWS, while also enabling BEIS to easily set granular policies that segment application access to prevent lateral movement of users and threats.
+In addition, the Zero Trust Exchange enables BEIS to efficiently support and manage the AWS presence it offers to other entities as part of Cirrus and assists BEIS with smoothly onboarding these new entities.
+With Zscaler integrated into Cirrus, only authorized users are granted access to the AWS environment. Further, those individuals are confined to the applications they’re entitled to access, based on policies that BEIS establishes and the Zero Trust Exchange automatically applies.
+“Due to the Zero Trust Exchange integrating seamlessly with AWS, we gain reliable and secure access while also contributing to keeping management overhead low,” said Hoods.
+"Due to the Zero Trust Exchange integrating seamlessly with AWS, we gain reliable and secure access while also contributing to keeping management overhead low."
+  — Hoods, BEIS
+
+--- Getting to net zero ---
+In addition to reducing infrastructure complexity, BEIS also appreciates the Zero Trust Exchange for helping it achieve its carbon footprint reduction goals as part of the UK government’s strategy for addressing climate change.
+That’s because Zscaler procures 100% renewable energy to power its global offices and the 150+ data centers that run the Zero Trust Exchange and is developing a path to continue reducing carbon emissions.
+“Over time, we’ll be making sure all of our suppliers commit to renewable and sustainable energy sources,” said Hoods. “Having a partner like Zscaler, that has already demonstrated sustainability progress, is incredibly helpful for meeting our net zero goals.”
+"Over time, we’ll be making sure all of our suppliers commit to renewable and sustainable energy sources. Having a partner like Zscaler, that has already demonstrated sustainability progress, is incredibly helpful for meeting our net zero goals."
+  — Hoods, BEIS
+"With Zscaler improving our speed to market, we can introduce new services in days or weeks rather than months or years."
+  — Karl Hoods, Chief Digital and Information Officer, BEIS
+
+--- Tight SIEM integration provides real-time data ---
+BEIS also relies on the Zero Trust Exchange platform to enhance its security operations center (SOC) capabilities. Having recently implemented a security information and event management (SIEM) solution, BEIS is using the real-time logs generated by the Zero Trust Exchange to speed threat detection and response throughout its estate.
+“The seamless and straightforward SIEM integration capability of Zscaler logs, and the real-time data they provide, have proven invaluable to enhancing our security monitoring,” Hoods said.
+"The seamless and straightforward SIEM integration capability of Zscaler logs, and the real-time data they provide, have proven invaluable to enhancing our security monitoring."
+  — Hoods, BEIS
+
+--- Next up: Enhancing user experiences ---
+Moving ahead, BEIS intends to consider other Zero Trust Exchange services, including adoption of Zscaler Digital Experience™ (ZDX™) for proactively detecting access issues before they affect users and more rapidly troubleshooting user experience complaints.
+As BEIS supports working from seven geographically-dispersed offices, as well as home office workers, ZDX will provide the information needed to enhance user experiences across its network and among multiple third parties, including internet service providers (ISPs) and SaaS application vendors.
+“When we receive a complaint, it could be anything from a routing issue at a SaaS partner to family members engaging in online gaming or even multiple office coworkers streaming online radio,” said Hoods. “With ZDX, we’re looking forward to having the detailed insights needed to pinpoint the source of an issue and, often, remediate it before workers even notice.”
+"When we receive a complaint, it could be anything from a routing issue at a SaaS partner to family members engaging in online gaming or even multiple office coworkers streaming online radio. With ZDX, we’re looking forward to having the detailed insights needed to pinpoint the source of an issue and, often, remediate it before workers even notice."
+  — Hoods, BEIS
+
+--- Supporting a continuous improvement journey ---
+Having established an invaluable partnership with Zscaler, BEIS is strongly positioned to meet the needs of today and tomorrow. “The entire Zscaler team has worked to understand our business and how the Zero Trust Exchange plugs into our wider ecosystem,” said Hoods. “The combination of our efforts enables supplying our users with the same high level of security, and quality of experience, regardless where they’re working.”
+According to Hoods, the Zscaler partnership has helped BEIS increase user numbers on the Cirrus platform by 70% without adding management overhead.
+“The volume of traffic secured by the Zero Trust Exchange has been critical to enabling our lean IT team to provide secure access to over 12,000 users efficiently and effectively,” said Hoods. “This includes considerably improving our speed to market, as we can develop and introduce new services in days or weeks rather than months or years.”
+Most importantly, the Zero Trust Exchange will be critical to infusing agility and flexibility into the UK government’s digital evolution in the years ahead. “We’re on a journey of continuous improvement,” said Hoods. “Zscaler is definitely on that journey with us.”
+"The entire Zscaler team has worked to understand our business and how the Zero Trust Exchange plugs into our wider ecosystem. The combination of our efforts enables supplying our users with the same high level of security, and quality of experience, regardless where they’re working."
+  — Hoods, BEIS
+"The volume of traffic secured by the Zero Trust Exchange has been critical to enabling our lean IT team to provide secure access to over 12,000 users efficiently and effectively. This includes considerably improving our speed to market, as we can develop and introduce new services in days or weeks rather than months or years."
+  — Hoods, BEIS
+"We’re on a journey of continuous improvement. Zscaler is definitely on that journey with us."
+  — Hoods, BEIS
+
+--- Envisioning an interoperable future ---
+Although digital transformation is underway at many public and private enterprises, the UK Department for Business, Energy, and Industrial Strategy (BEIS) is looking beyond today’s definition to a time when government agencies can be completely interoperable, enabling the smooth flow of information and individuals.
+Whether it’s seamlessly sharing correspondence or issuing a single device that travels with a person across job postings, the goal is always serving up the appropriate desktop applications specific to the work at hand. Achieving such an interoperable future requires a zero trust platform that provides the flexibility, scalability, and granularity required to keep data safe and accessible no matter where it resides.
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Ransomware

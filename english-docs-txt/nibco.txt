@@ -1,0 +1,97 @@
+DOCUMENT TITLE: NIBCO Gives the Board Confidence in Cybersecurity
+SUBTITLE: by Deploying the Zscaler Zero Trust Exchange
+CUSTOMER: NIBCO
+
+=== COMPANY OVERVIEW ===
+NIBCO INC. is a privately-owned manufacturer of valves, fittings, and flow-control products. The company operates across the USA, Mexico, Poland, and China. Its acquisition of Milwaukee Valve expanded its footprint and positioned it for growth in a global marketplace.
+Industry: Manufacturing
+Headquarters: Elkhart County, Indiana, USA
+Company Size: Operates from 16 locations across four countries
+Source URL: https://www.zscaler.com/customers/nibco
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * To implement a zero trust strategy and enable a work-from-anywhere transformation
+Transformation Journey:
+  * “The [Zscaler Zero Trust Exchange] was simple to implement, maintain, and manage as we moved to the cloud—which was a huge win for our infrastructure team,” said Slone.
+Key Results:
+  * Delivers NIBCO associates seamless, secure access from anywhere
+  * Automatically blocks 6,000+ threats monthly and 100+ file downloads weekly
+  * Offers a greatly enhanced user experience for all associates
+  * Gives the board complete confidence in NIBCO’s security
+  * Provides millions of dollars’ worth of unrivaled security expertise
+
+=== KEY QUOTES ===
+"We have such confidence in Zscaler technologies, and as Zscaler offers more solutions it will be easy for us to just say ‘let’s do it’."
+  — Cody Huffines, VP & Chief Information Officer, NIBCO
+
+=== CASE STUDY DETAILS ===
+
+--- Need to be able to work safely from anywhere ---
+As a traditional manufacturing organization, NIBCO had historically used on-premises technology. But with acquisition and growth comes the need to move away from legacy IT to ensure that, in addition to the need to work from anywhere, data and systems are protected.
+“The traditional cybersecurity solution had worked in the office, but as we took our laptops home and to other external locations, we were concerned that NIBCO assets and data wouldn’t be adequately protected,” explained Travis Slone, Information Security Lead. “We needed to find a better solution as we looked at moving to the cloud.”
+"The traditional cybersecurity solution had worked in the office, but as we took our laptops home and to other external locations, we were concerned that NIBCO assets and data wouldn’t be adequately protected. We needed to find a better solution as we looked at moving to the cloud."
+  — Travis, NIBCO
+
+--- Keeping ahead of the threats ---
+With a rise in working from home, greater need for associates to travel with their devices, and an ever-increasing cyber threat landscape, the second-largest American valve manufacturer had to evolve and adapt its security strategy. The company’s existing on-premises Websense security solution was simply unable to protect its full footprint once devices left the safety of office locations.
+In addition to improving data protection, NIBCO sought a comprehensive, integrated solution that could reduce complexities. The company considered an updated Websense solution and Palo Alto Networks but found the Zscaler Zero Trust Exchange platform and migrating toward a zero trust strategy to be the best fit for the long term.
+"The [Zscaler Zero Trust Exchange] was simple to implement, maintain, and manage as we moved to the cloud—which was a huge win for our infrastructure team."
+  — Travis Slone, Information Security Lead, NIBCO
+
+--- Game-changing security easily deployed ---
+“The [Zscaler Zero Trust Exchange] was simple to implement, maintain, and manage as we moved to the cloud—which was a huge win for our infrastructure team,” said Slone. “From a desktop management perspective, we could easily roll it out to every device, and it just worked. As a solution, it checked all the boxes.”
+To streamline and simplify security infrastructure, NIBCO implemented two services within the Zero Trust Exchange. First, NIBCO deployed Zscaler Internet Access (ZIA), a cloud native security service edge (SSE) solution, to give its associates fast, secure access to SaaS applications and the internet.
+Next, the company replaced its existing VPN with Zscaler Private Access (ZPA) for fast, secure access to private apps, services, and operational technology (OT) devices, whether they are located at a manufacturing site, in a data center, or in the cloud. By connecting users directly to the resource—without having to place them on the network—ZPA gives NIBCO associates fast, easy access while also minimizing the company’s attack surface and eliminating lateral movement.
+"The [Zscaler Zero Trust Exchange] was simple to implement, maintain, and manage as we moved to the cloud—which was a huge win for our infrastructure team. From a desktop management perspective, we could easily roll it out to every device, and it just worked. As a solution, it checked all the boxes."
+  — Slone, NIBCO
+
+--- Seamless, easy access from anywhere ---
+NIBCO rolled out ZPA to the first group of associates within a matter of weeks. Since the company had already deployed the Zscaler Client Connector when it rolled out ZIA, adding ZPA was even easier than adding ZIA had been.
+Before ZPA, NIBCO associates had to manually log into VPN clients to access network or Internet resources and experienced frequent disconnections. Using ZPA, they now have seamless access from anywhere as well as a dramatically improved user experience.
+“Associates just boot up their PCs and log in—as if they were in the office—and they’re instantly connected,” explained Slone. “Users open the application on their PC and Zscaler builds the behind-the-scenes security tunnel automatically.”
+"Associates just boot up their PCs and log in—as if they were in the office—and they’re instantly connected. Users open the application on their PC and Zscaler builds the behind-the-scenes security tunnel automatically."
+  — Slone, NIBCO
+"You want to trust your security partner implicitly—trust is a big thing because you’re putting your faith in them, and Zscaler didn’t let us down."
+  — Travis Slone, Information Security Lead, NIBCO
+
+--- Access to cloud security experts ---
+Since NIBCO’s IT organization is very lean and focused, the company highly valued the help they received from experienced cloud security and zero trust experts and resources. Zscaler professional services aided the team tremendously with planning and implementation of the Zero Trust Exchange and the company’s zero trust journey in general.
+“We’re a small IT team at NIBCO,” said Huffines. “Working alone, we couldn’t afford to have the bench strength that would be needed to research and develop these tools and technologies—it’s just not feasible. It would have undoubtedly cost us millions of dollars.”
+"We’re a small IT team at NIBCO. Working alone, we couldn’t afford to have the bench strength that would be needed to research and develop these tools and technologies—it’s just not feasible. It would have undoubtedly cost us millions of dollars."
+  — Huffines, NIBCO
+
+--- Peace of mind from layered security with high granularity ---
+As part of its layered approach to security, NIBCO desired to provide different levels of access and functionality based upon users’ jobs or locations. Using the Zscaler Zero Trust Exchange, NIBCO can create highly granular roles-based security, specifying devices and resources as well as user identities.
+“When salespeople are traveling, for example, they may need access to websites and cloud services for personal use,” explained Slone. “But such access wouldn’t be required on the shop floor. With the Zero Trust Exchange, it’s possible to alter the level of access they have on premises versus off, to meet the needs of our associates but still protect them.”
+“With our layered, granular approach to security, I have greater confidence that we won’t be impacted by cyberthreats,” said Huffines. “I know we have the right technology and these great tools in place protecting us, and that just makes me feel in control.”
+"When salespeople are traveling, for example, they may need access to websites and cloud services for personal use. But such access wouldn’t be required on the shop floor. With the Zero Trust Exchange, it’s possible to alter the level of access they have on premises versus off, to meet the needs of our associates but still protect them."
+  — Slone, NIBCO
+"With our layered, granular approach to security, I have greater confidence that we won’t be impacted by cyberthreats. I know we have the right technology and these great tools in place protecting us, and that just makes me feel in control."
+  — Huffines, NIBCO
+"Zscaler … just works, day after day. It’s been up and running since we deployed it, people in our organization trust it, and I do too."
+  — Travis Slone, Information Security Lead, NIBCO
+
+--- Zero trust access to resources in AWS ---
+NIBCO also uses the Zero Trust Exchange to protect data and workloads hosted on Amazon Web Services (AWS). ZPA connects NIBCO associates directly to the specific AWS applications that they need.
+With ZPA, NIBCO associates are never placed on the network. The resources they access are never exposed to the internet either, thus making them completely invisible to unauthorized users. In essence, ZPA provides NIBCO with a software-defined perimeter for AWS that supports any device and any internal application.
+
+--- Invested in the Zscaler roadmap ---
+NIBCO appreciates the Zscaler technology roadmap and plans to work closely with Zscaler experts going forward. “We have such confidence in Zscaler technologies, and as Zscaler offers more solutions it will be easy for us to just say ‘let’s do it’,” said Huffines. “They’ve earned our trust.”
+NIBCO meets regularly with Zscaler as it continues to map out its zero trust journey. The company is evaluating various Zero Trust Exchange expansion options, including Zscaler Workload Segmentation™ (ZWS™).
+“We work in harmony with Zscaler,” said Slone. “We’re very excited about the Zscaler roadmap that will continue the evolution of our Zero Trust Exchange deployment, as well as keeping on top of the threat landscape.”
+"We have such confidence in Zscaler technologies, and as Zscaler offers more solutions it will be easy for us to just say ‘let’s do it’. They’ve earned our trust."
+  — Huffines, NIBCO
+"We work in harmony with Zscaler. We’re very excited about the Zscaler roadmap that will continue the evolution of our Zero Trust Exchange deployment, as well as keeping on top of the threat landscape."
+  — Slone, NIBCO
+
+--- Reassurance for board members ---
+Cybersecurity is a primary concern for the NIBCO executive management team and board. In the past, it kept board members awake at night, but the implementation of the Zscaler Zero Trust Exchange now helps them sleep.
+“With Zscaler, we’ve gained peace of mind, because it just works, day after day,” said Slone. “It’s been up and running since we deployed it, people in our organization trust it, and I do too.”
+"With Zscaler, we’ve gained peace of mind, because it just works, day after day. It’s been up and running since we deployed it, people in our organization trust it, and I do too."
+  — Slone, NIBCO
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Ransomware
+- Data Security

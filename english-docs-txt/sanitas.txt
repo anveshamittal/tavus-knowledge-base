@@ -1,0 +1,57 @@
+DOCUMENT TITLE: Sanitas Delivers Secure, Seamless Connectivity with Zscaler Internet Access
+SUBTITLE: Implementing protections for internet, SaaS, and private applications for 12,000+ users, wherever they work
+CUSTOMER: Sanitas
+
+=== COMPANY OVERVIEW ===
+Large, high-growth medical insurance company
+Industry: Healthcare and Pharmaceutical
+Headquarters: Madrid, Spain
+Company Size: 11,700+ employees in Spain, Europe and Latin America
+Source URL: https://www.zscaler.com/customers/sanitas
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 2.5: months to deploy to all users
+- 12-15k: users protected by the platform
+- Zero: need to connect to a data center
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Separate business units meant separate means of security without a cloud-based model
+  * VPNs created tedious process of authenticating users with lackluster security
+  * Partner offices could not connect to data centers and could not access applications
+Key Results:
+  * Secures 12,000-15,000 users in 2.5 months with Zscaler Internet Access
+  * Enables work-from-anywhere, enabling flexible, agile business with an office-like experience
+  * Delivers secure access to workloads and applications
+
+=== KEY QUOTES ===
+"Today, employees can work from home, just as they work from the office, in a transparent, flexible, super agile way and without those barriers that we used to have with other solutions"
+  — Antonio Cerezo Hormeño, Head of Cybersecurity, Europe & LATAM, Sanitas
+
+"Zscaler has also helped us to give (partners) fast and secure access to all corporate applications, without the need to be connected to the data centers."
+  — Antonio Cerezo Hormeño, Head of Cybersecurity, Europe & LATAM, Sanitas
+
+"Zscaler’s deployment was truly fast. It took us about two and a half months to deploy Zscaler Internet Access (ZIA) for all our users."
+  — Antonio Cerezo Hormeño, Head of Cybersecurity, Europe & LATAM, Sanitas
+
+"We were able to move from a ‘Trust but verify’ approach, to a zero trust approach, which is ‘Never trust, always verify’."
+  — Antonio Cerezo Hormeño, Head of Cybersecurity, Europe & LATAM, Sanitas
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Secure Remote Access
+- Ransomware
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: Zscaler x Sanitas testimonial _ Extended Full Story
+Video Description: a Customer Testimonials video
+
+Transcript Segments:
+[Antonio Cerezo Hormeño (Head of Cybersecurity, Europe & LATAM, Sanitas)] (Introduction to Sanitas and Wupa group): Hanietas es una aseguradora, la diferencia que tiene con otras aseguradoras es que tiene provisión propia. Pertenecemos al grupo Wupa, que es una multinacional que cuenta con tres market unit, Pacífico y Asia, Bupai UK y Global, y la nuestra de la que somos responsables, que es España, Europa y Latinoamérica.
+[Antonio Cerezo Hormeño (Head of Cybersecurity, Europe & LATAM, Sanitas)] (Complexity in securing diverse businesses): Tenemos bastantes negocios dentro de nuestra market unit y son negocios bastante heterogéneos y que, en algunos casos, es bastante complejo poder segurizarlos y poder gestionarlos de la forma correcta.
+[Antonio Cerezo Hormeño (Head of Cybersecurity, Europe & LATAM, Sanitas)] (Zscaler use cases overview): Los principales casos de uso que tenemos en la compañía para el uso de Zeta Scaller los podría resumir en cuatro. El primero de ellos es el acceso seguro a Internet de nuestros data center, al final todas las cargas de trabajo requieren de un acceso seguro.
+[Antonio Cerezo Hormeño (Head of Cybersecurity, Europe & LATAM, Sanitas)] (Secure access for hospital staff): Por otro lado, tenemos el acceso de las personas que trabajan en nuestros hospitales, centros médicos y centros dentales. También necesitamos que el acceso se haga de forma segura, sea de una forma flexible, eso es lo que nos ha facilitado ZetaScaller con este cambio.
+[Antonio Cerezo Hormeño (Head of Cybersecurity, Europe & LATAM, Sanitas)] (Improved mobility access): Otro de los casos de uso es para aquellos que trabajan en movilidad. Para ellos, el cambio ha sido enorme, ya que pasaban de acceder a las aplicaciones, pues, con un tedioso proceso de acceso por VPN, usuarios, contraseñas, todo el factor de autenticación. A día de hoy pueden trabajar desde su casa, igual que trabajan desde la oficina, de una forma transparente, flexible, superágil y sin que tengan esas barreras que teníamos antiguamente con otras soluciones.
+[Antonio Cerezo Hormeño (Head of Cybersecurity, Europe & LATAM, Sanitas)] (Access for remote offices): Y, por último, tenemos un caso muy específico, tenemos una serie de oficinas colaboradoras que no tienen conectividad con nuestro data center y tienen la necesidad de acceder a nuestras aplicaciones. Ahí es donde Zet Scaler también nos ha ayudado a darles un acceso rápido y seguro a todas las aplicaciones corporativas sin necesidad de estar conectados a los data center.
+[Antonio Cerezo Hormeño (Head of Cybersecurity, Europe & LATAM, Sanitas)] (Technology as a growth enabler): Creemos en Sanitas que uno de los grandes motores para poder crecer y poder seguir cuidando la salud de nuestros clientes es hacer uso de la tecnología para ello y, en este caso, las áreas de seguridad queremos que sean un área más DTI para que los usuarios y los clientes puedan acceder de forma ágil a todas sus aplicaciones.
+[Antonio Cerezo Hormeño (Head of Cybersecurity, Europe & LATAM, Sanitas)] (Deployment timeline and scope): El despliegue, la verdad, fue realmente rápido, tardamos en torno a dos meses y medio en el despliegue para la parte de decía todos nuestros usuarios. El alcance fue inicialmente para unos doce, quince mil usuarios, y lo tenemos presente en cuarenta y dos centros médicos, cuatro hospitales, ciento catorce oficinas colaboradoras, veintiocho oficinas comerciales y en nuestras dos oficinas principales.
+[Antonio Cerezo Hormeño (Head of Cybersecurity, Europe & LATAM, Sanitas)] (Zero trust necessity): Yo creo que implantar el enfoque de cero tras a día de hoy ya es una necesidad, pudimos pasar de un enfoque, confiar siempre y verificar.

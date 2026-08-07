@@ -1,0 +1,64 @@
+DOCUMENT TITLE: AdventHealth Empowers Secure, Agile Growth Through Zero Trust Transformation
+SUBTITLE: Simplified infrastructure and a real-time, dynamic asset inventory ensure AdventHealth can scale rapidly and securely while delivering superior patient outcomes
+CUSTOMER: AdventHealth
+
+=== COMPANY OVERVIEW ===
+Not-for-profit healthcare system with a national footprint, providing care to 8 million patients annually
+Industry: Healthcare and Pharmaceutical
+Headquarters: Altamonte Springs, Florida
+Company Size: 100,000 employees, 50+ hospitals, and 2,000 care sites
+Source URL: https://www.zscaler.com/customers/adventhealth
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 50+: hospitals across 9 states
+- 500k+: devices protected with Zscaler
+- Shortcut: to producing an asset inventory
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * The shift from a hospital-centric to an ambulatory model of care meant a more distributed, diffuse ecosystem that was difficult to consistently protect.
+  * Perimeter-based security tools were complex and costly to manage, limiting AdventHealth’s ability to securely scale alongside its rapid growth.
+  * Limited visibility into device and user activity hampered compliance, slowed incident response, and hindered proactive risk management.
+Key Results:
+  * Simplifies network architecture, accelerating the onboarding of new facilities and ambulatory sites.
+  * Decreases the blast radius of threats through meaningful segmentation and by removing users from the network.
+  * Evolves exposure and risk management through real-time, dynamic visibility device activity, user behavior, and exposures.
+
+=== KEY QUOTES ===
+"When you're working in a very large organization and you have the number of assets that we're trying to protect, actually having an inventory is the very first step. The Zscaler Data Fabric for Security gives you a shortcut to get there."
+  — Ryan Winn, CISO, AdventHealth
+
+"Zscaler provides modern architecture that has less of a surface area for attack. It really is a platform that allows us flexibility as we move forward and the ability to create simplicity in our network environment and simplicity gives us the ability to move quickly."
+  — Ryan Winn, CISO, AdventHealth
+
+"I think the biggest surprise for me has been the ability to create meaning out of a massive amount of data and telemetry that we've been collecting. That isn't always easy, but the tools that we've been investing in and the partnerships that those tools have with each other is allowing us to see our organization in a completely new way."
+  — Ryan Winn, CISO AdventHealth, AdventHealth
+
+"What convinced our network team that Zscaler was the way to go from a proxy perspective was the Imprivata integration. It was the only way that we could actually see what most of our clinical users were using and what they were experiencing when they were interacting with our technology."
+  — Ryan Winn, CISO, AdventHealth
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- AI/ML
+- Zero Trust Architecture
+- Customer Success Story
+- Exposure Management
+- Network & Security Transformation
+- SecOps & Endpoint Security
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: How the Zscaler Data Fabric for Security Unlocks “Endless Possibilities” for AdventHealth
+Video Description: a Customer Testimonials video
+
+Transcript Segments:
+[Ryan Winn (CISO, AdventHealth)] (Overview of AdventHealth): AdventHealth is one of the largest not for profit healthcare systems in the country. Currently we have fifty four hospitals in nine states, but it seems like we're opening one every other month.
+[Ryan Winn (CISO, AdventHealth)] (Employee and contractor statistics): AdventHealth has one hundred thousand employees, forty thousand approximately contractors and vendors that have profiles in our network.
+[Ryan Winn (CISO, AdventHealth)] (Shift from hospital-centric to ambulatory care): For years, we've thought of healthcare as being very hospital centric, but as things have changed and technologies improved, it's becoming really more of an ambulatory business, meaning the venues of care have become more diffuse. And as a result, we have a much larger footprint of areas that we need to protect and provide coverage for.
+[Ryan Winn (CISO, AdventHealth)] (Need for simplified network architecture): It's not just about security, it's really about enabling our ability to simplify our network architecture and to be able to quickly deploy, quickly stand down, quickly move from one business opportunity to the next.
+[Ryan Winn (CISO, AdventHealth)] (Rebuilding information security infrastructure): When I arrived on the scene, I had the opportunity to basically dismantle and rebuild our entire information security infrastructure.
+[Ryan Winn (CISO, AdventHealth)] (Zero trust approach to security): One of the ways that we look at zero trust is if you can get your users off of the network and away from the data that you're trying to protect. It actually creates a level of segmentation and decreases the blast radius of an attack that you might have.
+[Ryan Winn (CISO, AdventHealth)] (Zscaler's modern architecture benefits): Zscaler provides modern architecture that has less of a surface area for attack. It really is a platform that allows us flexibility as we move forward and the ability to create simplicity in our network environment and simplicity gives us the ability to move quickly.
+[Ryan Winn (CISO, AdventHealth)] (Devices protected by Zscaler): All in all, we have about five hundred thousand devices that we protect using Zscaler.
+[Ryan Winn (CISO, AdventHealth)] (Importance of asset inventory): When you're working in a very large organization and you have the number of assets that we're trying to protect, actually having an inventory is the very first step.
+[Ryan Winn (CISO, AdventHealth)] (Zscaler's data fabric advantages): Having a data fabric like what Zscaler is providing really does give you a shortcut to get there.
+[Ryan Winn (CISO, AdventHealth)] (Improved visibility and security): The possibilities are nearly endless because we have a lot more visibility than we've ever before. And we have the ability to secure the environment in a way that was just not doable in our legacy platform.

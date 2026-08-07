@@ -1,0 +1,66 @@
+DOCUMENT TITLE: Sick AG Realizes Its Cloud Vision
+SUBTITLE: with Zscaler Internet Access
+CUSTOMER: SICK AG
+
+=== COMPANY OVERVIEW ===
+With sensor intelligence, SICK AG enables Industry 4.0 processes and creates solutions for the safe and efficient control of operations, protecting people from accidents and avoiding environmental damage.
+Industry: Manufacturing
+Headquarters: Waldkirch im Breisgau, Germany
+Company Size: 10,000 employees
+Source URL: https://www.zscaler.com/customers/sick-ag
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Undergo digital transformation with focuses on cloud-first infrastructure and security
+Transformation Journey:
+  * -Sensors -are -omnipresent -i-n- -the -automotive -manufacturing,- -aviation,- -transport,- -food -packaging,- -and -recycling -industries.-
+  * -When -SICK -stopped -using -its -existing -security -hardware -i-n- -2015,- -Ralf -Busch,- -Manager -o-f- -Technical -I-T- -Security -Management,- -and -Sven -Hinze,- -i-n---house -Cybersecurity -Consultant,- -set -a- -course -for -the -future -b-y- -deploying -Zscaler'-s- -cloud--based -internet -security.-
+  * -The -2020 -State -o-f- -Encrypted -Attacks -report -describes -the -situation -clearly.-
+  * -Central -security -management -via -the -Zscaler -cloud -platform -has -made -the -I-T- -team'-s- -job -much -easier.-
+  * -Reducing -the -ecological -footprint -o-f- -its -I-T- -department -i-s- -part -o-f- -SICK'-s- -corporate -philosophy.-
+Key Results:
+  * Secures 8,000 WFA users
+  * Increases operational efficiency and sustainability
+  * Processed 210 TB of TLS/SSL-encrypted traffic in a single quarter
+  * Deployed more than 40 internet gateways worldwide
+
+=== KEY QUOTES ===
+"It’s only thanks to Zscaler that we can see which threats are being blocked in the Zscaler cloud."
+  — Sven Hinze, In-house Cybersecurity Consultant, SICK AG
+
+=== CASE STUDY DETAILS ===
+
+--- Sensing the need for cloud transformation ---
+Sensors are omnipresent in the automotive manufacturing, aviation, transport, food packaging, and recycling industries. With sensor intelligence, SICK enables Industry 4.0 processes and creates solutions for the safe and efficient control of operations, protecting people from accidents and avoiding environmental damage.
+Today, data recorded by sensors is often exchanged via the cloud. Five years ago, SICK turned to the cloud to drive digitisation and modernize its IT security, creating a cloud-first network architecture.
+
+--- How web security pioneers digitization for Sick AG ---
+When SICK stopped using its existing security hardware in 2015, Ralf Busch, Manager of Technical IT Security Management, and Sven Hinze, in-house Cybersecurity Consultant, set a course for the future by deploying Zscaler’s cloud-based internet security.
+Since the existing four internet gateways in Europe, Asia, and North America were a limiting factor for a cloud-first infrastructure, the IT department took advantage of the Zscaler cloud proxy to pave the way for secure internet breakouts at each location. Each time SICK rolls out a new cloud application, Hinze gets validation for his decision. “Not a month goes by in which we are not certain that starting our digital transformation with security was the right thing to do.”
+SICK has already seen MPLS cost savings and less time spent on maintenance and will continue to see improvements with ongoing implementations of cloud based collaboration tools. “With Zscaler we avoid the complex and manual administration process,” says Hinze.
+"Not a month goes by in which we are not certain that starting our digital transformation with security was the right thing to do."
+  — Sven Hinze, In-house Cybersecurity Consultant, SICK AG
+
+--- SSL scanning delivers a higher level of security ---
+The 2020 State of Encrypted Attacks report describes the situation clearly. Within one year, the number of threats concealed in SSL-encrypted data traffic increased by 260%.
+“Companies that do not fully scan encrypted web traffic for malware are simply turning a blind eye,” explains Hinze. “I would recommend that all companies use SSL scanning these days. It’s only thanks to Zscaler that we can see which threats are being blocked in the Zscaler cloud.”
+When SICK evaluated Zscaler in 2015, it involved the works council (employee representatives that act similarly to unions) from the outset. This ensured that the concern for data protection was addressed and aligned to a high level of security. After learning about the privacy protection for logs in the German data centers, the data protection officer was also on board. Everyone who was brought in by SICK during the evaluation was impressed with the technical capabilities of the Zscaler Zero Trust Exchange.
+SICK has added more Zscaler functionalities to support its growing portfolio of cloud-based sensor solutions. “The Cloud Firewall gives us the option of applying very granular rules. This is important for our users so that they can communicate securely with sensors via protocols that have not been inspected by the web proxy, and it also adds extra security,” says Hinze.
+"The Cloud Firewall gives us the option of applying very granular rules. This is important for our users so that they can communicate securely with sensors via protocols that have not been inspected by the web proxy, and it also adds extra security."
+  — SICK AG
+"With Zscaler we avoid the complex and manual administration process."
+  — Sven Hinze, In-house Cybersecurity Consultant, SICK AG
+
+--- How the Zscaler cloud increases operational efficiency… ---
+Central security management via the Zscaler cloud platform has made the IT team’s job much easier. Hardware administration is a thing of the past, as are maintenance weekends and network downtime. Hinze appreciates the flexibility this has brought the company: “We no longer have to worry about hardware or wiring. Instead, we can concentrate on providing a service to our internal customers.”
+According to Hinze, the Zscaler team provided great commitment and support during the entire cloud migration project. “I would like to particularly highlight the team’s customer focus, as I have seldom experienced such professionalism. The Zscaler team is always there to support us with its expertise,” says Hinze.
+"The Zscaler team is always there to support us with its expertise."
+  — Sven Hinze, In-house Cybersecurity Consultant, SICK AG
+
+--- …as well as sustainability ---
+Reducing the ecological footprint of its IT department is part of SICK’s corporate philosophy. Therefore, sustainability was also an essential factor for SICK when selecting a security partner. Currently, 89% of the power required by Zscaler to inspect data traffic for SICK comes from renewable sources
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Ransomware
+- Data Security
+- Optimize Digital Experiences

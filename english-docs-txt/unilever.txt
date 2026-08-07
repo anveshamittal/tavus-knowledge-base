@@ -1,0 +1,44 @@
+DOCUMENT TITLE: Unilever Enhances Global Security and Achieves “Just Enough” Access to Apps with Zero Trust
+SUBTITLE: Zscaler enables Unilever to eliminate VPNs, provide users with secure direct connectivity to apps and the internet, and streamline access across 190 countries
+CUSTOMER: Unilever
+
+=== COMPANY OVERVIEW ===
+Global consumer goods company with products used by 3.4 billion people daily
+Industry: Manufacturing
+Headquarters: London, UK
+Company Size: Sales across 190 countries
+Source URL: https://www.zscaler.com/customers/unilever
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 3B+: transactions secured weekly
+- 99.9%: uptime while processing 220TB of data in two months
+- 1,500+: applications managed with “just enough” zero trust access
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Legacy VPNs had limited flexibility and could not scale with Unilever’s global cloud strategy
+  * Traditional security model increased risk due to insufficient access control and visibility
+  * Rising demand for remote access strained the VPN infrastructure, impacting the user experience
+Key Results:
+  * Reduces risk with secure, direct access to applications and without the limitations and vulnerabilities of VPN
+  * Enhances operational efficiency by processing large-scale data traffic with 99.99% uptime
+  * Supports global cloud strategy by providing secure remote access across 190 countries, maintaining flexibility for Unilever’s workforce
+
+=== KEY QUOTES ===
+"Zscaler’s zero trust approach has transformed security at Unilever. Eliminating VPN bottlenecks allows our global workforce to securely access applications, enhancing performance, flexibility, and resilience."
+  — Richard Mardling, Access and Connectivity Director, Unilever
+
+"With Zscaler, Unilever has achieved seamless, secure access to applications globally, empowering our teams to work efficiently from anywhere."
+  — Richard Mardling, Access and Connectivity Director, Unilever
+
+"Transitioning to Zscaler allowed us to replace legacy VPNs, giving Unilever flexibility and scalability for our cloud-first strategy."
+  — Richard Mardling, Access and Connectivity Director, Unilever
+
+"Zscaler’s zero trust approach enhances Unilever’s security by ensuring that only the right people have access to the right applications, globally."
+  — Richard Mardling, Access and Connectivity Director, Unilever
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Secure Remote Access
+- Zero Trust App Access
+- Zero Trust Branch & Cloud
+- Optimize Digital Experiences

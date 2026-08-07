@@ -1,0 +1,75 @@
+DOCUMENT TITLE: ThreatLabz 2026 Phishing and Initial Access Report
+SUBTITLE: From External Reconnaissance to Account Takeover
+Publisher: Zscaler, Inc.
+Publication Date: 2026-07-24
+Summary: Comprehensive report by Zscaler ThreatLabz analyzing global phishing volume trends, encrypted attack traffic, deception decoy telemetry, AI site builders, zero-day exploits, and initial access mechanisms.
+
+=== EXECUTIVE SUMMARY ===
+Attackers are shifting their tactics and prioritizing attack surface discovery before payload delivery. Every open port, misconfigured application, leaked credential, and forgotten subdomain becomes a clue—and the attack can begin before the first exploit is launched.
+Phishing remains a dependable path to initial access, but the economics are changing. After peaking at over 2 billion hits in 2023, phishing volume declined for a second straight year, dropping nearly 20% year over year in both 2024 and 2025. This is not a retreat, but a recalibration as stronger email controls, identity defenses, and platform-level enforcement disrupt large-scale delivery. Adversaries are continuing to shift toward fewer, more targeted lures that blend into real business workflows, especially in high trust sectors like Services (up 65.5% YoY) and Government (up 50% YoY). AI is fueling this next phase of phishing, helping attackers industrialize highly convincing campaigns that look and feel like legitimate business interactions, as reflected throughout the ThreatLabz research findings and case studies in this report.
+What makes this shift more dangerous is where compromise actually happens: in the browser, over HTTPS. In 2025, 87% of malicious activity blocked by Zscaler was delivered over encrypted channels, meaning credential theft and session abuse often blend into normal-looking web traffic. Without TLS/SSL inspection and inline controls, security teams lose visibility into the phishing infrastructure and the actions that follow the click—not just the email that started it. Meanwhile, reconnaissance and credential validation are being scaled with disposable cloud infrastructure that rotates faster than static defenses can track. ThreatLabz observed 89.9M malicious interactions with external decoys in just six months—a clear signal of how relentlessly threat actors scan, probe, and validate potential entry points, and how quickly routine exposure can turn into an initial access attempt.
+The ThreatLabz 2026 Phishing and Initial Access Report maps the modern path to compromise—from external discovery and credential validation to encrypted delivery and account takeover—and highlights best practices to help teams shrink their attack surface, harden identity, and improve encrypted visibility to spot attacker intent early.
+
+Key Takeaways:
+  * Attack surface discovery prioritizes reconnaissance before payload delivery.
+  * Phishing volume dropped nearly 20% YoY in both 2024 and 2025 following a 2023 peak above 2B hits.
+  * 87% of blocked malicious activity was delivered over HTTPS encrypted channels.
+  * Targeted lures surged in Services (+65.5% YoY) and Government (+50.0% YoY).
+  * 89.9 million malicious decoy interactions recorded from 1.37M unique attacker IPs across 520 customer environments in 6 months.
+
+Key Statistics:
+  * Phishing volume peak: 2.0B+ (2023)
+  * YoY Phishing volume change: -20% (2024 and 2025)
+  * Encrypted malicious delivery rate: 87% (2025)
+  * Services sector phishing growth: +65.5% (YoY)
+  * Government sector phishing growth: +50% (YoY)
+  * Decoy interactions: 89.9M (6 months)
+
+=== KEY FINDINGS ===
+- Phishing volume is down, but effectiveness is up: Phishing activity in the Zscaler cloud declined approximately 20% year over year in both 2024 and 2025, as stronger email and identity controls force attackers toward targeted, higher-conversion campaigns.
+- AI site builders are accelerating phishing at scale: ThreatLabz identified 413,524 AI-generated site instances, flagging 37,447 (9.06%) as malicious. Unattributed builders drove the highest risk (16.48% malicious rate), enabling rapid, high-fidelity phishing sites, fake apps, and Potentially Unwanted Applications (PUAs)/Progressive Web Applications (PWA) lures.
+- The services industry is the new phishing jackpot: Attacks against the Services sector surged 65.5% year-over-year, growing from 330.9 million to 547.7 million hits, as attackers exploited routine trust in billing, renewals, and support workflows.
+- 95.2% of phishing activity was delivered over encrypted channels: By comparison, 87% of all blocked malicious activity was encrypted, underscoring how heavily phishing relies on trusted channels.
+- Phishing enables real-time account takeover, even with MFA: Phishing kits such as BlackForce combine adversary-in-the-middle (AiTM) and browser-in-the-middle (BiTM) techniques to capture credentials and MFA codes during the active login flow.
+- Decoys reveal background reconnaissance at scale: ThreatLabz observed 89.9 million hostile interactions from 1.37 million unique attacker IPs across 520 customer environments in six months.
+- Cloud infrastructure has become the primary engine of scanning and intrusion: ThreatLabz logged more than 121,000 distinct AWS-hosted IPs probing customer environments.
+
+=== REPORT SECTIONS ===
+
+--- Executive Summary ---
+Attackers are shifting their tactics and prioritizing attack surface discovery before payload delivery. Every open port, misconfigured application, leaked credential, and forgotten subdomain becomes a clue—and the attack can begin before the first exploit is launched.
+Phishing remains a dependable path to initial access, but the economics are changing. After peaking at over 2 billion hits in 2023, phishing volume declined for a second straight year, dropping nearly 20% year over year in both 2024 and 2025. This is not a retreat, but a recalibration as stronger email controls, identity defenses, and platform-level enforcement disrupt large-scale delivery. Adversaries are continuing to shift toward fewer, more targeted lures that blend into real business workflows, especially in high trust sectors like Services (up 65.5% YoY) and Government (up 50% YoY). AI is fueling this next phase of phishing, helping attackers industrialize highly convincing campaigns that look and feel like legitimate business interactions, as reflected throughout the ThreatLabz research findings and case studies in this report.
+What makes this shift more dangerous is where compromise actually happens: in the browser, over HTTPS. In 2025, 87% of malicious activity blocked by Zscaler was delivered over encrypted channels, meaning credential theft and session abuse often blend into normal-looking web traffic. Without TLS/SSL inspection and inline controls, security teams lose visibility into the phishing infrastructure and the actions that follow the click—not just the email that started it. Meanwhile, reconnaissance and credential validation are being scaled with disposable cloud infrastructure that rotates faster than static defenses can track. ThreatLabz observed 89.9M malicious interactions with external decoys in just six months—a clear signal of how relentlessly threat actors scan, probe, and validate potential entry points, and how quickly routine exposure can turn into an initial access attempt.
+The ThreatLabz 2026 Phishing and Initial Access Report maps the modern path to compromise—from external discovery and credential validation to encrypted delivery and account takeover—and highlights best practices to help teams shrink their attack surface, harden identity, and improve encrypted visibility to spot attacker intent early.
+
+--- Key Findings ---
+
+--- Phishing Attacks Are Converting Clicks Into Compromise ---
+Phishing remains the internet’s most reliable “front door” into enterprise environments; cheap to run, easy to scale, and designed to turn a split-second decision into initial access. After years of rapid growth, from 868.5 million hits in 2021 to a peak of over 2.0 billion in 2023, phishing volume has declined over two consecutive years, dropping nearly 20% YoY in both 2024 and 2025.
+
+=== THREAT ACTORS ===
+- BlindEagle: Cybercrime group targeting Latin American public sector entities.
+
+=== MALWARE & TOOLS ===
+- ValleyRAT: 
+- Caminho: 
+- DCRAT: 
+
+=== ATTACK TECHNIQUES ===
+- Adversary-in-the-Middle (AiTM): 
+- Browser-in-the-Middle (BiTM): 
+- Insecure Deserialization: 
+- Software Supply Chain Poisoning: 
+- Search Engine Poisoning: 
+
+=== EXPLOITED CVES ===
+- : Critical zero-day vulnerability in on-premises Microsoft SharePoint Server allowing unauthenticated remote code execution via ToolPane.aspx spoofed Referer and ASP.NET ViewState insecure deserialization.
+
+=== RECOMMENDED BEST PRACTICES ===
+- : 
+- : 
+- : 
+- : 
+- : 
+- : 
+- : 

@@ -1,0 +1,63 @@
+DOCUMENT TITLE: Ducks Unlimited Canada Extends Zero Trust Everywhere With Secure, Café-like Branches
+SUBTITLE: Replacing legacy SD-WAN with Zero Trust Branch enables zero trust connectivity and café-like simplicity for 25 field offices, powering reliable and secure access for hybrid employees, volunteers, and museum visitors
+CUSTOMER: Ducks Unlimited Canada
+
+=== COMPANY OVERVIEW ===
+Canada’s largest land conservation organization and a leader in wetland conservation
+Industry: Nonprofit Institutions
+Headquarters: Stonewall, Manitoba, Canada
+Company Size: 500 employees and 25 field offices
+Source URL: https://www.zscaler.com/customers/ducks-unlimited-canada
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 25: field offices
+- Hours: to connect and secure users and devices
+- 1: policy ruleset applied everywhere
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Legacy SD-WAN-based architecture could not deliver distributed, scalable connectivity across field offices with different needs
+  * Publicly accessible branches presented segmentation challenges to route and secure employees, volunteers, and 100,000 annual visitors
+  * Ongoing management of multiple networking and security point solutions was complex, time-consuming, and expensive
+Key Results:
+  * Simplifies operations to keep IT agile, able to deploy and scale and policies from small branch offices to its national headquarters
+  * Strengthens security posture with granular access control and segmentation within the branch network, preventing lateral movement of threats
+
+=== KEY QUOTES ===
+"The beauty of having the branch connector and ZPA is it gives us one set of rules that we can update and push to all clients everywhere [...] It's one pane of glass to manage all of those topologies and rules."
+  — Andrew Pratt, Director of Information Technology, Ducks Unlimited Canada
+
+"We could have left our [previous] SD-WAN in place and layered ZPA on top of that, but that would mean managing rules in one product and rules in another."
+  — Andrew Pratt, Director of Information Technology, Ducks Unlimited Canada
+
+"We are a very small IT team that has to manage a fairly wide array of products, people, and places. [Zscaler] scales very easily between a very small branch all the way up to our national headquarters."
+  — Andrew Pratt, Director of Information Technology, Ducks Unlimited Canada
+
+"One of the things I'm really excited about moving from SD-WAN into a true zero trust platform [...] will be that microsegmentation concept. So if there is a compromised account or device, it can't laterally start to move."
+  — Andrew Pratt, Director of Information Technology, Ducks Unlimited Canada
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust Architecture
+- Stop Cyberattacks
+- Zero Trust Branch & Cloud
+- Network & Security Transformation
+- SASE & SSE
+- Zero Trust SD-WAN
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: Ducks Unlimited Canada Extends Zero Trust Everywhere With Secure Café-like Branches
+Video Description: a Customer Testimonials video
+
+Transcript Segments:
+[Andrew Pratt (Director of Information Technology, Ducks Unlimited Canada)] (Introduction to Ducks Unlimited Canada): Ducks Unlimited Canada was formed in nineteen thirty eight. We are probably one of Canada's larger conservation companies.
+[Andrew Pratt (Director of Information Technology, Ducks Unlimited Canada)] (Mandate and organizational scope): Our mandate is to conserve and protect wetlands and associated uplands for waterfowl, for the animals that live there. And obviously there's a lot of societal benefits from carbon sequestration and clean water. So we have about five hundred full time staff working out of twenty five field offices and two data centers and we operate in every province and territory across Canada. Some of those twenty five field offices that we have are actually sort of museums and public spaces.
+[Andrew Pratt (Director of Information Technology, Ducks Unlimited Canada)] (Network segmentation for public spaces): So our national headquarters has about a hundred thousand people a year that come through the building. We really need to make sure that those networks are segmented out from our own staff and making sure that people that are coming into our spaces are really on the right networks.
+[Andrew Pratt (Director of Information Technology, Ducks Unlimited Canada)] (Evolving IT landscape and remote work): We've been evolving our sort of IT landscape over the last eight years. We've adopted an SD WAN solution, built a mesh network and had all the branches connected to each other. It doesn't work so well when you've got staff that are not in the offices or in the office part time. So we really needed a different solution that was more modern in its approach and moving into following those people regardless of geographically where they were sitting, be that at home, in a hotel, in the office, or really anywhere.
+[Andrew Pratt (Director of Information Technology, Ducks Unlimited Canada)] (Balancing defense depth and consolidation): I'm always balancing out between true depth of defense versus consolidation into a few key providers. I have to make sure that we are dealing with the right partners that are offering the right solutions to get basically the most bang for the buck.
+[Andrew Pratt (Director of Information Technology, Ducks Unlimited Canada)] (Zscaler's compelling product offering): Zscaler came to the table and offered us a very compelling product at a very reasonable price.
+[Andrew Pratt (Director of Information Technology, Ducks Unlimited Canada)] (ZIA rollout and endpoint protection): We started sort of fairly small and doing ZIA because it was a quick win. We can now protect our endpoints, be that laptop, desktop or cellular, which was new for us, and really showed management that this doesn't have to be that complicated.
+[Andrew Pratt (Director of Information Technology, Ducks Unlimited Canada)] (ZPA and Branch Connectors for simplification): One of the reasons that we moved into ZPA and now Branch Connectors after the ZIA rollout was really just a simplification of the networking policies and rules. The beauty of having the branch connector in ZPA is it's the same rule set. And so it gives us one set of rules that we can update and push to all clients everywhere. So it just really simplifies the network admin layer to be very straightforward and simple. It's one pane of glass to manage all of those topologies and rules.
+[Andrew Pratt (Director of Information Technology, Ducks Unlimited Canada)] (Zero trust platform and micro segmentation): One of the things I'm really excited about moving from SD WAN into a true zero trust platform will be that micro segmentation concept. Where we had an SD WAN before, sure we had connectivity, but once you were in, you were in and you had access basically to everything on that VLAN. Whereas now we can make sure that individuals only get access to the things that they need. So if there is a compromised account or device, it can't laterally start to move.
+[Andrew Pratt (Director of Information Technology, Ducks Unlimited Canada)] (Small IT team managing wide scope): We are a charity and so we have a very small IT team that has to manage a fairly wide array of both products and people in places.
+[Andrew Pratt (Director of Information Technology, Ducks Unlimited Canada)] (Scalability with ZIA and ZPA): Moving into the gateways and the branches in ZIA and ZPA, it sort of normalizes that and scales very easily between a very small branch all the way up to our national headquarters.
+[Andrew Pratt (Director of Information Technology, Ducks Unlimited Canada)] (Excitement about better security): This has been an exciting project, as I said, demonstrably better security with not a lot of effort.

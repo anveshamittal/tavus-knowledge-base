@@ -1,0 +1,126 @@
+DOCUMENT TITLE: Baker & Baker Boosts Enterprise Security Nearly 90%
+SUBTITLE: by Adopting the Zscaler Zero Trust Exchange
+CUSTOMER: Baker & Baker
+
+=== COMPANY OVERVIEW ===
+Baker & Baker is a European leader in the convenience bakery segment, operating across seven countries and 12 sites in the food service, retail, bakery, and wholesale channels. The Wirral, UK-based company produces approximately 2,500 different bakery SKUs and conducts extensive R&D to continuously meet changing consumer tastes and experiences.
+Industry: Food, Beverage, and Tobacco
+Headquarters: Wirral, United Kingdom
+Company Size: 12 sites in 7 countries
+Source URL: https://www.zscaler.com/customers/baker-baker
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Eliminate frequent malware disruptions by replacing firewall and VPN technologies with a zero trust approach
+Transformation Journey:
+  * -Faced -with -multiple -ransomware -attempts -every -month,- -Baker -&- -Baker -needed -a- -better -way -t-o- -protect -its -far--flung -manufacturing,- -research,- -and -administrative -facilities,- -a-s- -its -existing -hardware--based -security -approach -couldn'-t- -keep -u-p-.-
+  * -A- -producer -o-f- -multiple -trusted -European -bakery -brands,- -Baker -&- -Baker -has -widely -dispersed -operations -that -were -becoming -increasingly -digitalized -a-s- -the -company -embraced -Industry -4-.-0- -practices.-
+  * -Adopting -ZIA -enabled -Baker -&- -Baker -t-o- -begin -moving -away -from -the -traditional -castle--and--moat -security -model -i-n- -favor -o-f- -connecting -users -and -devices -t-o- -applications -using -the -comprehensive -Zscaler -Zero -Trust -Exchange -platform.-
+  * -Such -exceptional -returns -led -t-o- -eliminating -VPNs -i-n- -favor -o-f- -another -Zero -Trust -Exchange -solution,- -Zscaler -Private -Access -(-ZPA)-,- -for -securing -Baker -&- -Baker'-s- -private -applications -running -o-n- -its -Microsoft -Azure -cloud -and -within -the -data -center.-
+  * -Over -time,- -Baker -&- -Baker -has -adopted -multiple -innovations -within -the -Zero -Trust -Exchange,- -including -Zscaler -Cloud -Access -Security -Broker -(-CASB)-,- -for -safeguarding -data--a-t---rest -b-y- -looking -inside -SaaS -applications -and -IaaS -offerings.-
+Key Results:
+  * Slashes ransomware disruptions, increasing employee productivity and reducing risks
+  * Saves 70% on costs by retiring VPNs and improves application performance
+  * Boosts overall protection by nearly 90% while reducing troubleshooting time from months to seconds
+  * Prevents 4 million policy violations and blocks 14,000 threats monthly
+  * Gains future-ready platform with an expanding array of comprehensive, integrated offerings
+
+=== KEY QUOTES ===
+"With our overall protection from all types of threats up nearly 90%, we can’t wait to see what Zscaler has in store for us next."
+  — Steffen Erler, Director, Baker & Baker
+
+=== CASE STUDY DETAILS ===
+
+--- Ongoing attack attempts fuel security overhaul ---
+Faced with multiple ransomware attempts every month, Baker & Baker needed a better way to protect its far-flung manufacturing, research, and administrative facilities, as its existing hardware-based security approach couldn’t keep up.
+“We relied on firewalls and VPN (virtual private network) technology to protect our IT assets,” explained Steffen Erler, Director of IT Security and Network Services at Baker & Baker. “Although we had a very mature continuity strategy in place, recovering from a security incident was disruptive to our business operations, so we needed to make a change.”
+"We relied on firewalls and VPN (virtual private network) technology to protect our IT assets. Although we had a very mature continuity strategy in place, recovering from a security incident was disruptive to our business operations, so we needed to make a change."
+  — Steffen Erler, Director, Baker & Baker
+
+--- Zscaler vision outshines the competition ---
+A producer of multiple trusted European bakery brands, Baker & Baker has widely dispersed operations that were becoming increasingly digitalized as the company embraced Industry 4.0 practices. For application access, the company relied on inflexible legacy MPLS telecommunications circuits using a hub-and-spoke model for connecting branch facilities back to its primary data center.
+With the increasing deployment of cloud-delivered SaaS applications, Baker & Baker decided to modernize its connectivity and security models when its MPLS contract expired. For network connectivity, Baker & Baker adopted a software-defined WAN (SD-WAN) and, in tandem, deployed Zscaler Internet Access (ZIA) for securing access to SaaS applications and the internet.
+“We had tested another cloud-based option, but it was insufficient,” Erler said. “We saw the potential in Zscaler based on the company’s vision for creating a comprehensive and integrated platform based on the principles of zero trust. Also, as a cloud-native solution, Zscaler made sense for securing an SD-WAN network.”
+"We had tested another cloud-based option, but it was insufficient. We saw the potential in Zscaler based on the company’s vision for creating a comprehensive and integrated platform based on the principles of zero trust. Also, as a cloud-native solution, Zscaler made sense for securing an SD-WAN network."
+  — Baker & Baker
+
+--- Ransomware incidents immediately eliminated ---
+Adopting ZIA enabled Baker & Baker to begin moving away from the traditional castle-and-moat security model in favor of connecting users and devices to applications using the comprehensive Zscaler Zero Trust Exchange platform.
+In addition, the company used capabilities within ZIA to create secure tunnels between each branch location and the Zscaler environment, protecting all traffic, including Industry 4.0 solutions. “We ensured that all our OT [operational technology] and IIoT [industrial IoT] application traffic connected securely to the Zscaler cloud,” Erler said. “No exceptions.”
+The fast, easy implementation resulted in dramatic enterprise-wide benefits. “Prior to implementing Zscaler, we averaged about 10 ransomware incidents per month,” Erler said. “In the weeks and months immediately following the deployment, there were zero. It was extraordinary.”
+"We ensured that all our OT [operational technology] and IIoT [industrial IoT] application traffic connected securely to the Zscaler cloud."
+  — Baker & Baker
+"Prior to implementing Zscaler, we averaged about 10 ransomware incidents per month. In the weeks and months immediately following the deployment, there were zero. It was extraordinary."
+  — Baker & Baker
+
+--- Dumping VPNs for ZPA reduces risks and saves 70% ---
+Such exceptional returns led to eliminating VPNs in favor of another Zero Trust Exchange solution, Zscaler Private Access (ZPA), for securing Baker & Baker’s private applications running on its Microsoft Azure cloud and within the data center.
+By combining ZPA with ZIA, Baker & Baker had the fundamental building blocks of the Zero Trust Exchange in place, providing the company with an easily-managed solution that delivered measurable value. “ZPA made our network, applications, devices, and users instantly invisible, which considerably reduced our exposure and risks,” Erler said.
+Further, these gains also came at less cost to the company. “ZPA significantly reduced administrative overhead and saved us approximately 70% on hardware, updates, and licensing costs versus our VPN system.”
+Even business users perceived the improvements. “The majority of our people are bakers, not IT professionals, so they usually don’t get excited about IT technology,” Erler said. “But, when we deployed ZPA, people began seeking out IT to compliment us and provide positive feedback. This was totally new.”
+"ZPA made our network, applications, devices, and users instantly invisible, which considerably reduced our exposure and risks."
+  — Baker & Baker
+"The majority of our people are bakers, not IT professionals, so they usually don’t get excited about IT technology. But, when we deployed ZPA, people began seeking out IT to compliment us and provide positive feedback. This was totally new."
+  — Baker & Baker
+"Immediately following our ZIA deployments, our ransomware incidents dropped to zero. It was extraordinary"
+  — Steffen Erler, Director, Baker & Baker
+
+--- Streamlined security benefits the bottom line ---
+Over time, Baker & Baker has adopted multiple innovations within the Zero Trust Exchange, including Zscaler Cloud Access Security Broker (CASB), for safeguarding data-at-rest by looking inside SaaS applications and IaaS offerings. In addition, the company relies on Zscaler Advanced Cloud Sandbox, for stopping patient-zero attacks using AI-based analytics and quarantines, along with Zscaler Advanced Cloud Firewall, for security and access controls without the cost, complexity, and performance limitations of next-generation firewalls.
+“Previously, we had point-based solutions that were complex to deploy and time-consuming to manage,” Erler said. “With the Zero Trust Exchange platform protecting all of our internal assets, we’ve streamlined our infrastructure, achieved cost savings, and improved application performance – making our business users more productive and benefiting our bottom line.”
+"Previously, we had point-based solutions that were complex to deploy and time-consuming to manage. With the Zero Trust Exchange platform protecting all of our internal assets, we’ve streamlined our infrastructure, achieved cost savings, and improved application performance – making our business users more productive and benefiting our bottom line."
+  — Baker & Baker
+
+--- Elevating user experiences with a few clicks ---
+Baker & Baker is also leveraging Zscaler Digital Experience (ZDX), for proactively detecting access issues before they affect users and rapidly troubleshooting complaints about poor user experience.
+“When a user experiences an application performance issue, most of the time they blame the network, or their device, first,” Erler said. “With ZDX we can drill down to see the issue’s root cause and respond appropriately to resolve it.”
+Even complex digital experience problems are resolved rapidly. “For example, we had one location that chronically suffered from poor performance when accessing Microsoft 365 or SharePoint, and we struggled to identify the source of the problem,” Erler said.
+“With ZDX supplying granular visibility, we immediately discovered that the issue was the local internet provider, rather than our systems or our SD-WAN, which were our prime suspects,” he added. “This revelation reduced weeks of resource-intensive investigation to just four or five clicks.”
+"When a user experiences an application performance issue, most of the time they blame the network, or their device, first. With ZDX we can drill down to see the issue’s root cause and respond appropriately to resolve it."
+  — Baker & Baker
+"For example, we had one location that chronically suffered from poor performance when accessing Microsoft 365 or SharePoint, and we struggled to identify the source of the problem."
+  — Baker & Baker
+"With ZDX supplying granular visibility, we immediately discovered that the issue was the local internet provider, rather than our systems or our SD-WAN, which were our prime suspects. This revelation reduced weeks of resource-intensive investigation to just four or five clicks."
+  — Baker & Baker
+"Using ZDX for troubleshooting enables reducing weeks of resource-intensive investigation to four or five clicks."
+  — Steffen Erler, Director, Baker & Baker
+
+--- Enhanced mobility pays dividends ---
+Today, the Zero Trust Exchange continues to provide Baker & Baker with business agility and flexibility advantages, such as enhancing security when using mobile devices. “We make the lightweight Zero Trust Exchange client available for both Apple and Android devices,” Erler said.
+One of the advantages of this strategy is that it enables the company’s sales teams to securely display graphics-rich catalog content on tablets, providing customers and prospects with modern interactive experiences.
+“In addition to sales, our company executives have Zscaler on their mobile devices so they can complete various tasks when away from their desks, such as approving invoices or accessing our CRM solution,” Erler said. “Anytime we can help company management work more effectively, it improves our bottom line.”
+"We make the lightweight Zero Trust Exchange client available for both Apple and Android devices."
+  — Baker & Baker
+"In addition to sales, our company executives have Zscaler on their mobile devices so they can complete various tasks when away from their desks, such as approving invoices or accessing our CRM solution. Anytime we can help company management work more effectively, it improves our bottom line."
+  — Baker & Baker
+
+--- Conditional access cuts third-party partnership risks ---
+The Zscaler platform also enables Baker & Baker to concentrate on its core manufacturing competencies by supporting the ability to securely contract with others for professional services.
+“We have third-party partners for functions like R&D, supply chain, HR, and IT,” Erler said. “With Zscaler, we can provide a contracted individual with access to manage specific applications, such as our SAP environment.” “Just as importantly, we can rapidly decommission contractors who no longer work with us,” he continued.
+“And, as VPNs are incapable of conditional access or application segmentation, contractors could access any application on our network,” Erler added. “The Zero Trust Exchange platform, and ZPA in particular, restricts each contractor’s access to only the applications and services they need, thereby removing vulnerabilities we had before.”
+"We have third-party partners for functions like R&D, supply chain, HR, and IT. With Zscaler, we can provide a contracted individual with access to manage specific applications, such as our SAP environment. Just as importantly, we can rapidly decommission contractors who no longer work with us."
+  — Baker & Baker
+"And, as VPNs are incapable of conditional access or application segmentation, contractors could access any application on our network. The Zero Trust Exchange platform, and ZPA in particular, restricts each contractor’s access to only the applications and services they need, thereby removing vulnerabilities we had before."
+  — Baker & Baker
+"Zscaler solutions have become a central building block of our overall IT security."
+  — Stephan Mahler, CIO, Baker & Baker
+
+--- Monthly report: 14K threats and 4M policy violations blocked ---
+Today, Baker & Baker is piloting another Zscaler innovation, Zscaler Branch Connector, to secure site-to-site access between one of their manufacturing locations and another company’s site.
+“With Branch Connector, we’re securely connecting with a completely separate company, with a completely separate security strategy,” Erler said. “We’re excited to have zero trust branch connectivity enabling the collaboration between our two companies without generating the traditional security exposure.”
+No matter how Baker & Baker expands its Zero Trust Exchange moving forward, the returns from implementing a robust Security Service Edge (SSE) solution will continue adding up. With Zscaler, in an average month, the company prevents nearly 4 million policy violations and blocks 14,000 threats, including botnets, phishing, and other malware.
+“Our overall protection from all types of threats has increased by nearly 90%,” Erler says. “We’re so pleased with the solution that we can’t wait to see what Zscaler has in store for us next.”
+"With Branch Connector, we’re securely connecting with a completely separate company, with a completely separate security strategy. We’re excited to have zero trust branch connectivity enabling the collaboration between our two companies without generating the traditional security exposure."
+  — Baker & Baker
+
+--- Keeping the joy flowing ---
+Committed to bringing a little sunshine into everyone’s lives, Baker & Baker enabled their far-flung operations to focus on their core mission – producing bakery goods – by adopting a comprehensive and integrated zero trust platform that eliminated constant malware disruptions while providing AI-enabled cybersecurity for significantly improved user experiences as well as reduced risks.
+“With our growing demand for cloud-based solutions and the irreversible trends of mobile access and work-from-anywhere, Zscaler plays a key role in protecting our environment efficiently,” said Stephan Mahler, CIO at Baker & Baker. “Zscaler solutions have become a central building block of our overall IT security.”
+"With our growing demand for cloud-based solutions and the irreversible trends of mobile access and work-from-anywhere, Zscaler plays a key role in protecting our environment efficiently. Zscaler solutions have become a central building block of our overall IT security."
+  — Stephan Mahler, CIO, Baker & Baker
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Ransomware
+- Data Security
+- Optimize Digital Experiences

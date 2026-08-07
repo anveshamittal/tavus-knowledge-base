@@ -1,0 +1,73 @@
+DOCUMENT TITLE: Umicore Increases Productivity and Reliability
+SUBTITLE: with Zscaler Internet Access™
+CUSTOMER: Umicore
+
+=== COMPANY OVERVIEW ===
+Umicore is a global player in materials technology, developing technologies and producing materials for high-grade solar cells, rechargeable batteries, LED applications and catalytic converters.
+Industry: Manufacturing
+Headquarters: Brussels, Belgium
+Company Size: 8,500 users
+Source URL: https://www.zscaler.com/customers/umicore
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Establish an IT architecture that delivers simplicity, productivity, and reliability in a distributed reality
+Transformation Journey:
+  * -The -company'-s- -I-T- -has -a- -supporting -and -enabling -function -whereby -robust -and -reliable -platforms,- -excellent -support,- -and -a- -simple -I-T- -setup -enable -staff -t-o- -focus -o-n- -realizing -corporate -values -and -optimizing -the -business.-
+  * -How -can -you -make -your -I-T- -systems -safe -and -reliable,- -simple,- -productive -and -focused -i-n- -a- -highly -distributed -environment?-
+  * -With -the -rollout -the -goals -o-f- -simplifying -the -I-T- -environment,- -keeping -i-n- -mind -productivity,- -reliability -and -security -were -a- -fact -and -ever -since -Umicore -renewed -its -contract -with -Zscaler.-
+  * -Umicore -brought -i-n- -a- -TAM -t-o- -make -the -complex -migration -simple -and -effective.-
+  * -Working -with -Zscaler -first -and -foremost -i-s- -a- -matter -o-f- -cost -avoidance -for -Van -Herzele.-
+Key Results:
+  * Deploys cloud-based security at over 100 locations
+  * Simplifies security management with the use of a near zero-touch platform
+  * Ensures business continuity and reduces complexity
+  * Gains ability to quickly tackle otherwise time-consuming migrations
+
+=== KEY QUOTES ===
+"Zscaler enabled us to deploy the same technology, the same platform, the same setup, the same architecture, and the same configuration with the same policy worldwide for all our users."
+  — Joris Van Herzele, Head Infrastructure Management for Network and Security and CISO, Umicore
+
+=== CASE STUDY DETAILS ===
+
+--- IT according to company principles ---
+The company’s IT has a supporting and enabling function whereby robust and reliable platforms, excellent support, and a simple IT setup enable staff to focus on realizing corporate values and optimizing the business. The two other core values at Umicore are simplicity and productivity. They are the guiding principles of Umicore’s IT approach and infrastructure, going hand in hand with the key IT principles of reliability and security.
+
+--- Simplicity, productivity, and reliability in a distributed reality ---
+How can you make your IT systems safe and reliable, simple, productive and focused in a highly distributed environment? On top of having more than 100 sites spread over the world, Umicore’s staff needs to be able to work at the sites and at home.
+As Umicore increasingly started to use cloud applications, the need for internet access grew fast. The IT team needed to scale up Internet access in a secure way, taking into account the distributed reality.
+However, the security controls were only present in the larger manufacturing plants.
+The IT division had two choices: backhauling the Internet traffic through the company’s private MPLS with an internet breakout in regional data centers or deploying a cloud-based web security solution with local Internet breakouts.
+Given the costs and latency issues in the first scenario, Umicore started looking for a cloud-based provider. After having analyzed the market, the company decided to launch a proof of concept with Zscaler. As it worked out perfectly, a global rollout followed rapidly in 2012.
+"Zscaler is an almost zero-touch platform. It runs smoothly, we have relatively little changes on a yearly basis."
+  — Joris Van Herzele, Head Infrastructure Management for Network and Security and CISO, Umicore
+
+--- Removing complexity with superior support services ---
+With the rollout the goals of simplifying the IT environment, keeping in mind productivity, reliability and security were a fact and ever since Umicore renewed its contract with Zscaler. One of the reasons to do so, which again stresses the need for simplicity, is the fact that, in the words of Joris Van Herzele, Head Infrastructure Management for Network and Security and CISO at Umicore, the Zscaler cloud is an almost zero-touch platform.
+However, a solution is more than a platform and includes support services as well. For Van Herzele it’s a second reason why Umicore sticks with Zscaler. “The Standard Support services of Zscaler are superior, compared with other IT services providers”, says Van Herzele.
+As Umicore was deploying a new WAN network and switched to GRE tunnels to standardize and further simplify its IT setup, IT wanted to make the processes as smooth as possible, ensure business continuity, reduce complexity and minimize adjustments on the spot. The changes concerned the full network and a scenario was needed to achieve these goals.
+Zscaler’s Premium Plus Support service, which provides a designated technical account manager (TAM), proved to be essential in tackling more complex migrations and tasks at hand.
+Says Van Herzele, “In the daily operational run, the standard Zscaler support more than suffices. In case of more complex change projects, whether they concern initial deployment or architectural changes, there is absolutely value in sourcing a designated support person within the support organization of Zscaler.”
+"The Standard Support services of Zscaler are superior, compared with other IT services providers."
+  — Joris Van Herzele, Head Infrastructure Management for Network and Security and CISO, Umicore
+
+--- Bringing in support and expertise with a clear understanding of the business goals ---
+Umicore brought in a TAM to make the complex migration simple and effective. The TAM assisted in setting the migration scenario up and investigated the ways to do as much as possible in advance of the migration, further minimizing the needed change window. Once the methodology was designed, it was just a matter of migrating location per location, always with the same methodology.
+“Zscaler enabled us to deploy the same technology, the same platform, the same setup, the same architecture and the same configuration with the same policy worldwide for all our users”, said Van Herzele.
+Gaining fast access to knowledgeable support people who take care of a solution themselves with a rapid response time and high quality standards is rare, Van Herzele states. Moreover, working with a support team that also clearly understands the IT priorities and the business, proves to be highly valuable with a minimal change window and no user impact.
+"Zscaler enabled us to deploy the same technology, the same platform, the same setup, the same architecture and the same configuration with the same policy worldwide for all our users."
+  — Van, Umicore
+"The reliability of an almost zero-touch platform, the superior default service… are the reasons why we work with Zscaler."
+  — Joris Van Herzele, Head Infrastructure Management for Network and Security and CISO, Umicore
+
+--- Cost avoidance and minimal change windows ---
+Working with Zscaler first and foremost is a matter of cost avoidance for Van Herzele. Opting for a cloud security approach offers numerous benefits on levels such as latency, agility, and simplicity so staff can focus on core activities with high user satisfaction.
+The above par support services further contribute to cost avoidance. A rapid deployment of dedicated and knowledgeable support staff for complex change projects results in the ability to maintain the key values as the complexity is shifted to the right people.
+Umicore brought in a TAM for more transformational projects, among others in the deployment of new cloud services, which is an irreversible trend that requires a stable and reliable environment as Van Herzele points out, in the scope of further standardizations within its IT environment and for minor customizations in the reporting services of Zscaler. These reporting services fit in the proactive security views of Umicore and create the needed visibility in all simplicity.
+Umicore also called upon additional support when the company was looking at a new Windows 10 image. Initial testing and rollout of Zscaler Client Connector (formerly Zscaler App) was facilitated through the use of Deployment Advisory Services. Instead of spending internal resources to figure out the details on Client Connector, Umicore opted for a short-term mission to deploy the Client Connector. The configuration was done in just one day.
+Van Herzele concludes: “The reliability of an almost zero-touch platform, the superior default service, the benefits of working with knowledgeable support people who understand our goals of simplicity, productivity and focus as proven in several cases and the cost avoidance possibilities are the reasons why we work with Zscaler—and keep renewing our contract.”
+"The reliability of an almost zero-touch platform, the superior default service, the benefits of working with knowledgeable support people who understand our goals of simplicity, productivity and focus as proven in several cases and the cost avoidance possibilities are the reasons why we work with Zscaler—and keep renewing our contract."
+  — Van, Umicore
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Ransomware

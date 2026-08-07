@@ -1,0 +1,136 @@
+DOCUMENT TITLE: Careem Capitalizes on a Global Talent Pool
+SUBTITLE: to Power True Work-from-Anywhere Using Zscaler
+CUSTOMER: Careem
+
+=== COMPANY OVERVIEW ===
+After pioneering the Middle East region’s ride-hailing economy, Dubai-based Careem is now the provider of an everyday Super App with continuously expanding offerings for transportation, delivery, services, payments, and more.
+Industry: Transportation Services
+Headquarters: Dubai, United Arab Emirates
+Company Size: Operates in 100+ cities with 16 offices across 14 countries
+Source URL: https://www.zscaler.com/customers/careem
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Attract top talent to power high-velocity business growth by replacing VPN and firewall technologies with a zero trust approach
+Transformation Journey:
+  * As the Middle East’s first technology company valued above a billion dollars, Careem not only offers an ever-expanding list of services on its Super App but is also becoming a significant economic force.
+Key Results:
+  * Reclaims 20,000 engineering hours annually and lowers costs approx. 55%
+  * Improves issue resolution time 62% and increases NPS by 70% among colleagues and CSRs
+  * Mitigates risk by preventing about 15,000 threats monthly
+  * Reduces geopolitical and compliance complexities and enables M&A activities
+  * Obtains strong integrations with AWS, CrowdStrike, Okta, and VMware to support business objectives
+
+=== KEY QUOTES ===
+"Zscaler is the proven leader for providing a complete, fully integrated, scalable, and reliable platform to address the multiple security challenges today’s enterprises face."
+  — Peeyush Patel, CIO and CISO, Careem
+
+=== CASE STUDY DETAILS ===
+
+--- High-velocity growth drives security overhaul ---
+When Careem was founded, it used the accepted castle-and-moat approach for IT security. Fast forward a decade and that legacy model was impeding the company’s high-velocity growth.
+“With our business expected to quadruple, we realized our legacy security infrastructure was a considerable drain on our resources, preventing us from effectively recruiting workers and inhibiting us from achieving our business goals,” explained Peeyush Patel, CIO and CISO at Careem. “We needed to modernize our entire security approach.”
+"With our business expected to quadruple, we realized our legacy security infrastructure was a considerable drain on our resources, preventing us from effectively recruiting workers and inhibiting us from achieving our business goals. We needed to modernize our entire security approach."
+  — Peeyush Patel, CIO and CISO, Careem
+
+--- Adopting the proven leader: Zero Trust Exchange ---
+As the Middle East’s first technology company valued above a billion dollars, Careem not only offers an ever-expanding list of services on its Super App but is also becoming a significant economic force. The company is creating employment opportunities and accommodating a regional population where few individuals have credit cards by engineering a payment system for the banked and unbanked.
+To support its cloud-driven app development model, remote-first workforce, and explosive business growth trajectory, Careem decided to replace its traditional security infrastructure, including more than 50 firewalls and dozens of virtual private network (VPN) appliances, with a zero trust approach.
+Seeking a comprehensive and integrated access solution, which reduces the complexity of implementing and managing multiple point-based products, Careem collaborated with its trusted local partner, OSI Infotech. After evaluating offerings, the Zscaler Zero Trust Exchange platform stood out.
+“Zscaler is the proven leader for providing a complete, fully integrated, scalable, and reliable platform to address the multiple security challenges today’s enterprises face,” Patel said. “The Zero Trust Exchange platform was the clear choice for creating a zero trust Security Service Edge (SSE) model to protect our data, our employees, and our customers.”
+"Zscaler is the proven leader for providing a complete, fully integrated, scalable, and reliable platform to address the multiple security challenges today’s enterprises face. The Zero Trust Exchange platform was the clear choice for creating a zero trust Security Service Edge (SSE) model to protect our data, our employees, and our customers."
+  — Careem
+
+--- Data and users secured across every app ---
+To streamline and simplify its security infrastructure, Careem adopted multiple services within the Zero Trust Exchange.
+At the foundation, Careem deployed Zscaler Internet Access (ZIA), for securing access to SaaS applications and the internet, Zscaler Private Access (ZPA), for securing access to Careem’s private applications running on public cloud infrastructure and within its data center, and Zscaler Digital Experience (ZDX), for proactively detecting and resolving access issues before they affect users.
+Within the platform, Careem also uses Cloud Access Security Broker (CASB), for safeguarding data-at-rest by looking inside SaaS applications and IaaS environments, and cloud Data Loss Prevention (DLP), for assisting with regulatory compliance when handling sensitive personal data in the cloud.
+"Our Zero Trust Exchange platform helps us … improve business agility, productivity, and experiences while lowering networking costs approximately 55% and mitigating risk."
+  — Peeyush Patel, CIO and CISO, Careem
+
+--- Saving 20,000 development hours annually ---
+Upon deploying the Zero Trust Exchange, Careem immediately enjoyed agility, productivity, and resource rewards across its enterprise, starting with the elimination of VPN-related frustrations and costs.
+“Our colleagues were very vocal in their dissatisfaction with VPN access,” Patel says. “Adopting the platform, including ZPA, not only eliminated those complaints but the overall user experience vastly improved with a corresponding 70% increase in our net promoter score (NPS) among our colleagues and CSRs.”
+Further, Careem realized considerable resource savings, which it reinvested into its development efforts. “By simplifying access to engineering applications, we’ve regained approximately 20,000 development hours annually,” Patel said. “We’ve refocused those resources on creating business value.”
+"By simplifying access to engineering applications, we’ve regained approximately 20,000 development hours annually. We’ve refocused those resources on creating business value."
+  — Careem
+
+--- Visibility and analytics boost user experiences ---
+Careem is further improving user experiences across the Zero Trust Exchange, while enhancing the company’s ability to scale, with ZDX.
+One example is improving customer service efficiency and effectiveness. Careem’s business model includes supporting a virtual, high-touch, live customer service call center that is expected to expand from 1,200 remote customer service representatives (CSRs) to more than 5,000 as the business grows.
+Prior to adopting ZDX, when a CSR experienced an application or performance issue, it could take hours, or days, to resolve due to insufficient visibility. Frequently, Careem’s IT staff determined the source of the problem as actually a remote worker’s internet service provider (ISP).
+Now, that’s all changed. “Using ZDX we can rule out our network in minutes and focus the CSR’s attention on their internet connectivity issue,” Patel said. “Sometimes, we can suggest settings that will help. On other occasions, we can empower individuals to get a resolution from their ISP by providing them with information generated by ZDX, including intuitive visual diagrams and reports.”
+Regardless of a problem’s source, Careem can now identify it fast. “Our mean time to resolve (MTTR) has improved by 62%, helping us scale to support a doubling in our workforce with the same Infosec staff while also improving colleague and CSR experiences,” Patel said.
+“Clearly, the visibility we receive from ZDX is a game changer for us,” he added.
+"Using ZDX we can rule out our network in minutes and focus the CSR’s attention on their internet connectivity issue. Sometimes, we can suggest settings that will help. On other occasions, we can empower individuals to get a resolution from their ISP by providing them with information generated by ZDX, including intuitive visual diagrams and reports."
+  — Careem
+"Our mean time to resolve (MTTR) has improved by 62%, helping us scale to support a doubling in our workforce with the same Infosec staff while also improving colleague and CSR experiences."
+  — Careem
+"Clearly, the visibility we receive from ZDX is a game changer for us."
+  — Careem
+
+--- Easing compliance and geopolitical complexity ---
+Careem also appreciates the Zero Trust Exchange for helping to smooth compliance efforts and reduce business risk.
+As the Middle East lacks a single regulatory body, Careem is required to comply with multiple statutes across its 12 operating countries. In addition to traditional financial regulations, these statutes include data sovereignty rules that stipulate which countries that data can, and cannot, route through on the way to its destination.
+The Zero Trust Exchange helps Careem ease compliance and geopolitical complications by enabling the company to set verifiable data traffic policies with a few clicks on the management dashboard.
+“Zscaler simplifies our complex compliance situation by routing traffic appropriately and maintaining the audits we need to substantiate compliance,” Patel says. “This capability is vital to hiring the best remote talent, regardless of where they live.”
+"We can truly hire the best individuals from anywhere and permit them to work anywhere. It’s a big win for our business."
+  — Peeyush Patel, CIO and CISO, Careem
+
+--- AWS, CrowdStrike, Okta and VMware integrations prove key ---
+Another benefit of the Zero Trust Exchange is the tight integrations Zscaler maintains with other enterprise solutions, further streamlining its IT infrastructure while reducing security risk.
+As the cloud-native Careem app was born on Amazon Web Services (AWS),, strong integrations between it and Zscaler are valuable. Unlike VPNs, the Zero Trust Exchange makes Careem’s AWS environment completely invisible to unauthorized users while providing Careem’s workers with fast direct access.
+“Because hackers can’t attack what’s hidden from them, Zscaler helps mitigate risk and speeds development in our AWS environment,” Patel said.
+Other key integrations include CrowdStrike, where the Zero Trust Exchange provides conditional access control to applications based on the dynamic security posture checks of endpoint devices; Okta, for delivering seamless authentication and security; and the VMware anywhere workspace platform Workspace ONE.
+“Our Zscaler platform even helped reveal a feature needed in Workspace ONE,” Patel said. “This enabled us to communicate effectively with VMware and achieve a positive outcome.”
+"Because hackers can’t attack what’s hidden from them, Zscaler helps mitigate risk and speeds development in our AWS environment."
+  — Careem
+"Our Zscaler platform even helped reveal a feature needed in Workspace ONE. This enabled us to communicate effectively with VMware and achieve a positive outcome."
+  — Careem
+
+--- Rapidly adapting to evolving workplace models ---
+With some individuals interested in working from a physical office, at least part of the time, Careem is also using the Zero Trust Exchange to maintain its remote-first workforce model while gaining the flexibility to also offer a safe on-site work option.
+“After tuning our network to enable all employees to work remotely, we faced considerable retooling challenges to accommodate a hybrid work environment,” Patel said.
+“Fortunately, Zscaler made it easy,” he added. “By serving as our overall security shield, Zscaler is ensuring our employees can seamlessly access applications from wherever they work best, enabling us to pursue a true work-from-anywhere [WFA] model.”
+"After tuning our network to enable all employees to work remotely, we faced considerable retooling challenges to accommodate a hybrid work environment."
+  — Careem
+"Fortunately, Zscaler made it easy. By serving as our overall security shield, Zscaler is ensuring our employees can seamlessly access applications from wherever they work best, enabling us to pursue a true work-from-anywhere [WFA] model."
+  — Careem
+
+--- Zscaler partnership advances ESG efforts ---
+Another plus for partnering with Zscaler is contributing to Careem’s environmental, social, and governance (ESG) initiatives.
+As Zscaler utilizes 100% renewable energy sources in its global data centers and offices, Careem is advancing its sustainability by moving security to the Zero Trust Exchange rather than maintaining racks of traditional security hardware that requires power for the data center and for keeping equipment cool.
+“Improving our energy efficiency helps demonstrate our sustainability commitment to the communities we serve,” Patel said. “Partnering with organizations like Zscaler helps us validate our ESG efforts.”
+"Improving our energy efficiency helps demonstrate our sustainability commitment to the communities we serve. Partnering with organizations like Zscaler helps us validate our ESG efforts."
+  — Careem
+"Using ZDX we can rule out our network in minutes and focus the CSR’s attention on their internet connectivity issue."
+  — Peeyush Patel, CIO and CISO, Careem
+
+--- Supporting M&A strategy and accelerating value creation ---
+Moving forward, Careem anticipates obtaining further Zero Trust Exchange benefits by applying the platform to accelerate M&A value creation.
+For M&A, Careem can use ZPA and granular segmentation capabilities resident in the Zero Trust Exchange to securely grant acquired workers instant access to internal applications and, conversely, give existing Careem colleagues secure access to acquired company assets.
+Such a strategy enables acquired individuals to be productive while other M&A conversion processes—such as securing acquired laptops—proceed. Similarly, Careem colleagues can safely leverage acquired company systems without being exposed to unknown infrastructure risks.
+
+--- Deception, inspection, and workload expansions on the horizon ---
+Also on Careem’s horizon are expansions to the Zero Trust Exchange platform, including evaluations of new Zscaler offerings such as ZPA AppProtection, for protecting private apps against web attacks by inspecting encrypted traffic to uncover embedded malware, and Zscaler Deception, for detecting sophisticated, active threats by populating an environment with decoys.
+In addition, Careem is considering extending its Zero Trust Exchange deployment to protect cloud workloads. Options include Workload Communications, for fast and secure cloud connectivity as well as preventing lateral movement of threats, application compromise, and data breaches, and Zscaler Posture Control, for remediating misconfigurations, securing sensitive data, and enforcing least-privileged access across Careem’s AWS footprint.
+
+--- Hiring the best talent from anywhere, to work anywhere ---
+Overall, Careem’s Zero Trust Exchange deployment supports the company in numerous ways. “Our Zscaler platform helps our company address many security and productivity use cases,” Patel said.
+“What’s more, by reducing complexity and delivering zero trust security we’ve lowered costs associated with our legacy firewalls and VPNs by approximately 55% and mitigated risk by preventing about 15,000 threat violations monthly,” he continued. “Simultaneously, we’ve achieved the speed to market gains needed to enable business growth.”
+Now Careem can attract top talent by offering the opportunity to work in a leading-edge digital environment, Patel added. “We can hire the best individuals from anywhere and permit them to work anywhere,” he said. “It’s a big win for our business.”
+"Our Zscaler platform helps our company address many security and productivity use cases."
+  — Careem
+"We can hire the best individuals from anywhere and permit them to work anywhere. It’s a big win for our business."
+  — Careem
+
+--- Becoming an economic engine ---
+Fulfilling Careem’s goal to become an everyday Super App and a regional economic engine requires the right knowledge workers, whether hired organically or engaged via M&A.
+With today’s most accomplished individuals expecting the best digital experiences, regardless of where they reside on the planet, adopting a comprehensive and integrated zero trust platform is enabling Careem to deliver the collaboration environment talented workers desire while scaling up its workforce with developers from the U.S., U.K., Canada, Middle East, Singapore, Ukraine, India, Pakistan and beyond.
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Accelerate M&A and Divestitures
+- Zero Trust App Access
+- Data Security
+- Optimize Digital Experiences
+- Ransomware

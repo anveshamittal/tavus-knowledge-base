@@ -1,0 +1,70 @@
+DOCUMENT TITLE: Cox Automotive Deploys Zero Trust in Phases with the Zscaler Zero Trust Exchange
+SUBTITLE: Zscaler streamlines security architecture, secures connectivity for users on five continents, and protects data for millions of online car shoppers
+CUSTOMER: Cox Automotive
+
+=== COMPANY OVERVIEW ===
+The world’s largest automotive services and technology provider
+Industry: Retail and Wholesale
+Headquarters: Atlanta, Georgia, USA
+Company Size: 2.3 Billion online interactions yearly
+Source URL: https://www.zscaler.com/customers/cox-automotive
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 30K+: team members protected
+- 40K: auto dealer clients supported
+- One: single platform reduces complexity
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Wanted a cloud compatible platform that could serve as the foundation for a holistic zero trust security architecture
+  * Traditional firewall appliances struggled to inspect internet traffic at scale for a globally dispersed user group
+  * Legacy VPNs did not support identity-based access control policies, putting private applications and data at greater risk
+Transformation Journey:
+  * Adapted from a blog post by Jon Mahes, Sr.
+Key Results:
+  * Secures a team working across five continents, providing work-from-anywhere flexibility and improving user experiences
+  * Protects critical private apps and resources, including data about millions of customers, in a more cost-effective way
+  * Retires legacy security solutions including firewalls and VPNs to streamline IT processes and accelerate M&A onboarding
+
+=== KEY QUOTES ===
+"Once the agents are installed on everyone’s devices, it will be easy to integrate other Zscaler capabilities into our architecture. It will be just a matter of flipping the “on” switch."
+  — Jon Mahes, Sr. Manager, Cox Automotive
+
+=== CASE STUDY DETAILS ===
+
+--- Saving time and delighting users when deploying zero trust ---
+Adapted from a blog post by Jon Mahes, Sr. Manager of Cybersecurity at Cox Automotive.
+As a former site reliability engineer, it’s really important to me to provide a great user experience when deploying new technology. In my opinion, you have only one shot to get it right with a user, and if you blow it, that will reflect poorly on technical teams when leadership asks them how they like the new changes. That’s not a good look for those of us who manage change, and honestly, it’s something that can be avoided if done properly. I’d like to share some insights I’ve gleaned during our deployment of Zscaler at Cox Automotive.
+
+--- Realize that zero trust is not turnkey ---
+The first thing to realize is that getting to zero trust is a journey—it’s not a turnkey solution. You need to have all the right pieces in place before you start. Think about it as a sequence of operations. You want to have the right building blocks in place. First off, an identity management platform such as Azure ID or Okta is a must. A device management platform such as Microsoft Intune or Apple Jamf is also required.
+Once you have these building blocks, you can embark on your zero trust journey. I recommend starting small to get your feet wet. Begin with multiple pilots of each technology before you dive into a full-scale deployment.
+Once you have enough users on your zero trust platform, then you can start getting the security operations center (SOC) team involved. They will start to see how they can start triaging and looking at events that can be operationalized within cybersecurity. Get the events flowing into a security information and event management (SIEM) tool and have the security incident response team do some testing in a sandbox environment.
+At Cox Automotive, we are deploying in phases. We plan to get a Zscaler Internet Access (ZIA) client installed on everyone’s machines and then move on to a VPN migration project to deploy Zscaler Private Access (ZPA). From there, once the agents are installed on everyone’s devices, it will be easy to integrate other Zscaler capabilities into our architecture. It will be just a matter of flipping the “on” switch.
+
+--- Prioritize communication ---
+The last thing you want is to start breaking things or giving users a poor experience. Make sure you continuously monitor to verify that the technology is working optimally. Survey users to ensure the right settings are turned on for everyone.
+It’s also important to communicate why you’re doing what you’re doing with all the new solutions and integrations. Develop communication plans and roadshows to introduce the technology to users, and explain the value they’ll get. We say to our users: “You’ll get improved connectivity and stability with your connection, plus greater security.”
+Keep in mind the end goal, which, here at Cox Automotive, is to reach a point where we can say that any user is allowed to connect to our network and we don’t have to worry about what’s on their device or who they are. We’ll figure out what they need based on identity.
+"We plan to get a [ZIA] client installed on everyone’s machines and then move on to a VPN migration project to deploy [ZPA]."
+  — Jon Mahes, Sr. Manager, Cox Automotive
+
+--- Create profiles to save yourself time ---
+Our organization is actively involved in mergers and acquisitions (M&As), and as a result, we have many different types of users. Going into an M&A, a lot of upfront discovery and conversations need to happen before we can deploy successfully to new users.
+When starting a new deployment, it’s important to really know your team members. Analyze their profiles. Figure out what they’re accessing, and narrow down their access to only what is required. Otherwise, you’ll be over-provisioning blanket access and creating a lot of work that will have to be cleaned up later on—not to mention unnecessarily expanding the potential attack surface.
+For example, we’ve created a special profile for mobile hotspot users. It’s important to ensure you’re deploying a tunnel profile for them to avoid problems. If you have developers, create separate Secure Sockets Layer (SSL) inspection policies for them, because SSL inspection is not for everyone. Come up with a corporate standard that all developers and users have to adhere to around SSL certificates. This will save a lot of time.
+"[The end goal is] that any user is allowed to connect to our network and we don’t have to worry about what’s on their device or who they are."
+  — Jon Mahes, Sr. Manager, Cox Automotive
+
+--- Document issues and empower people to help themselves ---
+Another big time saver is creating an internal wiki to document issues that arise during the rollout. This will cut down on repeated service tickets, because often a user can read the wiki and solve the problem on their own. Along these same lines, I recommend creating a chat channel in Microsoft Teams or Slack where team members can quickly find support from each other if they get stuck.
+For our development teams, we created a package of do-it-yourself instructions and let them deploy the technology themselves. We also created processes in ServiceNow where users can request applications.
+Fine-tuning multiple technology integrations is always a work in progress. But, with the right processes in place, it can go a lot smoother. You want to put Zscaler first on the integration timeline because that opens the doors for a lot of access that can move things a lot quicker. Our goal for [2023] is to get ZIA out to 30,000 US employees. With that many people to onboard, the total number of hours saved by having great documentation and user profiles, two-way communication will be truly significant. I hope these processes help you too!
+"Put Zscaler first on the integration timeline because that opens the doors for a lot of access that can move things a lot quicker."
+  — Jon Mahes, Sr. Manager, Cox Automotive
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Accelerate M&A and Divestitures
+- Secure Remote Access
+- Zero Trust App Access
+- Optimize Digital Experiences

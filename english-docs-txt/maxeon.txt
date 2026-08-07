@@ -1,0 +1,119 @@
+DOCUMENT TITLE: Maxeon Solar Technologies Achieves Digital Transformation with Zscaler Following a Divestiture
+SUBTITLE: Solar energy leader eliminates data centers to improve security posture and remote work experiences for 5,000 global users on the Zero Trust Exchange
+CUSTOMER: Maxeon
+
+=== COMPANY OVERVIEW ===
+Leading global solar panel manufacturer with a sales presence in 100+ countries
+Industry: Energy, Oil, Gas, and Mining
+Headquarters: Singapore
+Company Size: 5,000 employees across 40 locations
+Source URL: https://www.zscaler.com/customers/maxeon
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 134%: more traffic processed quarterly
+- 31M: policy violations prevented in a quarter
+- 2.9M: threats blocked in three months
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Traditional, perimeter security built around data centers would not support an evolving, cloud-first infrastructure
+  * Legacy firewalls could not scale with increasing remote access needs, leading to poor performance and greater risk
+  * Previous DLP solutions were difficult to manage, leaving critical intellectual property and assets at risk of compromise
+Transformation Journey:
+  * To further boost Maxeon’s security, Gani and his team opted for Zscaler Cloud Firewall rather than costly, high-maintenance physical firewalls or virtualized stacks of firewall appliances.
+  * Through the Zscaler account manager and Technical Account Manager, Inocencio and Gani learned about features the team could maximize and received communications about future functionalities.
+Key Results:
+  * Accelerates digital transformation—all data centers are decommissioned and 70% of workloads have migrated to the cloud
+  * Provides secure, work-from-anywhere flexibility for a geographically dispersed user group working across 16 countries
+  * Protects mission-critical IP data, including 1,400+ patents, improving security posture and ensuring business continuity
+
+=== KEY QUOTES ===
+"While we evaluated several big-name vendors, Zscaler came out as a clear winner because of its leadership position in the Gartner Magic Quadrant and its proven capabilities."
+  — Stephen Gani, CISO, Maxeon
+
+=== CASE STUDY DETAILS ===
+
+--- Supporting business continuity and modernization during a divestiture ---
+In 2020, Maxeon, a global leading manufacturer of solar cells and panels spun off from SunPower Corporation, a leading distributed generation storage and energy services provider in North America, as an independent, publicly listed company.
+As the divestiture proceeded, the top priority was to ensure that business operations continued without disruption. Chief Information Security Officer Stephen Gani and his team saw an opportunity to build out Maxeon’s infrastructure with cloud-based solutions.
+Maxeon no longer has any data centers—only a handful of server rooms for localization purposes—and has migrated 60% to 70% of its workloads to the cloud.
+“First and foremost, we had to make sure Maxeon would be up and running and secure. While we evaluated several big-name vendors, Zscaler came out as a clear winner because of its leadership position in the Gartner Magic Quadrant and its proven capabilities,” said Gani, who had successfully deployed Zscaler at a previous job.
+For Michael Angelo Inocencio, Information Security Operation and Engineering Lead, adopting Zscaler was a platform-level decision, not a product-level one. “We chose Zscaler based on multiple factors, including ease of deployment and configuration, functionality, and Zscaler’s position as a leader who has set the baseline across the entire industry with a clear vision and roadmap,” he said.
+"First and foremost, we had to make sure Maxeon would be up and running and secure. While we evaluated several big-name vendors, Zscaler came out as a clear winner because of its leadership position in the Gartner Magic Quadrant and its proven capabilities."
+  — Gani, who had successfully deployed Zscaler at a previous job, Maxeon
+"We chose Zscaler based on multiple factors, including ease of deployment and configuration, functionality, and Zscaler’s position as a leader who has set the baseline across the entire industry with a clear vision and roadmap."
+  — Maxeon
+
+--- Protecting the remote workforce ---
+Gani launched the Zscaler deployment during the pandemic, when Maxeon’s employees were forced to work from home. His top priority was to make sure everyone had secure, reliable access to the internet and SaaS applications.
+He and his team immediately deployed Zscaler Internet Access as Maxeon’s security service edge (SSE) solution for fast direct-to-cloud web access, inline traffic inspection, and security that moves with users wherever they work. Gani and his team also implemented CrowdStrike for Zscaler-compatible cloud-delivered endpoint protection.
+“The divestiture was in progress during the pandemic, so our immediate concern was protecting our employees who were working from home. Zscaler Internet Access was one of the first solutions we put in place, as it provided a much-needed cloud web gateway that protected us from all manner of threats: ransomware, zero-day malware, and other advanced attacks,” said Gani. “The seamless integration with CrowdStrike was another big advantage for our small team, providing interoperability, automation, and manageability.”
+Zscaler Internet Access greatly improved security for the growing organization’s high volume of transactions and traffic. During the late summer and early fall of 2022, Maxeon processed about 2.1 billion transactions and 273.7 TB of traffic, up 134% (from 97.3 TB) compared to the same time in 2021. During this three-month period, Zscaler Internet Access prevented 31.4 million policy violations and blocked 2.9 million security threats, with more than 25,000 of these threats hidden in encrypted traffic.
+As part of its Zscaler Internet Access implementation, Maxeon also implemented Zscaler Digital Experience to quickly onboard global offices to the Zscaler platform and ensure proper licensing. It also helps the team maintain a great user experience by quickly finding and fixing any latency issues between users and applications.
+"The divestiture was in progress during the pandemic, so our immediate concern was protecting our employees who were working from home. Zscaler Internet Access was one of the first solutions we put in place, as it provided a much-needed cloud web gateway that protected us from all manner of threats: ransomware, zero-day malware, and other advanced attacks. The seamless integration with CrowdStrike was another big advantage for our small team, providing interoperability, automation, and manageability."
+  — Gani, who had successfully deployed Zscaler at a previous job, Maxeon
+"Zscaler Internet Access… provided a much-needed cloud web gateway that protected us from all manner of threats…"
+  — Stephen Gani, CISO, Maxeon
+
+--- Zscaler helps guide acceptable use policies and bandwidth consumption ---
+Another use case for Zscaler Internet Access is related to bandwidth consumption and policies for acceptable internet usage. During the spinoff, Maxeon adopted a policy of blocking certain streaming and social media sites. These policies were enforced by Zscaler.
+The blocking of certain social media and other non-work-related sites is a topic of continuous policy discussion. As Gani suggested, in many cases, this is less about security and more about the bandwidth consumed when users visit particular sites, which is a cost factor for the organization.
+“This is where Zscaler's granular policy creation and enforcement comes into play,” said Gani. “It was important to let stakeholders know that we have a tool that allows them to set some guidelines about user access to certain types of online content and keep employees from going where they shouldn’t.”
+"This is where Zscaler's granular policy creation and enforcement comes into play. It was important to let stakeholders know that we have a tool that allows them to set some guidelines about user access to certain types of online content and keep employees from going where they shouldn’t."
+  — Gani, who had successfully deployed Zscaler at a previous job, Maxeon
+
+--- Data protection for IP and other vital data ---
+“Instead of implementing a point product DLP solution, we decided on a multilayered solution on a single platform. It’s easier to manage and provides consistent security for our users and data, regardless of location,” said Gani. “This way, more stakeholders can benefit from the Zscaler solutions we already have in place. We’re in the process of building custom policies around proprietary information that needs to stay in the Maxeon environment and not be shared with anyone outside the company.”
+Maxeon is also applying Zscaler Exact Data Match (EDM) to other types of critical company data, such as customer documents and financial information. Zscaler EDM is an advanced capability of Zscaler Cloud DLP that fingerprints sensitive data and stores the fingerprints in the Zscaler cloud to more precisely discover sensitive data and prevent its transfer to unauthorized destinations. This helps improve the company’s security posture and workforce productivity.
+“We’re in the process of building our DLP use cases, focusing on policies that we can simply turn on to ensure compliance with financial and regulatory requirements and prevent data breaches,” Gani added. “Another big plus of Zscaler Cloud DLP is the ability to create reports that detail DLP violations and shine a light on compliance issues to users. This helps them become more aware of their activities and understand why it’s important to enforce certain DLP policies.”
+"Instead of implementing a point product DLP solution, we decided on a multilayered solution on a single platform. It’s easier to manage and provides consistent security for our users and data, regardless of location. This way, more stakeholders can benefit from the Zscaler solutions we already have in place. We’re in the process of building custom policies around proprietary information that needs to stay in the Maxeon environment and not be."
+  — Gani, who had successfully deployed Zscaler at a previous job, Maxeon
+"We’re in the process of building our DLP use cases, focusing on policies that we can simply turn on to ensure compliance with financial and regulatory requirements and prevent data breaches. Another big plus of Zscaler Cloud DLP is the ability to create reports that detail DLP violations and shine a light on compliance issues to users. This helps them become more aware of their activities and understand why it’s important to enforce certain DLP policies."
+  — Gani, who had successfully deployed Zscaler at a previous job, Maxeon
+"We value our partnership with a vendor like Zscaler because they help us make the most of our investment."
+  — Stephen Gani, CISO, Maxeon
+
+--- A cloud-delivered firewall solution that follows the user ---
+To further boost Maxeon’s security, Gani and his team opted for Zscaler Cloud Firewall rather than costly, high-maintenance physical firewalls or virtualized stacks of firewall appliances. It provides consistent firewall policies and protections that follow the users, regardless of their location or the types of devices they are using.
+“With all internet traffic going through Zscaler, it simply did not make sense to acquire another point product. It’s really beneficial for us to have a security solution that goes wherever the user goes,” he said. “We chose Zscaler Cloud Firewall not only because it makes policy management easier—we could also have more control over FTP, allowing users to access certain sites while providing malware protection by scanning FTP traffic over HTTP.”
+"With all internet traffic going through Zscaler, it simply did not make sense to acquire another point product. It’s really beneficial for us to have a security solution that goes wherever the user goes. We chose Zscaler Cloud Firewall not only because it makes policy management easier—we could also have more control over FTP, allowing users to access certain sites while providing malware protection by scanning FTP traffic over HTTP."
+  — Maxeon
+
+--- Integration with CrowdStrike speeds response and remediation ---
+Integration of Zscaler with CrowdStrike through the Zero Trust Exchange offers Gani’s team endpoint detection and response (EDR) visibility for sandbox-detected malware. The Zscaler service calls the CrowdStrike Falcon API and asks for information on endpoints that have been exposed to malicious files. When impacted devices are identified, rapid response is initiated via a cross-platform quarantine workflow.
+Device health is also assessed continuously in real time to make sure endpoints have at least the minimum required security controls in place. Based on this information, Gani and his team can implement appropriate access policies.
+“The integration not only works well for remediation, the telemetry and intelligence derived from Zscaler and CrowdStrike enable us to more accurately and more quickly respond to and mitigate a threat. The exchange of data between the two solutions results in fewer false positives,” explained Gani.
+"The integration not only works well for remediation, the telemetry and intelligence derived from Zscaler and CrowdStrike enable us to more accurately and more quickly respond to and mitigate a threat. The exchange of data between the two solutions results in fewer false positives."
+  — Gani, who had successfully deployed Zscaler at a previous job, Maxeon
+"For DLP we decided on a multi-layered solution on a single platform. It’s easier to manage and provides consistent security…"
+  — Stephen Gani, CISO, Maxeon
+
+--- Deployment made easy with the right partner ---
+Through the Zscaler account manager and Technical Account Manager, Inocencio and Gani learned about features the team could maximize and received communications about future functionalities.
+“The Zscaler team always makes us aware of new programs so we can consider them for our roadmap and strategy going forward. We value our partnership with a vendor like Zscaler because it helps us make the most of our investment,” said Inocencio.
+"The Zscaler team always makes us aware of new programs so we can consider them for our roadmap and strategy going forward. We value our partnership with a vendor like Zscaler because it helps us make the most of our investment."
+  — Inocencio, Maxeon
+
+--- A single platform keeps it simple ---
+The Zero Trust Exchange matches Gani’s vision of a comprehensive and scalable cloud platform that can grow with the company. In Gani’s view, there are three components to zero trust: infrastructure, identity, and application.
+“What I like about Zscaler is that it covers the gamut of zero trust all on a single platform. The fact that Zscaler transparently allows users to connect to internet and SaaS applications without ever firing up a client and asking users to log in again is really wonderful,” said Gani.
+When Gani and his team started planning the cloud security infrastructure for Maxeon after the divestiture, they knew that having a collection of unintegrated point products would create a heavy administrative burden. Reducing management complexity was key, and this ultimately pointed him to the Zscaler zero trust platform.
+"What I like about Zscaler is that it covers the gamut of zero trust all on a single platform. The fact that Zscaler transparently allows users to connect to internet and SaaS applications without ever firing up a client and asking users to log in again is really wonderful."
+  — Gani, who had successfully deployed Zscaler at a previous job, Maxeon
+
+--- On the horizon: VPN replacement and IoT use cases ---
+Gani is proceeding with plans to expand Maxeon's Zscaler footprint. Acting on the company's imperative to replace its legacy VPN, he is discussing setting up a proof of concept for Zscaler Private Access. With plans for deploying Zscaler Private Access in place, potential expansion is another use case that Maxeon is considering for the future to more easily integrate new site locations.
+“From the expansion perspective, Zscaler Private Access would be extremely helpful, as we could quickly provide access to private applications to site locations or third parties we do business with. I’m expecting that we can make this possible in the very near future,” said Gani.
+Finally, in keeping with its commitment to a more sustainable future, Maxeon is also looking at how they can leverage Zscaler capabilities to secure our products and/or services to our consumers.
+"From the expansion perspective, Zscaler Private Access would be extremely helpful, as we could quickly provide access to private applications to site locations or third parties we do business with. I’m expecting that we can make this possible in the very near future."
+  — Gani, who had successfully deployed Zscaler at a previous job, Maxeon
+
+--- Maxeon leverages the cloud to drive sustainability goals ---
+Maxeon is committed to producing innovative and sustainably made high-quality solar panels and energy solutions that reduce the world’s reliance on fossil fuels. The organization joins 15,000 companies that have signed on to the UN Global Compact, with the mission of Powering Positive Change™ in their customer base. As part of this effort, Maxeon is evolving its green IT environment by adopting energy-efficient cloud solutions across its global infrastructure.
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Ransomware
+- Optimize Digital Experiences
+- Data Security
+- Accelerate M&A and Divestitures

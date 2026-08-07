@@ -1,0 +1,48 @@
+DOCUMENT TITLE: IIFL Elevates Its Security Posture and Vastly Improves Its Risk Score
+SUBTITLE: Zscaler enables one of India’s largest financial institutions to achieve cyber resilience by fortifying its data defenses and mitigating risk
+CUSTOMER: IIFL
+
+=== COMPANY OVERVIEW ===
+India Infoline Finance Limited (IIFL) is one of India’s largest diversified financial services organizations
+Industry: Financial Services and Insurance
+Headquarters: Mumbai, India
+Company Size: 40,000 employees, 3,000 branches
+Source URL: https://www.zscaler.com/customers/iifl
+
+=== KEY METRICS & HIGHLIGHTS ===
+- #1: priority is safeguarding financial data
+- 6: business units get tailored risk reports
+- < Risk: after zero trust deployment
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Defending sensitive data and core internal applications from breaches and data loss was the overriding priority
+  * Legacy on-premises proxies and traditional firewalls were ineffective in blocking advanced attacks
+  * Lack of clear visibility into data usage, vulnerabilities, and overall risk profile increased risk
+Key Results:
+  * Maintains granular visibility into internal and external data sharing
+  * Reduces the organization’s risk score and strengthens its security posture
+  * Ensures every connection is authorized and secure by authenticating user identity and device health before granting access
+
+=== KEY QUOTES ===
+"The Zscaler experience … has given us agility, flexibility, scalability, and … end-to-end user and application security. It’s truly a Zero Trust Exchange."
+  — Ameya Sathye, Head of Cybersecurity, IIFL
+
+"Data security is of paramount importance for IIFL, and zero trust was the need of the hour. That’s why we adopted Zscaler web and endpoint DLP."
+  — Shanker Ramrakhiani, Group CISO, IIFL
+
+"Zscaler is one of the major contributors … toward managing risk and protecting users."
+  — Ameya Sathye, Head of Cybersecurity, IIFL
+
+"Risk360 provides actionable insights … so we can expand security controls to mitigate risk."
+  — Ameya Sathye, Head of Cybersecurity, IIFL
+
+"By implementing Zscaler, we have reduced our risk score significantly, resulting in a very good security posture now."
+  — Ameya Sathye, Head of Cybersecurity, IIFL
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Secure Remote Access
+- Stop Cyberattacks
+- Optimize Digital Experiences
+- Data Security
+- Ransomware

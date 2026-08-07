@@ -1,0 +1,87 @@
+DOCUMENT TITLE: Beneva Enhances Security and User Experience
+SUBTITLE: with Zscaler Internet Access
+CUSTOMER: Beneva
+
+=== COMPANY OVERVIEW ===
+One of the top 10 insurers in Canada, Beneva offers a range of insurance, savings and retirement products. Formed from the merger of La Capitale and SSQ Insurance, Beneva aims to become the country’s largest mutual insurer, bringing together more than 3.5 million members and clients, and promoting a philosophy of shared human values.
+Industry: Financial Services and Insurance
+Headquarters: Quebec, Canada
+Company Size: 5,000 employees
+Source URL: https://www.zscaler.com/customers/beneva
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Consolidate multiple web filtering solutions to drive consistency, strengthen security, and streamline management costs
+Transformation Journey:
+  * Mergers often present a consolidation opportunity.
+Key Results:
+  * Boosts security for remote workers
+  * Improves visibility, including in-depth logs detailing what users are accessing
+  * Enhances user experience, including quick access to business-critical applications
+  * Provides a standardized solution across two different group companies
+
+=== KEY QUOTES ===
+"Zscaler allowed us to secure an entire pillar of our security architecture with minimal effort. Ultimately, deploying Zscaler has proved simple, secure, and efficient."
+  — Jérôme Tétreault, Security Architecture Specialist, Beneva
+
+=== CASE STUDY DETAILS ===
+
+--- Patchwork of solutions ill-equipped for remote work ---
+Mergers often present a consolidation opportunity. The coming together of La Capitale and SSQ Insurance meant the combined company had a total of three web-filtering solutions. “The result was a patchwork of solutions that were costly and hard to manage,” explained Jérôme Tétreault, Security Architecture Specialist at Beneva.
+More concerning was the inconsistency of user and application protection. “Protection differed depending on whether users were off-premises or on-premises,” continued Tétreault. “Remote working as a result of the COVID-19 pandemic was congesting the VPN and exposing the business to increased security risks.”
+Beneva wanted to move quickly to unify its internet security posture, offload VPN traffic destined for the internet and SaaS applications, and provide a uniform security presence regardless of user location.
+"The result was a patchwork of solutions that were costly and hard to manage."
+  — Jérôme Tétreault, Security Architecture Specialist, Beneva
+
+--- Need for easier collaboration ---
+Most Beneva employees use Microsoft Office 365 applications and are directly routed to the cloud without a VPN. With all staff collaborating virtually and exchanging terabytes of data each day, an equally secure and seamless solution for M365 was also a critical requirement. When staff were forced to work from home due to COVID restrictions, Beneva quickly realized that Zscaler offered the safest way to secure M365 without having to compromise performance.
+"The decision to implement Zscaler was a ‘no brainer.’"
+  — Jérôme Tétreault, Security Architecture Specialist, Beneva
+
+--- No compromises on cybersecurity ---
+As an insurer, public trust is the foundation of Beneva’s business. “Our customers trust Beneva with their personal information and depend on the company to be there to assist them when they need it most,” said Tétreault. “We make no compromises on cybersecurity.”
+Beneva conducted extensive in-house testing to evaluate Zscaler Internet Access (ZIA), part of the Zscaler Zero Trust Exchange platform, and compare it with comparable solutions in the market. “If I know of a vulnerability in a security solution, you can bet that hackers know it too,” he added. “When it comes to cybersecurity, there is no such thing as ‘good enough’.”
+It became clear that ZIA was the only solution that Beneva could trust for its endpoint, with full inspection of all the network’s layers, not just at DNS level. Using the product is also highly intuitive for Beneva’s security analysts, yet backed up by comprehensive documentation and online help. “Zscaler offers a comprehensive security solution for best securing both users and applications,” noted Tétreault. “It passed every one of our security tests, while competing solutions had shortcomings. Ultimately, the decision to implement Zscaler was a ‘no brainer’.”
+"Our customers trust Beneva with their personal information and depend on the company to be there to assist them when they need it most. We make no compromises on cybersecurity."
+  — Beneva
+"If I know of a vulnerability in a security solution, you can bet that hackers know it too. When it comes to cybersecurity, there is no such thing as ‘good enough’."
+  — Beneva
+"Zscaler offers a comprehensive security solution for best securing both users and applications. It passed every one of our security tests, while competing solutions had shortcomings. Ultimately, the decision to implement Zscaler was a ‘no brainer’."
+  — Beneva
+"When it comes to cybersecurity, there is no such thing as ‘good enough’. Zscaler passed every one of our security tests."
+  — Jérôme Tétreault, Security Architecture Specialist, Beneva
+
+--- Progressive rollout minimizes risk of business disruptions ---
+With a full cloud platform, Beneva has gradually deployed clients on endpoints while limiting any potential negative impacts on end users. Constructive feedback has also enabled the business to adjust rules and improve its processes even further. Beneva works with tech giants such as Microsoft and AWS, and the applications it uses daily are tightly connected to these cloud platforms. This ensured the fastest paths for users, and the business achieved new levels of productivity as a result.
+ZIA is a fundamental component of the Zscaler Zero Trust Exchange platform, which eliminates the cost and complexity of the traditional secure web gateway approaches that were previously adopted by SSQ and La Capitale. By moving security to a globally distributed cloud, Zscaler brings protection close to every user regardless of location. Beneva can scale this protection easily and give users identical protection, no matter where they connect—all while minimizing network and appliance infrastructure.
+“Deployment was a breeze. All we needed was to integrate authentication with Microsoft Azure ID, which took about an hour,” Tétreault explained. “As with any solution, customizing security policies takes a little longer and exceptions may be discovered along the way. We did a progressive rollout over a few weeks to minimize the risk of business disruptions.”
+Zscaler was the first joint IT project to be completed across the newly merged business. “Implementation was a great success,” Tétreault added. “We shone!”
+"Deployment was a breeze. All we needed was to integrate authentication with Microsoft Azure ID, which took about an hour. As with any solution, customizing security policies takes a little longer and exceptions may be discovered along the way. We did a progressive rollout over a few weeks to minimize the risk of business disruptions."
+  — Beneva
+"Implementation was a great success."
+  — Beneva
+"Zscaler allowed us to secure an entire pillar of our security architecture with minimal effort."
+  — Jérôme Tétreault, Security Architecture Specialist, Beneva
+
+--- Enhanced security for remote workers ---
+ZIA is now standardized across both La Capitale and SSQ. Remote workers have better security and the company’s visibility has been improved with in-depth reporting logs. Faster access to business-critical applications also enhances user experience, and WAN congestion is reduced as most remote worker traffic is diverted away from the corporate network.
+Unsecured cloud resources can enable data leakage, malware proliferation, loss of visibility, and noncompliance. That’s why Beneva also uses the Zscaler Cloud Access Security Broker (CASB) as part of the comprehensive Zero Trust Exchange. It protects data, stops threats and ensures compliance across SaaS and laaS.
+“For us, an important feature is the ability to restrict potential leakage of sensitive information to public cloud,” said Tétreault. “Zscaler data protection features allow downloading from file sharing sites but not uploading. Web application control allows users to receive documents without having the security team constantly allowing and removing exceptions, which was a major pain point in the past.”
+Beneva was initially concerned its security department would be overwhelmed with a large volume of exception requests. However, the ability to post a warning page and restrict sending of information to uncategorized domains has allowed the company to permit consultation of the site without compromising on security. This has avoided numerous requests and end user frustration.
+“I’d recommend any organization deploying web and data security to carefully craft its policies,” Tétreault commented. “Configuration is key. Zscaler deployment specialists helped us get the most out of the product.”
+"For us, an important feature is the ability to restrict potential leakage of sensitive information to public cloud. Zscaler data protection features allow downloading from file sharing sites but not uploading. Web application control allows users to receive documents without having the security team constantly allowing and removing exceptions, which was a major pain point in the past."
+  — Beneva
+"I’d recommend any organization deploying web and data security to carefully craft its policies. Configuration is key. Zscaler deployment specialists helped us get the most out of the product."
+  — Beneva
+
+--- Securing entire pillar with minimal effort ---
+With Zscaler, Beneva can address several areas of security with a single solution that covers basic web filtering as well as other critical elements, including data loss prevention and malware protection. While the integration process was straightforward, Tétreault credits much of its success to their Zscaler customer success manager, who was on hand after deployment to help the business improve its security even further.
+Looking to the future, Tétreault plans to look at Zscaler Private Access™ (ZPA™), a cloud service that uses a distributed architecture to provide secure access to private applications running on-prem or in the public cloud, with an end goal of further simplifying security management.
+“Compounded by staff shortages, staying ahead is challenging,” said Tétreault. “Zscaler allowed us to secure an entire pillar of our security architecture with minimal effort, enabling us to speed up the entire security program. We feel very confident that we’re protected and that business operations won’t be compromised. Deploying Zscaler has proved simple, secure and efficient.”
+"Compounded by staff shortages, staying ahead is challenging. Zscaler allowed us to secure an entire pillar of our security architecture with minimal effort, enabling us to speed up the entire security program. We feel very confident that we’re protected and that business operations won’t be compromised. Deploying Zscaler has proved simple, secure and efficient."
+  — Beneva
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Ransomware
+- Data Security

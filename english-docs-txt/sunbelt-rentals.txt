@@ -1,0 +1,42 @@
+DOCUMENT TITLE: Sunbelt Rentals Simplifies Access and Architecture
+SUBTITLE: with the Zscaler Zero Trust Exchange
+CUSTOMER: Sunbelt Rentals
+
+=== COMPANY OVERVIEW ===
+Sunbelt Rentals is a leading provider of tools, heavy machinery, HVAC solutions, and other equipment to support any job across a spectrum of agricultural, construction, entertainment, manufacturing, marine, mining, recreation, and utility purposes, among many more.
+Industry: Services
+Headquarters: Fort Mill, South Carolina, USA
+Company Size: 18,000+ employees across 1,100+ locations
+Source URL: https://www.zscaler.com/customers/sunbelt-rentals
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Find a partner that provides secure connectivity to support a hybrid working model and a move toward sustainable remote access
+Key Results:
+  * Delivers platform security that’s consistent and easy to use
+  * Provides direct app connectivity, keeping user traffic off the network
+  * Enforces consistent, centralized policy regardless of device
+  * Protects users from malicious traffic and unknown destinations
+  * Ensures a frictionless user experience from endpoint to destination
+
+=== KEY QUOTES ===
+"[Zscaler] zero trust architecture is going to allow us to really bring the application, the data, and the people together in ways that we haven't been able to accomplish in the past."
+  — JP Saini, Chief Digital & Technology Officer, Sunbelt Rentals
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Optimize Digital Experiences
+- Ransomware
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: Sunbelt Rentals Customer Video - JP - Zscaler 4k v7_large
+Video Description: a Sunbelt Rentals Videos video
+
+Transcript Segments:
+[JP Saini (Chief Digital & Technology Officer, Sunbelt Rentals)] (Company overview and operations): Several rentals is a premier leading equipment rental provider across the globe We operate primarily in three countries, US, Canada, and UK with some presence in Europe, primarily about eleven hundred plus locations, catering to a wide variety of customers from b to b to d to c and everything with them.
+[JP Saini (Chief Digital & Technology Officer, Sunbelt Rentals)] (Hurdles in business transformation): Some of the primary hurdles we were trying to cross was really ensuring that we could extend work from anywhere. We are on a very aspirational business transformation journey the multi cloud environment coming in. So we needed an environment that could really help us transact across multi cloud environment.
+[JP Saini (Chief Digital & Technology Officer, Sunbelt Rentals)] (Zero trust and Zscaler selection): So, yeah, talk about the performance and improvement, and efficiency that comes to play. We needed, truth zero trust environment in place where we could lower the barrier, reduce friction without having to go through hoops and focus on productivity and and the leap forward ahead. The selection of Zscaler primarily over some of the competitors we looked at was just the level of aggression and the transformation that the company has gone through at the Zscaler end. I think it's truly built for purpose if you would.
+[JP Saini (Chief Digital & Technology Officer, Sunbelt Rentals)] (Purpose-built for multi-cloud): We look at bringing different platforms, technologies, experiences together versus a traditional player that truly wasn't a purpose built fit for multi cloud, a business transformation to oriented environment where speed to market was a key element for us. Now allowing us to really bring in a true next version of software defined network. That's gonna allow us to truly unleash the power of, this distributed computing. The zero trust architecture is gonna allow us to really bring the application, the data, and the people together in ways that, you know, we haven't been able to accomplish in the, in the past, really leveraging the maturation and scale and the empathetic view that the Zscaler team has brought to the table.
+[JP Saini (Chief Digital & Technology Officer, Sunbelt Rentals)] (Materializing outcomes quickly): It's allowed us to really materialize the outcome of investment, quickly, you know, timely and then do it right the first time around.
+[JP Saini (Chief Digital & Technology Officer, Sunbelt Rentals)] (Recommendation of Zscaler): I would highly recommend Zscaler to other organizations to actually help, folks like myself and, you know, my team members bring some of stakeholders together and help them see through why these investments are important. Why information security has to be key? Why should security be an enabler?
+[JP Saini (Chief Digital & Technology Officer, Sunbelt Rentals)] (Visualizing success): But most importantly, really help you visualize what the success may look like.

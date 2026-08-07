@@ -1,0 +1,64 @@
+DOCUMENT TITLE: UST Enables a Secure, High-Performance User Experience
+SUBTITLE: by Adopting the Zscaler Zero Trust Exchange
+CUSTOMER: UST
+
+=== COMPANY OVERVIEW ===
+UST is a leading worldwide provider of technology and advanced services, with Fortune 500 customers in finance, healthcare, manufacturing, retail, technology, and more. UST’s unique engagement model combines local onsite resources with the cost and quality advantages of offshore operations.
+Industry: High Tech
+Headquarters: Aliso Viejo, California, USA
+Company Size: 30,000+ employees in 30 countries
+Source URL: https://www.zscaler.com/customers/ust
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Centralize web security management, reduce security spend, and provide a more secure, stable internet experience
+Transformation Journey:
+  * After carefully evaluating security tools and services from multiple vendors, UST decided to adopt Zscaler Internet Access to monitor and manage all network traffic across the company.
+Key Results:
+  * Saves approximately 65% compared to the cost of previous on-premises solutions
+  * Reduces the cost of web security services by 40%
+  * Enables real-time alerting and correlation with device logs via behavioral analysis
+  * Maintains robust security for all remote workers, any time, anywhere, through the Zscaler cloud
+  * Provides full inspection of all traffic, even encrypted traffic, with no impact on performance
+
+=== KEY QUOTES ===
+"We were very impressed with the way we could put Zscaler to work immediately, without the need for complex configurations or additional hardware procurements."
+  — Sunil Kanchi, CIO and Chief Investment Officer, UST
+
+=== CASE STUDY DETAILS ===
+
+--- Finding a way to ease growing pains ---
+In the throes of rapid expansion, UST needed a way to centralize management for its web security, reduce spend on security appliances, and provide a more secure and consistent internet experience for users across its multiple worldwide locations.
+Like many organizations, UST had been using on-premises web security appliances for internet access at its branch locations. According to Praveen Raveendran, Head of IT at UST, this approach was starting to take its toll. The IT team spent an excess of its valuable time setting up, upgrading, and managing appliances in an effort to maintain high availability. In addition, frequent unplanned downtime resulted in performance issues that impacted employee productivity. UST also bore the burden of steep hardware licensing and maintenance costs.
+“Our legacy infrastructure was cumbersome and expensive to run, with an inflexible licensing model. The growing array of devices and ISPs in use meant that staying on top of potential security vulnerabilities was becoming increasingly complex,” said Ranjith Ravindran, Systems Architect at UST. “Indeed, many offices had to be separately managed, which meant extra workloads for the global IT support team.”
+"Our legacy infrastructure was cumbersome and expensive to run, with an inflexible licensing model. The growing array of devices and ISPs in use meant that staying on top of potential security vulnerabilities was becoming increasingly complex. Indeed, many offices had to be separately managed, which meant extra workloads for the global IT support team."
+  — Ranjith, UST
+
+--- Inconsistent security, complex management, and high costs drive change ---
+As the company continued on its growth path, securing core IT infrastructures became more challenging than ever before—in part because there was little consistency in the way branch offices handled security. When new offices were launched, there was no straightforward process for deploying IT security and internet connectivity. Typically, tools and hardware appliances were purchased and deployed on an ad-hoc basis at each individual office, which complicated management.
+Security was also a top concern. At the time, all internet traffic was routed through on-premises proxy solutions, which mainly worked as URL filters rather than providing comprehensive malware detection and protection.
+As time passed, deploying security policies consistently across multiple devices was becoming onerous. Along with the day-to-day complexity of managing a distributed on-premises web security solution, UST faced the added expense of upgrading its in-house security software at least every three years. The IT team also needed a better web security solution for the company’s remote workforce of about 7,000 employees (at the time).
+“We were finding that we had to make significant investments to ensure redundancy, even when the offices themselves were quite small,” explains Praveen Raveendran, Head of IT at UST. “We came to the realization that it was time to find an alternative approach to our IT security.”
+"Staying on top of potential security vulnerabilities was becoming increasingly complex."
+  — Ranjith Ravindran, Systems Architect, UST
+
+--- Zscaler deployment puts an end to appliances while fortifying security ---
+After carefully evaluating security tools and services from multiple vendors, UST decided to adopt Zscaler Internet Access to monitor and manage all network traffic across the company. Over a two-month period, web security gateway appliances in each office location were removed, and all network traffic—including mobile—was directed to the Zscaler cloud-based security service.
+Zscaler Internet Access has completely transformed UST’s security model with a direct-to-cloud security stack that protects users and offices across all the company’s locations. With no need for costly on-site hardware or software deployments, Zscaler applies multiple technologies, such as cloud firewall, content and URL filtering, and bandwidth control, to ensure internet security across every port and protocol. Able to process hundreds of billions of transactions per day across a network of more than 150 global data centers, Zscaler scans every byte of traffic—including encrypted traffic—for malicious content before it ever reaches the end user. Every time a new threat is detected by Zscaler, it is immediately blocked for every device and every use.
+"We came to the realization that it was time to find an alternative approach to our IT security."
+  — Praveen Raveendran, Head of IT, UST
+
+--- Full visibility, logging, inspection, and traffic control ---
+Zscaler checks all web requests and responses and logs complete transaction details. All user access to the internet is authenticated using SAML/ADFS services.The collected data is then used to create real-time reports. These provide UST with full visibility to traffic and help the IT team determine whether existing controls are effective and if additional controls could be advantageous.
+In addition, SSL interception and inspection of HTTPS traffic prevents employees from using proxy anonymizers to bypass company policy and access blocked websites. UST also takes advantage of the Zscaler Nanolog™ Streaming Service, which feeds logs to UST’s security information and event management (SIEM) and cloud access security broker (CASB) solution to provide complete visibility into internet access activity across all UST locations. This user behavior data enhances actionable intelligence from the SIEM and CASB solutions and enables more accurate threat detection and containment. UST also planned to extend this capability to all remote users with laptops and tablets.
+Zscaler’s multiple connectivity options provide UST with flexible policy enforcement. With this approach, internet access can be provisioned based on the IP address of the machine or the user ID. Because Zscaler provides a fully managed service, oversight of internet policies and reporting is accomplished via a single, centralized portal. This helps the IT team ensure consistent protection for all UST users.
+Providing required bandwidth for UST’s business websites was another key requirement. By deploying Zscaler Bandwidth Control, the IT team can make sure that network usage is in line with corporate guidelines and bandwidth for core business applications and cloud services and be prioritized over less critical traffic.
+"Our legacy infrastructure was cumbersome and expensive to run, with an inflexible licensing model."
+  — Ranjith Ravindran, Systems Architect, UST
+
+--- Zscaler’s compelling value proposition ---
+Now that Zscaler is the standard security platform at UST, overhead has been substantially reduced. Rather than monitoring and managing hardware appliances at each office, the IT team can focus on tasks that add business value, like migration to Microsoft 365.
+With Zscaler, UST has eliminated locked-in capex investments in hardware, saving approximately 65% of the cost incurred for on-premises solutions in the past. Zscaler also reduced the cost of UST’s web security services by 40%.
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Ransomware

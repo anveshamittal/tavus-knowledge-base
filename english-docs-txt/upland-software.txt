@@ -1,0 +1,105 @@
+DOCUMENT TITLE: Upland Software Builds Customer Trust and Gains a Competitive Edge with Its 100% Zero Trust Architecture
+SUBTITLE: Zscaler secures software development workflows in AWS, enables secure and reliable access for a global remote workforce, and protects high-value intellectual property
+CUSTOMER: Upland Software
+
+=== COMPANY OVERVIEW ===
+Upland Software delivers AI-powered knowledge and content management software that helps enterprises unlock critical knowledge, automate content workflows, and drive measurable ROI
+Industry: High Tech
+Headquarters: Austin, Texas
+Company Size: 1,000+ employees in 42 countries
+Source URL: https://www.zscaler.com/customers/upland-software
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 48.4M: policy violations prevented in 3 months
+- 50%: more visibility
+- 15%: reduction in cyber insurance costs
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Traditional firewalls and VPNs were insufficient to secure cloud-first infrastructure and an AI-driven development environment
+  * The remote global workforce faced connectivity challenges using both unsecured BYOD and managed devices
+  * The company lacked a cohesive and comprehensive approach to protecting valuable intellectual property and other sensitive data
+Transformation Journey:
+  * Rinewalt and his team launched Upland’s zero trust transformation by transitioning the development team of approximately 500 users from slow-performing, risky VPNs to Zscaler Private Access (ZPA).
+  * Next on the roadmap was deploying Zscaler Internet Access (ZIA) to provide zero trust access to the internet and SaaS apps—Microsoft 365, SAP, Salesforce, Snowflake, and more—for the entire global population of 1,250 remote internal and third-party users (at least one-third of which uses personal devices for work).
+  * With its business rooted in AI-powered software development, Upland’s top priority is securing its intellectual property.
+Key Results:
+  * Gains a stronger competitive edge by leveraging cloud-native zero trust to secure its cloud-first development environment
+  * Offers an exceptional user experience, increasing productivity for users everywhere, even those who previously had poor internet connectivity
+  * Supports AI innovation while providing guardrails against data exfiltration and oversharing
+
+=== KEY QUOTES ===
+"Zscaler is the only vendor in the zero trust space with a robust and stable cloud-native platform that aligns with our AI-driven business goals."
+  — Rick Rinewalt, CTO, Upland Software
+
+=== CASE STUDY DETAILS ===
+
+--- Choosing the right zero trust vendor for securing AI innovation in the cloud ---
+Upland Software provides more than 1,000 enterprise customers worldwide with AI-powered knowledge and content management software to help them enhance customer and employee experiences and meet compliance requirements. The company delivers specialized cloud solutions powered by a robust, enterprise-grade infrastructure, which it views as key a differentiator and business enabler.
+Over the past few years, CTO Rick Rinewalt led the company’s transformation from a perimeter-based network architecture with 26 on-premises data centers inherited from M&As to a 100% cloud-first operation centralized in AWS. To secure the new cloud environment, Upland Software needed to move away from its firewalls and VPNs, which were complex to manage, offered inadequate protection, and incurred significant costs. Rinewalt and his team sought a comprehensive cloud-native solution that would support AI innovation, provide secure access for the globally distributed workforce, and safeguard intellectual property and other sensitive data.
+“With users across 42 countries—many using their personal devices to access critical systems—we leaned heavily into the zero trust concept of never trust, always verify. We needed a comprehensive, consolidated platform with identity-, context-, and role-based access control, data protection, and full visibility into our environment. Our legacy vendors were unable to provide a cohesive solution. Zscaler is the only vendor in the zero trust space with a robust and stable cloud-native platform that aligns with our AI-driven business goals,” said Rinewalt.
+"With users across 42 countries—many using their personal devices to access critical systems—we leaned heavily into the zero trust concept of never trust, always verify. We needed a comprehensive, consolidated platform with identity-, context-, and role-based access control, data protection, and full visibility into our environment. Our legacy vendors were unable to provide a cohesive solution. Zscaler is the only vendor in the zero trust space with a robust and stable cloud-native platform that aligns with our AI-driven business goals."
+  — Rinewalt, Upland Software
+
+--- Phase 1: Switching from VPNs to zero trust in the AWS DevOps environment ---
+Rinewalt and his team launched Upland’s zero trust transformation by transitioning the development team of approximately 500 users from slow-performing, risky VPNs to Zscaler Private Access (ZPA).
+In just over two months, this cohort was provided with least-privileged, direct access to project-specific resources, including private apps, repositories, APIs, and third-party tools hosted in AWS.
+ZPA applies consistent security policies to employees, contractors, and partners on the development team, regardless of where they work or what devices they use. It provides users with a smoother, faster, and more reliable experience while reducing the attack surface and preventing lateral movement of threats across the cloud.
+“We appreciate the flexibility of Zscaler Private Access to secure workflows for code development over the entire software development cycle for all our solutions—regardless of development methodology or the tools used. For example, developers can work on code centrally using various toolkits and services within AWS, they can securely download and upload code if they are syncing a repository, and they can integrate, test, and deliver code changes continuously and reliably as needed,” said Rinewalt.
+"We appreciate the flexibility of Zscaler Private Access to secure workflows for code development over the entire software development cycle for all our solutions—regardless of development methodology or the tools used. For example, developers can work on code centrally using various toolkits and services within AWS, they can securely download and upload code if they are syncing a repository, and they can integrate, test, and deliver code changes continuously and reliably as needed."
+  — Rinewalt, Upland Software
+"Zscaler just works. It’s the easiest solution I've ever used to connect my personal device to the internet and SaaS apps on an airplane."
+  — Bill McCann, VP of Sales, Upland Software
+
+--- Phase 2: Consistent protection and reliable connectivity lead to a safe, exceptional experience wherever users work ---
+Next on the roadmap was deploying Zscaler Internet Access (ZIA) to provide zero trust access to the internet and SaaS apps—Microsoft 365, SAP, Salesforce, Snowflake, and more—for the entire global population of 1,250 remote internal and third-party users (at least one-third of which uses personal devices for work).
+Before ZIA, Upland had firewalls, but no secure remote access solution. The lack of control over managed and unmanaged devices raised concerns about potential data loss. Additionally, the user experience was inconsistent—especially for users in remote locations with poor internet service who were bogged down by slow performance and unreliable connectivity.
+“With ZIA, we were able to resolve connectivity problems for users in remote areas across the globe. Zscaler’s 160 points of presence have been a big help, along with the ability to optimize access for Starlink and other satellite services. The user experience has changed significantly for the better—it’s like night and day. The other solutions we evaluated had no way to deal with these situations,” observed Rinewalt.
+The user experience has also improved dramatically for users on the go. As VP of Sales Bill McCann attested, Zscaler greatly enhances his productivity while he is travelling: “Zscaler just works. It’s the easiest solution I've ever used to connect my personal device to the internet and SaaS apps on an airplane.”
+Rinewalt and his team are rolling out ZIA’s other functionalities step by step, starting with full TLS/SSL traffic inspection to enhance visibility, block hidden malware, and prevent data exfiltration. They also rely on URL filtering to protect users from malicious web content by enforcing granular access policies. AI-powered advanced threat protection provides multilayered protection against ransomware, zero-day attacks, and other sophisticated threats.
+Continuing with this methodical approach, Rinewalt replaced all of Upland’s legacy firewalls with Zscaler Zero Trust Firewall, which does what no appliance could do: inspect all traffic across on all ports and protocols and offer identical protection for all users, locations, and cloud instances. He and his team are looking forward to utilizing ZIA’s sandbox and browser isolation capabilities in the near future.
+"With ZIA, we were able to resolve connectivity problems for users in remote areas across the globe. Zscaler’s 160 points of presence have been a big help, along with the ability to optimize access for Starlink and other satellite services. The user experience has changed significantly for the better—it’s like night and day. The other solutions we evaluated had no way to deal with these situations."
+  — Rinewalt, Upland Software
+"Zscaler just works. It’s the easiest solution I've ever used to connect my personal device to the internet and SaaS apps on an airplane."
+  — Bill McCann, VP of Sales, Upland Software
+
+--- Phase 3: Ensuring unified data security in a cloud development environment ---
+With its business rooted in AI-powered software development, Upland’s top priority is securing its intellectual property. Rinewalt and his team found that legacy tools were insufficient because they don’t follow the user or protect data in the cloud. They also were unable to inspect encrypted traffic at scale for potential data loss and exfiltration.
+To ensure data security and visibility across the product development environment—AWS, Microsoft CoPilot (GenAI), and agentic AI technologies—the team implemented the standard version of Zscaler Data Security. It discovers and protects both structured and unstructured sensitive data in use, in motion, and at rest across all leakage channels and locations, scaling to inspect encrypted traffic. When policy violations occur, Zscaler issues alerts to block unauthorized transfer of data. It also monitors for shadow IT to prevent unauthorized data sharing. Zscaler automatically discovers sensitive data in AI apps, provides a view into app usage details, and monitors user interactions, including prompt inputs. This level of visibility ensures consistent blocking across potentially risky AI apps and behaviors. Zscaler shields the AI development environment from data poisoning, prompt injection attacks, and inadvertent data sharing.
+“With Zscaler Data Security, our developers can confidently push the boundaries of AI innovation. It also assures our customers that every solution in our portfolio is built with security in mind throughout the product lifecycle,” said Rinewalt.
+"With Zscaler Data Security, our developers can confidently push the boundaries of AI innovation. It also assures our customers that every solution in our portfolio is built with security in mind throughout the product lifecycle."
+  — Rinewalt, Upland Software
+"Zscaler is truly a business enabler, as it dovetails perfectly with our commitment to AI innovation and our highly focused product portfolio."
+  — Rick Rinewalt, CTO, Upland Software
+
+--- Simplifying today to accelerate tomorrow ---
+Since its inception in 2010, Upland Software has grown its portfolio through strategic acquisitions of innovative technology entities that align with its core functional areas—from business operations and legal to marketing and project management. The company has had 31 acquisitions, which resulted in a complex infrastructure. Its recent migration to a cloud-first environment secured by Zscaler has significantly minimized complexity, manageability, and connectivity issues.
+In the past few months, Upland has had three divestitures—all of which were streamlined and expedited by Zscaler’s cloud architecture. Zscaler helped with logical separation of divested users, assets, and workflows with minimal disruption.Throughout this sensitive process, Zscaler blocked separated users from overarching access to Upland’s apps and provided comprehensive cyber threat protection. With the help of Zscaler, the divested companies were able to stand up their new infrastructures, migrate critical apps, and give their users zero trust access during the transition.
+“Zscaler streamlined our divestitures by eliminating the need for complex point-to-point or private VPN tunnels. It’s convenient and hassle-free, reducing our time to completion to as little as 60 days,” explained Rinewalt.
+"Zscaler streamlined our divestitures by eliminating the need for complex point-to-point or private VPN tunnels. It’s convenient and hassle-free, reducing our time to completion to as little as 60 days."
+  — Rinewalt, Upland Software
+
+--- Unlocking cyber resilience, agility, and cost savings ---
+Zscaler has delivered a wide range of advantages to Upland: a more robust security posture, improved operational efficiency, and savings.
+The scalable Zscaler Zero Trust Exchange platform is successfully accommodating Upland’s escalating enterprise demands by processing 113.4 TB of traffic in a single quarter, up massively from 0.5 TB the previous year. In the same timeframe, it prevented 48.4 million policy violations and blocked 819,077 security threats, underscoring its proven efficacy.
+Rinewalt also articulated how Zscaler has improved the efficiency of the security team. “Zscaler gives us full visibility into our environment, whereas before, we had less than 50% visibility. And onboarding of users and their devices—especially BYOD—is simpler and faster,” he noted. “Additionally, 40% to 60% of the security team’s time has been freed up for more strategic projects.
+Since deploying Zscaler, Upland’s cyber insurance premium was reduced by 15%—“better than a defensive driving discount,” as Rinewalt noted. Additionally, Upland has saved millions in CAPEX costs by retiring its expensive security appliances.
+"Zscaler gives us full visibility into our environment, whereas before, we had less than 50% visibility. And onboarding of users and their devices—especially BYOD—is simpler and faster."
+  — Rinewalt, Upland Software
+"better than a defensive driving discount."
+  — Rinewalt, Upland Software
+"Zscaler gives us full visibility into our environment, whereas before, we had less than 50% visibility."
+  — Rick Rinewalt, CTO, Upland Software
+
+--- AI innovation backed by zero trust drives competitive advantage ---
+Upland Software's 100% zero trust environment has solidified its position as a leader in delivering AI-driven, specialized solutions for its enterprise customer base, which includes Fortune 1000 companies. Its robust and secure cloud-first infrastructure is a distinct competitive advantage.
+“Zscaler is truly a business enabler, as it dovetails perfectly with our commitment to AI innovation and our highly focused product portfolio. Thanks to our enterprise-grade infrastructure and security, we can successfully serve really precise customer needs,” said McCann.
+Rinewalt added that conversations during the sales cycle inevitably lead to security. “When our customers or prospects drill down to questions about how we handle security, we showcase the Zscaler platform and step them through how it minimizes risk throughout our secure Agile development process and our overall business operations. Zscaler has been instrumental in helping us further strengthen customer trust,” he said.
+"Zscaler is truly a business enabler, as it dovetails perfectly with our commitment to AI innovation and our highly focused product portfolio. Thanks to our enterprise-grade infrastructure and security, we can successfully serve really precise customer needs."
+  — McCann, Upland Software
+"When our customers or prospects drill down to questions about how we handle security, we showcase the Zscaler platform and step them through how it minimizes risk throughout our secure Agile development process and our overall business operations. Zscaler has been instrumental in helping us further strengthen customer trust."
+  — Rinewalt, Upland Software
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Data Security
+- Zero Trust

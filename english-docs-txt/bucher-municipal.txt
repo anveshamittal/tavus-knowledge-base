@@ -1,0 +1,108 @@
+DOCUMENT TITLE: Bucher Municipal Replaces SD-WAN with Zero Trust at 20 Global Sites, Reducing Risk and Slashing SecOps Overhead
+SUBTITLE: Zscaler shrinks the attack surface, eliminates lateral threat movement, provides a reliable and secure user experience, and simplifies operations
+CUSTOMER: Bucher Municipal
+
+=== COMPANY OVERVIEW ===
+A leading supplier of vehicles and equipment for cleaning operations
+Industry: Manufacturing
+Headquarters: Niederweningen, Switzerland
+Company Size: 2,500 employees globally
+Source URL: https://www.zscaler.com/customers/bucher-municipal
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 9.7M: policy violations prevented in 90 days
+- 17,343: security threats blocked in 3 months
+- 95%: reduction of the VPN footprint
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Concerned about breaches and outages, the organization realized that its traditional SD-WAN architecture exposed the organization to threats that could disrupt business operations
+  * The current security infrastructure was insufficient to secure accelerated migration to the cloud
+  * Disparate security tools failed to provide adequate visibility, complicated management, and increased costs
+Transformation Journey:
+  * At the top of the CISO’s to-do list was replacing poorly performing, insecure remote access solutions with zero trust.
+  * Bucher’s SD-WAN and branch firewall setup proved to be costly, complex to manage, and inherently risky.
+Key Results:
+  * Enhances the digital experience and increases productivity by offering users latency-free, direct connectivity to the internet and authorized apps
+  * Ensures business continuity and a strong security posture company-wide while providing users with a streamlined café-like experience anywhere on any device
+  * Simplifies security operations, improves visibility, and cuts costs with a unified, extensible zero trust platform
+
+=== KEY QUOTES ===
+"By implementing ZPA, we are able to reduce 95% of our site-to-site VPN tunnels in 13 global locations… ZPA reduced latency and provided a vastly improved user experience while shrinking our attack surface and preventing lateral movement of threats."
+  — Ádám Kováts, CISO, Bucher Municipal
+
+=== CASE STUDY DETAILS ===
+
+--- Securing the cloud and improving the user experience drive a zero trust modernization initiative ---
+Headquartered in Switzerland, Bucher Municipal is a manufacturing company that provides customers in 140 countries with street cleaning and clearing vehicles and equipment—from street sweepers to snowplows to refuse collectors.
+A few years ago, Bucher experienced a cybersecurity event that triggered a re-evaluation of its legacy infrastructure by CISO Ádám Kováts. The company’s existing SD-WAN setup with firewalls and VPN tunnels at each location was costly and complex to manage, led to performance bottlenecks, and expanded the attack surface. Additionally, with Bucher’s migration to the cloud, the workforce needed the flexibility to access apps from anywhere. These requirements inspired Kováts to embark on a modernization journey by adopting the Zscaler Zero Trust Exchange platform.
+“When we reached out to Zscaler, we had three goals in mind: strengthening our security posture, increasing visibility across our estate, and improving the user experience,” said Kováts. “We chose Zscaler as our partner for its technical excellence, commitment to innovation, and its collaborative engagement.”
+"When we reached out to Zscaler, we had three goals in mind: strengthening our security posture, increasing visibility across our estate, and improving the user experience. We chose Zscaler as our partner for its technical excellence, commitment to innovation, and its collaborative engagement."
+  — Bucher Municipal
+
+--- Phase 1: Enabling zero trust access to the internet, SaaS, and cloud-hosted private apps ---
+At the top of the CISO’s to-do list was replacing poorly performing, insecure remote access solutions with zero trust. Before Zscaler, internet traffic was backhauled through the data center in Switzerland, causing significant latency for remote users and for offices in different locations. According to Kováts, some employees even carried two laptops in order to be able to work online. One of his biggest concerns was the possibility of network outages that could potentially prevent users from accessing internal apps and resources, especially those residing in Microsoft Azure. Users also needed unrestricted access to SaaS apps, such as OneDrive and other core components of Microsoft 365, to maintain business continuity.
+Kováts began the transition to zero trust by rolling out Zscaler Internet Access (ZIA) to a small group of users, providing them with identity- and role-based secure zero trust access to SaaS apps and the internet. Once he and his team fine-tuned corporate policies, they rolled out ZIA to the entire user population. Now everyone at Bucher is assured of a smooth and secure experience. SSL/TLS traffic inspection prevents data exfiltration and propagation of hidden malware, and always-on, AI-powered advanced threat protection detects and blocks ransomware, phishing, and malicious web content.
+To provide users with secure access to private apps residing in Azure, the Bucher team deployed Zscaler Private Access (ZPA). Outdated VPN systems resulted in latency and lacked fine-grained controls for defining user-specific policies. The VPNs also exposed IP addresses to the internet, expanding the attack surface and making the organization more vulnerable to attackers.
+“By implementing ZPA, we are able to reduce 95% of our site-to-site VPN tunnels in 20 global locations across five continents. ZPA reduced latency and provided a vastly improved user experience while shrinking our attack surface and preventing lateral movement of threats,” said Kováts.
+"By implementing ZPA, we are able to reduce 95% of our site-to-site VPN tunnels in 20 global locations across five continents. ZPA reduced latency and provided a vastly improved user experience while shrinking our attack surface and preventing lateral movement of threats."
+  — Bucher Municipal
+"A major advantage of Zero Trust Branch is that we stop lateral movement of threats… and reduce our attack surface while saving hundreds of thousands of dollars by retiring SD-WAN."
+  — Ádám Kováts, CISO, Bucher Municipal
+
+--- Phase 2: Replacing SD-WAN with zero trust for secure, café-like user experience from any location ---
+Bucher’s SD-WAN and branch firewall setup proved to be costly, complex to manage, and inherently risky. The organization realized that this infrastructure did not provide adequate protection against today’s sophisticated threats. By connecting everything to everything, the legacy architecture expanded the attack surface and enabled lateral movement, allowing ransomware and other threats to move between branches, the cloud, and the data center. Tool sprawl further limited visibility and drove up operational costs.
+Kováts and his team addressed these challenges by deploying Zscaler Zero Trust Branch across 13 global production sites. With Zero Trust Branch, Bucher no longer extends the network to every location. Instead, traffic is forwarded to the Zscaler Zero Trust Exchange over any broadband or 5G connection for inline inspection and policy-based, least-privileged access. Users, workloads and devices at every branch are automatically segmented to stop lateral movement and contain threats.
+Now all Bucher employees—at headquarters, at branches, at home, or on the road—enjoy a consistent and secure café-like experience with fast access to all authorized apps from any device over Wi-Fi. The team also benefits, gaining unified visibility and simplifying operations. As part of the transformation, Kováts also retired all remaining branch firewalls.
+“While our legacy SD-WAN was a great transitional technology, it is the opposite of zero trust, since it enables lateral movement by design. A major advantage of Zero Trust Branch is that we stop lateral movement of threats across our infrastructure and reduce our attack surface while gaining better visibility, improving performance, and boosting our defenses with comprehensive security capabilities,” he observed.
+
+--- Next up: A solid commitment to platform expansion and optimization ---
+The next phase of Bucher’s zero trust journey will focus on further improving the user experience and system performance. To gain unified visibility across devices, networks, and apps, Kováts plans to roll out Zscaler Digital Experience (ZDX) in the near term. With ZDX, Bucher’s network operations and help -desk can monitor performance in real time, identify the source of user issues, and resolve them more quickly. This helps users remain productive and reduces the workload for support staff.
+Another top priority is implementing Zscaler Zero Trust Device Segmentation. This agentless solution isolates each device into a network of one. By confining threats, it prevents them from spreading laterally across the network. Moreover, Zero Trust Device Segmentation automatically discovers and classifies devices, enforcing policies for device-to-device communication based on device type, identity, health, and context. This solution will enable Kováts to phase out costly, high-maintenance firewalls and unscalable manual segmentation processes.
+To support Bucher’s continued migration to the cloud, he is looking forward to exploring Zscaler Zero Trust Cloud to provide secure connectivity and communication between workloads, the internet, and SaaS apps. With many of the organization’s mission-critical apps residing in Azure, securing cloud workload traffic is business-critical. Through microsegmentation, Zero Trust Workload isolates and protects high-risk apps. Kováts is especially interested in the Zscaler Zero Trust Gateway, a service managed entirely by Zscaler that will eliminate the need for additional cloud resources and further simplify operations.
+Building a more robust data defense is another key initiative for Bucher. Kováts will be evaluating Zscaler Data Security to safeguard sensitive data of all types (from customer data to intellectual property) in motion, in use, and at rest. Additionally, the organization is looking to Zscaler to help prevent data leakage and oversharing in GenAI apps like ChatGPT, which they are leveraging to accelerate innovation.
+Finally, implementing Zscaler Deception is also on the horizon to detect and block both human and AI-orchestrated attacks and prevent them from gaining access into the environment. Deception uses realistic decoys to lure and trap attackers and will help the team proactively contain breaches in real time.
+"Zscaler’s technical excellence, its commitment to innovation, and its collaborative engagement made it the perfect partner for Bucher Municipal."
+  — Ádám Kováts, CISO, Bucher Municipal
+
+--- Positive results across the board ---
+Adopting a zero trust model has empowered Kováts and his team to limit the likelihood and the impact of a potential breach. Even if a system is compromised, attackers cannot move to other systems and or other areas of the infrastructure, ensuring that the organization can do business without interruption. The zero trust architecture also minimizes the attack surface by making internal apps invisible to the internet, “which means bad actors can never find you,” as Kováts pointed out.
+Since deploying Zscaler, Bucher has seen major improvements in its overall security posture. In a 12-month period, it has prevented 707.01 million policy violations and blocked 260,160 threats.
+“Another big advantage of Zscaler is the flexibility it offers our users to work securely from anywhere, anytime. On the IT side, we can fine-tune the platform for our particular use cases and now have vastly improved visibility. Zscaler enables us to monitor what our users are doing and determine how to better secure our infrastructure while providing them with access to the resources they need to do their jobs,” said Kováts.
+The transition to Zscaler has not only lowered costs by reducing or eliminating dependence on legacy solutions like SD-WAN, VPN, and firewalls, it has also simplified Bucher’s security operations. Previously, team members managed separate security solutions and were burdened with manually updating and enforcing policies across disjointed tools, each with their own dashboard. Zscaler’s unified single-view platform and automated processes have significantly boosted efficiency, freeing up staff for more strategic projects while providing consistent policies for all users, devices, and locations.
+"Another big advantage of Zscaler is the flexibility it offers our users to work securely from anywhere, anytime. On the IT side, we can fine-tune the platform for our particular use cases and now have vastly improved visibility. Zscaler enables us to monitor what our users are doing and determine how to better secure our infrastructure while providing them with access to the resources they need to do their jobs."
+  — Bucher Municipal
+
+--- Cultivating a zero trust culture ---
+For Kováts, replacing Bucher’s legacy architecture with a zero trust approach has been more than a technology transformation—it represents a fundamental shift in mindset for his team and for the company as a whole. He noted that a highly focused and measured rollout strategy, along with close collaboration with the Zscaler team, contributed to the success of this initial deployment and to winning company-wide buy-in.
+“It was really amazing to see how quickly our team was able to adapt to Zscaler, especially since we were under a strict deadline to transition from SD-WAN to Zero Trust Branch. The rollout to our global locations was seamless, and we are really proud of what we achieved,” he said. “Our users have enthusiastically embraced the change as well and have become more productive and happier.”
+As Bucher continues on its cloud-first modernization journey, Zscaler will be an integral partner in that effort.
+"It was really amazing to see how quickly our team was able to adapt to Zscaler, especially since we were under a strict deadline to transition from SD-WAN to Zero Trust Branch. The rollout to our global locations was seamless, and we are really proud of what we achieved. Our users have enthusiastically embraced the change as well and have become more productive and happier."
+  — Bucher Municipal
+"Zscaler enables us to monitor what our users are doing and determine how to better secure our infrastructure while providing them with access to the resources they need to do their jobs."
+  — Ádám Kováts, CISO, Bucher Municipal
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust
+- Zero Trust Branch & Cloud
+- SecOps & Endpoint Security
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: Bucher Municipal Replaces Costly, Complex, and Risky SD-WAN with Zero Trust Branch Connectivity
+Video Description: a Customer Testimonials video
+
+Transcript Segments:
+[Ádám Kováts (CISO, Bucher Municipal)] (Company mission and vision): Bucher Municipal empowers societies to improve the quality of life with sustainable and better technologies, solutions and services for a cleaner and safer tomorrow.
+[Ádám Kováts (CISO, Bucher Municipal)] (Legacy SD-WAN limitations): Our legacy environment was based on the traditional SD-WAN infrastructure. The modern work needs more flexibility. People are traveling there on the road and they always need to have secure and fast access to the applications we have.
+[Ádám Kováts (CISO, Bucher Municipal)] (Three pillars of improvement): What we are working on together with Zscaler is to increase really three pillars. One is to increase the security of the infrastructure and our systems. The second pillar is to increase the visibility so we actually know what we have in the company and we can secure it. Circular is really the user experience to make these systems more flexible independently from the location.
+[Ádám Kováts (CISO, Bucher Municipal)] (Reduction in firewalls and VPN): With Zscaler, we reduced the amount of firewalls. Also for the VPN, we've done a drastic reduction.
+[Ádám Kováts (CISO, Bucher Municipal)] (95% reduction in VPN tunnels): So we were able to reduce like ninety five percent of the VPN tunnels we had. We also removed the VPN from the user connectivity.
+[Ádám Kováts (CISO, Bucher Municipal)] (ZIA and ZPA rollout): In the project, we started to roll out ZIA for a smaller group. Once we had the right policies, we rolled it out for all of the users. We started to look for ZPA and how we can actually move towards with the branch connectors to deploy it on the sites and how we can start to replace the SD-WAN.
+[Ádám Kováts (CISO, Bucher Municipal)] (ZDX and Deception implementation): We are looking to improve the user experience and the performance of the systems. Part of this is to move towards and implement ZDX. Once we are on a good track with that, we are looking to move towards the deception. And also we are considering to use Airgap to have micro segmentation.
+[Ádám Kováts (CISO, Bucher Municipal)] (Stopping lateral movement): One big advantage of moving towards the Zero Trust branches compared to SD-WAN is really that we can stop the lateral movement in the infrastructure. They have to be verified and we can stop these new attacks. Moving towards the cloud is really important for us how we can secure this.
+[Ádám Kováts (CISO, Bucher Municipal)] (ZT for workloads and Cloud Connector): With the ZT for workloads, we can have a secure connection to our cloud application. And it was a really good experience to deploy the Cloud Connector in our infrastructure. What we were looking for that time was how we can have a solution that we only need one gateway in the cloud, and how we can do this.
+[Ádám Kováts (CISO, Bucher Municipal)] (East-west traffic monitoring): There is a solution which we introduced both the east and west traffic monitoring and makes it possible to have one solution to manage our cloud with Zscaler. Zscaler helps us to make sure that the users only have access for the applications they have to have access.
+[Ádám Kováts (CISO, Bucher Municipal)] (Client connector for secure access): And with the client connector, it doesn't matter where they are, they always only have the necessary access to what they need.
+[Ádám Kováts (CISO, Bucher Municipal)] (Zero Trust mindset transformation): Zero Trust for me, it's not only just technology, it's more like changing the mindset. What really, really amazing is how our team were able to adopt, how fast they were able to look for this mindset.
+[Ádám Kováts (CISO, Bucher Municipal)] (Strict deadline and rollout success): We had a really strict deadline to move from SD-WAN to Zero Trust branches and Zero Trust connectivity. We were able to roll it out for more than fifteen sites. We can be really proud of what we achieved.
+[Ádám Kováts (CISO, Bucher Municipal)] (Zero Trust is achievable): The Zero Trust is not just a buzzword. With Zscaler, we can actually move towards it and we can achieve it.

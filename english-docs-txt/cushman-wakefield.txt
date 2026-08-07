@@ -1,0 +1,123 @@
+DOCUMENT TITLE: Cushman & Wakefield Mitigates Risk with Intelligent, Automated Vulnerability Management
+SUBTITLE: Zscaler streamlines and automates exposure management, improves secure cloud app access for 52,000+ users, and simplifies branch office connectivity
+CUSTOMER: Cushman & Wakefield
+
+=== COMPANY OVERVIEW ===
+Cushman & Wakefield is a global real estate services firm, managing 5.1B square feet of commercial space
+Industry: Real Estate
+Headquarters: Chicago, Illinois
+Company Size: 52,000 employees in more than 400 offices in 60 countries
+Source URL: https://www.zscaler.com/customers/cushman-wakefield
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 2.3M: Encrypted threats blocked in one quarter
+- 513.2M: policy violations prevented
+- Days: rather than months for M&A integration
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * VPNs and firewalls were ineffective for protecting a fast-growing, cloud-first company with a primarily mobile workforce
+  * The complex and costly SD-WAN infrastructure expanded the attack surface, opened the door to lateral movement of ransomware attacks, and degraded performance
+  * Traditional vulnerability management tools failed to identify the most critical exposure gaps and remediation processes were primarily manual
+Transformation Journey:
+  * Because of the nature of Cushman & Wakefield’s business, many employees—property managers, building engineers, and other technicians—work out in the field.
+  * Hart and his team continue to modernize branch office connectivity while strengthening security with Zscaler Zero Trust Branch.
+Key Results:
+  * Improves the digital experience for remote users and provides consistent security, regardless of location or device
+  * Streamlines branch office connectivity, improves performance, and minimizes lateral threat movement
+  * Enables teams to focus on the risks that matter most with real-time, actionable, and relevant vulnerability information
+
+=== KEY QUOTES ===
+"Zscaler UVM automates processes and arms our technical teams with the right information and context so that they can take appropriate and effective action faster."
+  — Erik Hart, CISO, Cushman & Wakefield
+
+=== CASE STUDY DETAILS ===
+
+--- Shifting from a legacy infrastructure to the cloud ---
+When CISO Erik Hart joined Cushman & Wakefield, his vision was to shift the company’s approach to security away from infrastructure, devices, and appliances to cloud-based security as a service (SECaaS).
+A globally distributed company with hundreds of branch offices and a mobile workforce, Cushman & Wakefield needed to strengthen its security resilience, improve SaaS application performance for users, simplify its architecture, and accelerate M&A integrations.
+In 2019, the company adopted the cloud-native Zscaler Zero Trust Exchange platform to forge ahead with its cloud-first goals even more aggressively. Zscaler has significantly minimized the company’s reliance on the data center and SD-WAN and modernized the company’s vulnerability management tools and processes.
+“We’ve had a big shift in how we operate our business. Given that SaaS is 73% of what powers Cushman & Wakefield, we’re continuing to simplify our infrastructure and shrink the size of our data centers as we move to a cloud-first and partner-first model,” said CISO Erik Hart. “As a security practitioner, my goal is to work with a trusted security partner who can provide a streamlined, simple-to-manage service that has the ability to scale—and that’s exactly where Zscaler fits into our strategy. Its advanced exposure management solution is especially critical for improving and streamlining our ongoing risk management efforts.
+"We’ve had a big shift in how we operate our business. Given that SaaS is 73% of what powers Cushman & Wakefield, we’re continuing to simplify our infrastructure and shrink the size of our data centers as we move to a cloud-first and partner-first model."
+  — Erik Hart, CISO, Cushman & Wakefield
+
+--- Phase 1: The zero trust journey begins with securing SaaS app access for mobile users ---
+Because of the nature of Cushman & Wakefield’s business, many employees—property managers, building engineers, and other technicians—work out in the field.
+Hart sought a security solution that would provide the benefits of a next-generation firewall and other functionalities at a lower cost and as part of a more secure zero trust architecture–with less maintenance and with greater flexibility. He and his team selected Zscaler Internet Access (ZIA), part of the Zero Trust Exchange platform.
+For Hart, the biggest advantage of Zscaler is that it follows the user. No matter where employees work—in the field, at home, or at the office—they have consistent protection and policy enforcement along with fast, direct zero trust access to the internet and SaaS apps such as Microsoft 365, Salesforce, Mimecast, Workday, and SaaS-based real estate apps. Additionally, Zscaler Digital Experience, included with ZIA, further improves the user experience. End-to-end visibility into app, device, and network performance issues enables the network operations and help desk teams to swiftly troubleshoot and resolve problems to keep users productive.
+One of Hart’s primary areas of focus is protecting the company’s systems and sensitive data from advanced attacks, breaches, and insider threats motivated by malice or resulting from carelessness. To prevent compromise, Zscaler performs full TLS/SSL traffic inspection at scale to identify malware and leaked data hidden in encrypted traffic. AI-powered cloud security services find and stop ransomware, phishing, zero day threats, and advanced attacks more effectively, further enhancing protection. In addition, Zscaler protects mobile users and their devices through configurable URL filtering rules and policies that control access to specified categories of websites and sites with high risk scores.
+Cushman & Wakefield also relies on Zscaler Cloud Firewall to inspect all web and non-web traffic across all ports and protocols and for every user location, including branch offices. It quickly shuts down advanced threats and blocks malicious domains while enabling IT to prioritize traffic to business-critical apps over traffic going to YouTube or social media.
+For advanced threats that bypass traditional defenses and attempt to compromise identities, Hart’s team depends on Zscaler Deception, which uses decoys to lure, detect, and intercept attacks before they reach users and their devices.
+“The Zscaler Zero Trust Exchange plays a critical role in keeping threats at bay by minimizing the attack surface. Because a user is connected only to a single app and not to the network, lateral movement of a potential attacker is also eliminated. In case of a compromised user or insider threat, Zscaler Deception can intercept those attacks to stop hidden adversaries.” Hart pointed out.
+
+--- Phase 2: Creating a high-performance, secure café-like branch experience ---
+Hart and his team continue to modernize branch office connectivity while strengthening security with Zscaler Zero Trust Branch.
+Previously, Cushman & Wakefield relied on traditional SD-WANs, which increased the attack surface by extending the network and opened the door to lateral threat movement. They are now setting up new offices following a café-like model with Zero Trust Branch. Users can securely connect to corporate resources without the need for backhauling and costly, complex point-to-point VPNs and firewall appliances that slow down performance and negatively impact the user experience.
+Instead, branches are segmented, forwarding traffic to the Zscaler platform over broadband connections. This simplifies the infrastructure, makes provisioning quick and easy, and improves performance. All traffic is inspected in real time, delivering robust security across the company’s estate.
+"Since deploying the Zscaler Zero Trust Exchange, we’re pleased to say that we’ve had no major security events that negatively affected our clients or users."
+  — Erik Hart, CISO, Cushman & Wakefield
+
+--- Phase 3: Intelligent, automated vulnerability management helps find and fix critical risks faster ---
+For Hart, exposure management is foundational to achieving security maturity. In a push to strengthen Cushman & Wakefield’s security posture and minimize corporate risk, he turned to Zscaler Unified Vulnerability Management (UVM), powered by the Zscaler Data Fabric for Security, to modernize security operations.
+Prior to deployment, technical teams relied on traditional vulnerability management tools and processes. Security operations, infrastructure, and application teams spent hours bogged down in back-and-forth conversations and emails and cumbersome spreadsheets, buried under an overwhelming volume of data from siloed security tools. Hart recognized that the company couldn’t continue to follow the same vulnerability management practices if it wanted its security posture to improve.
+Zscaler changed the company’s entire approach to exposure management. The Data Fabric for Security aggregates, normalizes, and deduplicates data from dozens of security tools to create a single source of truth. It then correlates the data to provide unique insights. UVM leverages that synthesized data to create a centralized, dynamic environment that provides Cushman with context-driven risk scores and enables the team with automated workflows and dynamically updated reports and dashboards.
+As James Huntley, Senior Manager of Information Security, Technical Operations, pointed out, “UVM does not just provide a better format—it’s actionable. It tells our teams what to fix and why it matters.”
+Automated ticketing workflows accelerate time to remediation, enabling Cushman & Wakefield to continually improve its security posture. For example, application and infrastructure owners can log into UVM and view a real-time, prioritized list of vulnerabilities that are relevant only for them. And the support team no longer has to wait for security reports—they get an on-demand, continuously updated view, including recommended remediation actions and context.
+“We’re not debating the data anymore. Zscaler UVM automates processes and arms our technical teams with the right information and context so that they can take appropriate and effective action faster,” remarked Hart. “It helps them prioritize by codifying mitigating controls and focusing on the risks that have the highest potential impact. With UVM, we have significantly reduced the total number of vulnerabilities.
+
+--- Next Up: Fine-tuning compliance, better visibility into risk, continued integrations, and simplifying M&As ---
+As Hart plans for the future, he has four items on his priority list: expanding use cases for UVM, continued security ecosystem consolidation, getting a better handle on Cushman & Wakefield’s security risk profile, and mapping out a strategy to simplify and accelerate the M&A process.
+In the near-term, Hart plans to implement exception management workflows in UVM to support transparency and compliance. If a server is EOL or a fix requires development funding, owners will be able to document the reasons behind delayed remediation and route requests through the approval system. This process will ensure proactive, defensible risk management and avoid noncompliance due to missing data or unrealistic deadlines.
+Streamlining Cushman & Wakefield’s security infrastructure is also top of mind for Hart. He is looking at building a coordinated security ecosystem through additional Zscaler integrations. In particular, he wants to make the most of recent investments in additional CrowdStrike products such as Falcon LogScale (a next-generation SIEM and log management tool), as well as other existing solutions like Mimecast, a cloud-based email security and management system used by all employees.
+“An important action item for me is to look more deeply into how we can increase operational efficiencies by taking full advantage of Zscaler’s OneAPI. We’re looking at ways to broaden threat intelligence sharing, enable better visibility, and engage automation to a greater degree,” said Hart.
+Finally, M&A integration is another area where Hart expects to more fully utilize Zscaler—in light of the fact that the company’s M&A activity is expected to ramp up in the near future. Zscaler will be instrumental in quickly integrating acquired companies as well as getting users up and running on business-critical apps in days rather than months. That’s because the direct-to-app connectivity provided by Zscaler empowers organizations to forego network integration entirely during M&A.
+“So many vendors make big promises, but Zscaler actually does what it says it can do. I see that Zscaler, as a vendor, has a well-defined technology roadmap that provides opportunities for future exploration and expansion,” summarized Hart.
+"An important action item for me is to look more deeply into how we can increase operational efficiencies by taking full advantage of Zscaler’s OneAPI. We’re looking at ways to broaden threat intelligence sharing, enable better visibility, and engage automation to a greater degree."
+  — Hart, Cushman & Wakefield
+"So many vendors make big promises, but Zscaler actually does what it says it can do. I see that Zscaler, as a vendor, has a well-defined technology roadmap that provides opportunities for future exploration and expansion."
+  — Hart, Cushman & Wakefield
+"My goal is to work with a trusted security partner who can provide a streamlined, simple-to-manage service that has the ability to scale—and that’s exactly where the Zscaler Zero Trust Exchange fits into our strategy."
+  — Erik Hart, CISO, Cushman & Wakefield
+
+--- Integrations support an extensible zero trust platform ---
+The interoperability between Zscaler and other strategic solutions in Cushman & Wakefield’s technology ecosystem is fundamental to the company’s cloud-first and zero trust transformation. With its open API, Zscaler simplifies integration with complementary solutions, making consolidated infrastructure and defense-in-depth a reality.
+Zscaler ensures that access to enterprise applications is granted only to those compliant and trusted devices that meet the Zero Trust Assessment (ZTA) score thresholds generated by CrowdStrike Falcon. In addition to bi-directional threat intelligence sharing, the integration between Zscaler and the CrowdStrike next-generation SIEM facilitates the exchange of telemetry data. This enables coordinated actions that drive more accurate and efficient responses to security incidents.
+“The ZTA score, threat intelligence, and automated workflows provide our team with insights into the threat landscape to apply appropriate access policies, reduce the attack surface, prevent lateral movement, and deliver timely threat detection and response,” noted Hart.
+"The ZTA score, threat intelligence, and automated workflows provide our team with insights into the threat landscape to apply appropriate access policies, reduce the attack surface, prevent lateral movement, and deliver timely threat detection and response."
+  — Hart, Cushman & Wakefield
+
+--- Tailoring security to meet clients’ data privacy and compliance requirements ---
+As a global organization, Cushman & Wakefield works with clients of all types, all with varying data privacy requirements and security postures depending on their size and location. The agile, scalable Zscaler architecture enables his team to customize protection as needed.
+“Zscaler gives us the flexibility to address the security and compliance needs of clients in each of our locations without having to invest in additional security point products. We often need strong data loss prevention for our large financial sector clients and other capabilities for a single building that's owned by a real estate investor who wants to look after the needs of his or her tenants. Zscaler can accomplish both and is perfect for us in that regard,” said Hart.
+"Zscaler gives us the flexibility to address the security and compliance needs of clients in each of our locations without having to invest in additional security point products. We often need strong data loss prevention for our large financial sector clients and other capabilities for a single building that's owned by a real estate investor who wants to look after the needs of his or her tenants. Zscaler can accomplish both and is perfect for us in that regard."
+  — Hart, Cushman & Wakefield
+"So many vendors make big promises, but Zscaler actually does what it says it can do."
+  — Erik Hart, CISO, Cushman & Wakefield
+
+--- Scalable security and streamlined infrastructure foster business agility ---
+The positive impacts of Zscaler are readily apparent at Cushman & Wakefield. Not only can the platform scale to process upwards of 20 billion transactions every quarter, it also reduces business risk by monitoring traffic for data leakage and malware. In just three months, Zscaler detected and blocked 2.3 million encrypted threats. Furthermore, Zscaler elevates protection, stopping 513.2M policy violations. “Since deploying the Zscaler Zero Trust Exchange, we’re pleased to say that we’ve had no major security events that negatively affected our clients or users,” remarked Hart.
+Looking at the big picture, Zscaler fully supports the Cushman & Wakefield business model, with its mobile workforce. Zscaler has already eliminated legacy solutions, such as VPNs and firewalls. The net result is a more streamlined IT environment, a superior user experience, a more robust security posture, and greater agility.
+"Since deploying the Zscaler Zero Trust Exchange, we’re pleased to say that we’ve had no major security events that negatively affected our clients or users."
+  — Hart, Cushman & Wakefield
+
+--- How zero trust addresses the needs of a global company ---
+Over the course of his career, Hart noted that one of the biggest digital transformation lessons he has learned is the importance of evolving the focus of security away from infrastructure and toward supporting how, where, and when employees perform their jobs. That’s why zero trust is central to his philosophy of less infrastructure and more attention to creating a seamless and secure digital experience for all users.
+By moving core security to the cloud with Zscaler, Cushman & Wakefield can protect its users anywhere. With zero trust architecture and UVM, Hart and his team have not only gained visibility, they have reduced response time when protecting the organization and its assets from today’s sophisticated threats.
+“Because of our business model, we need to prioritize remote work enablement. As a CISO of a global company, with global responsibilities, it simply makes more sense for me to prioritize communicating with distant geos over commuting to an office most days,” he explained. “Zscaler establishes a centralized view of where users are connecting from, which devices they are using, and the posture of those devices. And unlike our legacy security stack, it has helped us become more efficient by consolidating practices like monitoring and blocking.”
+Hart underscored that Zscaler has enabled Cushman & Wakefield to swiftly meet its security and technology goals without getting bogged down with “an unhelpful legacy infrastructure that doesn't address immediate needs.” By deploying UVM in particular, Cushman & Wakefield has taken a big leap toward modernizing exposure management and supporting a proactive approach to cybersecurity.
+"Because of our business model, we need to prioritize remote work enablement. As a CISO of a global company, with global responsibilities, it simply makes more sense for me to prioritize communicating with distant geos over commuting to an office most days. Zscaler establishes a centralized view of where users are connecting from, which devices they are using, and the posture of those devices. And unlike our legacy security stack, it has helped us become more efficient by consolidating practices like monitoring and blocking."
+  — Cushman & Wakefield
+"an unhelpful legacy infrastructure that doesn't address immediate needs."
+  — Hart, Cushman & Wakefield
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Secure Remote Access
+- AI/ML
+- Data Security
+- Zero Trust
+- Exposure Management
+- Zero Trust Branch & Cloud
+- Optimize Digital Experiences
+- Ransomware
+- SASE & SSE
+- SecOps & Endpoint Security

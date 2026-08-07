@@ -1,0 +1,62 @@
+DOCUMENT TITLE: MGM Resorts International Doubles Down on a Cloud Native Zero Trust Architecture
+SUBTITLE: Zscaler delivers unmatched time-to-value with zero trust segmentation, data loss protection, and deep actionable insights across the business
+CUSTOMER: MGM Resorts International
+
+=== COMPANY OVERVIEW ===
+Gaming, entertainment, and hospitality leader with 31 resort destinations globally
+Industry: Entertainment and Hospitality
+Headquarters: Las Vegas, Nevada, USA
+Company Size: 70,000 employees worldwide
+Source URL: https://www.zscaler.com/customers/mgm-resorts
+
+=== KEY METRICS & HIGHLIGHTS ===
+- Day 1: immediate value from the platform
+- 275K+: threats blocked each month
+- 50%: more efficient device usage for staff
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Castle-and-moat security increased lateral movement risk by giving users broad network access
+  * Traditional VPN gateways created traffic bottlenecks, leading to a poor user experience
+  * Legacy security tools offered limited insight into browsing activity across the user base
+Key Results:
+  * Enhances the employee experience with faster performance and connectivity across the environment
+  * Stays ahead of emerging threats with comprehensive DLP, private access, and zero trust segmentation
+  * Strengthens enterprise security posture while helping accelerate business with a cloud-first approach
+
+=== KEY QUOTES ===
+"We hit zero trust segmentation across our workforce in record time, and the day-to-day maintenance of the solution with data loss protection with insights into our applications. These were really quick and easy wins from our perspective."
+  — Stephen Harrison, CISO, MGM Resorts International
+
+"The reason we selected Zscaler was because it put us in a spot to take action on what was important and leave us in a better security posture overall."
+  — Stephen Harrison, CISO, MGM Resorts International
+
+"The time to get there with competitors in this space was months, if not a year, longer than it would've taken us with Zscaler."
+  — Stephen Harrison, CISO, MGM Resorts International
+
+"We've seen well over 50% efficiency in [mobile device usage] just based on improved connectivity across the environment."
+  — Stephen Harrison, CISO, MGM Resorts International
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Ransomware
+- Optimize Digital Experiences
+- Secure Remote Access
+- Data Security
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: MGM Testimonial Ft. Stephen Harrison
+Video Description: a Customer Testimonials video
+
+Transcript Segments:
+[Stephen Harrison (CISO, MGM Resorts International)] (Company overview and global presence): MGM Resorts International spans about seventy thousand employees across the US, parts of Europe, Asia Pacific.
+[Stephen Harrison (CISO, MGM Resorts International)] (Importance of data protection): There's so much data being transacted here. It's just makes it paramount that we prioritize the protection of that.
+[Stephen Harrison (CISO, MGM Resorts International)] (Introduction of Steven Harrison): I'm Steven Harrison. I'm the chief information security officer here at MGM Resorts International.
+[Stephen Harrison (CISO, MGM Resorts International)] (Limitations of traditional VPN): Traditional VPN is definitely a legacy approach. No doubt about it. The idea of this castle and moat approach where you lower the drawbridge, and that's like your VPN access inside, and then you just cross it and you're in the castle. And as soon as you're in the castle, you're trusted whatever you do within those walls is fine.
+[Stephen Harrison (CISO, MGM Resorts International)] (Why Zscaler was selected): The reason we selected Zscaler was because it put us in a spot to take action on what was important and leave us in a better security posture overall. When we're talking about zero trust, that's really what it narrows down to is, never trust, always verify.
+[Stephen Harrison (CISO, MGM Resorts International)] (Fast deployment and zero trust segmentation): For us, the difference was the time to value. We deployed Zscaler extremely fast. Our result was better insights into our browsing activity across our user base. We hit zero trust segmentation across our workforce and, like, record time.
+[Stephen Harrison (CISO, MGM Resorts International)] (Ease of maintenance and quick wins): And the day to day maintenance of the solution with data loss protection, with insights into our applications, all of these were really quick and easy wins from our perspective. And the time to get there with competitors in this space was months, if not, like, a year longer than it would have taken us with Zscaler.
+[Stephen Harrison (CISO, MGM Resorts International)] (Zscaler suite deployment): We rolled out ZIA, the Internet access and gateway portion of it, the ZPA, the private access, z d x for collaboration and insights there, including some data loss prevention modules, specific application connectors, basically the suite in in just a couple weeks. We're talking about, like, day one when we start deploying this out. We're seeing that value.
+[Stephen Harrison (CISO, MGM Resorts International)] (Improved user experience and efficiency): From the user experience, we were able to remove friction that traditional VPN gateways created, where the performance usually backhauls traffic to a data concentrator, and that's sort of bottlenecking how your employees are coming into your environment. And with Zscaler, we basically eliminated that with having distributed cloud first approach. ZIA optimized in such a way that when we have staff working the floors, they're able to use their mobile devices and the feature sets we've given them in a much more efficient way. We've seen well over fifty percent efficiency in this space just based on improved connectivity across the environment.
+[Stephen Harrison (CISO, MGM Resorts International)] (Deception technology for threat detection): As an attacker, when you've compromised an environment, you're hunting for opportunity, and everything is is fake. It's what ception technology does. It's presenting vulnerable, ripe, tantalizing targets. And then every attempt they give, that's triggering an alert for your group to respond to and narrow in on what this potential attack is.
+[Stephen Harrison (CISO, MGM Resorts International)] (Threats blocked and staying ahead): We're typically trending towards about thirty five thousand threats blocked every couple days. There's all these emerging and new threats out there, and it's helping us stay on top of that.

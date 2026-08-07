@@ -1,0 +1,100 @@
+DOCUMENT TITLE: DXC Technology Migrates to Zero Trust in Just 90 Days to Drive Its Virtual-First Strategy
+SUBTITLE: The Zscaler Zero Trust Exchange secures internet and SaaS access for 130,000+ global users and powers operational efficiencies
+CUSTOMER: DXC Technology
+
+=== COMPANY OVERVIEW ===
+DXC is a global IT services leader with offices in the US, Asia, and Europe, offering solutions ranging from analytics and engineering to cloud and security. DXC collaborates with Zscaler and other top technology vendors to deliver predictable outcomes and measurable results for its mutual customers.
+Industry: Services
+Headquarters: Ashburn, Virginia
+Company Size: 130,000+ employees across 60+ countries
+Source URL: https://www.zscaler.com/customers/dxc
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Secure internet and SaaS traffic, provide real-time bandwidth visibility and management, and migrate from on-prem to zero trust
+Transformation Journey:
+  * DXC strives to be the ideal business partner as well as the ideal employer.
+Key Results:
+  * Secured business at scale for more than 130,000 people, with 40B+ transactions and 1,982 TB of traffic processed in three months
+  * Improved security posture, preventing 1.3B policy violations and blocking 9.2M threats in one quarter
+  * Reduced business risk, detecting and blocking 1.6M threats hidden in encrypted traffic in 90 days
+  * Deployed in just 90 days to drive virtual-first goals
+
+=== KEY QUOTES ===
+"The positive outcomes we’ve experienced from Zscaler not only benefit us but also our customers, as they embark on their digital transformation journeys."
+  — Mike Baker, VP & CISO, DXC Technology
+
+=== CASE STUDY DETAILS ===
+
+--- DXC leads the way with zero trust to enable modern workplaces ---
+DXC strives to be the ideal business partner as well as the ideal employer. On its journey to reach these goals, DXC recognized the need to support both in-office and remote collaboration. To prepare itself and its customers for hybrid work, attract the best talent, and position itself as the leader in workplace modernization services, DXC was on a mission to adopt virtual-first processes and transform its architecture to fully secure remote work.
+With that goal in mind, DXC began to migrate away from its traditional perimeter-based security architecture consisting of firewalls and multiple VPNs used by employees to connect to customer systems. To support the organization’s hybrid environment and boost its security posture, DXC’s security leaders decided to adopt a zero trust architecture and roadmap. They saw that the Zscaler Zero Trust Exchange was the ideal platform for securing remote work for their global workforce and enterprise customers. They were impressed at how Zscaler fully supports the five pillars of the zero trust model—identity, devices, network, data, and applications and workloads—providing a data-centric approach with granular controls and policies.
+“We started by adopting the Zero Trust Exchange for specific security use cases and soon realized we had a powerful platform that could grow with us. From there, we forged a collaboration with Zscaler that would transform the future of work for DXC and our customers,” said Mike Baker, VP and IT CISO at DXC Technology. “Working with Zscaler enables us to meet our zero trust goals as our program matures and evolves to meet the challenges of today’s threat landscape.”
+"We started by adopting the Zero Trust Exchange for specific security use cases and soon realized we had a powerful platform that could grow with us. From there, we forged a collaboration with Zscaler that would transform the future of work for DXC and our customers. Working with Zscaler enables us to meet our zero trust goals as our program matures and evolves to meet the challenges of today’s threat landscape."
+  — Mike Baker, VP & CISO, DXC Technology
+
+--- Zero trust supports the future of work ---
+DXC consults with organizations embarking on cloud and security architecture transformations. Suresh Gumma, Director of Cyber Strategy and Architecture, understands the challenges customers face as they navigate the seemingly endless options to choose from when building out cybersecurity programs. When DXC leadership examined the future of its own business, it became clear that enabling remote work would require a fundamental shift in mindset. DXC knew it needed to leave behind the traditional location-centric model and adopt an identity-centric approach.
+A zero trust model was the most comprehensive way to protect identity, devices, data, and applications. Gumma encouraged his team to think about zero trust as a strategy wrapper to articulate its security program: “Zero trust is a great methodology in terms of bringing together people, processes, and technology, and ensuring security that is frictionless and provides a great user experience.”
+To support a virtual-first strategy, DXC anchors its security architecture on the Cybersecurity Infrastructure and Security Agency (CISA) Zero Trust Maturity Model (ZTMM) among other leading standards, which provides a comprehensive approach to zero trust modernization. By adopting the ZTMM and supporting technologies, DXC aims to prevent unauthorized access to data and resources, regardless of location or device, by enforcing granular controls.
+“From a people perspective, we prioritize remote work and evaluate what processes and technologies we need to adopt or change to keep our employees safe and secure regardless of location. I’m pleased to say we chose the right technology in the Zero Trust Exchange to support our zero trust journey,” Gumma said.
+"From a people perspective, we prioritize remote work and evaluate what processes and technologies we need to adopt or change to keep our employees safe and secure regardless of location. I’m pleased to say we chose the right technology in the Zero Trust Exchange to support our zero trust journey."
+  — DXC Technology
+
+--- Secure internet connections improve visibility and security posture ---
+DXC has more than 130,000 employees supporting large enterprises in 60+ countries. Every day, employees remotely connect to DXC environments requiring secure access and authorization to sensitive data. The security team needed better visibility into how users accessed these environments and a more consistent way to secure that traffic to prevent data loss and the spread of malware.
+To secure internet and SaaS application access, DXC deployed cloud native Zscaler Internet Access (ZIA), a core part of the Zscaler Zero Trust Exchange, the world’s largest inline security cloud, allowing the company to achieve SaaS application connectivity and intelligent traffic routing from any device, anywhere.
+ZIA provides DXC with real-time TLS/SSL traffic inspection at scale and at lightning speed, detecting and preventing advanced attacks and malware. It also stops data loss in real time. With ZIA, DXC dramatically reduced the risk of threats hidden in encrypted traffic, detecting and blocking 1.6 million of such threats in a single quarter.
+DXC also relies on Zscaler Sandbox to intelligently detect, quarantine, and analyze unknown threats and suspicious files to prevent compromise across all users and devices. Real-time security updates are sourced from trillions of daily signals to separate the malicious from the benign. Near-instant delivery of known benign files ensures that DXC users stay safe and productive.
+DXC also benefits from bandwidth insights across all web traffic. In three months, Zscaler processed 40.6 billion transactions and 1,982.6 TB of bandwidth. With Zscaler Bandwidth Control, the IT team enables granular policies to prioritize critical business applications and optimize bandwidth by use case.
+“From the Zscaler dashboard, the security team now has real-time visibility into device, application, and network performance and usage. These deeper insights and metrics help us quantify risk and communicate DXC’s security posture to senior leadership, which is something we couldn’t do before,” explained Gumma.
+"From the Zscaler dashboard, the security team now has real-time visibility into device, application, and network performance and usage. These deeper insights and metrics help us quantify risk and communicate DXC’s security posture to senior leadership, which is something we couldn’t do before."
+  — Gumma, DXC Technology
+"Zero trust is a great methodology in terms of bringing together people, processes, and technology."
+  — Mike Baker, VP & CISO, DXC Technology
+
+--- Integrations with CrowdStrike and Okta expand DXC’s zero trust strategy ---
+DXC leverages Zscaler technology integrations to augment its zero trust strategy. The security team implemented CrowdStrike for endpoint device visibility and management and then integrated Zscaler with CrowdStrike to leverage the combined threat intelligence from endpoint to application. From ZIA, the security team can configure policies to authorize or block access to applications based on CrowdStrike’s dynamic Zero Trust Assessment (ZTA) score for the devices it manages. The ZTA score is fed to Zscaler, which modifies device access policy in real time based on its security posture.
+DXC deployed Okta to authenticate users and verify partner and employee access rights to authorized applications. The security team integrated Zscaler and Okta for a complete zero trust solution at the identity level. Once Okta verifies a user’s identity, Zscaler inspects device traffic and provides access only to required resources based on identity and context, using the principle of least-privileged access. The Zscaler-Okta integration provides DXC users with fast, secure access to the internet and SaaS applications anywhere. The combined intelligence and protection from these integrations enable the security team to act with greater confidence.
+“With Zscaler providing visibility into web and SaaS traffic, CrowdStrike on the endpoint, and Okta as our identity layer, the DXC security team has a wealth of tools to conduct targeted investigations when incidents arise, allowing us to respond faster,” explained Global CISO Jimmie Owens.
+"With Zscaler providing visibility into web and SaaS traffic, CrowdStrike on the endpoint, and Okta as our identity layer, the DXC security team has a wealth of tools to conduct targeted investigations when incidents arise, allowing us to respond faster."
+  — Global, DXC Technology
+
+--- Enhancing productivity, hiring, and retention ---
+To reach its goal of attracting and retaining leading technology talent, DXC prioritized improving the user experience. Wherever employees are located globally, DXC wants to ensure they all have the same secure, seamless access to the internet and SaaS applications.
+The Zscaler implementation also had another unexpected benefit: DXC security leaders fully expected improvements in the user experience but were surprised to learn about the positive impact on recruitment. “Zscaler makes it easy for users to work from any location and supports DXC’s efforts to hire from anywhere in the world. The consistent experience and reliability give DXC a real competitive advantage,” Baker explained. “Everyone loves the flexibility of a virtual-first environment.”
+Additionally, Human Resources leadership appreciates how Zscaler blocks non-essential or inappropriate websites to help ensure a safe and secure work environment. “At times, users treat their corporate devices like personal devices, consuming bandwidth on non-essential sites. Zscaler blocks inappropriate and malicious sites and enables HR to set policies that help prevent incidents and access to unsanctioned content,” shared Owens. “Not only has this boosted security, but it has also significantly improved productivity.”
+"Zscaler makes it easy for users to work from any location and supports DXC’s efforts to hire from anywhere in the world. The consistent experience and reliability give DXC a real competitive advantage. Everyone loves the flexibility of a virtual-first environment."
+  — DXC Technology
+"At times, users treat their corporate devices like personal devices, consuming bandwidth on non-essential sites. Zscaler blocks inappropriate and malicious sites and enables HR to set policies that help prevent incidents and access to unsanctioned content. Not only has this boosted security, but it has also significantly improved productivity."
+  — Owens, DXC Technology
+
+--- Sharing knowledge and gaining customer confidence ---
+Soon after implementing ZIA, DXC configured its Zero Trust Exchange deployment to coexist and communicate with its customers’ Zscaler environments. With just a few clicks, DXC employees can now connect seamlessly and securely with customers’ resources to work on their IT modernization projects.
+“We initially invested in Zscaler to protect DXC, but we quickly realized that it instilled even more confidence in our customers because they know we’re protected with the same level of security as they are,” Owens said. “Moreover, we can now leverage the knowledge we have gained from our deployment to help our security customers launch and manage a Zscaler zero trust implementation. The positive outcomes we’ve experienced from the Zero Trust Exchange platform not only benefit us but also our customers, as they embark on their digital transformation journeys.”
+"We initially invested in Zscaler to protect DXC, but we quickly realized that it instilled even more confidence in our customers because they know we’re protected with the same level of security as they are. Moreover, we can now leverage the knowledge we have gained from our deployment to help our security customers launch and manage a Zscaler zero trust implementation. The positive outcomes we’ve experienced from the Zero Trust Exchange platform not only benefit us but also our customers, as they embark on their digital transformation journeys."
+  — Owens, DXC Technology
+"Zscaler has a deep knowledge of DXC’s business and goals … The level of attention and detail is uncommon for a vendor its size."
+  — Mike Baker, VP & CISO, DXC Technology
+
+--- From secure internet access to a strong collaboration ---
+Highly satisfied with the success of the Zero Trust Exchange implementation and the confidence gained from mutual customers, the DXC team visited the Zscaler offices in the San Francisco Bay Area for a partner innovation session. Discussions about the product roadmap and how it would be leveraged to drive DXC’s business strategy led to a strong alliance with Zscaler.
+“As a key collaborator, Zscaler has a deep knowledge of DXC’s business and our goals. We’ve enjoyed a strong relationship with senior leadership at Zscaler. The level of attention and detail is uncommon for a vendor its size,” Baker said. “Because we have realized significant risk reductions with the platform, we are constantly engaging with Zscaler to look at opportunities to expand the relationship.”
+"As a key collaborator, Zscaler has a deep knowledge of DXC’s business and our goals. We’ve enjoyed a strong relationship with senior leadership at Zscaler. The level of attention and detail is uncommon for a vendor its size. Because we have realized significant risk reductions with the platform, we are constantly engaging with Zscaler to look at opportunities to expand the relationship."
+  — DXC Technology
+
+--- Maturing a virtual-first strategy with enhanced capabilities ---
+Building on the improved security posture, significant risk reductions, and strategic innovation the Zero Trust Exchange has brought to DXC’s business, the company is excited about exploring Zscaler capabilities more deeply.
+With securing customer data always at the forefront, the security team is looking at Zscaler Data Protection to augment its existing data protection capabilities. Zscaler Data Protection provides consistent, unified data protection across endpoints, inline and in the cloud, following remote users and the SaaS and public cloud applications they access. Leveraging innovative ML-driven data discovery, it automatically locates and classifies data. Zscaler Data Protection will help DXC better understand data behaviors and risks, especially when users are handling sensitive customer information.
+Also on the radar is Zscaler Risk360™, a powerful offering that can help DXC quantify and visualize cyber risk across its users, applications, assets, and large ecosystem of technology collaborators. Combining data from DXC’s Zscaler environment, external sources, and security research from Zscaler ThreatLabz, Risk360 will be able to generate a detailed profile of the DXC’s risk posture. It provides an accurate view of risk exposure, actionable insights for remediation, potential financial impacts, and executive-level reporting to guide cyber risk management and decision-making.
+"We started by adopting the Zero Trust Exchange for specific security use cases and soon realized we had a powerful platform that could grow with us."
+  — Mike Baker, VP & CISO, DXC Technology
+
+--- Zscaler Zero Trust Exchange completes DXC’s virtual-first strategy for its users and business operations ---
+DXC’s goal to become a virtual-first company required us to find a seamless way to protect internet-bound traffic for its more than 130,000 remote employees around the world. The organization began by deploying Zscaler Internet Access (ZIA) in just 90 days and now secures all internet and SaaS access from any location and any device.
+With visibility across all web traffic, DXC sets policies for granular bandwidth control to prioritize critical business applications, ensure inline protection for all traffic, and provide deep insights to reduce its worldwide physical footprint. The Zscaler Zero Trust Exchange improved DXC’s security posture and helped it gain operational efficiencies.
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Ransomware
+- Optimize Digital Experiences

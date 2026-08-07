@@ -1,0 +1,58 @@
+DOCUMENT TITLE: TIQ Enhances Protection and Simplifies Management
+SUBTITLE: with the Zscaler Zero Trust Exchange
+CUSTOMER: Trade & Investment Queensland
+
+=== COMPANY OVERVIEW ===
+Trade & Investment Queensland is the government’s global business agency, assisting exporters to break into emerging and established markets, and promoting Queensland as the perfect place for an Asia-Pacific headquarters.
+Industry: Federal and Government
+Headquarters: Brisbane, Australia
+Company Size: 180 employees across 23 offices
+Source URL: https://www.zscaler.com/customers/trade-investment-queensland
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Simplifying IT management, improving security, and bolstering threat and malware defense
+Transformation Journey:
+  * -The -dispersed -nature -o-f- -TIQ'-s- -operations -creates -challenges -when -i-t- -comes -t-o- -the -management -o-f- -its -I-T- -infrastructure,- -particularly -i-n- -the -area -o-f- -security.-
+  * -After -reviewing -and -assessing -a- -number -o-f- -potential -security -solutions,- -a- -decision -was -taken -t-o- -adopt -Zscaler -t-o- -monitor -and -manage -all -internet -traffic -across -the -organization.-
+  * -Deployed -across -the -entire -organization,- -the -flexibility -and -scalability -o-f- -the -Zscaler -security -cloud -offer -TIQ:-
+Key Results:
+  * Improves threat and malware protection across all 23 locations
+  * Removes the need for firewalls or security appliances in each location
+  * Ensures only authorized devices can connect to the network, regardless of location
+  * Automatically sandboxes any email attachments be flagged as potentially dangerous
+
+=== KEY QUOTES ===
+"TIQ follows a cloud-first strategy when it comes to IT, so the fact that Zscaler is cloud based made it particularly attractive for us."
+  — Anthony Kennedy, Global IT Manager, Trade & Investment Queensland
+
+=== CASE STUDY DETAILS ===
+
+--- TIQ shows security some TLC ---
+The dispersed nature of TIQ’s operations creates challenges when it comes to the management of its IT infrastructure, particularly in the area of security. Anthony Kennedy, TIQ’s Global IT Manager, says having staff and equipment spread across multiple countries and locations made having strong, centralized control very difficult.
+“During 2015, we undertook a security audit which highlighted some weaknesses in our defenses,” he says. “The organization also experienced a cryptolocker attack which highlighted the fact that we needed to find a better way to secure our network and core systems.”
+Kennedy says he was also keen to improve the standard of reporting he could make available to senior management. “I wanted to have a way to show them exactly how the network was performing and the level of security threats we were facing,” he says. “This was very difficult to achieve with the infrastructure that we had in place.”
+
+--- How Zscaler made the difference ---
+After reviewing and assessing a number of potential security solutions, a decision was taken to adopt Zscaler to monitor and manage all internet traffic across the organization. Working with IT partner Ordyss, the TIQ IT team arranged for individual firewalls in each office to be removed and replaced with the Zscaler security service.
+“TIQ follows a cloud-first strategy when it comes to IT, so the fact that Zscaler is cloud based made it particularly attractive for us.” says Anthony Kennedy, Global IT Manager. “It also removed the need to have individual firewalls in each office, significantly reducing complexity and management overheads.”
+With all incoming and outgoing network traffic now routed through Zscaler, getting a clear picture of what is going on is much easier. This allows better reporting for senior management as well as real-time notifications of any threats that are detected.
+"TIQ follows a cloud-first strategy when it comes to IT, so the fact that Zscaler is cloud based made it particularly attractive for us. It also removed the need to have individual firewalls in each office, significantly reducing complexity and management overheads."
+  — Anthony Kennedy, Global IT Manager, Trade & Investment Queensland
+"The organization also experienced a cryptolocker attack…we needed to find a better way to secure our network and core systems."
+  — Anthony Kennedy, Global IT Manager, Trade & Investment Queensland
+
+--- Power of the Zscaler cloud ---
+Deployed across the entire organization, the flexibility and scalability of the Zscaler security cloud offer TIQ:
+Better protection: The TIQ IT team can be confident that TIQ users are safe from malware and other internet threats, no matter their device or location—a critical benefit for a workforce spread across 23 different offices.
+Streamlined management: TIQ no longer needs security appliances in each location, slashing management overhead and allowing IT to focus elsewhere while their IT partner Ordyss handles ongoing Zscaler management and configuration.
+BYOD coverage: As more employees connect personal devices to the TIQ network, the Zscaler agent maintains effective security at all times by ensuring that only authorized devices can connect to the network, wherever they are.
+Sandboxing: Email attachments flagged as potentially dangerous are automatically sent to an isolated sandbox for examination. This can help prevent attacks if a user accidentally opens or downloads an infected file.
+"I wanted to have a way to show them exactly how the network was performing and the level of security threats we were facing."
+  — Anthony Kennedy, Global IT Manager, Trade & Investment Queensland
+"It…removed the need to have individual firewalls in each office, significantly reducing complexity and management overheads."
+  — Anthony Kennedy, Global IT Manager, Trade & Investment Queensland
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Ransomware

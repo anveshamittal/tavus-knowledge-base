@@ -1,0 +1,87 @@
+DOCUMENT TITLE: Magdeburg City Council Secures Its Digital Transformation with the Zscaler Zero Trust Exchange
+SUBTITLE: German state capital replaces VPN appliances and empowers a hybrid workforce while laying the foundation for continued digital evolution with Zscaler
+CUSTOMER: State Capital Magdeburg
+
+=== COMPANY OVERVIEW ===
+Provides administrative services to residents in Saxony-Anhalt's capital city
+Industry: Federal and Government
+Headquarters: Magdeburg, Germany
+Company Size: 2,500 employees
+Source URL: https://www.zscaler.com/customers/state-capital-magdeburg
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 2.5K: hybrid employees secured
+- 230K: city residents supported
+- One: single-vendor solution to simplify security
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * A traditional, hardware-based security architecture was not agile enough to support digital transformation goals
+  * Legacy proxy and firewall solutions could not scale to secure internet connectivity for an increasingly hybrid workforce
+  * VPNs did not enable granular access control, putting private apps at greater risk and limiting remote work capabilities
+Transformation Journey:
+  * Magdeburg can not only look back on more than 1,200 years of multifaceted history and tradition, but also present itself more than ever as a city in transition.
+Key Results:
+  * Improves user experiences for a hybrid workforce and enables secure remote work for up to 1,500 users monthly
+  * Reduces security costs and management complexity with an architecture that retires legacy security point products
+  * Accelerates future digital transformation efforts with a comprehensive and scalable zero trust security architecture
+
+=== KEY QUOTES ===
+"We wanted to be a lighthouse for other municipalities and encourage them to evaluate and implement good solutions for the business, just like we did with a cloud-based security solution."
+  — Dr. Tim Hoppe, Office for Statistics, Elections, and Digitalization, State Capital Magdeburg
+
+=== CASE STUDY DETAILS ===
+
+--- A city in transition ---
+Magdeburg can not only look back on more than 1,200 years of multifaceted history and tradition, but also present itself more than ever as a city in transition. On the one hand, it is positioning itself as a center of business and science, and on the other, the city council is gravitating toward digital transformation by initiating flagship projects. The council has implemented innovative IT security strategies for greater protection and efficiency, including replacement of legacy hardware with the cloud native Zscaler Zero Trust Exchange platform.
+
+--- Raising awareness for more security ---
+Magdeburg’s traditional proxy- and firewall-based security solution could not offer the level of protection the city envisioned as the basis for its digital transformation journey. Having demonstrated the courage to take innovative IT approaches in the past, the city further asserted itself by opting for an innovative security service provider.
+The city council was in the process of selecting Zscaler's cloud-based security platform when a neighboring county made headlines after a ransomware attack. Although they had already begun to shift their thinking around modern IT security, the IT decision-makers felt this was all the more reason to replace the existing hardware-based security infrastructure with a cloud-based security solution.
+Dr. Tim Hoppe, from the Office for Statistics, Elections, and Digitalization of the City of Magdeburg, summed up the decision-making process: “The attack once again alerted us to the issue of security. We were looking for a security solution for our city council that the industry had already tried and tested. If DAX companies are already part of Zscaler's clientele, they already count on one hundred percent security, which we also wanted to benefit from.”
+"The attack once again alerted us to the issue of security. We were looking for a security solution for our city council that the industry had already tried and tested. If DAX companies are already part of Zscaler's clientele, they already count on one hundred percent security, which we also wanted to benefit from."
+  — Dr. Tim Hoppe, Office for Statistics, Elections, and Digitalization, State Capital Magdeburg
+"Zscaler's business model convinced us. For us, the security platform is a kind of insurance against attacks. Maximum quality is delivered to us."
+  — Dr. Tim Hoppe, Office for Statistics, Elections, and Digitalization, State Capital Magdeburg
+
+--- Insurance against attacks ---
+Through the Zero Trust Exchange platform, the city has maximized its security, backed up by Zscaler's expertise. With the cloud-delivered platform eliminating the need for manual patch management, cybersecurity is always up to date.
+“Zscaler's business model convinced us. For us, the security platform is a kind of insurance against attacks,” said Hoppe. “Maximum quality is delivered to us.”
+Unlike cyber insurance, which only comes into effect after an attack, the Zscaler platform is always active and always up to date, ready to defend against both known and brand-new attacks. And that applies both outside and inside: in the course of implementing the Zero Trust Exchange, employees’ application access policies were updated in line with a zero trust strategy as well.
+"Zscaler's business model convinced us. For us, the security platform is a kind of insurance against attacks. Maximum quality is delivered to us."
+  — Hoppe, State Capital Magdeburg
+"No matter where the employees are, [ZPA] works, and I can be sure that the connection is also secure."
+  — Dr. Tim Hoppe, Office for Statistics, Elections, and Digitalization, State Capital Magdeburg
+
+--- VPN replacement in favor of seamless user experience ---
+When the COVID-19 pandemic spread in Asia, Magdeburg identified the dongle-bound VPN connection used by its employees as a problem area, as it offered insufficient performance to enable remote work across the board. Consequently, the team first evaluated a modern video conferencing solution.
+To improve user experience and provide high-performance connections, the city decided to introduce the Zero Trust Exchange, initiating the modernization of its security infrastructure. Today, Zscaler Private Access (ZPA) regulates secure remote access to required applications and avoids the complexity, latency, and expense of backhauling everything through the data center for security.
+“We realized that the resources required to continue remote working were no longer available, and we had to respond to the situation at hand as quickly as possible,” said Hoppe. “We’ve made a huge leap through ZPA. No matter where the employees are, it works, and I can be sure that the connection is also secure.”
+Today, the city council operates a secure hybrid model. Starting from about 50, the number of employees who can now work securely from home several days per month has shot up to 1,500.
+"We realized that the resources required to continue remote working were no longer available, and we had to respond to the situation at hand as quickly as possible. We’ve made a huge leap through ZPA. No matter where the employees are, it works, and I can be sure that the connection is also secure."
+  — Hoppe, State Capital Magdeburg
+"There were more open doors [in our security] than closed ones. A ransomware attack in the neighboring county was a good starting point for our discussion about security."
+  — Dr. Tim Hoppe, Office for Statistics, Elections, and Digitalization, State Capital Magdeburg
+
+--- Cost efficiency through the cloud ---
+The cost discussion with Zscaler was eye-opening for Magdeburg’s internal finance team. Today, about 10% of the city's budget is spent on IT security—with this figure set to increase in the future. The Zscaler platform's user model provides the city with a transparent, calculable method for cost planning.
+“Every lost month of work caused by an attack is more expensive than investing in preventive security,” said Hoppe. This was a strong argument for the city council.
+Nevertheless, the Office for Statistics, Elections, and Digitalization had some convincing to do for the new cloud-based solution. Instead of relying on internal know-how, the city preferred to place itself under the umbrella of Zscaler’s security expertise.
+“The task of persuasion was ultimately more tedious than the actual introduction of the new solution,” said Dr. Hoppe. In the end, the IT service provider was convinced, as human capital resources were scarce and the advantages of reducing the workload were convincing.
+"Every lost month of work caused by an attack is more expensive than investing in preventive security."
+  — Hoppe, State Capital Magdeburg
+"The task of persuasion was ultimately more tedious than the actual introduction of the new solution."
+  — Hoppe, State Capital Magdeburg
+
+--- Next step: zero trust ---
+Magdeburg’s infrastructure modernization journey isn’t over yet. The city council plans to continue implementing and fine-tuning zero trust to take advantage of superior performance as well as minimize its attack surface to safeguard its sensitive data.
+Moreover, considering strong interest in artificial intelligence in public administration, experience with zero trust is already being gathered in preparation for AI-related solutions.
+“Nowadays, the damage caused by attacks can be extensive, so it is worthwhile not to trust anyone and involve an advanced security authority,” concluded Hoppe.
+"Nowadays, the damage caused by attacks can be extensive, so it is worthwhile not to trust anyone and involve an advanced security authority."
+  — Hoppe, State Capital Magdeburg
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Secure Remote Access
+- Zero Trust App Access
+- Optimize Digital Experiences
+- Ransomware

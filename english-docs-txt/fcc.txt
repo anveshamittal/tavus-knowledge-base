@@ -1,0 +1,44 @@
+DOCUMENT TITLE: FCC Replaces TIC (Trusted Internet Connections)
+SUBTITLE: with the Zscaler Zero Trust Exchange
+CUSTOMER: Federal Communications Commission (FCC)
+
+=== COMPANY OVERVIEW ===
+The Federal Communications Commission (FCC) is an independent agency of the U.S. federal government that implements and enforces communications law and regulations across radio, television, wire, satellite, and cable for all 50 states, the District of Columbia, and U.S. territories.
+Industry: Federal and Government
+Headquarters: Washington, D.C., USA
+Company Size: 1,500 employees covering all 50 states and U.S. territories
+Source URL: https://www.zscaler.com/customers/fcc
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Secure all outgoing internet traffic more easily and less expensively
+Key Results:
+  * Slashes costs 70% by eliminating other security tools in environment
+  * Improves user experience by replacing VPNs
+  * Provides trusted, controlled, and monitored connections to applications
+  * Replaces the Trusted Internet Connections (TIC) program with more seamless, secure, and less expensive solution
+  * Allows granular, zero trust access control of applications and services
+
+=== KEY QUOTES ===
+"Because of products like Zscaler’s, we’ve been able to unplug other products that were hugely expensive, so our cost savings was 70%."
+  — Tony Summerlin, Senior Strategic Advisor Consultant, Federal Communications Commission (FCC)
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Ransomware
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: FCC | Replacing TIC with Zscaler
+Video Description: a Customer Testimonials video
+
+Transcript Segments:
+[Tony Summerlin (Senior Strategic Advisor Consultant, Federal Communications Commission (FCC))] (Introduction and FCC role): I was brought into the FCC, first an employee, then now as a consultant, we had very antiquated systems, networks, and processes.
+[Tony Summerlin (Senior Strategic Advisor Consultant, Federal Communications Commission (FCC))] (Previous role at White House): Going way back I was working in the White House for the Federal CIO, Karen Evans, we actually wrote the TIC initiative.
+[Tony Summerlin (Senior Strategic Advisor Consultant, Federal Communications Commission (FCC))] (Explaining TIC and its limitations): TIC is, trusted Internet connections, and what it's supposed to do is ensure that all traffic that goes out to the internet is secure. And the way you achieve that is by using MTips, which is a vehicle that DHS put in place, which runs on the various providers, Verizon, AT and T, Comcast, and so forth. And the problem is that all those connections have to go through a center. So instead of having direct connections to the cloud or to a provider, like a SaaS provider, you have to run through a center, which costs a lot of money.
+[Tony Summerlin (Senior Strategic Advisor Consultant, Federal Communications Commission (FCC))] (Zscaler eliminates VPN inefficiencies): I mean, the reason we looked at at Zscaler is, that it eliminated that balance, the path, and it enabled our users, especially since fifty percent or so of our folks at FCC, work from home. So for them to have to keep VPN ing into FCC in order to go out to the SaaS applications that we purchased made absolutely no sense whatsoever.
+[Tony Summerlin (Senior Strategic Advisor Consultant, Federal Communications Commission (FCC))] (Dislike for VPNs): I haven't found in my entire lifetime, anyone that likes VPN.
+[Tony Summerlin (Senior Strategic Advisor Consultant, Federal Communications Commission (FCC))] (Zscaler provides secure connections): So Zscaler basically provide a very trusted and controlled, very secure and modern third connection to the application that they're looking for. And we can establish policies and procedures within the architecture of Zscaler that allows us to control what applications and what services are available to each individual.
+[Tony Summerlin (Senior Strategic Advisor Consultant, Federal Communications Commission (FCC))] (Cost savings from Zscaler): Because of products like Zscaler, we've been able to unplug other products, which I won't name, but those products that were in house running on our servers were hugely expensive. So our cost savings was seventy percent.
+[Tony Summerlin (Senior Strategic Advisor Consultant, Federal Communications Commission (FCC))] (Ease of policy implementation): And it was very direct next. So it made it very easy for us, but certainly the policies being able to install policies within the framework of the software made it hugely attractive.
+[Tony Summerlin (Senior Strategic Advisor Consultant, Federal Communications Commission (FCC))] (TIC inefficiencies vs cloud solutions): I mean, why would an agency bother using TIC when you can get the same services in the cloud with a lot less encumberment and more secure.
+[Tony Summerlin (Senior Strategic Advisor Consultant, Federal Communications Commission (FCC))] (Need for strongest tools): So I need the strongest tools available that are run elsewhere and always maintained and always up to date. And that's what we get.

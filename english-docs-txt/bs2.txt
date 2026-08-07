@@ -1,0 +1,58 @@
+DOCUMENT TITLE: BS2 Turns Telemetry into Action with Zscaler, Reducing Cyber Risk and Optimizing Spend
+SUBTITLE: BS2 enables frictionless work-from-anywhere with the Zscaler Zero Trust Exchange and leverages platform-native, AI-powered insights to accelerate M&A and deliver cost savings
+CUSTOMER: BS2
+
+=== COMPANY OVERVIEW ===
+A digital bank with diverse financial and technological solutions for businesses
+Industry: Financial Services and Insurance
+Headquarters: Belo Horizonte, Minas Gerais, Brazil
+Company Size: 900 employees, 7 offices, supporting 120k+ businesses
+Source URL: https://www.zscaler.com/customers/bs2
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 1: week to onboard an acquisition
+- 1: unified client connector for secure access and visibility
+- 0: VPNs
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Legacy VPN and firewall policies were not scalable and created complexity for teams managing remote and in-office environments
+  * Inbound exposure for app access expanded the attack surface and heightened the risk of east-west lateral movement
+  * Limited visibility into user experience and app usage slowed issue resolution and obscured opportunities to optimize spend
+Key Results:
+  * Reduces risk by eliminating VPNs and decreasing reliance on firewalls—removing exposed inbound services and preventing lateral movement through app-level, policy-based access.
+  * Accelerates M&A by onboarding an acquired company in one week, enabled by Zscaler’s single agent and centralized policies that simplify integration and provide fast, secure access to core apps.
+  * Empowers IT to optimize spend and resource allocation, leveraging AI-powered insights to resolve issues faster and focus on opportunities to save money for the business.
+
+=== KEY QUOTES ===
+"Zscaler reduces the complexity of my environment, so we have reduction of cost [while helping] to make the business happen without friction for my user."
+  — Douglas Rocha Ferreira, CISO, Banco BS2, BS2
+
+"Business Insights gives visibility about who’s accessing which kind of solution and correlates that with the licenses that I have, bringing me the opportunity to reduce the cost of solutions and even understand where we are spending money unnecessarily."
+  — Douglas Rocha Ferreira, CISO, Banco BS2, BS2
+
+"We reduce our exposure [by replacing] firewalls and VPNs because we don't have any parts open to the world [...] Zscaler helped not only when we talk about north-south, but also lateral movement east-west."
+  — Douglas Rocha Ferreira, CISO, Banco BS2, BS2
+
+"It's not just about, ‘We have this vulnerability that must be fixed.’ If something changes or a new vulnerability appears, the AI model behind gives me visibility into the impact [...] With more context, we are able to define and use better our effort."
+  — Douglas Rocha Ferreira, CISO, Banco BS2, BS2
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Accelerate M&A and Divestitures
+- Secure Remote Access
+- Business Analytics
+- Optimize Digital Experiences
+- Ransomware
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: BS2 Turns Telemetry into Action with Zscaler, Reducing Cyber Risk and Optimizing Spend
+Video Description: a Customer Testimonials video
+
+Transcript Segments:
+[Douglas Rocha Ferreira (CISO, Banco BS2, BS2)] (Introduction and company background): I'm Douglas from BS2 Bank. I'm the CISO and also the fraud prevention superintendent. We are focused on providing financial services for other companies. It's more B2B2C or in some cases B2B2B2C. We already achieved ten percent of the market share of the transactions for companies in Brazil.
+[Douglas Rocha Ferreira (CISO, Banco BS2, BS2)] (Team responsibilities and VPN/firewall issues): The main responsibility of my team is to help the business teams to find a way to do their jobs in the easier and safer way. If everyone is working from home, I have to set up some policies coming from this network that is provided by the VPN. And when these users return to the office, the same rule must be applied in the firewall. Firewall and VPNs are not scalable.
+[Douglas Rocha Ferreira (CISO, Banco BS2, BS2)] (Zscaler's centralized policies and benefits): The way that Zscaler works, it's one only agent and a centralized way to create policies and this reduces the complexity of my environment. We have reduced costs and helped us to make the business happen without friction for my user. When we talk about the benefits Zscaler helps very much to remove our exposure with firewalls and VPNs because we don't have any ports open to the world. Zscaler help us not only when we talk about north south but also lateral movement east west is different from, for example, flat network that if some piece of the network is compromised, this can propagate to everywhere inside that network.
+[Douglas Rocha Ferreira (CISO, Banco BS2, BS2)] (ZDX visibility and AI-driven insights): You collect all the traffic. You understand the the behavior of each one of my users and ZDX give me the whole visibility about performance that with AI embedded in their solution helped us to identify and resolve issues quickly. Business size also gave me the visibility about who are accessing which kind of solution and correlating that with the license that I have, bringing me the opportunity to reduce the cost of the solutions and even understand where we are spending money when necessary.
+[Douglas Rocha Ferreira (CISO, Banco BS2, BS2)] (Cybersecurity professionals and business alignment): Everyone today talks about, oh, the cyber security professionals must talk the language of the business. But none of them talk about how. The first step is to understand how your company makes money and will have the biggest impact if it's stopped.
+[Douglas Rocha Ferreira (CISO, Banco BS2, BS2)] (Quantitative risk calculation and decision-making): And when you correlate everything, doing a quantitative risk calculation, providing these numbers to the decision makers, they will listen you. With Zscaler, it's not just about, oh, we have this vulnerability that must be fixed.
+[Douglas Rocha Ferreira (CISO, Banco BS2, BS2)] (High-impact quote on Zscaler's AI model): What can happen? Inside Risk three sixty, I have an online view because I'm consuming all the traffic. The AI model behind provide to me all the visibility if something changes, if a new vulnerability appears, and how it impacts in the calculation. This is amazing. With more context, we are able to define and use better our effort.

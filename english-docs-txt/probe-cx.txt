@@ -1,0 +1,122 @@
+DOCUMENT TITLE: Probe CX Phases Out VPNs to Secure 7,600 Employees and Critical Apps on the Zscaler Zero Trust Exchange
+SUBTITLE: Zscaler streamlines the security stack, simplifies policy management, and reduces technology spend while keeping the security edge strong
+CUSTOMER: Probe CX
+
+=== COMPANY OVERVIEW ===
+One of Australia's largest customer experience and business process outsourcers
+Industry: Services
+Headquarters: Melbourne, Victoria, Australia
+Company Size: 19,000 staff, operations in 32 delivery locations
+Source URL: https://www.zscaler.com/customers/probe-cx
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 100%: of VPNs being retired
+- 8.1B: transactions processed in a quarter
+- 3.1M: threats blocked in three months
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * A traditional security architecture could not scale with a rapidly growing workforce or an evolving cloud-first approach
+  * Legacy VPNs did not enable microsegmented access control policies, putting private applications at greater risk
+  * Limited visibility into user experience and application performance made mitigating issues complicated and time-consuming
+Transformation Journey:
+  * -"-A-s- -w-e- -innovate -t-o- -create -digitally -led -customer -experiences,- -our -primary -concern -i-s- -t-o- -always -protect -data,-"- -said -Rohan -Khanna,- -Chief -Technology -Officer -a-t- -Probe -C-X-.-
+  * -With -most -o-f- -its -applications -now -i-n- -the -cloud,- -Probe -C-X- -wanted -t-o- -provide -its -hybrid -workforce -with -fast,- -secure -application -access -from -anywhere -without -backhauling -traffic -t-o- -a- -distant -data -center.-
+  * -"-Our -key -finding -was -that -Zscaler -had -the -product -capabilities -and -maturity -w-e- -needed,-"- -said -Khanna.-
+  * -Probe -C-X- -also -wanted -t-o- -gain -visibility -into -its -users'- -digital -experience -a-s- -they -worked -from -anywhere.-
+  * -The -Zero -Trust -Exchange -has -allowed -Probe -C-X- -t-o- -strengthen -its -security -posture -while -simplifying -its -zero -trust -security -ecosystem.-
+Key Results:
+  * Provides work-from-anywhere flexibility backed by zero trust principles for 7,600 users across five countries
+  * Processes roughly 285 TB of traffic a quarter, enforcing consistent security policies and minimizing the attack surface
+  * Simplifies security management with a multitenant platform that delivers zero trust security at a lower TCO
+
+=== KEY QUOTES ===
+"Some of the key benefits we've realized through implementing this technology, we are on track to get rid of 100% of those VPNs within the environment."
+  — Rohan Khanna, Chief Technology Officer, Probe CX
+
+=== CASE STUDY DETAILS ===
+
+--- Safeguarding customer data for rapid growth ---
+“As we innovate to create digitally led customer experiences, our primary concern is to always protect data,” said Rohan Khanna, Chief Technology Officer at Probe CX. “We need to be extremely nimble and flexible for our customers, and we need to have confidence in the security posture we provide to our blue-chip customers in Australia.”
+Probe’s initial move to the cloud catalyzed its zero trust strategy, which has matured as the organization has grown both organically and through acquisition. The company expanded from 1,200 staff to 19,000 in six years, with operations in 32 delivery locations across Australia, New Zealand, the Philippines, India, and the US.
+“A hybrid workforce was a key factor for zero trust access,” said Khanna. “But recent acquisitions also meant that we needed to provide users with consistent and secure access to different applications from anywhere.”
+The challenge was that different Probe CX business entities and locations relied on legacy VPNs to remotely access the internet and their on-premises private applications. But as Probe moved more applications to the cloud and as work from anywhere became the norm, VPN usage accelerated—and phishing and ransomware attacks soared. Segmenting the network internally for the 100+ customers with VPNs is a manual, inefficient, and labor-intensive task. Processes for consistency to protect Probe's customers’ digital blueprints, intellectual property, and private data required a more robust system.
+Complicating the situation further, different Probe CX entities used different VPN products. That meant the security team lacked unified visibility and end-to-end control and, as a result, could not easily manage security policies across the organization. Additionally, because remote access policies were tied to physical locations rather than customers' specific compliance needs or other requirements, the security team had to manually fine-tune controls to ensure customer traffic was properly segmented.
+"As we innovate to create digitally led customer experiences, our primary concern is to always protect data. We need to be extremely nimble and flexible for our customers, and we need to have confidence in the security posture we provide to our blue-chip customers in Australia."
+  — Rohan Khanna, Chief Technology Officer, Probe CX
+"A hybrid workforce was a key factor for zero trust access. But recent acquisitions also meant that we needed to provide users with consistent and secure access to different applications from anywhere."
+  — Khanna, Probe CX
+
+--- Seeking a cloud native zero trust platform ---
+With most of its applications now in the cloud, Probe CX wanted to provide its hybrid workforce with fast, secure application access from anywhere without backhauling traffic to a distant data center. As it evaluated zero trust solutions, the company had three core requirements: a cloud native platform, simplification of the security environment, and integration into its digital ecosystem.
+“We were looking for value for our money, but equally, we wanted a mature zero trust platform that would meet our overall enterprise architecture goals and uplift our security posture,” said Khanna.
+"We were looking for value for our money, but equally, we wanted a mature zero trust platform that would meet our overall enterprise architecture goals and uplift our security posture."
+  — Khanna, Probe CX
+"Our key finding was that Zscaler had the product capabilities and maturity we needed."
+  — Rohan Khanna, Chief Technology Officer, Probe CX
+
+--- Fast, secure application access for a growing workforce ---
+“Our key finding was that Zscaler had the product capabilities and maturity we needed,” said Khanna. “Zscaler is inherently built to scale for organizations of any size, and its ability to interoperate and integrate with the existing technology we had within the business was extremely beneficial.”
+The Zscaler Zero Trust Exchange is a cloud native platform that connects and secures users, workloads, IoT/OT, and B2B partners over any network and from any location. It connects entities directly to apps they are accessing, without extending the network to anyone or anything.
+To advance its zero trust strategy, Probe CX first rolled out Zscaler Internet Access (ZIA) to provide its workforce with safe, fast internet and SaaS access.
+As the company grew through acquisitions and moved more private applications to the cloud, it rolled out Zscaler Private Access (ZPA) for zero trust network access. ZPA eliminates the hassles and risks of using traditional VPNs and provides Probe CX staff with the fastest, most secure access to their private apps.
+“A key benefit of implementing Zscaler is we’re on track to get rid of 100% of our VPNs,” said Khanna. “In terms of productivity, the time it takes our users to log in to systems is much faster than it’s ever been.”
+In the first three months, Zero Trust Exchange, Zscaler detected and blocked more than 3.1 million threats in 285 TB of traffic, including threats hiding in encrypted traffic.
+"Our key finding was that Zscaler had the product capabilities and maturity we needed. Zscaler is inherently built to scale for organizations of any size, and its ability to interoperate and integrate with the existing technology we had within the business was extremely beneficial."
+  — Khanna, Probe CX
+"A key benefit of implementing Zscaler is we’re on track to get rid of 100% of our VPNs. In terms of productivity, the time it takes our users to log in to systems is much faster than it’s ever been."
+  — Khanna, Probe CX
+
+--- Improving employees’ digital experience ---
+Probe CX also wanted to gain visibility into its users’ digital experience as they worked from anywhere. To achieve this, the company adopted Zscaler Digital Experience (ZDX).
+ZDX proactively monitors and provides detailed metrics into the digital experience of every user, application, department, and location, so IT can rapidly fix application, network, and device issues. With the power of the Zero Trust Exchange, IT can simply add digital experience monitoring using the same agent and avoid the complexity of adding and managing another point product.
+As Probe CX looks ahead, it can easily add other Zero Trust Exchange capabilities, such as Zscaler Data Protection for cloud-delivered protection of its sensitive data everywhere.
+"Zscaler has allowed us to significantly simplify security policies or rules within the business as our users work from anywhere, which gives us an advantage over our competition because we have a stronger security posture."
+  — Rohan Khanna, Chief Technology Officer, Probe CX
+
+--- Simplifying the security ecosystem ---
+The Zero Trust Exchange has allowed Probe CX to strengthen its security posture while simplifying its zero trust security ecosystem. It has eliminated VPNs entirely and reduced firewalls in its data centers, minimizing risk and freeing up IT resources. The IT team can holistically define, manage, and enforce zero trust policies across applications and different business entities with less effort than ever.
+“Zscaler has allowed us to significantly simplify security policies or rules within the business as our users work from anywhere, which gives us an advantage over our competition because we have a stronger security posture,” said Khanna.
+As a framework, Zero Trust Exchange integrates with Probe CX’s other technology partners to support an end-to-end zero trust solution. “A cohesive digital zero trust ecosystem gives us better value because we’re not operating in silos, but collectively for the enterprise,” Khanna said.
+Zscaler integrations include Okta for single sign-on (SSO) and multifactor authentication (MFA), VMware SD-WAN for optimized and secure connectivity, and Rapid7 for security information and event management (SIEM) and extended detection and response (XDR).
+"Zscaler has allowed us to significantly simplify security policies or rules within the business as our users work from anywhere, which gives us an advantage over our competition because we have a stronger security posture."
+  — Khanna, Probe CX
+"A cohesive digital zero trust ecosystem gives us better value because we’re not operating in silos, but collectively for the enterprise."
+  — Khanna, Probe CX
+
+--- Delivering economic value with zero trust ---
+The move to the Zero Trust Exchange has delivered clear economic value, according to Khanna.
+“When we did the business case for zero trust, our initial perception was that it would be 30% higher in terms of cost,” he said. “One of the key things we realized is that because of reduced IT labor, security simplification, and lower opportunity costs, putting zero trust into our environment has actually delivered a lower TCO than our previous solution.”
+"When we did the business case for zero trust, our initial perception was that it would be 30% higher in terms of cost. One of the key things we realized is that because of reduced IT labor, security simplification, and lower opportunity costs, putting zero trust into our environment has actually delivered a lower TCO than our previous solution."
+  — Probe CX
+"A primary use case for Zscaler is the ability to provide secure access to various applications as we merge brand-new entities."
+  — Rohan Khanna, Chief Technology Officer, Probe CX
+
+--- Zero trust helps speed mergers and acquisitions ---
+Probe CX is growing through acquisition, most recently buying an AI and automation specialist to supercharge its customer experience and business process outsourcing services. Success in mergers and acquisitions is driven by how much faster synergies are realized, and Probe CX views the Zero Trust Exchange as a great enabler in accelerating synergies and a key component of its integration toolkit to accelerate time to value as it reduces integration efforts from months or years to weeks to days.
+“Mergers and acquisitions are a huge part of what Probe CX does, and we need to make sure that our enterprise architecture and security framework keep pace as we grow,” said Khanna. “A primary use case for Zscaler is the ability to provide secure access to various applications as we merge brand-new entities.”
+"Mergers and acquisitions are a huge part of what Probe CX does, and we need to make sure that our enterprise architecture and security framework keep pace as we grow. A primary use case for Zscaler is the ability to provide secure access to various applications as we merge brand-new entities."
+  — Khanna, Probe CX
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Optimize Digital Experiences
+- Secure Remote Access
+- Accelerate M&A and Divestitures
+- Ransomware
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: Probe CX Customer Testimonial
+Video Description: a Customer Testimonials video
+
+Transcript Segments:
+[Rohan Khanna (Chief Technology Officer, Probe CX)] (Company overview and scale): PropCX is one of the largest Australian owned contact services provider. We have some eighteen thousand people across five different countries, and we service them out of thirty two different locations.
+[Rohan Khanna (Chief Technology Officer, Probe CX)] (Issues with previous models): The challenges that we had with the previous models were that we had lots of different entities with lots different tools. Lots of different VPNs, and the way we really managed a policy was down to a site level. Zero trust actually gave us the ability to actually bring that down to a client level and segregate every single customer that we have within the environment.
+[Rohan Khanna (Chief Technology Officer, Probe CX)] (Cost benefits of zero trust): When we did the business case for zero trust, initial thought was that we would be thirty percent high in terms of cost. But one of the key things we've realized through the benefits, the inherent benefits that have come through were actually a lot cheaper in terms of cost by putting zero trust into the environment.
+[Rohan Khanna (Chief Technology Officer, Probe CX)] (Hybrid workforce and acquisitions): We've gotta be able to make sure that we keep pace in terms of the change and arc texture and the posture of our organization. So the hybrid workforce is one key factor that has arisen but recent acquisitions have also meant. We've got various different applications within the environment that we need to take care of.
+[Rohan Khanna (Chief Technology Officer, Probe CX)] (Zero trust enabling platform): And zero trust is enabling us to provide a system platform across various application users and entities. In twenty sixteen, for the first time when we got those applications in, we decided to put Zeta.
+[Rohan Khanna (Chief Technology Officer, Probe CX)] (ZPA adoption and integrations): So we've actually been a consumer of Zeta for a very, very long time. However, recently with the rise of the hybrid workforce, and the enterprise changes and the expansion of the organizations along with M and A. We've decided to venture more into ZPA. The integrations that we have within the enterprise architecture today are comprised of VeloCloud as our SD WAN solution.
+[Rohan Khanna (Chief Technology Officer, Probe CX)] (Additional tools and integrations): We use Octair for single sign on and multi factor authentication today. And we also use that for life cycle management, and we use ZIA and ZPA as a web proxy and the protection that we use for all of the outgoing traffic in the environment. We also have integration into Rapid Seven, which is a seam solution to make sure that we manage alerting and monitoring. Counselors at Scalor as well.
+[Rohan Khanna (Chief Technology Officer, Probe CX)] (Main use cases for Zscaler): The main use cases that we've got within Zscaler is the ability for us to merge brand new entities within the business through M and A. It's also helped us get competitive advantage or some of the competition because it's better posture. And the security posture for us is actually better off not just for hybrid workers at home, but also people within the office.
+[Rohan Khanna (Chief Technology Officer, Probe CX)] (Key benefits and outcomes): But some of the key benefits we've realized through implementing this technology now being that we've been able to get rid of hundred percent of those VPNs within the environment. We've also had significant simplification in terms of policies and rules within the business And the time that our users actually take to log on to systems that are working from home in terms of productivity is heaps far than it's ever been before.
+[Rohan Khanna (Chief Technology Officer, Probe CX)] (Zscaler processing statistics): If we look at the stats over the last three months in terms of what's being processed by Zscaler, we've had about eight point one billion transactions processed. About two hundred and eighty five terabytes of data or bandwidth that's actually been processed. Three point one million threats that have been avoided and ninety five percent of the traffic within the business is actually encrypted today.

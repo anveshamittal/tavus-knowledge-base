@@ -1,0 +1,66 @@
+DOCUMENT TITLE: Powerco Energizes Remote Working in Record Time
+SUBTITLE: with the Zscaler Zero Trust Exchange
+CUSTOMER: Powerco
+
+=== COMPANY OVERVIEW ===
+Powerco is a leading electricity and gas infrastructure business providing distribution services for 1.1m customers across 452,000 connections throughout the North Island of NZ.
+Industry: Energy, Oil, Gas, and Mining
+Headquarters: New Zealand
+Company Size: 450 employees
+Source URL: https://www.zscaler.com/customers/powerco
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Move away from a traditional WAN architecture and adopt an internet-only zero trust strategy across its office locations
+Transformation Journey:
+  * After examining a range of alternatives, in late 2019 Powerco made the decision to deploy Zscaler Internet Access and Zscaler Private Access.
+Key Results:
+  * Delivers seamless, secure remote access for all staff
+  * Reduces the costs of security infrastructure organization-wide and increases operational efficiency
+  * Enabled business to continue during the COVID-19 lockdown
+  * Publishes new applications in 10 minutes instead of a full day
+
+=== KEY QUOTES ===
+"Powerco staff love the fact that ZPA just works. There is no need for configurations or tweaks to settings. They can just open their laptop and work in the same way as they do in the office."
+  — Aaron Gayton, CISO, Powerco
+
+=== CASE STUDY DETAILS ===
+
+--- A vision of more reliable connectivity ---
+Before the COVID-19 virus turned the world upside down, Powerco had a clear goal for its corporate IT infrastructure. The organization wanted to move away from a traditional wide area network (WAN) architecture and adopt an internet-only zero trust strategy across its office locations.
+Aaron Gayton, Powerco’s Chief Information Security Officer, said as part of this process, it was necessary to find a replacement for legacy web filtering and virtual private network (VPN) capabilities.
+“We had been using a traditional on-premise VPN product,” he said. “While it did work, it wasn’t highly available and was often frustrating users who had to tweak settings to get a connection. Also, it could only scale to serve half our workforce.”
+Gayton said the organization also wanted to change the way its applications were deployed. The goal was to take all applications that needed private access off the intranet and have them published behind a secure portal.
+"We had been using a traditional on-premise VPN product. While it did work, it wasn’t highly available and was often frustrating users who had to tweak settings to get a connection. Also, it could only scale to serve half our workforce."
+  — Powerco
+
+--- COVID-19 shifts priorities and accelerates deployment plans ---
+After examining a range of alternatives, in late 2019 Powerco made the decision to deploy Zscaler Internet Access and Zscaler Private Access. It was determined that these products could readily underpin the planned internet-only network architecture.
+“As an organization, we follow a cloud-first strategy and the fact that Zscaler was designed from the outset for cloud made it very appealing,” said Gayton. “Every other product we looked at was not a cloud-native platform. Also, Zscaler was the only vendor that has a point of presence for its internet access product in New Zealand.”
+Working with Zscaler Professional Services, Powerco’s Information Security (IS) team began the deployment in early February. Key applications were taken off the intranet and placed behind a specially configured secure portal.
+In March, a pilot user group was then established to test Zscaler Private Access (ZPA) with the aim of rolling it out company-wide over a period of four weeks. However, a week into the trial, the COVID-19 lockdown came into force and so the company was forced to accelerate its deployment plans.
+“Rather than taking the planned month to complete the deployment, we had everyone up and running on ZPA in just four days,” said Gayton. “Not only was it the fastest IT project we had ever undertaken, it just worked from the outset.”
+“We also quickly found we were receiving a lot of very positive feedback from our users. They liked the fact that connection was seamless and there was no mucking around with settings or connect buttons. They simply opened their laptop and started work as though they were still in the office.”
+Gayton said the support provided by Zscaler Professional Services was invaluable. They worked closely with the internal IS team and readily adopted their preferred agile methodology. Rather than fully designing and scoping the entire solution up front, a minimum viable product that met requirements was rolled out and then followed up with tests and iterative changes. Daily conference calls ensured the project remained on track at all times.
+"As an organization, we follow a cloud-first strategy and the fact that Zscaler was designed from the outset for cloud made it very appealing. Every other product we looked at was not a cloud-native platform. Also, Zscaler was the only vendor that has a point of presence for its internet access product in New Zealand."
+  — Gayton, Powerco
+"Rather than taking the planned month to complete the deployment, we had everyone up and running on ZPA in just four days. Not only was it the fastest IT project we had ever undertaken, it just worked from the outset."
+  — Gayton, Powerco
+"We had been using a traditional on-premise VPN…While it did work, it wasn’t highly available…"
+  — Aaron Gayton, CISO, Powerco
+
+--- Zscaler delivers improved security, anywhere ---
+As well as having established a platform that provides secure remote working capabilities for all staff, Powerco is also enjoying other significant benefits as a result of deploying Zscaler. Publishing of new applications can now be completed in just 10 minutes where it used to take a day and involve network, security and application experts.
+The organization is also taking advantage of Zscaler’s tight integration with cybersecurity platform CrowdStrike. When a user connects to a Powerco application or datastore, Zscaler checks whether the CrowdStrike app is running in the background. If not, that user is automatically denied access.
+While COVID-19 has delayed Powerco’s internet-only offices strategy, Gayton said he expected this will be completed later this year. Once completed, he estimates it will lead to significant cost savings for the organization. A number that is significantly more than the cost of the Zscaler service.
+“Overall, Zscaler has enabled us to significantly improve our security posture compared with what we had in place,” he said. “Our staff working from home are just as secure, if not more secure, than when they were working in the office. That is a great result for us and would not have been possible without Zscaler.”
+"Overall, Zscaler has enabled us to significantly improve our security posture compared with what we had in place. Our staff working from home are just as secure, if not more secure, than when they were working in the office. That is a great result for us and would not have been possible without Zscaler."
+  — Powerco
+"As an organization, we follow a cloud-first strategy and the fact that Zscaler was designed from the outset for cloud made it very appealing"
+  — Aaron Gayton, CISO, Powerco
+"Overall, Zscaler has enabled us to significantly improve our security posture compared with what we had in place"
+  — Aaron Gayton, CISO, Powerco
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Ransomware

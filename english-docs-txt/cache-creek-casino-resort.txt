@@ -1,0 +1,98 @@
+DOCUMENT TITLE: Cache Creek Fast-Tracks Business Transformation
+SUBTITLE: with the Zscaler Zero Trust Exchange
+CUSTOMER: Cache Creek Casino Resort
+
+=== COMPANY OVERVIEW ===
+Cache Creek Casino Resort is one of Northern California’s largest casino-resort destinations. Besides a world-class gaming experience with thousands of slot machines and hundreds of game tables, it features a four-diamond-rated hotel, 10 restaurants, a 1,400-seat event center, and an 18-hole championship golf course.
+Industry: Entertainment and Hospitality
+Headquarters: Brooks, California, USA
+Company Size: 2,000 employees
+Source URL: https://www.zscaler.com/customers/cache-creek-casino-resort
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * With small staff, minimize risk of disruption or breach while modernizing security, starting with remote access
+Transformation Journey:
+  * In the future, Cache Creek plans to leverage the Zero Trust Exchange even more as it moves additional on-premises services to the cloud, increases use of SaaS solutions, and expands the concepts of zero trust and least-privileged access internally.
+Key Results:
+  * Implemented seamless, secure remote access and internet filtering in one day
+  * Improves remote user experience exponentially, boosting productivity
+  * Significantly expands talent pool for recruiting
+  * Builds foundation for expansion of zero trust approach and business modernization
+  * Prevents over 100,000 policy violations and blocks over 200 threats monthly
+
+=== KEY QUOTES ===
+"Zscaler fast-tracked our digital transformation, allowing us to modernize both our security infrastructure and our workplace, transforming the way we work daily... We are more productive, efficient, and secure than we have ever been."
+  — Stephen Bailey, Vice President of Information Technology, Cache Creek Casino Resort
+
+=== CASE STUDY DETAILS ===
+
+--- Cyberattack and pandemic prompt security overhaul ---
+After a cyberattack shut down operations, Cache Creek Resort and Casino knew it needed to overhaul its security systems but the COVID-19 shutdowns made remote access the top priority. Employees and contractors had to work offsite for the first time, and the hardened laptops required to access the corporate network severely hampered productivity and collaboration.
+“We desperately needed better remote access,” recalled Stephen Bailey, who was hired as Vice President of Information Technology to transform the company’s security posture. “I wanted to leapfrog traditional VPNs and their security and useability issues to provide a modern remote access experience that mimics being on-premises.”
+"We desperately needed better remote access. I wanted to leapfrog traditional VPNs and their security and useability issues to provide a modern remote access experience that mimics being on-premises."
+  — Stephen Bailey, Vice President of Information Technology, Cache Creek Casino Resort
+
+--- Fully built, unified cloud platform simplifies security ---
+Previous positive experience with Zscaler, its leadership position in modern cloud security, ease of management, and multiple out-of-the-box integrations led Bailey and his team to consider Zscaler for zero trust network access (ZTNA). After examining alternatives, they conducted a proof of concept of Zscaler Private Access (ZPA). ZPA connects users directly to applications—not the network—minimizing the attack surface and eliminating lateral movement.
+“No other [ZTNA] solutions came close,” noted Bailey. “For instance, the closest competitive product needed substantial customization, including to integrate with multi-factor authentication, whereas Zscaler Private Access is fully built out, no customizations required. Also, the Zscaler team was far more engaged from day one.”
+In addition, as the Cache Creek team learned more about the Zscaler Zero Trust Exchange platform, they realized they could leverage it well beyond remote access. “We are a small team, so efficiency is critical,” said Bailey. “The more we can simplify our overall architecture, the better. Zscaler has a holistic approach to zero trust that makes it easier to add and adapt functionality in the future.”
+"No other [ZTNA] solutions came close. For instance, the closest competitive product needed substantial customization, including to integrate with multi-factor authentication, whereas Zscaler Private Access is fully built out, no customizations required. Also, the Zscaler team was far more engaged from day one."
+  — Bailey, Cache Creek Casino Resort
+"We are a small team, so efficiency is critical. The more we can simplify our overall architecture, the better. Zscaler has a holistic approach to zero trust that makes it easier to add and adapt functionality in the future."
+  — Bailey, Cache Creek Casino Resort
+"No other [ZTNA] solutions came close … Zscaler Private Access is fully built out, no customizations required.”"
+  — Stephen Bailey, Vice President of Information Technology, Cache Creek Casino Resort
+
+--- Secure remote access and internet filtering in one day ---
+It was so much easier, in fact, that Cache Creek decided to implement Zscaler Internet Access (ZIA) simultaneously with ZPA. Also, part of the Zero Trust Exchange, ZIA is a completely integrated secure web gateway and threat protection service delivered from the cloud. It inspects and decrypts all traffic inline—whether destined for SaaS or internal applications, the internet, or network services—and blocks threats no matter where users are when they connect.
+Since no infrastructure changes are required for either solution and each uses the same agent, deployment was simple and took just one day. “We knew that adding Zscaler Internet Access would give us further traction as we mature our security posture,” explained Bailey. “It provides an important additional layer of security and was easy to deploy at the same time as Zscaler Private Access, so we thought ‘why wait?’.”
+Cache Creek rolled out ZPA and ZIA to all corporate laptops as well as all Cache Creek executives’ mobile phones and iPads, allowing them to work from anywhere with any of their mobile devices. “We were amazed at how easy it was to roll out ZPA and ZIA to all these devices,” noted Bailey.
+"We knew that adding Zscaler Internet Access would give us further traction as we mature our security posture. It provides an important additional layer of security and was easy to deploy at the same time as Zscaler Private Access, so we thought ‘why wait?’."
+  — Bailey, Cache Creek Casino Resort
+"We were amazed at how easy it was to roll out ZPA and ZIA to all these devices."
+  — Bailey, Cache Creek Casino Resort
+
+--- Vastly improved user experience and productivity ---
+“With Zscaler Private Access integrated with our IdP [identity provider] and single sign-on, as soon as a user is enrolled and logged in, their remote access is seamless,” said Bailey. “Most don’t even think about how they’re connecting anymore. They now have the flexibility to work from any location and with a consistent experience no matter what device they are using.”
+“It doesn’t matter which device I have—laptop, tablet, or phone—or where I am,” concurred John Meacham, Vice President of Marketing at Cache Creek. “With ZPA, I have secure, easy access to all my notes, emails, files, and apps. I save a ton of time not having to use a VPN or transfer notes back and forth. And the learning curve was minuscule.”
+Besides boosting productivity, easy remote access to needed applications and resources saves Cache Creek employees significant commute time, improving their work-life balance. The resort is 30 minutes from the nearest population center, and travel time for many is more than an hour each way.
+"With Zscaler Private Access integrated with our IdP [identity provider] and single sign-on, as soon as a user is enrolled and logged in, their remote access is seamless. Most don’t even think about how they’re connecting anymore. They now have the flexibility to work from any location and with a consistent experience no matter what device they are using."
+  — Bailey, Cache Creek Casino Resort
+"Zscaler has a holistic approach to zero trust that makes it easier to add and adapt functionality in the future."
+  — Stephen Bailey, Vice President of Information Technology, Cache Creek Casino Resort
+
+--- WFA attracting top talent and expanding talent pool ---
+Cache Creek has turned the flexibility to work from anywhere (WFA) into a recruiting tool that makes Human Resources’ job much easier. The company’s IT and Marketing departments, previously understaffed, are now growing 60% thanks to being able to extend the talent pool well beyond Northern California. “We now have the confidence to hire a more hybrid and full-time remote workforce, knowing we can provide a secure on-premises experience no matter where they are located,” claimed Bailey.
+“We recently filled a key IT position by hiring an employee that will be based in another state,” noted Bailey. “That simply wouldn’t have been possible before implementing ZPA. Furthermore, the ability to work with modern technologies such as the Zscaler Zero Trust Exchange platform helps attract a higher caliber of IT and cybersecurity talent.”
+"We now have the confidence to hire a more hybrid and full-time remote workforce, knowing we can provide a secure on-premises experience no matter where they are located."
+  — Bailey, Cache Creek Casino Resort
+"We recently filled a key IT position by hiring an employee that will be based in another state. That simply wouldn’t have been possible before implementing ZPA. Furthermore, the ability to work with modern technologies such as the Zscaler Zero Trust Exchange platform helps attract a higher caliber of IT and cybersecurity talent."
+  — Bailey, Cache Creek Casino Resort
+
+--- Enhancing threat protection and security posture ---
+Adopting the Zero Trust Exchange platform has boosted Cache Creek’s security posture significantly. In three months, while ZPA slashed remote access security risks, ZIA inspected 1.7 TB of internet traffic and 24.2 million transactions for potential threats, preventing 345,000 policy violations and blocking 629 threats, including 90 that were hidden in encrypted traffic. “We regularly see the benefits of Zscaler protecting users from accessing malicious websites,” said Bailey.
+“Furthermore, with tight integration of ZPA and CrowdStrike, no customizations needed, we can automatically assess device security posture before granting access to a user,” added Bailey. “Pushing everything through the Zscaler cloud platform lets us closely monitor and control who gets access to what and grant access only to what they need, all via a common path.”
+"We regularly see the benefits of Zscaler protecting users from accessing malicious websites."
+  — Bailey, Cache Creek Casino Resort
+"Furthermore, with tight integration of ZPA and CrowdStrike, no customizations needed, we can automatically assess device security posture before granting access to a user. Pushing everything through the Zscaler cloud platform lets us closely monitor and control who gets access to what and grant access only to what they need, all via a common path."
+  — Bailey, Cache Creek Casino Resort
+"We were amazed at how easy it was to roll out ZPA and ZIA to all these devices."
+  — Stephen Bailey, Vice President of Information Technology, Cache Creek Casino Resort
+
+--- Foundation for continual digital transformation ---
+In the future, Cache Creek plans to leverage the Zero Trust Exchange even more as it moves additional on-premises services to the cloud, increases use of SaaS solutions, and expands the concepts of zero trust and least-privileged access internally. “As we mature our use of cloud providers and zero trust, we will be designing our architecture with Zscaler in mind,” noted Bailey
+“In a few short months, Zscaler fast-tracked our digital transformation, allowing us to modernize both our security infrastructure and our workplace, transforming the way we work on a daily basis,” said Bailey. “We are more productive, efficient, and secure than we have ever been. And we’ve established a solid foundation for the future, from a product as well as a partner standpoint.”
+"As we mature our use of cloud providers and zero trust, we will be designing our architecture with Zscaler in mind."
+  — Bailey, Cache Creek Casino Resort
+"In a few short months, Zscaler fast-tracked our digital transformation, allowing us to modernize both our security infrastructure and our workplace, transforming the way we work on a daily basis. We are more productive, efficient, and secure than we have ever been. And we’ve established a solid foundation for the future, from a product as well as a partner standpoint."
+  — Bailey, Cache Creek Casino Resort
+
+--- Leapfrogging VPN technology drives multiple benefits ---
+Faced with a cyberattack and transition to WFA, Cache Creek Casino Resort seized the opportunity to leapfrog VPN and other castle-and-moat security technologies with a modern zero trust approach.
+By adopting the Zscaler Zero Trust Exchange platform, including Zscaler Private Access and Zscaler Internet Access, the team immediately boosted productivity and improved the experience of employees and contractors. In addition, they improved their ability to attract new talent and established a stronger, much more agile defense to support business modernization now and in the future.
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Ransomware
+- Data Security

@@ -1,0 +1,77 @@
+DOCUMENT TITLE: AutoNation Drives Its Cloud Transformation
+SUBTITLE: with the Zscaler Zero Trust Exchange
+CUSTOMER: AutoNation
+
+=== COMPANY OVERVIEW ===
+AutoNation is America’s largest auto retailer. The Fortune 500 company sells new and pre-owned cars via its more than 360 franchises throughout the US. The company has more than 21,000 employees and 10 million customers.
+Industry: Retail and Wholesale
+Headquarters: Fort Lauderdale, Florida, USA
+Company Size: More than 21,000 employees across 360 franchise locations
+Source URL: https://www.zscaler.com/customers/autonation
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Improve security of users accessing the internet and enable using Office 365
+Transformation Journey:
+  * Following a successful proof of concept, AutoNation began rolling out the Zero Trust Exchange and ZIA across the country.
+Key Results:
+  * Deployed more than 3x faster than appliance-based internet security
+  * Provided value from day one, thanks to easy visibility of internet traffic
+  * Slashes administrative costs by eliminating hardware management and maintenance
+  * Shrinks technology footprint of retail stores
+  * Discovers and blocks botnet and P2P file-sharing traffic, removing 500 GB monthly
+  * Established a robust platform for enabling cloud transformation
+
+=== KEY QUOTES ===
+"What would have probably taken nine to ten months with appliances … took about two to three months with Zscaler."
+  — Ken Athanasiou, Chief Information Security Officer, AutoNation
+
+=== CASE STUDY DETAILS ===
+
+--- Cost-effective internet security for 360 stores ---
+Applying consistent, robust security across all of AutoNation’s locations proved extremely difficult. Each of its 360 retail stores’ networks includes an internet point of presence as well as a direct connection to the corporate data center. Additionally, each of the more than 30 car manufacturers supported by AutoNation has slightly different requirements regarding connectivity, especially concerning internet-connected vehicle diagnostic systems.
+Furthermore, like many organizations, the Fort Lauderdale, Florida-based company found that most of its traffic was internet-bound, particularly as adoption of cloud services increases. And like all companies, it was concerned about the increasing frequency and sophistication of internet-borne threats.
+AutoNation determined that routing all internet traffic from its retail locations through the company’s data center was too inefficient and costly. The company also ruled out deploying Unified Threat Management (UTM) devices to each store because of the increased cost of hardware, implementation, maintenance, and lifecycle management.
+
+--- Better security and smaller footprint via the cloud ---
+“When faced with having to deploy and manage little stacks of iron in over 360 locations, my immediate inclination was to look for a cloud-based solution,” said Ken Athanasiou, Chief Information Security Officer. “The right cloud-based internet security solution would allow us to provide the internet accessibility needed for our retail business, while ensuring that we are enforcing robust standardized security controls across all locations—and do so without requiring capital expenditures on hardware.”
+AutoNation began looking at options, including the cloud-based Zscaler Zero Trust Exchange and its Zscaler Internet Access (ZIA) service, which would allow the company to protect and control internet-bound traffic and reduce each retail store’s technology footprint. With the Zscaler service, different policies could also be applied to meet the varying needs of the company’s individual sites. For instance, the company could deploy separate policies for guest Wi-Fi, shop tools and diagnostic devices, and the corporate network policies—and manage them all from one central administrative console.
+"When faced with having to deploy and manage little stacks of iron in over 360 locations, my immediate inclination was to look for a cloud-based solution. The right cloud-based internet security solution would allow us to provide the internet accessibility needed for our retail business, while ensuring that we are enforcing robust standardized security controls across all locations—and do so without requiring capital expenditures on hardware."
+  — Ken Athanasiou, Chief Information Security Officer, AutoNation
+"Our security requirements are now more responsive to our acquisition strategy. It's very simple to add new locations."
+  — Ken Athanasiou, Chief Information Security Officer, AutoNation
+
+--- Cloud security platform deploys easily and saves time ---
+Following a successful proof of concept, AutoNation began rolling out the Zero Trust Exchange and ZIA across the country. Deployment was very straightforward. AutoNation rolled out initial capabilities in two to three months, and the company fully deployed the platform in less than a year. Today internet-bound traffic for all 32,000 of the company’s users is forwarded to the Zscaler cloud.
+With the Zero Trust Exchange, the AutoNation IT team enjoys centralized management and reporting functions with one integrated dashboard. Because there is no need to manage and maintain hardware, the company has slashed administration costs and replaced capital expenses with the simple, predictable subscription cost of the Zscaler service.
+"We took a direct-to-the-internet approach with Microsoft 365. Using Zscaler we shrunk our branch footprint to just a router and endpoints."
+  — Ken Athanasiou, Chief Information Security Officer, AutoNation
+
+--- Uncovering and blocking unwanted network traffic ---
+AutoNation began seeing the value of the Zscaler platform immediately upon deployment.
+“As soon as we started rolling out ZIA, we gained visibility into the effectiveness of our antivirus solution and endpoint security posture in general,” noted Athanasiou. “We could see Zscaler blocking command-and-control traffic from a system in our environment, so we’d track it down and find out the antivirus was disabled or not updating virus signatures. Zscaler immediately squashed that outbound traffic.”
+What AutoNation found when it turned on ZIA opened the eyes of senior leadership. Athanasiou and his team were aware they had botnet issues and Zscaler confirmed their concern. “We saw that we were getting periodic instances of botnet traffic from infections,” remarked Athanasiou. “We were able to clean those up quickly, because we were able to easily identify all the infected workstations.”
+“We also found a lot of P2P traffic going in and out of our network to clients we weren’t familiar with,” added Jeff Johnson, AutoNation Director of Security Operations. “We were able to use Zscaler’s full packet inspection firewall to turn off that unauthorized traffic. As a result, we cut out about 500 gigabytes per month of unwanted P2P traffic that was stealing network bandwidth.”
+"As soon as we started rolling out ZIA, we gained visibility into the effectiveness of our antivirus solution and endpoint security posture in general. We could see Zscaler blocking command-and-control traffic from a system in our environment, so we’d track it down and find out the antivirus was disabled or not updating virus signatures. Zscaler immediately squashed that outbound traffic."
+  — Athanasiou, AutoNation
+"We saw that we were getting periodic instances of botnet traffic from infections. We were able to clean those up quickly, because we were able to easily identify all the infected workstations."
+  — Athanasiou, AutoNation
+"We also found a lot of P2P traffic going in and out of our network to clients we weren’t familiar with. We were able to use Zscaler’s full packet inspection firewall to turn off that unauthorized traffic. As a result, we cut out about 500 gigabytes per month of unwanted P2P traffic that was stealing network bandwidth."
+  — Jeff, AutoNation
+"I knew that a cloud-based security stack would be a much better fit for us, and Zscaler gave us the full security stack."
+  — Ken Athanasiou, Chief Information Security Officer, AutoNation
+
+--- Cloud sandbox and SSL inspection add extra protection ---
+After its initial Zscaler deployment, AutoNation decided to add another layer of security with sandbox behavioral analysis. The company was looking for a solution that would be deployed quickly, with in-depth reporting, and the Zscaler Cloud Sandbox service, also part of the Zero Trust Exchange, proved to be more effective—and more cost-effective—than hardware alternatives at providing enterprise-wide protection against advanced threats.
+AutoNation is also gradually rolling out ZIA’s native SSL inspection functionality across the organization since a growing percentage of traffic is encrypted. “About half our stores are now using SSL interception,” noted Johnson. “Some retail applications don’t play well with SSL inspection, so we had to ensure we didn’t interrupt any operations.”
+"About half our stores are now using SSL interception. Some retail applications don’t play well with SSL inspection, so we had to ensure we didn’t interrupt any operations."
+  — Johnson, AutoNation
+
+--- Safer, faster use of M365 across 290 locations ---
+AutoNation faced a challenge familiar to many organizations today: to securely empower employees throughout its extended enterprise to use Microsoft 365. With ZIA providing safe access to the cloud for users at all the company’s retail and corporate locations, the company deployed Microsoft 365 with confidence. AutoNation users enterprise wide now access M365 quickly and safely, according to consistent security policies.
+Using Microsoft 365 results in long-lived connections—12 or more connections per user—so it puts a considerable strain on traditional networks and can quickly exceed firewall capacities. Thanks to ZIA and Zscaler peering with Microsoft in its 150 major data centers worldwide, AutoNation eliminates these problems and provides a much more satisfying user experience. In addition, the ability to implement bandwidth controls allows prioritization of Microsoft 365 traffic over other traffic, such as streaming media.
+Besides deploying M365, AutoNation is rapidly establishing an ecommerce presence using cloud providers such as Azure and Amazon Web Services (AWS). The company acknowledges that it is moving to the cloud very quickly, migrating from physical data centers and on-premises hardware. Zscaler and its Zero Trust Exchange provide a robust platform for enabling this transformation.
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Ransomware
+- Data Security

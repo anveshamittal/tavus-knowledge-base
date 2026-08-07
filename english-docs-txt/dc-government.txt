@@ -1,0 +1,49 @@
+DOCUMENT TITLE: The Government of the District of Columbia Consolidates Security on the Zscaler Zero Trust Exchange
+SUBTITLE: Zscaler replaces legacy VPN appliances to streamline security architecture, bolsters real-time risk awareness, and protects 15,000 users
+CUSTOMER: District of Columbia
+
+=== COMPANY OVERVIEW ===
+Oversees and manages all critical services for residents of the District of Columbia.
+Industry: Federal and Government
+Headquarters: Washington, D.C., USA
+Company Size: 15,000+ employees
+Source URL: https://www.zscaler.com/customers/dc-government
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 15k: government employees secured
+- ~3B: transactions processed per month
+- 200k+: security threats blocked per month
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * An outdated security infrastructure could not support remote working and contributed to operational inefficiencies
+  * Traditional VPN appliances extended the corporate network to end user devices, putting sensitive data at risk of compromise
+  * Legacy security point products limited visibility around threats, making risk assessment and mitigation more challenging
+Key Results:
+  * Zero trust architecture enhances security posture—processes ~3B transactions and blocks 200k+ threats monthly
+  * Improves the remote user experience for 15,000 users, and seamlessly integrates with existing identity solutions
+  * Enables a more comprehensive focus on risk management, driven by better insights into risk factors and security posture
+
+=== KEY QUOTES ===
+"The partnership with Zscaler has been invaluable for us. We deployed the platform at record speeds, onboarded users more effectively and enhanced the user experience."
+  — Suneel Cherukuri, CISO, D.C. Government, The Government of the District of Columbia
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Secure Remote Access
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: D.C. Government Testimonial ft. Suneel Cherukuri
+Video Description: a Customer Testimonials video
+
+Transcript Segments:
+[Suneel Cherukuri (CISO, D.C. Government, The Government of the District of Columbia)] (Uniqueness of government environments): Every government environment is very, very unique.
+[Suneel Cherukuri (CISO, D.C. Government, The Government of the District of Columbia)] (DC's unique government structure): And when you take an entity like DC, it's even more unique. We have all of the functions of every single state, every single county, and we do it together.
+[Suneel Cherukuri (CISO, D.C. Government, The Government of the District of Columbia)] (Data sharing across agencies): That means we have access to all of the data that a city has, county has, or any of those functions do. Tying all of that together and sharing it between different agencies is a common practice. How do we do that effectively is where zero trust becomes key.
+[Suneel Cherukuri (CISO, D.C. Government, The Government of the District of Columbia)] (Zero trust journey since 2016): For DC, we've embarked on a zero trust journey since twenty sixteen. The use of CIA for our users has been very helpful. They are able to access their Internet resources using their own ISP connections at a higher speeds and more effective as per the policies laid out by the city government.
+[Suneel Cherukuri (CISO, D.C. Government, The Government of the District of Columbia)] (Limitations of traditional VPN): The downside of using a traditional VPN is how you handle Internet traffic versus internal traffic for DC government specifically. We could not take all of the traffic through their small tunnels and route it through DC government network, which is an exhaustive process, and it would actually tax our internal systems.
+[Suneel Cherukuri (CISO, D.C. Government, The Government of the District of Columbia)] (Implementation of Zscaler ZPA): With the implementation of Zscaler, specifically with the ZPA, we were able to take all of the internal applications, publish them through the ZPA tunnel effectively for our users. We were able to move all of our fifteen thousand users that are using traditional VPN onto the Zscaler.
+[Suneel Cherukuri (CISO, D.C. Government, The Government of the District of Columbia)] (Seamless integration and user onboarding): We were able to tie in with our identity platforms seamlessly. We were able to roll out Zscaler at a record speeds. We were able to onboard users more effectively. We were able to enhance the user experience based on the functionality of the platform itself.
+[Suneel Cherukuri (CISO, D.C. Government, The Government of the District of Columbia)] (Partnership with Zscaler): The partnership with Zscaler has been invaluable for us. We are looking at it as a future partnership to see how we can more enhance these six services, interacting with our partners, as well as our vendors, and see how we can actually extend the zero trust approach to all of the use cases, as we see the future.
+[Suneel Cherukuri (CISO, D.C. Government, The Government of the District of Columbia)] (Governance and compliance evaluation): This year is our year of governance. Risk three sixty is something that we're evaluating to see where we stand from our compliance perspective, identify the risk that we have, and see if it actually meets all of our requirements as defined by our policies.
+[Suneel Cherukuri (CISO, D.C. Government, The Government of the District of Columbia)] (Importance of zero trust): So for us, zero trust means a lot, and it's actually required for our day to day operations to be secure.

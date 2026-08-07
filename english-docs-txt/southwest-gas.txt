@@ -1,0 +1,102 @@
+DOCUMENT TITLE: Southwest Gas Leverages the Zscaler Zero Trust Exchange to Optimize a Secure User Experience
+SUBTITLE: Zscaler eliminates reliance on legacy security solutions to deliver faster, more reliable connectivity for 2,300 hybrid employees and 50 field offices
+CUSTOMER: Southwest Gas
+
+=== COMPANY OVERVIEW ===
+Energy company providing natural gas service across Arizona, Nevada, and California
+Industry: Energy, Oil, Gas, and Mining
+Headquarters: Las Vegas, Nevada, USA
+Company Size: 2 million customers
+Source URL: https://www.zscaler.com/customers/southwest-gas
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 4-6: weeks to deploy comprehensive zero trust
+- 95%: of use cases fulfilled
+- One: single-vendor platform for simplicity
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * A traditional security infrastructure could not scale to support cloud transformation or the shift to hybrid working
+  * Fast and reliable internet connectivity was challenging to provide for field offices and remote employees in rural areas
+  * Legacy VPNs did not enable identity-based access policies, leaving private apps and data more vulnerable to threats
+Transformation Journey:
+  * Getting Zscaler up and running was a seamless process that only took four to six weeks.
+  * Zscaler integrations with other security tools in the company’s ecosystem have enhanced the transition to its zero trust journey.
+  * At the top of the technical team’s to-do list is full deployment of Zscaler Digital Experience (ZDX), which will allow the technical team to further elevate the user experience in the office and in remote locations.
+Key Results:
+  * Secures work-from-anywhere flexibility for 2,300 hybrid employees and protects users and data across 50 field offices
+  * Enables least-privileged, microsegmented access control policies for private applications, keeping critical data secure
+  * Accelerates zero trust adoption, eliminates security management complexity and reduces technical support requests
+
+=== KEY QUOTES ===
+"After conducting a proof of value (PoV), we selected Zscaler for its modern architecture, which allowed us to put our security stack in the cloud and optimize a remote workforce."
+  — David Petroski, Senior Infrastructure Architect, Southwest Gas
+
+=== CASE STUDY DETAILS ===
+
+--- Transitioning legacy solutions to zero trust ---
+Southwest Gas Corporation is an energy company providing safe and reliable natural gas service to more than two million customers in Arizona, Nevada, and California. The company’s infrastructure consists of an air-gapped operational technology (OT) network for resilient and efficient delivery of natural gas to customers and an IT network that serves employees at headquarters and approximately 50 field offices, some in rural areas of the country where internet service can be intermittent. While transitioning to a hybrid and remote workforce, the Company was challenged with providing remote employees with uninterrupted, fast connectivity to the internet and critical data and applications, while maintaining focus on strengthening, orchestrating, and consolidating security.
+With a goal of reducing its IT footprint in the data center, the Company embraced the cloud as part of a major digital transformation initiative. This meant moving away from a legacy VPN solution and optimizing a more secure user experience for remote workers who need immediate access to resources without having to go through the data center. The most logical solution was adopting a zero trust architecture.
+Senior Infrastructure Architects Robert Woodfin and David Petroski and Manager, Network Services, Larry Rosenbusch evaluated multiple vendors by participating in analyst calls with Gartner and testing out various solutions. After a positive recommendation by Gartner, they chose the Zscaler Zero Trust Exchange (ZTE) platform.
+“After conducting a proof of value (PoV), we selected Zscaler for its modern architecture, which allowed us to put our security stack in the cloud and optimize a remote workforce,” said Petroski. “ZTE has enhanced our connectivity and bolstered our Company’s support of a hybrid work environment for employees.”
+"After conducting a proof of value (PoV), we selected Zscaler for its modern architecture, which allowed us to put our security stack in the cloud and optimize a remote workforce. ZTE has enhanced our connectivity and bolstered our Company’s support of a hybrid work environment for employees."
+  — Petroski, Southwest Gas
+
+--- Fast anywhere, anytime access to the internet and web applications with consistent security ---
+To provide remote workers with secure access to the internet and SaaS applications, regardless of where they are, Southwest Gas implemented Zscaler Internet Access (ZIA). One of the biggest benefits is that all users get identical protection against threats. ZIA inspects all traffic, even when it is encrypted via SSL/TLS, without affecting the user experience. Users get immediate access to the internet with comprehensive and consistent security that includes AI-powered protection to stop ransomware, lateral movement of threats, and prevent data loss.
+“With ZIA, we no longer have to backhaul traffic to the data center to apply on-premises security controls,” said Petroski. “Direct-to-internet connectivity supports productivity for users out in the field.”
+"With ZIA, we no longer have to backhaul traffic to the data center to apply on-premises security controls. Direct-to-internet connectivity supports productivity for users out in the field."
+  — Petroski, Southwest Gas
+
+--- Goodbye, VPN—hello, Zscaler Private Access ---
+Prior to deploying Zscaler, remote users at Southwest Gas depended on a VPN system to access private applications. All network traffic was routed to security controls in the data center for inspection, resulting in latency. When the pandemic hit and the Company supported employees’ requests to transition to a remote work environment, the bandwidth of the company’s VPN needed to be optimized. The transition to Zscaler Private Access (ZPA) provided users with direct access to private applications, improving the user experience.
+In addition to connecting users to the right resources quickly and seamlessly, ZPA also provides Southwest Gas with cloud-based security controls that reduce the attack surface. And by preventing application exploitation, eliminating data loss, discovering active threats, and protecting against lateral attacks by giving users access to only the applications they need without routing them to the network.
+
+--- A fast, smooth, and easy deployment with support from team Zscaler ---
+Getting Zscaler up and running was a seamless process that only took four to six weeks. Maintaining it has been equally simple. Previously, the team had to ensure that each client had the latest SSL certificate installed in order to use VPN. In addition, PCs used out in the field were often reimaged, renamed, and reassigned to other locations, creating administrative complexity.
+Zscaler enhanced Company systems to alleviate many of these processes. Deployment was straightforward and simple, Rosenbusch pointed out.
+“We were able to deploy in less than two months. The SSL certificate security is done when you connect to the Zscaler cloud instead of via the clients and a certificate on a machine. That has optimized installs,” said Petroski.
+He adds that Zscaler has supported the technical support team: “The results have been positive, from smooth integrations with all our applications to end-user buy-in. The proof is the reduction of help desk tickets.”
+Both Rosenbusch and Petroski commented on the assistance they received from Zscaler’s staff—from sales to professional services—and look forward to continued success. “The Zscaler Professional Services team has been technically-savvy, solutions-oriented and responsive to our needs contributing to a successful deployment,” said Rosenbusch.
+"We were able to deploy in less than two months. The SSL certificate security is done when you connect to the Zscaler cloud instead of via the clients and a certificate on a machine. That has optimized installs."
+  — Petroski, Southwest Gas
+"The Zscaler Professional Services team has been technically-savvy, solutions-oriented and responsive to our needs contributing to a successful deployment."
+  — Petroski, Southwest Gas
+
+--- Moving the dial on zero trust transformation with integrations ---
+Zscaler integrations with other security tools in the company’s ecosystem have enhanced the transition to its zero trust journey.
+For example, Southwest Gas has been using Duo for multi factor authentication (MFA) to confirm user identity. As Rosenbusch pointed out, Duo and VPN “were not as integrated.” If an MFA certification expired on a remote worker’s system, a fix would be required. In some cases, that would require bringing the computer into the office, which was not viable for those in remote locations. The integration between Zscaler and Duo has been a great success, minimizing the administrative workload while providing the users with access to the resources they need to do their jobs.
+Also successful was the Zscaler integration with Splunk, a cloud-based analytics tool that monitors, logs, and correlates activities across the entire environment. The Zscaler-Splunk integration helps ensure that policies are applied consistently and provides insights into the behavior of users, data, and applications.
+“Zscaler streams log data into Splunk, and Splunk, in turn, provides enriched telemetry to provide us with real-time visibility to policy violations, vulnerabilities, and potentially nefarious activity,” explained Petroski.
+"Zscaler streams log data into Splunk, and Splunk, in turn, provides enriched telemetry to provide us with real-time visibility to policy violations, vulnerabilities, and potentially nefarious activity."
+  — Petroski, Southwest Gas
+
+--- Zscaler solves majority of use cases ---
+Deploying Zscaler has resulted in positive outcomes for Southwest Gas and has addressed a majority of its use cases. One result of the deployment is the ability to segment application access.
+“Zscaler enables us to have ‘role-based access,’ so that departments or groups can only access the applications they need,” explained Rosenbusch. “We’re able to assign users resources and access rights as appropriate for their department or position.”
+Zscaler leverages ML-based segmentation recommendations automatically to make it fast and easy to identify the right application segments and build the right access policies. As Petroski pointed out, this shrinks attack surface internally, preventing employees from getting ahold of resources that are not pertinent to them.
+Integrating a new infrastructure and providing access to shared resources to a new workforce can often be a complex, time-consuming effort. ZTE optimized the process for Southwest Gas to accommodate this transition.
+“Users were onboarded quickly and could get access to needed applications and data while being fully protected,” said Petroski.
+"Zscaler enables us to have ‘role-based access,’ so that departments or groups can only access the applications they need. We’re able to assign users resources and access rights as appropriate for their department or position."
+  — Rosenbusch, Southwest Gas
+"Users were onboarded quickly and could get access to needed applications and data while being fully protected."
+  — Petroski, Southwest Gas
+
+--- Zero trust results in unified security and simplifies management ---
+Southwest Gas continues to enhance its cloud and zero trust architecture. The fully cloud-delivered Zscaler platform provides the company with a consolidated, single-vendor platform that reduces complexity while protecting users, applications, and data everywhere. “We have consolidated our access to the remote workforce across our service area, and we're able to enforce our security policies consistently across the board,” said Petroski. “When I open my computer, it doesn't matter if I'm in California, Arizona, Nevada, or across the globe, I get the same experience and the same level of protection.”
+An eventual goal, Rosenbusch remarked, is to get all users up to speed and streamline the implementation to a point where he and his team are no longer troubleshooting the on-premises infrastructure, firewalls, the users’ home networks, or VPN.
+"We have consolidated our access to the remote workforce across our service area, and we're able to enforce our security policies consistently across the board. When I open my computer, it doesn't matter if I'm in California, Arizona, Nevada, or across the globe, I get the same experience and the same level of protection."
+  — Petroski, Southwest Gas
+
+--- On the agenda for the future: Expanding the Zscaler implementation ---
+At the top of the technical team’s to-do list is full deployment of Zscaler Digital Experience (ZDX), which will allow the technical team to further elevate the user experience in the office and in remote locations. ZDX provides visibility across the entire IT infrastructure, monitoring applications, devices, and network performance. This will help the support team detect and remediate issues faster and contribute to employee productivity.
+With greater reliance on the cloud, Southwest Gas is aware that exercising vigilance over its data is more important than ever. The Company is implementing Zscaler Data Protection, which uses a robust and intuitive data discovery engine to secure all cloud data channels, including SaaS and public clouds. It follows data everywhere it goes or is stored. Preventing data loss on the internet and securing data in SaaS applications like Microsoft 365 are particularly critical for Southwest Gas at this time.
+Being considered is integrating Zscaler with CrowdStrike, a relatively new solution for Southwest Gas. Petroski sees an advantage of CrowdStrike’s real-time device health monitoring and identification of indicators of compromise (IoCs) to fine-tune and enforce Zscaler access policies.
+The team is also looking at using Zscaler to perform segmentation for servers and applications.
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Ransomware
+- Optimize Digital Experiences
+- Data Security
+- Accelerate M&A and Divestitures

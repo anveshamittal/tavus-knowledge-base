@@ -1,0 +1,39 @@
+DOCUMENT TITLE: Fletcher Building Secures Cloud Transformation
+SUBTITLE: with the Zscaler Zero Trust Exchange
+CUSTOMER: Fletcher Building
+
+=== COMPANY OVERVIEW ===
+One of the largest public companies in New Zealand, Fletcher Building manufactures building products, operates retail businesses that distribute these products globally, and constructs homes, buildings, and infrastructure in the Asia-Pacific region.
+Industry: Manufacturing
+Headquarters: Auckland, New Zealand
+Company Size: Approximately 20,000 employees globally
+Source URL: https://www.zscaler.com/customers/fletcher-building
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Consolidate and centralize internet security, and provide consistent, robust security for mobile users
+Key Results:
+  * Cuts costs while boosting security posture
+  * Saves time with centralized reporting and reduction in incidents
+  * Implements consistent security policies across global enterprise, on-premises and off
+  * Reduces training hours and frees up security operations staff
+  * Provides a cloud native foundation for secure cloud transformation
+
+=== KEY QUOTES ===
+"With Zscaler, we had a reduction in cost and a better security solution in place."
+  — Thomas Willig, Head of Security, Fletcher Building
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Ransomware
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: Fletcher Secures Cloud Transformation with Zscaler
+Video Description: a Customer Testimonial Videos video
+
+Transcript Segments:
+[Thomas Willig (Head of Security, Fletcher Building)] (Company overview and global operations): We're working for Petro Building, and we're looking after roughly thirty five companies globally, and we operate out of over eight hundred locations. Yeah. So it is a fairly complex beast.
+[Thomas Willig (Head of Security, Fletcher Building)] (Initial IT and security challenges): When I started building up the security system for Fetshire Building three years ago, I was faced with twenty IT departments. So one of our priorities was to consolidate solutions.
+[Thomas Willig (Head of Security, Fletcher Building)] (Limitations of hardware appliances): We were ruling out appliances early on because it was just not feasible to put a lot of hardware in more than eight hundred locations. We wanted to extend our security solutions to our mobile workforce.
+[Thomas Willig (Head of Security, Fletcher Building)] (Zscaler's cloud-based solution): ZetScaler has a fairly unique position in the market space and that it was from the get go designed as a cloud solution. That was very attractive to us. It was a solution that was designed around our requirements.
+[Thomas Willig (Head of Security, Fletcher Building)] (Support from Zscaler's professional services): We had great help from the professional services team of Zets BayHL. We had, very little issues rolling it out.
+[Thomas Willig (Head of Security, Fletcher Building)] (Benefits of Zscaler implementation): Centralized reporting has been very useful for us. Overall, what we've seen is a reduction in training efforts, less staff. We've seen and incidents across our environment. At the same time, we had a race in security posture. So we have a reduction in cost and a better security in place.

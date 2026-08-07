@@ -1,0 +1,44 @@
+DOCUMENT TITLE: VF Corp Improves User Experiences and Threat Protection
+SUBTITLE: With the Zscaler Zero Trust Exchange
+CUSTOMER: VF Corp
+
+=== COMPANY OVERVIEW ===
+VF Corporation is an American global apparel and footwear company founded in 1899 by John Barbey and headquartered in Denver, Colorado. The company's 13 brands are organized into three categories: Outdoor, Active, and Work.
+Industry: Retail and Wholesale
+Headquarters: Greensboro, NC, USA
+Company Size: 35,000 employees across 125+ countries
+Source URL: https://www.zscaler.com/customers/vf-corp
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Provide secure access to our applications that reside in data centers, distribution centers, and public cloud
+Transformation Journey:
+  * You may not have heard of VF Corp but you certainly know our brands—Timberland, The North Face and Vans.
+Key Results:
+  * Delivers exceptional user experiences through a cloud-delivered approach
+  * Improves threat protection with threat insights from the world’s largest security cloud
+  * Reduces security appliance costs and the need for costly hardware and maintenance
+  * Consolidates multiple legacy point products single cloud platform
+
+=== KEY QUOTES ===
+"We’re very proud to partner with Zscaler which has extensive experience and a resilient and holistic SSE platform for enabling our secure digital transformation journey."
+  — Ken Athanasiou, VP and CISO, VF Corp
+
+=== CASE STUDY DETAILS ===
+
+--- VF Corp takes its first steps toward transformation ---
+You may not have heard of VF Corp but you certainly know our brands—Timberland, The North Face and Vans. We are a global conglomerate with $12 billion in annual sales, 35,000 employees, and global operations in 60 countries. Our products are sold in over 125 countries worldwide.
+At VF Corp, we are undergoing a massive digital transformation especially around our ecommerce environment, digitally-enabled value chain, and seamless consumer experience. I have driven security and network transformation to provide secure access to our applications that reside in data centers, distribution centers, and public clouds with Zscaler’s Zero Trust platform, which is also called Security Service Edge, or SSE, for Users.
+
+--- The advantage of prior Zscaler experience ---
+I started working with Zscaler 9 years ago when I was at AutoNation, the nation’s largest seller of cars, with over 300 dealerships. We rolled out the Zscaler platform to transform our network from hundreds of little stacks of iron in our stores and traditional firewall and VPN-based security. This helped us gain robust visibility across all our stores and corporate locations, dramatically decrease our costs, and improve protections for our associates and our consumers. We also closed the digital divide between the in-dealership experience and our online experience.
+Zscaler has been innovating like no one else, and its Zero Trust Exchange platform goes far beyond SSE for Users. Zscaler’s platform protects not just your users, but also your cloud workloads, your OT/IoT devices - like point of sales terminals and diagnostics tablets - and your business associates, suppliers, and consumers.
+
+--- Future-forward with the cloud native Zscaler platform ---
+With Zscaler we were able to improve user experience for customers and employees in dealerships and at HQ, provide better threat protection, more easily bring new stores online, and reduce security appliance costs by consolidating multiple legacy point products into a single cloud native platform.
+We’re very proud to partner with Zscaler which has extensive experience and a resilient and holistic SSE platform for enabling our secure digital transformation journey.
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Data Security
+- Optimize Digital Experiences

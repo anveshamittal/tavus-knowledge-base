@@ -1,0 +1,60 @@
+DOCUMENT TITLE: Noatum implements a suite of Zscaler technology to support a variety of use cases
+SUBTITLE: Including secure internet, SaaS, and private app access, improved cyberthreat detection, and optimized user experiences
+CUSTOMER: Noatum
+
+=== COMPANY OVERVIEW ===
+Noatum is a leading multinational group in transport and logistics services
+Industry: Transportation Services
+Headquarters: Barcelona, Spain
+Company Size: 4,300+ employees
+Source URL: https://www.zscaler.com/customers/noatum
+
+=== KEY METRICS & HIGHLIGHTS ===
+- Day 1: Immediate value from the platform
+- Zero: reliance on VPNs and firewalls
+- 360: degrees of risk quantification
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Traditional VPNs left the organization too exposed to cyberattacks when users would access the internet
+  * Legacy security such as firewalls left the organization unable to inspect encrypted traffic
+  * Perimeter-based architectures made M&A onboarding take much longer than it should
+Key Results:
+  * Enables work-from-anywhere with confidence with secure, seamless user access
+  * Minimizes user incidents and improves root cause analysis, delivering knowledge and agility
+  * Improves risk evaluation as well as threat defense by hiding systems and apps from the internet
+
+=== KEY QUOTES ===
+"The traditional VPN was the problem, the exposure we had on internet services and the risk of receiving attacks constantly—this was really the catalyst for us to look for a solution like Zscaler."
+  — Josep Pou, CISO, Noatum
+
+"We have implemented Zscaler Internet Access (ZIA), a secure internet proxy. We also have implemented ZPA, to replace traditional VPNs."
+  — Josep Pou, CISO, Noatum
+
+"Zscaler Digital Experience (ZDX) has also helped us a lot to minimize user incidents and to analyze specifically where a problem comes from."
+  — Josep Pou, CISO, Noatum
+
+"Zscaler will make our life much easier … we are on a path of maturity and control that we did not have before."
+  — Josep Pou, CISO, Noatum
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Optimize Digital Experiences
+- Data Security
+- Ransomware
+- Secure Remote Access
+- Accelerate M&A and Divestitures
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: Zscaler x Noatum Extended Full Story
+Video Description: a Customer Testimonials video
+
+Transcript Segments:
+[Josep Pou (CISO, Noatum)] (Company overview and operations): Renato es una empresa que se dedica especialmente a la parte de logística, gestión de puertos y aparte también de marytime. A día de hoy estamos en veintisiete países y creciendo.
+[Josep Pou (CISO, Noatum)] (Increased security attacks and VPN issues): Como se ha incrementado el mundo de los ataques de seguridad a nivel global y han aumentado los ratios de ataque que hemos recibido, ese punto nos ha hecho pensar en tecnología cero tras. Las tradicionales VPN era la problemática en cuanto a la exposición que teníamos de servicios de Internet y el riesgo en que estábamos al recibir, pues, distintos tipos de ataque constantemente y poder comprometer a la compañía.
+[Josep Pou (CISO, Noatum)] (Implementation of Zscaler solutions): Ese punto fue realmente el catalizador de buscar una solución como Spark. A día de hoy tenemos implantada la solución FIA, el acceso seguro a Internet proxy, tenemos ZPA también para sustituir a las VPN adicionales.
+[Josep Pou (CISO, Noatum)] (Use of ZDX for user issue analysis): También el módulo de ZDX nos ha ayudado mucho para minimizar todo lo que serían incidencias de usuario y analizar concretamente dónde viene el problema. Nos ha aportado mucho conocimiento y agilidad a los departamentos de atención al cliente.
+[Josep Pou (CISO, Noatum)] (Rich 360 for risk assessment): Rich tres sesenta, pues, una nueva adquisición que hemos realizado para tener una visión del riesgo en cuanto a otro tipo de perspectiva, no tan técnica, sino más de negocio, en cuanto a costes, impacto de ese riesgo y transformar ese riesgo en número, en dinero.
+[Josep Pou (CISO, Noatum)] (Deception portal for attack detection): Un módulo de decepción portal es un módulo que nos ha permitido ofuscar parte de nuestros sistemas expuestos a Internet, realizando toda una infraestructura virtual para detectar posibles ataques y hacer que los hackers, pues, utilizaran esos sistemas expuestos y así aprender cómo están agregando a la infraestructura de NOATUM, ¿no?
+[Josep Pou (CISO, Noatum)] (Expansion and technology standardization): Una compañía nuestra está en una fase de expansión importante, tener una agilidad rápida a la adquisición de unas compañías implementando o continuando con la misma tecnología, ¿no? Ese es un reto importante.
+[Josep Pou (CISO, Noatum)] (Zscaler facilitates growth and control): Zedus Garden nos facilitará mucho la vida en ese sentido, estamos en un camino de madurez y de control que antes no teníamos.

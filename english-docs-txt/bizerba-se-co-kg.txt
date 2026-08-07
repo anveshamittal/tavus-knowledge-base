@@ -1,0 +1,115 @@
+DOCUMENT TITLE: Bizerba Abandons Firewalls & VPNs After Cyberattack
+SUBTITLE: with the Zscaler Zero Trust Exchange
+CUSTOMER: Bizerba SE & Co. KG
+
+=== COMPANY OVERVIEW ===
+Bizerba SE & Co. KG is a global innovator in weighing and slicing technology and manufacturing. Represented in 120 countries and supporting customers spanning industry, trade, and logistics, Bizerba provides hardware, software, and services to help companies process and weigh goods.
+Industry: Manufacturing
+Headquarters: Balingen, Germany
+Company Size: 4,600 employees globally
+Source URL: https://www.zscaler.com/customers/bizerba-se-co-kg
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Replace a compromised VPN with a cloud native zero trust alternative to support an urgent security infrastructure rebuild
+Transformation Journey:
+  * Founded in 1866 and family-owned since day one, the manufacturer patented the world’s first pendulum scale in 1924 and designed the first worldwide industrial scale in 1930.
+  * Bizerba was using Zscaler to protect SaaS and web access, but the company was still relying on a traditional, legacy VPN to connect users to private applications and operational technology (OT) devices.
+  * Within a few hours, Bizerba deployed ZPA globally, and the Bizerba IT team appreciates how seamless the administrative experience has become across the Zscaler platform.
+Key Results:
+  * Built a brand-new security infrastructure with a holistic zero trust approach
+  * Processes 830 million transactions on a monthly basis through the Zero Trust Exchange
+  * Prevents 59 million policy violations monthly
+  * Increases operational efficiency by reducing complexity
+  * Leverages a holistic ZTNA solution implemented globally in just hours
+  * Blocked 34,000+ encrypted threats in three months
+
+=== KEY QUOTES ===
+"We’ve rebuilt our IT landscape with the Zero Trust Exchange as a foundation. We’re using the Zscaler solutions more effectively, and we feel better prepared for the future because of that."
+  — Christian Leins, Director of Global Information Technology, Bizerba SE & Co. KG
+
+=== CASE STUDY DETAILS ===
+
+--- Fast-tracking the journey to zero trust ---
+Bizerba SE & Co. KG has always been a pioneer. Founded in 1866 and family-owned since day one, the manufacturer patented the world’s first pendulum scale in 1924 and designed the first worldwide industrial scale in 1930. With that same pioneering spirit, Bizerba took its first steps toward zero trust.
+The company was first introduced to the Zscaler Zero Trust Exchange™ platform by their valued local partner, CYQUEO, nearly a decade ago. Bizerba wanted to replace its Cisco proxy with a cost-effective, cloud native platform that could scale with a long-term zero trust plan.
+“We value the insight of trusted partners and were impressed when CYQUEO recommended Zscaler to us,” said Stefan Heinz, IT Infrastructure Architect at Bizerba. “The Zero Trust Exchange provides an innovative and powerful cloud solution that could support future efforts as we learned more about zero trust security.”
+"We value the insight of trusted partners and were impressed when CYQUEO recommended Zscaler to us. The Zero Trust Exchange provides an innovative and powerful cloud solution that could support future efforts as we learned more about zero trust security."
+  — Stefan, Bizerba SE & Co. KG
+
+--- Zscaler strengthens outbound security stack ---
+Zscaler Internet Access™ (ZIA™) was the first solution implemented as part of the zero trust initiative. ZIA provides secure, seamless access to the internet and SaaS applications for all 4,600 globally-dispersed Bizerba employees. Zscaler reduces risk to users, simplifying both on-premises and remote work for employees in Bizerba’s hybrid environment.
+As part of its ZIA deployment, Bizerba also installed Zscaler Client Connector on all endpoints to enable greater security controls when employees work remotely. Running on a user’s device, Client Connector automatically determines if a user is trying to access the web, a SaaS application, or an internal application, and then routes the traffic to the appropriate security service edge (SSE) solution.
+The Zscaler platform provides greater visibility into user activity and device posture without disrupting remote employees’ daily workflows.
+"What we have accomplished in the last few months with Zscaler puts us years ahead of our original plans."
+  — Christian Leins, Director of Global Information Technology, Bizerba SE & Co. KG
+
+--- An unexpected detour on the journey to zero trust ---
+Bizerba was using Zscaler to protect SaaS and web access, but the company was still relying on a traditional, legacy VPN to connect users to private applications and operational technology (OT) devices.
+This approach presented clear limitations. “With our VPN, the remote access server doesn’t connect to multiple virtual networks,” explained Heinz. “We have a global presence across multiple locations, so each location requires its own server. That inherently creates more potential attack surfaces.”
+With this in mind, the company was considering moving from a traditional VPN to more secure alternatives. Then, the unthinkable happened. Overnight on an average Monday, Bizerba was hit with a cyberattack that shut down all of its global systems—a result of the vulnerabilities inherent to VPN use.
+"With our VPN, the remote access server doesn’t connect to multiple virtual networks. We have a global presence across multiple locations, so each location requires its own server. That inherently creates more potential attack surfaces."
+  — Heinz, Bizerba SE & Co. KG
+
+--- Resolving to build a better security infrastructure ---
+After the attack, leaders at Bizerba understood that while they continued to rely on their traditional VPN, it was no longer a question of “if” an attack was to happen—it was when. They acted quickly, deciding that this attack presented an opportunity to build a more robust security architecture.
+To build back better, the Bizerba team had to radically rethink their existing zero trust timeline, condensing what they had planned to accomplish over several years into just a few months. Alongside this expedited zero trust transformation, the company also took the chance to fully migrate from an on-premises architecture to a cloud native environment.
+As an immediate measure, Bizerba switched from a local Active Directory to a cloud-based version. Heinz explained, “Our strategy had been to connect all users, servers, and resources through our local Active Directory. This was possibly another vulnerability during the cyberattack, so we worked quickly to mitigate that.”
+With a cloud-based Active Directory in place, Bizerba no longer needed its legacy VPN. The company knew it was time for zero trust network access (ZTNA).
+"Our strategy had been to connect all users, servers, and resources through our local Active Directory. This was possibly another vulnerability during the cyberattack, so we worked quickly to mitigate that."
+  — Heinz, Bizerba SE & Co. KG
+"We’re managing a more robust and comprehensive security approach in less time with the Zscaler platform."
+  — Stefan Heinz, IT Infrastructure Architect, Bizerba SE & Co. KG
+
+--- Zscaler bridges a critical gap ---
+Bizerba expanded its zero trust footprint by adding Zscaler Private Access™ (ZPA™). ZPA applies least-privilege principles to give users secure connections to private applications while also mitigating unauthorized access and lateral movement of threats.
+Zscaler eliminates the need for VPN, rendering private applications invisible to the internet. Additionally, traffic bound for private applications is inspected inline to actively prevent web attacks. As a cloud native solution built on a holistic SSE framework, Bizerba had the opportunity to deploy ZPA as part of the Zero Trust Exchange in just hours.
+IT leaders at Bizerba wanted to strike the balance between rapid resolution and maximum caution with the VPN replacement. “The team was grappling with going fast versus being safe,” said Christian Leins, Director of Global Information Technology at Bizerba. “Zscaler was able to help us with both. We could restore remote access with better security, and we could actually do that faster than we thought with ZPA.”
+Heinz, who led internal discussions about ZPA, added, “The Zero Trust Exchange was already part of our IT landscape rebuild efforts. ZIA was fully deployed, and because we implemented Client Connector as part of that deployment, adding ZPA was seamless. Zscaler was the only choice, really.”
+"The team was grappling with going fast versus being safe. Zscaler was able to help us with both. We could restore remote access with better security, and we could actually do that faster than we thought with ZPA."
+  — Christian Leins, Director of Global Information Technology, Bizerba SE & Co. KG
+"The Zero Trust Exchange was already part of our IT landscape rebuild efforts. ZIA was fully deployed, and because we implemented Client Connector as part of that deployment, adding ZPA was seamless. Zscaler was the only choice, really."
+  — Heinz, Bizerba SE & Co. KG
+
+--- Seamless implementation speeds recovery effort ---
+Within a few hours, Bizerba deployed ZPA globally, and the Bizerba IT team appreciates how seamless the administrative experience has become across the Zscaler platform.
+Heinz explained, “If I change a policy or permission setting for the Zero Trust Exchange, those changes go live immediately. With the old firewall system, that could take up to 30 minutes.”
+Administrative ease means that staff time can be used more efficiently and effectively. “We’re managing a more robust and comprehensive approach in less time with the Zscaler platform, so our IT staff can focus their efforts on wider company initiatives,” shared Heinz.
+"If I change a policy or permission setting for the Zero Trust Exchange, those changes go live immediately. With the old firewall system, that could take up to 30 minutes."
+  — Heinz, Bizerba SE & Co. KG
+"We’re managing a more robust and comprehensive approach in less time with the Zscaler platform, so our IT staff can focus their efforts on wider company initiatives."
+  — Heinz, Bizerba SE & Co. KG
+"With the Zero Trust Exchange in place, we have reached a level of security that is better than many comparable companies in the market."
+  — Christian Leins, Director of Global Information Technology, Bizerba SE & Co. KG
+
+--- A return to secure remote working for Bizerba ---
+Bizerba employees are now happily focused on returning to work in a flexible and secure environment.
+Leins explained, “After the attack, we eliminated traditional VPN use, which also meant that secure remote work was, for a time, not feasible. Because of that, employees had to return to working on-premises until we deployed our ZTNA solution.” Supporting a hybrid work model is important to Bizerba. Remote work aligns with the company’s commitment to a balanced and positive employee experience, as well as its vision for sustainability.
+Thanks to Zscaler, it’s back to business as usual—only better. Now, the entire workforce benefits from a consistent work-from-anywhere experience, with improved security and faster access to resources and applications.
+“If you increase security, there’s always potential for a knock-on effect that will change the end user experience,” Heinz elaborated. “Implementing Zscaler hasn’t disrupted business continuity. Employees don’t have to adapt to changes in their day-to-day activities. If anything, a remote connection is more seamless for them. We’re proud of that.”
+"After the attack, we eliminated traditional VPN use, which also meant that secure remote work was, for a time, not feasible. Because of that, employees had to return to working on-premises until we deployed our ZTNA solution."
+  — Bizerba SE & Co. KG
+"If you increase security, there’s always potential for a knock-on effect that will change the end user experience. Implementing Zscaler hasn’t disrupted business continuity. Employees don’t have to adapt to changes in their day-to-day activities. If anything, a remote connection is more seamless for them. We’re proud of that."
+  — Heinz, Bizerba SE & Co. KG
+
+--- Platform optimizations yield great outcomes ---
+Building back better with Zscaler has involved not just adding ZPA, but also optimizing the ZIA deployment. The IT team now applies a more granular method to connecting users to the internet, implementing a robust category list for permissions.
+The IT team acknowledges that the old VPN approach was flat, with most users having the same permissions to access local resources. With ZPA, access to private applications is now based on specific permissions.
+The Zscaler platform is already delivering tangible results. Through Zscaler, Bizerba is processing roughly 830 million transactions each month, preventing an average of 59 million policy violations. In the first three months after the rebuild, more than 34,000 encrypted threats were detected and blocked.
+By fully leveraging the Zero Trust Exchange, Bizerba benefits from a streamlined, multilayered security model. “We use the Zscaler platform in a much deeper way than before,” shared Heinz.
+"We use the Zscaler platform in a much deeper way than before."
+  — Heinz, Bizerba SE & Co. KG
+
+--- Zscaler puts Bizerba ahead of schedule ---
+With support from Zscaler, the company is thriving in the aftermath of its cyberattack. Rebuilding the security infrastructure with Zscaler has dramatically advanced progress toward zero trust.
+“What we have accomplished in the last few months with Zscaler puts us years ahead of our original plans,” said Leins. “We’ve rebuilt our IT landscape with the Zero Trust Exchange as a foundation. We’re using Zscaler solutions more effectively, and we feel better prepared for the future because of that.”
+Bizerba continues to drive its zero trust journey. “With Zscaler in place, we have reached a level of security that is better than many comparable companies in the market,” concluded Leins. “However, we have resolved that we will never be done enhancing our security—and we want to continue staying ahead of plans.”
+"What we have accomplished in the last few months with Zscaler puts us years ahead of our original plans. We’ve rebuilt our IT landscape with the Zero Trust Exchange as a foundation. We’re using Zscaler solutions more effectively, and we feel better prepared for the future because of that."
+  — Leins, Bizerba SE & Co. KG
+"With Zscaler in place, we have reached a level of security that is better than many comparable companies in the market. However, we have resolved that we will never be done enhancing our security—and we want to continue staying ahead of plans."
+  — Leins, Bizerba SE & Co. KG
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Secure Remote Access
+- Zero Trust App Access
+- Ransomware

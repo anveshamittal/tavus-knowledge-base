@@ -1,0 +1,39 @@
+DOCUMENT TITLE: Digital Realty Extends Zero Trust to Its OT Environment
+SUBTITLE: with the Zscaler Zero Trust Exchange
+CUSTOMER: Digital Realty
+
+=== COMPANY OVERVIEW ===
+Digital Realty owns, acquires, develops and operates data centers. The company provides data center, colocation and interconnection solutions for customers across the globe in a variety of industry verticals ranging from cloud and IT services, communications, and social networking to financial services, manufacturing, energy, healthcare, and consumer products.
+Industry: Services
+Headquarters: Austin, Texas, USA
+Company Size: Operates 291 data centers used by organizations worldwide
+Source URL: https://www.zscaler.com/customers/digital-realty
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Implement zero trust foundation to secure global enterprise, including operational technology (OT)
+Key Results:
+  * Ensures a robust, cloud-based foundation for securing operations globally
+  * Reduces security costs and deployment time
+  * Establishes roadmap and simplifies effort required to achieve zero trust
+  * Provides "incalculable" expected ROI once extended to OT
+
+=== KEY QUOTES ===
+"Zscaler has provided a solid foundation for us to secure our operations globally, greatly reducing implementation time, cost, and our overall efforts to make zero trust a reality."
+  — Don Freese, Global CISO, Digital Realty
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Ransomware
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: Digital Realty Customer Testimonial Video
+Video Description: a Digital Realty Customer Testimonial Video video
+
+Transcript Segments:
+[Don Freese (Global CISO, Digital Realty)] (Introduction and role at Digital Realty): Hi. I'm Don Fries, Global Ciso for Digital Realty.
+[Don Freese (Global CISO, Digital Realty)] (IT challenges and zero trust roadmap): On the information technology side, we've had extremely strong deployment continuing really forward facing road map and zero trust.
+[Don Freese (Global CISO, Digital Realty)] (Zscaler's role in zero trust implementation): Quarter of that is the control plane provided by Zscaler, and their team of technical support design, as well as pro services have really provided solid foundation for us to really secure our operations globally, greatly reducing implementation time, reducing cost, and overall efforts to make zero trust reality for us.
+[Don Freese (Global CISO, Digital Realty)] (Extending zero trust to OT environment): Currently, we're working with Zscaler directly to assess where we can take these same principles into the OT environment Problem set is somewhat different as everyone knows.
+[Don Freese (Global CISO, Digital Realty)] (Challenges in securing OT environment): However, if we can achieve this standard, if we can come through in a way where we can really secure, transport, network layer, provisions as well as achieving network access control, lease privilege enforcement throughout an operational technology time, the return on investment will be almost in capital.
+[Don Freese (Global CISO, Digital Realty)] (Excitement and appreciation for Zscaler): So we're really looking forward to this as exciting times, and we really appreciate these scores.

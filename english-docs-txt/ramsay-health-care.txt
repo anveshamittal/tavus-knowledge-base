@@ -1,0 +1,42 @@
+DOCUMENT TITLE: Ramsay Health Care Transforms Security and UX
+SUBTITLE: Replaces Legacy On-Premises Hardware by Moving to the Cloud
+CUSTOMER: Ramsay Health Care
+
+=== COMPANY OVERVIEW ===
+Ramsay Health Care is Australia’s largest private health care provider, operating hundreds of high-quality healthcare facilities, including a retail pharmacy business and a growing number of psychology practices and services. The company has 70 locations across 10 countries across the UK, Europe, and Asia.
+Industry: Healthcare and Pharmaceutical
+Headquarters: Sydney, NSW, Australia
+Company Size: Over 90,000 employees, 70+ hospital locations in 10 countries
+Source URL: https://www.zscaler.com/customers/ramsay-health-care
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Deliver users safe, seamless access to digital resources amid a global shift to remote work
+Key Results:
+  * Reduces on-premises infrastructure, allowing for simpler scalability and reducing costs overall
+  * Gains visibility over the entire environment, irrespective of where employees work or on what device
+  * Provides consistent experiences to users, even on unmanaged devices
+  * Identifies and addresses user, network, and app issues at speed
+
+=== KEY QUOTES ===
+"Zscaler Digital Experience has been very valuable. We've been able to diagnose performance-related issues very quickly."
+  — Julian Zelones, Manager of Security Engineering, Ramsay Health Care
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Ransomware
+- Optimize Digital Experiences
+- Secure Remote Access
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: Ramsay Health Care Customer Testimonial
+Video Description: a Ramsay Healthcare Customer Testimonial video
+
+Transcript Segments:
+[Julian Zelones (Manager of Security Engineering, Ramsay Health Care)] (Introduction to Ramsay Health Care): Ramsey health care Australia is Australia's largest private health care provider.
+[Julian Zelones (Manager of Security Engineering, Ramsay Health Care)] (Company operations and scale): We have over seventy hospital facilities. We have a pharmacy business and a growing community psychology practice. Our company operates in the UK, Europe, and Asia. We have approximately fifteen thousand users in our environment in Australia.
+[Julian Zelones (Manager of Security Engineering, Ramsay Health Care)] (Ensuring secure access and data protection): When it comes to serving our customers and protecting their data, we look to ensure that our staff have safe access to the digital resources they require and when they require it. And ensuring that the patient data is never compromised.
+[Julian Zelones (Manager of Security Engineering, Ramsay Health Care)] (Limitations of previous solutions): Our previous solution, we were using a number of on prem appliances, and we also used a different solution for our remote users. As we began to take on more and more cloud services, on prem footprint was going to need to expand, and it just wasn't feasible due to the additional licensing costs. And purchase of physical hardware.
+[Julian Zelones (Manager of Security Engineering, Ramsay Health Care)] (Choosing Zscaler Zero Trust Exchange): The reason we chose the Zscaler zero trust exchange platform was we were outgrowing our existing solutions and also COVID happened. And that meant that we had a lot of our workforce were now working remotely. We needed a solution that was gonna be assistant for on premise internal network users and for our remote users.
+[Julian Zelones (Manager of Security Engineering, Ramsay Health Care)] (Value of Zscaler Digital Experience): The Zscaler digital experience product has been very valuable. We've been able to diagnose performance related issues very quickly. And has given us additional visibility into a remote user's network and device where we had no visibility before. That delivered us an ability to provide a consistent experience and we were able to provide the exact same security policy across both those types of users no matter where they were located.
+[Julian Zelones (Manager of Security Engineering, Ramsay Health Care)] (Performance improvements and scalability): Performance has been a key win for us as we've been able to leverage the local internet services at all of our sites, which has freed up our wan links for our internal application traffic. We've been able to reduce our on prem infrastructure, which was going to be a real struggle to actually scale to the use cases that we have now. And we've replaced it with a a much simpler method that is obviously a lot more scalable.

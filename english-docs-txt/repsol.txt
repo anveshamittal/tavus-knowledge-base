@@ -1,0 +1,63 @@
+DOCUMENT TITLE: How Repsol’s DLP Strategy Enables a Fearless Embrace of GenAI
+SUBTITLE: Repsol leverages Zscaler to secure data and embrace generative AI for innovation
+CUSTOMER: Repsol
+
+=== COMPANY OVERVIEW ===
+Spanish multinational energy and petrochemical company
+Industry: Energy, Oil, Gas, and Mining
+Headquarters: Madrid, Spain
+Company Size: 24,000+ employees
+Source URL: https://www.zscaler.com/customers/repsol
+
+=== KEY METRICS & HIGHLIGHTS ===
+- 80%: of digital transactions secured across multiple cloud environments
+- 100M: transactions processed in three months
+- 7M: policy violations prevented per quarter
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Rapid adoption of generative AI required robust data protection frameworks to prevent sensitive information loss
+  * Legacy security infrastructure lacked visibility into data flows, increasing the risk of privacy violations and regulatory non-compliance
+  * Increased reliance on cloud platforms and SaaS applications called for a scalable, zero trust security solution
+Transformation Journey:
+  * -Madrid--based -global -energy -provider -Repsol -i-s- -fully -committed -t-o- -meeting -the -ambitious -goal -o-f- -net--zero -carbon -emissions -b-y- -2050,- -a-s- -outlined -i-n- -the -Paris -Agreement.-
+  * -Repsol -was -i-n- -a- -fortunate -position -o-f- -having -laid -the -foundations -for -a- -mature -data -loss -prevention -(-DLP)- -effort -years -ago -b-y- -prioritizing -data -classification -i-n- -preparation -for -a- -company--wide -"-first -wave"- -o-f- -digitization.-
+  * -While -data -classification -efforts -provided -Repsol -with -a- -head -start -i-n- -harnessing -the -business -benefits -o-f- -Gen -A-I-,- -adopting -Zscaler -provided -the -visibility -and -control -the -company -needed -t-o- -fully -embrace -the -technology -without -reservation.-
+Key Results:
+  * Secures data across global operations by enabling inline traffic monitoring and granular policy enforcement in real-time
+  * Boosts employee productivity with seamless access to AI tools for innovation, without compromising security
+  * Supports sustainability goals by reducing reliance on hardware through cloud native security solutions
+
+=== KEY QUOTES ===
+"Thanks to Zscaler, we can fully embrace the potential of GenAI while ensuring our data remains secure and compliant."
+  — Javier García Quintela, CISO, Repsol
+
+=== CASE STUDY DETAILS ===
+
+--- Intro ---
+Madrid-based global energy provider Repsol is fully committed to meeting the ambitious goal of net-zero carbon emissions by 2050, as outlined in the Paris Agreement. Technology is considered a core pillar in helping the company transition away from fossil fuels to its growing portfolio of low carbon and renewable energy sources.
+When generative AI (GenAI) emerged as a potential game-changer for business productivity a few years ago, Repsol began exploring how it could be adopted to foster productivity, optimize business processes, and help the company develop its portfolio of green energy offerings. Whether it takes the form of equipping staff with AI co-pilots, designing new products, or integrating value chains, AI will play a crucial role in Repsol’s continued success.
+Of course, as any cyber leader knows, GenAI is not without its risks: these tools enable sensitive information to leave the organization, leading to the loss of intellectual property, privacy violations, and other forms of regulatory non-compliance. Co-pilots can be sensitive to queries that may return sensitive information, like executive salaries or trade secrets.
+To address these concerns, organizations are faced with the challenge of establishing visibility over a huge number of digital transactions as well as the ability to control which types of data reach which destinations.
+
+--- Establishing a comprehensive inventory ---
+Repsol was in a fortunate position of having laid the foundations for a mature data loss prevention (DLP) effort years ago by prioritizing data classification in preparation for a company-wide “first wave” of digitization. By organizing data through all geographies, business units, and initiatives, Repsol developed a comprehensive system for classification according to criticality and confidentiality.
+While the volume of data transactions has exploded since the days of those early classification efforts, the groundwork we laid then has enabled us to quickly embrace the promise of GenAI for driving innovation. For example, today Repsol applies and enforces policies based on these categorizations – for both structured and unstructured data – to prevent confidential information from leaving through personal webmails, Excel spreadsheets, unsanctioned SaaS apps, or potentially dangerous websites. High-confidentiality data is subject to stricter limitations of movement, while public-facing material can be circulated more freely.
+To manage what we refer to as our “second wave” of digitization, a “Competence Center” for Gen AI helps heads of data, digital, cybersecurity, legal, UX, HR, and other specialties collaborate on developing novel use cases. Working groups within this initiative strive to ensure Gen AI is being used in compliance with AI regulations being developed in the EU, U.S., and beyond. This helps make certain Repsol can reap the benefits of Gen AI across functions while remaining compliant and good stewards of the data within our possession.
+
+--- The importance of visibility and control ---
+While data classification efforts provided Repsol with a head start in harnessing the business benefits of Gen AI, adopting Zscaler provided the visibility and control the company needed to fully embrace the technology without reservation.
+Prior to deploying Zscaler, identifying data flows that began within the company, left for the cloud, or were transferred outside the company completely, was difficult. Now, not only can those flows be easily monitored, there are far more possibilities in terms of the different policies applied to them. This means the business can continue to function while ensuring information isn't being improperly shared or accessed.
+Zscaler provides Repsol enhanced DLP capabilities by:
+Allowing for inline traffic monitoring and granular policy enforcement based on pre-established classification rules.
+Providing visibility into ultimate traffic destinations, including the 80% of Repsol digital transactions that occur across multiple cloud environments, so that certain tiers of information can only be sent to sanctioned clouds, websites, or users.
+Simplifying the discovery and classification of previously uncategorized data.
+Improving posture management through reports on what destinations users are accessing. This allows cyber teams to assess and prioritize security efforts, tailoring and refining policies in a way that preserves the user experience.
+Optimizing bandwidth consumption by preventing users from visiting or uploading data to non-sanctioned sites.
+Repsol will continue to innovate and experiment with GenAI use, even as regulations governing it continue to be developed and tweaked across the globe. Thanks to the organization’s strong groundwork on classification and data loss prevention, the company was well-positioned to harness Gen AI’s competitive advantage early, while demonstrating it has done its due diligence in terms of technical controls and risk management practices.
+As a company with operations in more than 20 countries and ambitious targets for greenhouse gas emissions, we take advantage of every opportunity to accelerate innovation while protecting against data loss. That will require the comprehensive visibility over data movement that Zscaler provides.
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Secure Remote Access
+- AI/ML
+- Data Security

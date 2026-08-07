@@ -1,0 +1,48 @@
+DOCUMENT TITLE: West Fraser Embarks on Zero Trust Transformation
+SUBTITLE: and Speeds M&A Onboarding with Zscaler Zero Trust Exchange
+CUSTOMER: West Fraser
+
+=== COMPANY OVERVIEW ===
+West Fraser Timber is one of the world’s largest diversified wood products companies and the largest lumber producer in North America. In recent years, West Fraser has grown significantly through acquisition, extending its presence in Canada and the US as well as reaching into Europe.
+Industry: Manufacturing
+Headquarters: Quesnel, British Columbia, Canada
+Company Size: 8,000+ employees across approximately 50 locations
+Source URL: https://www.zscaler.com/customers/west-fraser
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Simplify secure remote access and shrink time to productivity for employees of newly acquired companies
+Key Results:
+  * Deployed zero trust work-from-anywhere access globally within weeks
+  * Grants new M&A employees access to apps in hours instead of weeks
+  * Filtered approximately 3.5 billion events in one year
+  * Prevented more than 745,200 policy violations
+  * Blocked 37,000+ threats, including 5,490 encrypted threats
+  * Simplifies remote access for both IT and users
+  * Transformed network access strategy to zero trust
+
+=== KEY QUOTES ===
+"[For acquisitions] providing access to internal applications that would have involved weeks of planning and complicated architecture discussions are now resolved in a matter of hours."
+  — Michael Dobson, Director of Information Security, West Fraser
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Data Security
+- Ransomware
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: West Fraser: a zero trust transformation, enabled.
+Video Description: a West Fraser video
+
+Transcript Segments:
+[Michael Dobson (Director of Information Security, West Fraser)] (Introduction and role at West Fraser): My name is Michael Robson. I'm the director of information security at West Fraser timber.
+[Michael Dobson (Director of Information Security, West Fraser)] (Company background and growth): We're one of the largest diversified wood products companies in the world. We're a company that grows their acquisition and we've grown significantly over the past two years.
+[Michael Dobson (Director of Information Security, West Fraser)] (Limitations of traditional VPN model): So in order to allow us to provide our internal applications and network services in the most agile Way, we needed to move beyond the traditional hub and spoke model in the corporate land. So we migrated away from the VPN model for a a couple of reasons.
+[Michael Dobson (Director of Information Security, West Fraser)] (Security issues with legacy tokens): A lot of the security that we were using around those leverage tokens that were hard to maintain and provide, then they would pin users to a particular ingress and point, depending on our points of presence.
+[Michael Dobson (Director of Information Security, West Fraser)] (Remote work challenges during COVID-19): When COVID nineteen hit, we needed an immediate way to support our employees working remotely.
+[Michael Dobson (Director of Information Security, West Fraser)] (Rapid transformation with Zscaler): We're able to leverage Zscaler to go through a rapid transformation and within only a matter of weeks, successfully onboard our entire employee workforce.
+[Michael Dobson (Director of Information Security, West Fraser)] (Simplified remote access with Zscaler): So Zscaler simplifies remote access in the sense that it requires simply a software installation on a workstation.
+[Michael Dobson (Director of Information Security, West Fraser)] (Zero Trust security approach): Zero trust represents the ideal state in terms of securing data and applications from employees because it assumes nothing. So by breaking things down and trusting nothing, you segment and distribute the risk.
+[Michael Dobson (Director of Information Security, West Fraser)] (Threat events filtered by Zscaler): Around three point five billion events have been filtered for us by Zscaler.
+[Michael Dobson (Director of Information Security, West Fraser)] (Scalability and acquisition support): Biggest benefit we found working with Zscaler is their ability to scale with us. In addition, Zscaler has helped us with our acquisitions, measures such providing access to internal applications that would involve weeks of planning and complicated network architecture discussions are now resolved in a matter of hours.
+[Michael Dobson (Director of Information Security, West Fraser)] (Transforming network access strategy): Zscaler's products we'd allows us to grow from a company that just wanted is Net filtering into one that is now transforming through Zero Trust, our entire network access strategy.

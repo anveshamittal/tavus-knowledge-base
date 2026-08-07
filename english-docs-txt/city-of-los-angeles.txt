@@ -1,0 +1,52 @@
+DOCUMENT TITLE: How the City of Los Angeles Created a Modern Workplace
+SUBTITLE: with the Zscaler Zero Trust Exchange
+CUSTOMER: City of Los Angeles
+
+=== COMPANY OVERVIEW ===
+The City of Los Angeles Information Technology Agency, or ITA, oversees an operating environment larger than many Fortune 500 companies. L.A.’s 50,000 municipal employees across 44 departments keep mission-critical city services running for 4 million residents, 48 million tourists, and 503,000 businesses.
+Industry: Federal and Government
+Headquarters: Los Angeles, CA, USA
+Company Size: 50,000 municipal employees across 44 departments
+Source URL: https://www.zscaler.com/customers/city-of-los-angeles
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Build a robust, resilient, and sustainable platform that enables employees to work from anywhere
+Transformation Journey:
+  * -What -began -a-s- -a- -response -t-o- -a- -global -pandemic -has -evolved -into -something -far -greater -a-t- -the -City -o-f- -Los -Angeles.-
+Key Results:
+  * Deployed to 18,000 employees secure, work-from-anywhere access to network resources in less than two weeks
+  * Provided resiliency during COVID-19 pandemic
+  * Establishes sustainable foundation to expand zero trust capabilities
+  * Provides employees with better work-life balance
+  * Reduces environmental impact on the city by enabling tens of thousands of employees to work from home
+
+=== KEY QUOTES ===
+"In a nutshell, Zscaler allowed us to be a very resilient city during a prolonged disaster like the coronavirus."
+  — Ted Ross, Chief Information Officer, City of Los Angeles
+
+=== CASE STUDY DETAILS ===
+
+--- Work From Anywhere: City of Los Angeles Creates Better Work-Life Balance ---
+What began as a response to a global pandemic has evolved into something far greater at the City of Los Angeles. Los Angeles government leaders believe the flexibility they have afforded city employees is making a long-lasting positive impact on their work and their lives. Here’s how the Information Technology team of the second-largest city in the United States achieved what many thought to be impossible.
+The Los Angeles Information Technology Agency, or ITA, is responsible for an operating environment larger than many Fortune 500 organizations. When shelter-in-place mandates hit Los Angeles during the COVID-19 outbreak, the ITA had to execute an all-encompassing business continuity plan in mere days. The scope was daunting: safely enable 50,000 municipal employees across 44 departments to keep mission-critical city services running. In total, 4 million residents, 48 million tourists, and 503,000 businesses were counting on the City of Los Angeles. Enter Ted Ross and the ITA team.
+“In less than two weeks, we were able to deploy a work-from-anywhere platform that enabled our employees to access all their applications and data from the safety of their homes. We did this while keeping critical city services running, such as emergency and health services, trash collection, infrastructure repairs, payment processing, and contact tracing,” said Ted Ross, general manager and CIO at the City of Los Angeles.
+COVID-19 forced organizations to innovate more quickly than they would have under “normal” circumstances, proving that it is possible to equip employees for the mobile, cloud, and data-centric world that we live in.
+For the City of Los Angeles, the pandemic accelerated its strategic plan to build a next-generation IT infrastructure by investing in cloud infrastructure and security, which includes Zscaler Internet Access and Zscaler Private Access. By expanding the services from Zscaler, the city rolled out a cloud-hosted work-from-anywhere platform with strong security and an easy experience for its end users.
+While the pandemic forced Mr. Ross to get his staff enabled to work remotely, work-from-anywhere will likely be a part of how the City of Los Angeles operates as a municipality moving forward. And they are not alone. San Mateo County, which is located in Silicon Valley in California, was already well on its way to embracing remote work, having 35 percent of its workforce on a flexible work schedule pre-pandemic and scaling to 90 percent within a matter of days.
+The ITA team, like so many of us, has discovered something beyond strong security and easy access to applications—better work-life balance. Employees are talking about being able to better manage their busy personal and work schedules. Imagine not having to commute in L.A. traffic everyday. Working for a company whose business is enabling work-from-anywhere, I can attest to this personally. But more often, I hear from our customers that they are noticing this on a larger scale.
+“Since the implementation of our work-from-anywhere platform, we have, in fact, seen a significant increase across many of our divisions in the quantity and the quality of work. At the same time, our employees have more flexibility to manage their personal lives,” said Mr. Ross.
+Anyone familiar with LA’s traffic knows what it feels like being stuck in what is ranked as the most stressful commute in the U.S, with the average Los Angeles commuter spending almost 1 hour per day commuting. This is time lost as people are neither productive at work nor spending it with their families.
+A work-from-anywhere policy can save time and improve mental well-being.
+The coronavirus has caused a lot of harm to communities around the world, but there are lessons to be learned from this pandemic that will make all of us more resilient in the future. Private and public organizations around the world, such as the City of Los Angeles, whose ITA team kept the city running during the worst pandemic of our lifetime while keeping its employees safe, laid the foundation for a new era of incorporating work from anywhere, which will benefit employees, citizens, and the organization’s mission.
+It takes innovative leaders, such as Ted Ross, to lay the foundation for other companies, cities, and counties in California, the United States, and around the world to follow suit.
+You can view a short video about the City of LA’s work-from-anywhere journey here.
+"In less than two weeks, we were able to deploy a work-from-anywhere platform that enabled our employees to access all their applications and data from the safety of their homes. We did this while keeping critical city services running, such as emergency and health services, trash collection, infrastructure repairs, payment processing, and contact tracing."
+  — Ted Ross, Chief Information Officer, City of Los Angeles
+"Since the implementation of our work-from-anywhere platform, we have, in fact, seen a significant increase across many of our divisions in the quantity and the quality of work. At the same time, our employees have more flexibility to manage their personal lives."
+  — Mr., City of Los Angeles
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Zero Trust App Access
+- Data Security
+- Ransomware

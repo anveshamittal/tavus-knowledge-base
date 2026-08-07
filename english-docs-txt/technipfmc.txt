@@ -1,0 +1,38 @@
+DOCUMENT TITLE: TechnipFMC Secures Endpoints and Users Globally
+SUBTITLE: with the Zscaler Zero Trust Exchange
+CUSTOMER: TechnipFMC
+
+=== COMPANY OVERVIEW ===
+TechnipFMC is a leading provider of integrated projects, products, and services to the traditional and new energies industry. The company helps clients transform their project economics and develop new energy resources while reducing carbon intensity and supporting energy transition ambitions.
+Industry: Energy, Oil, Gas, and Mining
+Headquarters: London, United Kingdom
+Company Size: 20,000+ employees in 48+ countries worldwide
+Source URL: https://www.zscaler.com/customers/technipfmc
+
+=== EXECUTIVE SUMMARY ===
+Challenges:
+  * Secure endpoints and connect users worldwide without requiring a costly, difficult-to-maintain hardware deployment
+Key Results:
+  * Deployed quickly to almost 40,000 users
+  * Protects endpoints anywhere in the world, with no hardware to deploy
+  * Integrates with advanced features, such as sandboxing and bandwidth control
+  * Provides full inline inspection, including encrypted traffic
+
+=== KEY QUOTES ===
+"To protect endpoints everywhere in the world, we couldn’t use a traditional solution."
+  — Yves Delanoy, Head of Global Security Operations, TechnipFMC
+
+=== SOLUTIONS & PRODUCTS USED ===
+- Ransomware
+
+=== VIDEO & TRANSCRIPT ===
+Video Title: Yves Delanoy TechnipFMC
+Video Description: v7
+
+Transcript Segments:
+[Yves Delanoy (Head of Global Security Operations, TechnipFMC)] (Company overview and services): Techniqueney FMC is a global player for the oil and gas industry and we provide services for the onshore offshore subsea and also the surface going to the cloud has dramatically changed the way we must manage and tackle the network security.
+[Yves Delanoy (Head of Global Security Operations, TechnipFMC)] (Perimetric security paradigm shift): Perimetric security paradigm has blown up, and now we have to think it differently. We have to think about security of the devices, which can be connected anywhere now and over the network. And not only, from the internal network, And so the good internal network and the bad outside network is now over.
+[Yves Delanoy (Head of Global Security Operations, TechnipFMC)] (Endpoints as attack vectors): The endpoints have become a a major vector of attack now, and we had to protect them wherever they were connected to internally and externally. And this was lacking because we only addressed internal security.
+[Yves Delanoy (Head of Global Security Operations, TechnipFMC)] (Limitations of traditional solutions): To protect the the endpoints everywhere in the world, we couldn't use a traditional solution with boxes that were put on the perimeter of the company. So we were a distributed company, and it was rather impossible just thinking buying purchasing, installing and maintaining boxes across all locations, all forty eight locations we had in the world.
+[Yves Delanoy (Head of Global Security Operations, TechnipFMC)] (Zscaler as a cloud solution): This scanner is a pure cloud solution, so we don't need any box. So there is no box to to purchase and install There is no box to maintain. It's a saving on cost, and more than that, it's the possibility to globally manage the the policy much easier than having a multiple box managed by different teams. It's also the ability to make a very quick deployment on on all that. So took a couple of months to deploy all the almost thirty thousand users we we had. So that's a great benefit.
+[Yves Delanoy (Head of Global Security Operations, TechnipFMC)] (Advanced Zscaler features): We use quite advanced features on Zscaler. Of course, we use the normal usual proxy that everybody knows, but on top of that, use, advanced solutions such as the sandboxing, such as the SSL decryption, which allows identifying and and finding threats in encrypted traffic. So we are starting using the the bandwidth control, which is, a key component or so for our network needs.
