@@ -1,0 +1,175 @@
+# International SOS Secures Internet Browsing with Zero Trust for Faster Delivery of Life-Saving Services
+
+> Zscaler elevates security maturity by modernizing access, delivering a frictionless, scalable, and seamless user experience, and maintaining compliance
+
+**Customer Name:** International SOS
+
+### Key Metrics
+- **625K**: threats blocked in 3 mos.
+- **79%**: security resiliency score
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/international-sos
+- **Slug:** international-sos
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:55:30.609194Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** International SOS
+- **Description:** International SOS provides security, health, and wellbeing services to organizations worldwide
+- **Industry:** Services
+- **Headquarters:** Singapore and London
+- **Size:** 13,000 employees across 90+ countries
+
+## Executive Summary
+### Challenges
+- Internet-borne threats, such as ransomware, viruses, and Trojans increased exposure for the globally distributed workforce
+- Legacy VPN architectures delivered inconsistent, latency-heavy performance, driving user frustration and increasing operational overhead
+- Sensitive customer medical, travel, and personal data required robust protection against internet-borne threats and assurance that only authorized users could access critical systems and apps
+
+### Phased Journey
+- International SOS launched its zero trust journey with the deployment of Zscaler Internet Access (ZIA).
+- Before Zscaler, International SOS relied on distinct regionally located VPN environments—each demanding continuous patching, monitoring, and administrative oversight.
+- International SOS plans to continue expanding its zero trust architecture by integrating additional Zscaler capabilities.
+
+### Results & Impact
+- Elevates the user experience by enabling direct, frictionless, and secure access from any location, on any device
+- Streamlines operations and optimizes costs by decommissioning the legacy appliance-based infrastructure
+- Boosts service delivery, data protection, and enterprise cyber resilience with a future-ready, scalable zero trust architecture that accommodates evolving business requirements.
+
+## Featured Quotes
+> "Zscaler helps achieve our strategic cyber objectives: a unified, frictionless user experience, secure access without complexity, reducing our infrastructure, and the visibility required to safeguard our sensitive data."
+> — **Manoj Tewari — General Manager — International SOS**
+
+## Video Testimonial & Transcript
+**Title:** International SOS Delivers Critical Services for Travelers Faster by Adopting Zero Trust
+**Description:** a Customer Testimonials video
+**URL:** https://fast.wistia.net/embed/iframe/eiiqmt5pju
+**Provider:** wistia
+**Video ID:** eiiqmt5pju
+**Duration:** 187.432 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/9fae8f5ce1241241e100450ae78171fa1c35ef3d.bin
+**Video Account Id:** 658399
+**Video Media Id:** 138611104
+**Video Created At:** 1758221654
+
+### Tagged Segments
+- **[Manoj Tewari (General Manager, International SOS)]** [Segment #1] (self_introduction - Company overview and services): "We provide health and travel security services to our customers across the globe from ninety plus countries and with thirteen thousand employees."
+- **[Manoj Tewari (General Manager, International SOS)]** [Segment #2] (challenges - Legacy infrastructure issues): "Three regions, we chose Zscaler, the legacy infrastructure that had to be patched all the time every day, enabling the users with seamless and secure user access, transform with a cloud enabled organization."
+- **[Manoj Tewari (General Manager, International SOS)]** [Segment #3] (challenges - Internet-bound threats): "We had challenges such as Internet bound threats, particularly the ransomware, the viruses, and the trojans."
+- **[Manoj Tewari (General Manager, International SOS)]** [Segment #4] (products_and_solutions - Zscaler Internet Access implementation): "We implemented Zscalar Internet access to protect our employees irrespective of their location, whether they were in office or at home, at client locations, even at the airport and hotels."
+- **[Manoj Tewari (General Manager, International SOS)]** [Segment #5] (challenges - Internal network access issues): "We had another challenge where we had to enable our users to access the internal network."
+- **[Manoj Tewari (General Manager, International SOS)]** [Segment #6] (products_and_solutions - Zscaler Private Access implementation): "We had four VPN systems across the globe, and when we moved to Zscaler private access, we have none."
+- **[Manoj Tewari (General Manager, International SOS)]** [Segment #7] (metrics_and_results - Reduced attack surface): "We also realized that we were able to reduce the attack surface as our EMR system and a call recording system had to be hidden from whole Internet. The bad guys could never see those applications."
+- **[Manoj Tewari (General Manager, International SOS)]** [Segment #8] (products_and_solutions - Device posture visibility): "By implementing Zscaler, we now have the visibility into the posture of the devices that are connecting to our network. That has enabled us to ensure whether we allow a user access to our internal network or not."
+- **[Manoj Tewari (General Manager, International SOS)]** [Segment #9] (quote - Powerful for security team): "And that's quite powerful for security team. As we provide services to our customers, we often receive very sensitive information."
+- **[Manoj Tewari (General Manager, International SOS)]** [Segment #10] (products_and_solutions - Data loss prevention (DLP)): "The risk of data loss and data leakage is managed through the Internet layer, and we monitor the data that is moving out through DLP solution."
+- **[Manoj Tewari (General Manager, International SOS)]** [Segment #11] (products_and_solutions - Exploring ZDX for troubleshooting): "We are exploring the solution called ZDX, which allows us to troubleshoot the network as well as Internet access situations and incidents. It allows us to look at the details that we could never see before."
+- **[Manoj Tewari (General Manager, International SOS)]** [Segment #12] (metrics_and_results - Benefits of cloud-based technology): "The transition from legacy infrastructure to cloud based technology such as Zscaler has helped us to reduce the infrastructure footprint and enabled users to operate from any location, which means to business, as we became more mobile, we experienced a better user experience, and we get more security out of the cloud service provider. It has enabled the organization to perform the job at much better speed."
+- **[Manoj Tewari (General Manager, International SOS)]** [Segment #13] (metrics_and_results - Reduced network overhead): "Internally, we got the benefit of reduced network and infrastructure overhead, such as no longer we have to patch the VPN systems, no longer we have to monitor those systems because that all job is done by Zscaler."
+
+### Full Transcript Sentences
+- We provide health and travel security services to our customers across the globe from ninety plus countries and with thirteen thousand employees.
+- Three regions, we chose Zscaler, the legacy infrastructure that had to be patched all the time every day, enabling the users with seamless and secure user access, transform with a cloud enabled organization.
+- We had challenges such as Internet bound threats, particularly the ransomware, the viruses, and the trojans.
+- We implemented Zscalar Internet access to protect our employees irrespective of their location, whether they were in office or at home, at client locations, even at the airport and hotels.
+- We had another challenge where we had to enable our users to access the internal network.
+- We had four VPN systems across the globe, and when we moved to Zscaler private access, we have none.
+- We also realized that we were able to reduce the attack surface as our EMR system and a call recording system had to be hidden from whole Internet.
+- The bad guys could never see those applications.
+- By implementing Zscaler, we now have the visibility into the posture of the devices that are connecting to our network.
+- That has enabled us to ensure whether we allow a user access to our internal network or not.
+- And that's quite powerful for security team.
+- As we provide services to our customers, we often receive very sensitive information.
+- The risk of data loss and data leakage is managed through the Internet layer, and we monitor the data that is moving out through DLP solution.
+- We are exploring the solution called ZDX, which allows us to troubleshoot the network as well as Internet access situations and incidents.
+- It allows us to look at the details that we could never see before.
+- The transition from legacy infrastructure to cloud based technology such as Zscaler has helped us to reduce the infrastructure footprint and enabled users to operate from any location, which means to business, as we became more mobile, we experienced a better user experience, and we get more security out of the cloud service provider.
+- It has enabled the organization to perform the job at much better speed.
+- Internally, we got the benefit of reduced network and infrastructure overhead, such as no longer we have to patch the VPN systems, no longer we have to monitor those systems because that all job is done by Zscaler.
+
+## Customer Case Study
+### Adapting to a changing world by shifting from legacy to zero trust (ID: adapting-to-a-changing-world-by-shifting-from-legacy-to-zero-trust | Type: challenge)
+For more than 40 years, International SOS has been the global leader in security, health, and travel risk management, supporting over 9,000 organizations—including the majority of the Fortune Global 500, as well as mid-size enterprises, governments, educational institutions, and NGOs —through a workforce of 13,000 employees operating across 90+ countries. The company’s mission is to lead international health and security risk management, safeguarding people against health and security threats worldwide. This includes delivering emergency and non-emergency medical support, providing travel assistance, coordinating transportation and evacuations, resolving issues such as lost documentation, and enabling travelers to navigate unfamiliar or high-risk environments with confidence.
+
+Delivering on that mission requires ensuring that every employee can securely leverage internet-based technologies and seamlessly access internal business apps from airports, hotels, client sites, and offices worldwide. Over time, it became clear that the organization’s legacy security stack and remote-access architecture were no longer keeping pace with the needs of a highly mobile, globally dispersed workforce. The on-premises internet protection model—anchored by costly deployment of web content filters, traditional VPNs, and multiple firewall layers—expanded technology debt and risk profile, degraded the user experience, and demanded continuous maintenance and oversight.
+
+To strengthen its security posture, streamline operations, and shrink its network footprint, International SOS initiated a cloud-enabled secure internet access, and zero trust modernization program designed to support its cloud-first evolution and mission-critical service delivery.
+
+“We selected the Zscaler Zero Trust Exchange platform because it was the only solution capable of meeting our core objectives: securing internet and intranet access, elevating the user experience, protecting our data, reducing our attack surface, and streamlining our infrastructure footprint,” said Manoj Tewari, General Manager, Information Security and Compliance. “As we advance our journey toward becoming a secure, cloud-first organization and uphold our mandate to keep International SOS secure, certified, and compliant with client expectations, Zscaler clearly stands out as our strategic cybersecurity technology partner, fully aligned to support our long-term vision.”
+
+> "We selected the Zscaler Zero Trust Exchange platform because it was the only solution capable of meeting our core objectives: securing internet and intranet access, elevating the user experience, protecting our data, reducing our attack surface, and streamlining our infrastructure footprint. As we advance our journey toward becoming a secure, cloud-first organization and uphold our mandate to keep International SOS secure, certified, and compliant with client expectations, Zscaler clearly stands out as our strategic cybersecurity technology partner, fully aligned to support our long-term vision."
+> — **Manoj Tewari — General Manager — International SOS**
+
+> "Zscaler was the only solution capable of securing access, elevating user experience, protecting data, reducing attack surface, and streamlining infrastructure."
+> — **Manoj Tewari — General Manager — International SOS**
+
+### Phase 1: Protecting mobile employees all over the world against internet-borne threats (ID: phase-1-protecting-mobile-employees-all-over-the-world-against-internet-borne-threats | Type: implementation)
+International SOS launched its zero trust journey with the deployment of Zscaler Internet Access (ZIA). The cloud-native secure web gateway equips its mobile workforce with safe, high-performance, direct access to the internet and SaaS apps.
+
+By routing all web traffic through the Zero Trust Exchange platform, ZIA enforces consistent security policies, regardless of where employees work—at home, in regional offices, at client sites, or while traveling. It blocks malware, ransomware, viruses, and phishing attempts from reaching both managed and unmanaged (BYOD) devices, while delivering the seamless, secure user experience the organization requires to support its cloud-first operations and mission-critical service delivery.
+
+“We remain firmly committed to delivering a secure, seamless, and high-performance user experience for our employees—regardless of where they operate—and Zscaler has been instrumental in enabling that,” said Tewari. “This capability empowers our teams to respond more rapidly while operating with full confidence that their computing environment is protected and compliant.”
+
+> "We remain firmly committed to delivering a secure, seamless, and high-performance user experience for our employees—regardless of where they operate—and Zscaler has been instrumental in enabling that. This capability empowers our teams to respond more rapidly while operating with full confidence that their computing environment is protected and compliant."
+> — **Tewari — International SOS**
+
+> "We remain firmly committed to delivering a secure, seamless, and high-performance user experience for our employees—regardless of where they operate—and Zscaler has been instrumental in enabling that."
+> — **Manoj Tewari — General Manager — International SOS**
+
+### Phase 2: Replacing VPNs with seamless private app access (ID: phase-2-replacing-vpns-with-seamless-private-app-access | Type: implementation)
+Before Zscaler, International SOS relied on distinct regionally located VPN environments—each demanding continuous patching, monitoring, and administrative oversight. As remote work accelerated, the limitations of these legacy VPN architectures became increasingly pronounced: degraded performance from latency and congestion, frequent downtime that eroded productivity, elevated operational burdens, and heightened security exposure driven by an expanded attack surface and risk of lateral threat movement.
+
+To address these challenges, International SOS transitioned from its legacy VPN environment to Zscaler Private Access (ZPA). ZPA delivers direct, secure, policy-driven access to only the internal apps a user is authorized to use—without ever exposing the broader network. High-sensitivity systems, such as electronic medical records and call-recording platforms, are now completely hidden from the internet, significantly reducing the attack surface and strengthening protection against compromise.
+
+In addition, the security team can apply granular, posture-based controls that validate the security state of each device before access is granted, ensuring that only compliant, trusted endpoints can connect to mission-critical apps.
+
+“Zscaler Private Access enables a truly frictionless user experience with zero trust access to our business-critical private apps,” said Tewari. “Employees no longer need to juggle multiple VPN connections, passwords, or repeated multi-factor authentications. And our technology team is freed from the ongoing burden of patching and monitoring legacy solutions—Zscaler handles that for us. ZPA has allowed us to streamline our infrastructure footprint while delivering a faster, more secure remote-access experience for our global workforce.”
+
+> "Zscaler Private Access enables a truly frictionless user experience with zero trust access to our business-critical private apps. Employees no longer need to juggle multiple VPN connections, passwords, or repeated multi-factor authentications. And our technology team is freed from the ongoing burden of patching and monitoring legacy solutions—Zscaler handles that for us. ZPA has allowed us to streamline our infrastructure footprint while delivering a faster, more secure remote-access experience for our global workforce."
+> — **Tewari — International SOS**
+
+> "Zscaler Private Access enables a truly frictionless user experience with zero trust access to our business-critical private apps."
+> — **Manoj Tewari — General Manager — International SOS**
+
+### Next up: Optimizing the digital experience and embarking on an AI security journey (ID: next-up-optimizing-the-digital-experience-and-embarking-on-an-ai-security-journey | Type: implementation)
+International SOS plans to continue expanding its zero trust architecture by integrating additional Zscaler capabilities. Tewari is currently evaluating Zscaler Digital Experience (ZDX) to enhance visibility and streamline troubleshooting across the organization’s globally distributed workforce. ZDX offers end-to-end insights into app performance, Wi-Fi health, device behavior, and network paths, enabling support teams to diagnose and resolve user experience issues with significantly greater speed and precision.
+
+In parallel, he is assessing Zscaler AI Guard to strengthen governance and security around emerging AI usage within the enterprise. As the intelligence layer of the Zero Trust Exchange, Zscaler AI Guard delivers automated analysis, real-time threat detection, and performance optimization—empowering security teams with data-driven insights that reduce risk and accelerate operational decision-making.
+
+“By extending our deployment with advanced monitoring, analytics, and AI-driven capabilities, we are future-proofing our security architecture and ensuring it continues to safeguard our employees and customers in an increasingly complex digital landscape,” Tewari noted.
+
+> "By extending our deployment with advanced monitoring, analytics, and AI-driven capabilities, we are future-proofing our security architecture and ensuring it continues to safeguard our employees and customers in an increasingly complex digital landscape."
+> — **Tewari — International SOS**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Data Security
+- **root.products[0].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.products[1].name:** Zero Trust Browser
+- **root.products[1].url:** https://www.zscaler.com/products-and-solutions/browser-isolation
+- **root.products[2].name:** Sandbox
+- **root.products[2].url:** https://www.zscaler.com/technology/cloud-sandbox
+- **root.products[3].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[4].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.solutions[0].name:** Secure Remote Access
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/vpn-alternative
+- **root.solutions[1].name:** Stop Cyberattacks
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/zscaler-risk-360
+- **root.solutions[2].name:** Data Security
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.solutions[3].name:** Optimize Digital Experiences
+- **root.solutions[4].name:** Ransomware
+- **root.solutions[4].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 106516
+- **root.page_metadata.meta_description:** Learn how International SOS International SOS Secures Internet Browsing with Zero Trust for Faster Delivery of Life-Saving Services with Zscaler elevates security maturity by modernizing access, delivering a frictionless, scalable, and seamless user experience, and maintaining compliance.
+- **root.page_metadata.og_title:** International SOS Case Study | Customer Stories | Zscaler

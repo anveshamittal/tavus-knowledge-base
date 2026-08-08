@@ -1,0 +1,91 @@
+# Kubota Australia Enables Infrastructureless Warehouses
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Kubota Australia
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/kubota-australia
+- **Slug:** kubota-australia
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:34.699690Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Kubota Australia
+- **Description:** Kubota Australia provides agriculture, construction, and power equipment for business and domestic customers, working through a network of 160 dealerships across Australia and New Zealand to deliver products and support. The company’s parent, Kubota Corporation, entered the equipment market in 1953.
+- **Industry:** Manufacturing
+- **Headquarters:** Melbourne, Victoria, Australia
+- **Size:** 35,000 Kubota Corporation employees in 31 countries worldwide
+
+## Executive Summary
+### Challenges
+- Maintain a dedicated wireless network to enable fast, secure stock and order tracking across company warehouses
+
+### Phased Journey
+- -T-o- -k-e-e-p- -u-p- -w-i-t-h- -g-r-o-w-i-n-g- -d-e-m-a-n-d- -a-n-d- -p-r-o-m-p-t-l-y- -p-r-o-v-i-d-e- -m-o-r-e- -p-a-r-t-s- -t-o- -m-o-r-e- -c-u-s-t-o-m-e-r-s-,- -K-u-b-o-t-a- -A-u-s-t-r-a-l-i-a- -c-o-n-t-i-n-u-e-s- -t-o- -a-d-d- -w-a-r-e-h-o-u-s-e-s-.-
+- -E-a-c-h- -s-c-a-n-n-e-r- -c-a-n- -n-o-w- -s-e-c-u-r-e-l-y- -c-o-m-m-u-n-i-c-a-t-e- -w-i-t-h- -t-h-e- -c-o-m-p-a-n-y-'-s- -S-A-P- -E-R-P- -s-y-s-t-e-m- -w-i-t-h-o-u-t- -t-h-e- -n-e-e-d- -f-o-r- -a- -s-e-p-a-r-a-t-e- -n-e-t-w-o-r-k-.-
+
+### Results & Impact
+- Enables secure communications with centralized SAP ERP from anywhere
+- Supports infrastructureless warehouses with Zscaler Private Access and any 4G LTE connection
+- Adds zero lead time for IT to make new warehouses operational anywhere
+- Saves thousands of dollars by avoiding ISP setup costs and networking infrastructure
+- Enables secure, seamless use of third-party locations as warehouses/distribution centers
+
+## Featured Quotes
+> "Next time we add a warehouse, there’s no need to wait for weeks and spend thousands of dollars on networking. We’re up and running anywhere on day one with our 4G-connected RF scanners using Zscaler Client Connector."
+> — **Jonathon Bonnici — IT Service Delivery Manager — Kubota Australia**
+
+## Customer Case Study
+### IT costs and lead times hinder warehouse expansion (ID: it-costs-and-lead-times-hinder-warehouse-expansion | Type: other)
+To keep up with growing demand and promptly provide more parts to more customers, Kubota Australia continues to add warehouses. Warehouses require internet connectivity to allow the RF scanners to communicate with the ERP system to obtain details of orders and track stock movements. This requirement of a dedicated wireless network, along with the logistics of working with possibly different internet service providers at each warehouse, was the long pole in making new warehouses operational.
+
+The business wanted to solve this problem to maintain a competitive edge while keeping operational costs low. “We came up with the idea of installing the Zscaler Client Connector on the Android-based RF scanners and equipping each with a SIM card to allow it to connect to a conventional 4G mobile network. We trialed the idea on a scanner, and it just worked,” said Jonathon Bonnici, IT Service Delivery Manager at Kubota Australia.
+
+Zscaler Client Connector was easy to install on the Android RF scanners and worked flawlessly without impacting resource utilization on the devices.
+
+> "We came up with the idea of installing the Zscaler Client Connector on the Android-based RF scanners and equipping each with a SIM card to allow it to connect to a conventional 4G mobile network. We trialed the idea on a scanner, and it just worked."
+> — **Jonathon Bonnici — IT Service Delivery Manager — Kubota Australia**
+
+### Seamless communication over any connection (ID: seamless-communication-over-any-connection | Type: other)
+Each scanner can now securely communicate with the company’s SAP ERP system without the need for a separate network. “This has made staff in the warehouses much more agile and productive,” Bonnici said. The simplicity of Client Connector was an asset—the connection was secure even when connecting via guest Wi-Fi, shared internet with no firewalls, and even across mobile carriers.
+
+With Zscaler Private Access, Kubota Australia is able to ensure end-to-end encryption from the RF scanner to the ERP application and restrict users to only the SAP ERP application without allowing them to browse the internet.
+
+This infrastructureless warehouse capability has allowed Kubota Australia to use space with third-party locations to quickly expand its distribution network. Together with Zscaler, Kubota Australia is doing its part to develop solutions to deliver on its long-term vision of enhancing the production and safety of food, promoting the circulation of water resources and waste, and improving urban and living environments.
+
+> "This has made staff in the warehouses much more agile and productive."
+> — **Kubota Australia**
+
+> "Installing Zscaler Client Connector on the Android-based RF scanners and equipping each with a SIM card … just worked."
+> — **Jonathon Bonnici — IT Service Delivery Manager — Kubota Australia**
+
+> "This has made staff in the warehouses much more agile and productive."
+> — **Jonathon Bonnici — IT Service Delivery Manager — Kubota Australia**
+
+> "Traditionally, we’ve had to install a wireless network in each warehouse to allow the scanners to communicate with our ERP system."
+> — **Jonathon Bonnici — IT Service Delivery Manager — Kubota Australia**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].name:** Zscaler Private Access (ZPA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[2].name:** Zero Trust for IoT/OT
+- **root.products[2].url:** https://www.zscaler.com/products-and-solutions/secure-your-ot-and-iot
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Data Security
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 43351
+- **root.page_metadata.meta_description:** Learn how Kubota Australia Kubota Australia Enables Infrastructureless Warehouses with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** Kubota Australia Case Study | Customer Stories | Zscaler

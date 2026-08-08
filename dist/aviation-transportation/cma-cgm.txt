@@ -1,0 +1,125 @@
+# Multinational CMA CGM Simplifies M&A and Secures Digital Transformation
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** CMA CGM
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/cma-cgm
+- **Slug:** cma-cgm
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:55:14.568430Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** CMA CGM
+- **Description:** The CMA CGM Group is a world leader in shipping and logistics. Its 110,00 employees, 566 vessels, 755 offices, and 750 warehouses, serve more than 420 ports around the world, on all five continents. The company is constantly innovating to offer customers new maritime, inland, and logistics solutions.
+- **Industry:** Transportation Services
+- **Headquarters:** Marseille, France
+- **Size:** 110,000 employees, 755 agencies in 160 countries
+
+## Executive Summary
+### Challenges
+- Improve user experience and minimize risk as embark on digital transformation
+
+### Results & Impact
+- Scaled secure remote access from 400 users to 27,000 in just 48 hours
+- Simplifies onboarding of employees from mergers and acquisitions
+- Dramatically improves user experience while significantly bolstering security
+- Provides easy visibility into user connections across 160 locations worldwide
+- Used to mitigate an active attack immediately after proof of concept
+
+## Featured Quotes
+> "[With ZPA,] we have been able to go from 400 to 27,000 users within two days, while configuring application segmenting for each application required for business."
+> — **Michael Perrino — Group CIO — CMA CGM**
+
+## Video Testimonial & Transcript
+**Title:** CMA CGM Leverages Zscaler for Digital Transformation Journey
+**Description:** a CMA CGM Leverages Zscaler for Digital Transformation Journey video
+**URL:** https://fast.wistia.net/embed/iframe/971o8dxrsj
+**Provider:** wistia
+**Video ID:** 971o8dxrsj
+**Duration:** 331.767 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/b865fafe6400d905558a24e6da395ba2676b6373.bin
+**Video Account Id:** 658399
+**Video Media Id:** 94670259
+**Video Created At:** 1661965319
+
+### Tagged Segments
+- **[Michael Perrino (Group CIO, CMA CGM)]** [Segment #1] (self_introduction - Introduction and role at CMA CGM): "Hello, everyone. Please allow me to introduce myself. My name is Michael Perino, and I'm the group chief information security officer of CMSGM Group. I come to you today, considering myself more than lucky to participate every day to the cyber digital transformation of the group. Improving our security posture, reducing our risk and making a real difference on the business and cyber fronts."
+- **[Michael Perrino (Group CIO, CMA CGM)]** [Segment #2] (challenges - Legacy IT infrastructure and silos): "Every company countries and acquisition operated in a silo with their own on premise IT stack. When I started, We didn't have any kind of central visibility, policies, nor security controls for the entire group. Let me explain you how our architecture was before this gallery. Nothing was centralized. No global visibility, no common approach on the access to the internet. As it is impossible to bring all the internet connection at the same place, we are to use the fact we are global to give access locally to all our offices. But it comes with complexity on a perimeter of more than seven hundred high walls dispatched all over the world So we add to face the following challenges, managing legacy firewall updates and obtain the information of their version. Patching them and having confirmation they are patched, accepting that we can have different policies between business units."
+- **[Michael Perrino (Group CIO, CMA CGM)]** [Segment #3] (products_and_solutions - Adopting Zscaler for cloud-based security): "That's why we wanted to move on a cloud based solution like this scalar. Present everywhere, we facilitate the application of security policies And for sure, we give a global visibility. We started with ZIA Zscaler internet access to set the foundation before the COVID nineteen. Then we accelerated after the pandemic began."
+- **[Michael Perrino (Group CIO, CMA CGM)]** [Segment #4] (metrics_and_results - Deployment results and user visibility): "The deployment was quick. And first results were visibility on users connecting from one hundred and sixty location worldwide, dramatic growth in Office three sixty five traffic without having talking about it. Great user experience with more security and Zscaler's cloud, native architecture ensured we could inspect and stop threat in all SSL traffic without worrying about capacity."
+- **[Michael Perrino (Group CIO, CMA CGM)]** [Segment #5] (products_and_solutions - Zero Trust architecture for access control): "A typical way of granting granular access to users is by implementing network segmentation in a traditional approach which is complex, costly, and takes a very long time. The scalar serial trust architecture enables quick implementation of granular access control for users without the need to implement traditional feature component, mostly based on IP sources and destinations."
+- **[Michael Perrino (Group CIO, CMA CGM)]** [Segment #6] (challenges - VPN limitations and attack surface): "As CMS AGM networks grows in a part merge by merge an acquisition, the group has to maintain networks with different level of integration. The previous approach was to enable traditional VPN connectivity back to each local agency using four different different vendors, meaning having multiple hundreds points of entry to our network, maintaining a cohesive policy across all these devices has always been a challenge and the lockdown around the world due to the COVID nineteen made the VPN entry points and additional attack surface."
+- **[Michael Perrino (Group CIO, CMA CGM)]** [Segment #7] (metrics_and_results - Rapid user scaling during cyber attack): "After a successful proof of value at the beginning of summer, we moved to deployment with our Ocean region as a pilot. A cyber attack occurred a couple of days after we successfully finished our payload phase. And one action taken to reduce the breed of the attacks has been to disable interconnectivity between sites effectively rendering any internal communication impossible. We have been able to go from four hundred to twenty seven thousand users within two days. Why configuring application segment for each application required for business. This scanner is easy to deploy, easy to configure, and easy to manage."
+- **[Michael Perrino (Group CIO, CMA CGM)]** [Segment #8] (challenges - Convincing investment committee): "Let me share with you my experience on how I make business case to assist with. During the COVID nineteen crisis, it was clear to me that it was required to quickly protect people walking remotely and having remote workstation constantly updated and patched. But Even if it's important, it's not enough. I remember when I came into the investment committee with this argument, I was challenged by them on the difficulty to find the right balance between necessary and sufficient. I was also challenged on the budget and the fact that a traditional VPN could be enough."
+- **[Michael Perrino (Group CIO, CMA CGM)]** [Segment #9] (quote - Key argument for user experience): "The only argument who had an impact was providing a better user experience."
+- **[Michael Perrino (Group CIO, CMA CGM)]** [Segment #10] (general_discussion - Closing thoughts and advice): "So finally, if I can give you my thought, be prepared, present division, be passionate, it helps a lot to transform a crisis in opportunity and a good story to tell. Thank you."
+
+### Full Transcript Sentences
+- Hello, everyone.
+- Please allow me to introduce myself.
+- My name is Michael Perino, and I'm the group chief information security officer of CMSGM Group.
+- I come to you today, considering myself more than lucky to participate every day to the cyber digital transformation of the group.
+- Improving our security posture, reducing our risk and making a real difference on the business and cyber fronts.
+- Every company countries and acquisition operated in a silo with their own on premise IT stack.
+- When I started, We didn't have any kind of central visibility, policies, nor security controls for the entire group.
+- Let me explain you how our architecture was before this gallery.
+- Nothing was centralized.
+- No global visibility, no common approach on the access to the internet.
+- As it is impossible to bring all the internet connection at the same place, we are to use the fact we are global to give access locally to all our offices.
+- But it comes with complexity on a perimeter of more than seven hundred high walls dispatched all over the world So we add to face the following challenges, managing legacy firewall updates and obtain the information of their version.
+- Patching them and having confirmation they are patched, accepting that we can have different policies between business units, That's why we wanted to move on a cloud based solution like this scalar.
+- Present everywhere, we facilitate the application of security policies And for sure, we give a global visibility.
+- We started with ZIA Zscaler internet access to set the foundation before the COVID nineteen.
+- Then we accelerated after the pandemic began.
+- The deployment was quick.
+- And first results were visibility on users connecting from one hundred and sixty location worldwide, dramatic growth in Office three sixty five traffic without having talking about it.
+- Great user experience with more security and Zscaler's cloud, native architecture ensured we could inspect and stop threat in all SSL traffic without worrying about capacity.
+- A typical way of granting granular access to users is by implementing network segmentation in a traditional approach which is complex, costly, and takes a very long time.
+- The scalar serial trust architecture enables quick implementation of granular access control for users without the need to implement traditional feature component, mostly based on IP sources and destinations.
+- As CMS AGM networks grows in a part merge by merge an acquisition, the group has to maintain networks with different level of integration.
+- The previous approach was to enable traditional VPN connectivity back to each local agency using four different different vendors, meaning having multiple hundreds points of entry to our network, maintaining a cohesive policy across all these devices has always been a challenge and the lockdown around the world due to the COVID nineteen made the VPN entry points and additional attack surface.
+- After a successful proof of value at the beginning of summer, we moved to deployment with our Ocean region as a pilot.
+- A cyber attack occurred a couple of days after we successfully finished our payload phase.
+- And one action taken to reduce the breed of the attacks has been to disable interconnectivity between sites effectively rendering any internal communication impossible.
+- We have been able to go from four hundred to twenty seven thousand users within two days.
+- Why configuring application segment for each application required for business.
+- This scanner is easy to deploy, easy to configure, and easy to manage.
+- Let me share with you my experience on how I make business case to assist with.
+- During the COVID nineteen crisis, it was clear to me that it was required to quickly protect people walking remotely and having remote workstation constantly updated and patched.
+- But Even if it's important, it's not enough.
+- I remember when I came into the investment committee with this argument, I was challenged by them on the difficulty to find the right balance between necessary and sufficient.
+- I was also challenged on the budget and the fact that a traditional VPN could be enough.
+- To it back, I mentioned the risk related to the vulnerability on VPN solutions.
+- The need of homogenization of solutions for the group by establishing a proven and standardized security architecture across one hundred and sixty countries and seven hundred and fifty five agencies.
+- The possibility of providing secured access to data and application for all employees and partners as well as the possibility of securing merge and acquisition with simplicity.
+- The only argument who had an impact was providing a better user experience.
+- So finally, if I can give you my thought, be prepared, present division, be passionate, it helps a lot to transform a crisis in opportunity and a good story to tell.
+- Thank you.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Internet Access (ZIA)
+- **root.products[0].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[1].name:** Zscaler Private Access (ZPA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[2].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[2].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Accelerate M&A and Divestitures
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+- **root.solutions[1].name:** Zero Trust App Access
+- **root.solutions[2].name:** Ransomware
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 42956
+- **root.page_metadata.meta_description:** Learn how CMA CGM Multinational CMA CGM Simplifies M&A and Secures Digital Transformation with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** CMA CGM Case Study | Customer Stories | Zscaler

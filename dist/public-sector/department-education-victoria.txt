@@ -1,0 +1,186 @@
+# The Department of Education Creates Safer Digital Learning Environments with the Zero Trust Exchange
+
+> Zscaler ensures safe, direct-to-internet connectivity and offers greater protection from threats for more than 800,000 students, faculty, and staff
+
+**Customer Name:** Department of Education, Victoria
+
+### Key Metrics
+- **800K+**: users protected by zero trust
+- **69M**: security threats blocked in three months
+- **20%**: schools eliminating legacy firewalls
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/department-education-victoria
+- **Slug:** department-education-victoria
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:19.941855Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Department of Education, Victoria
+- **Description:** Victorian government department managing statewide learning and development services
+- **Industry:** Education
+- **Headquarters:** Melbourne, Australia
+- **Size:** Managing public education for nearly 700,000 students
+
+## Executive Summary
+### Challenges
+- An outdated proxy and firewall architecture could not securely connect hundreds of thousands of users to the internet
+- Legacy network infrastructure was not flexible or scalable enough to support a modern, digital learning environment
+- Limited inline TLS/SSL traffic inspection capabilities left schools at greater risk of cyberattacks and data loss
+
+### Phased Journey
+- Educational institutions worldwide are increasingly adopting a digital-first mindset, integrating technology into all aspects of the educational experience.
+- A traditional MPLS network lacked the scalability and cloud integration needed to support modern, digital learning.
+- Victoria is widely recognized as Australia’s “Education State”, a designation that reflects an ongoing commitment to provide accessible, outstanding educational opportunities for all residents.
+
+### Results & Impact
+- Zero trust security supports a better online learning experience for more than 680,000 students and 120,000 faculty
+- Location-based tunneling allows for more granular access policies and security controls—particularly for BYOD student devices
+- SSL traffic inspection protects staff, faculty, and students by detecting threats in encrypted traffic, with a key focus on blocking access to sites that target young people
+
+## Featured Quotes
+> "The Zscaler platform is the foundation for our zero trust capabilities. As we continue to navigate a total network transformation, Zscaler gives us the confidence to keep letting go of the legacy solutions."
+> — **Matthew Stokeld — Director Information Technology Services — Department of Education, Victoria**
+
+## Customer Case Study
+### Zero trust is the best security approach for modern, digital learning environments (ID: zero-trust-is-the-best-security-approach-for-modern-digital-learning-environments | Type: implementation)
+Educational institutions worldwide are increasingly adopting a digital-first mindset, integrating technology into all aspects of the educational experience. In this modern paradigm, reliable and secure internet connectivity is foundational to creating an effective and inclusive educational ecosystem.
+
+Government leaders in the southeast Australian state of Victoria are committed to improving the digital learning experience for its more than 680,000 government (also known as public) school students. The state’s current five-year digital strategy provides for a $59 million investment aimed at increasing and improving internet bandwidth at all Victorian public schools.
+
+The Victorian Department of Education (DE), the government body that provides infrastructure services to public schools operating in the state, is responsible for stewarding that investment. However, expanding bandwidth capabilities at public schools became part of a larger digital transformation effort at DE: Phasing out hub-and-spoke network infrastructure in favor of direct-to-cloud architecture, which would allow the department to modernize how students, teachers, and staff connect to the internet. But moving to the cloud in this way would require an additional change: Embracing a zero trust approach to security.
+
+“Modern learning requires faster and more efficient ways to connect to online learning tools,” said Matthew Stokeld, Director of Information Technology Services at the Department of Education, Victoria. “We have a duty of care to our students to make sure their connections are as secure as possible. Traditional security measures no longer make the grade, zero trust is the way forward in Victoria.”
+
+> "Modern learning requires faster and more efficient ways to connect to online learning tools. We have a duty of care to our students to make sure their connections are as secure as possible. Traditional security measures no longer make the grade, zero trust is the way forward in Victoria."
+> — **Matthew Stokeld — Director Information Technology Services — Department of Education, Victoria**
+
+### Partnership between Telstra and Zscaler enables a cloud-first approach to networking and security (ID: partnership-between-telstra-and-zscaler-enables-a-cloud-first-approach-to-networking-and-security | Type: implementation)
+A traditional MPLS network lacked the scalability and cloud integration needed to support modern, digital learning. As such, increasing bandwidth was going to be complex and costly with MPLS, meaning the legacy network infrastructure might undermine the state’s bandwidth investment goal for its public schools. Additionally, physical firewalls spread across thousands of individual sites increased costs without adequately protecting against distributed threats.
+
+A cloud-first, more cost-effective approach to networking and security would allow DE to protect students and teachers without limiting their growing need for faster, more reliable internet connectivity.
+
+The department had chosen Telstra, Australia’s largest internet service provider (ISP), to provision broadband for its headquarters and schools. Telstra is also part of the Zscaler partner ecosystem, serving as one of four specially authorized managed security service provider (MSSP) partners in Australia and New Zealand. This strong partnership between Telstra and Zscaler provided the Department of Education with an efficient way to overhaul both its network infrastructure and security architecture. A cloud-enabled Telstra data center would power the department’s modernized network architecture. A Zscaler Private Service Edge (PSE) within that cloud data center would deliver zero trust connectivity and protect users, data, and devices against threats.
+
+“Zscaler is the market leader for cloud native, zero trust security,” said Stokeld. “The fact that our already trusted ISP could help us deploy and manage the Zscaler platform as part of our network transformation effort made partnering with Telstra and Zscaler a compelling proposition.”
+
+Zscaler Internet Access (ZIA)™ would serve as a cloud-based secure web gateway solution for the department, brokering direct access to the internet and SaaS applications, as well as ensuring zero trust policy enforcement for outbound traffic. A phased deployment of the ZIA solution allowed Stokeld and his IT team to reduce infrastructure complexity and provide direct internet access without compromising security posture or user experience.
+
+> "Zscaler is the market leader for cloud native, zero trust security. The fact that our already trusted ISP could help us deploy and manage the Zscaler platform as part of our network transformation effort made partnering with Telstra and Zscaler a compelling proposition."
+> — **Stokeld — Department of Education, Victoria**
+
+> "Zscaler is protecting all devices that connect to the internet from any of our public schools, and DE-managed devices are secured across any location."
+> — **Matthew Stokeld — Director Information Technology Services — Department of Education, Victoria**
+
+### Phase 1: Providing work-from-anywhere security for corporate staff (ID: phase-1-providing-work-from-anywhere-security-for-corporate-staff | Type: implementation)
+Victoria is widely recognized as Australia’s “Education State”, a designation that reflects an ongoing commitment to provide accessible, outstanding educational opportunities for all residents. Approximately 7,000 internal, corporate staff at DE deliver and regulate statewide learning and development services to support Victoria’s public school system.
+
+DE supports a hybrid work environment, allowing staff to split their time between headquarters and remote locations. ZIA enables direct, secure access to the internet and SaaS applications no matter where a corporate user is working. Between the department’s Zscaler PSE and the 160+ public Zscaler edge locations worldwide, security inspection and policy enforcement for outbound traffic are delivered as close to the end user as possible.
+
+The ZIA solution also provides a comprehensive suite of outbound security services. Built-in functionality for cloud firewall protection, URL filtering, TLS/SSL traffic inspection, and advanced threat protection eliminates the need to maintain multiple point products and streamlines the security stack.
+
+Stokeld and his IT team installed the Zscaler Client Connector on corporate staff laptops to enable a more seamless remote work experience while still applying greater security controls. Client Connector automatically determines if a user is trying to access the web, a SaaS application, or an internal private application and then routes traffic to its destination via the Zero Trust Exchange. This always-on routing system helps ensure that department security policies are consistently applied for corporate users across remote locations.
+
+“With Zscaler, we have a whole new level of confidence that wherever our corporate staff choose to work from, they will have not only a faster and more reliable connectivity experience, but a safer one, as well,” shared Stokeld.
+
+> "With Zscaler, we have a whole new level of confidence that wherever our corporate staff choose to work from, they will have not only a faster and more reliable connectivity experience, but a safer one, as well."
+> — **Stokeld — Department of Education, Victoria**
+
+### Phase 2: Migrating public schools to the Zscaler platform for safer online learning (ID: phase-2-migrating-public-schools-to-the-zscaler-platform-for-safer-online-learning | Type: implementation)
+DE is responsible for securing over 1,600 public schools across Victoria. While the department wants to standardize security infrastructure and protocols as much as possible, leaders also respect that with schools, one size doesn’t always fit all. “Our public schools do have a certain level of autonomy in how they operate,” explained Stokeld. “Some schools opt to have their IT infrastructure and support managed directly by our department. Other schools might choose to manage their own network and security.”
+
+The challenge for Stokeld and his team was finding an internet security solution that could accommodate either type of environment and provide the same outcome—safer access to the internet with more consistent security policies. ZIA solved that challenge.
+
+At DE-managed schools, all internet traffic is directly routed through ZIA and the corporate department manages internet access policies. Cloud firewall protection, URL filtering, and malware scanning are managed through the Zscaler platform. At self-managed schools, ZIA operates in tandem with onsite firewalls so that these schools can define internet access policies for students, while Zscaler manages high-level URL filtering and malware scanning.
+
+For both types of environments, location-based tunnels connect all devices within the schools to the Zscaler platform. This is particularly helpful because BYOD devices are becoming more prevalent as schools expand digital learning. Tunneling allows for granular access policies to help mitigate the challenges inherent with these unmanaged, student devices, where software agent installations are less feasible.
+
+For managed faculty devices at all schools, Zscaler Client Connector is in place. Just like it does on managed corporate staff laptops, Client Connector provides intelligent internet and SaaS application traffic routing based on faculty identity verification. Whether connecting at school or remotely, 120,000 Victorian school faculty members will have a seamless experience with the same security policies.
+
+“Zscaler is protecting all devices that connect to the internet from any of our public schools, and DE-managed devices are secured across any location,” said Stokeld.
+
+As the second largest public school system in Australia, the Victorian school system is diverse. According to Stokeld, migrating individual schools to Zscaler has been an intentionally gradual process. DE has deployed the Zscaler platform at just over 75% of public schools, having recently reached the 1,200 school milestone. Stokeld aims to have 100% of schools protected by Zscaler within the next 6 months.
+
+> "Our public schools do have a certain level of autonomy in how they operate. Some schools opt to have their IT infrastructure and support managed directly by our department. Other schools might choose to manage their own network and security."
+> — **Stokeld — Department of Education, Victoria**
+
+> "Zscaler is protecting all devices that connect to the internet from any of our public schools, and DE-managed devices are secured across any location."
+> — **Stokeld — Department of Education, Victoria**
+
+> "Leveling up our experience monitoring capabilities with Zscaler will give us the data and insights to better support our students and faculty."
+> — **Matthew Stokeld — Director Information Technology Services — Department of Education, Victoria**
+
+### Phase 3: Introducing SSL traffic inspection to better protect students against cyberthreats (ID: phase-3-introducing-ssl-traffic-inspection-to-better-protect-students-against-cyberthreats | Type: implementation)
+A recent Zscaler report revealed that more than 87% of threats are likely to be hidden in TLS/SSL encrypted traffic. The report also confirms that organizations operating across the education industry are among the most common targets for these attacks.
+
+Without encrypted traffic inspection capabilities, malicious threats could reach end-user devices, increasing the risk of data breaches. Being a visionary and staying in line with the latest in cybersecurity, DE believes that its duty to ensure the online safety of students warrants a more robust approach to mitigating encrypted threats.
+
+The department’s previous, appliance-based security architecture made SSL traffic inspection nearly impossible to facilitate at scale. Fortunately, the Zscaler platform will act as a highly scalable, cloud native proxy that can inspect any volume of SSL traffic inline and apply policies in real time.
+
+Stokeld and his IT team are currently in the process of implementing SSL decryption and inspection with a small cohort of pilot schools. Focusing on a smaller cohort allows Stokeld to workshop the processes and policies that will eventually roll out to all schools. Details like installing the necessary Zscaler certificate on all student-accessed devices, which data packets might not be decrypted due to privacy concerns, and how data packets are managed after decryption will be determined with the help of those pilot schools. Stokeld believes this measured approach to SSL inspection will enable his IT team to thoughtfully balance security needs with the privacy of students and faculty.
+
+“Zscaler has given us SSL inspection capabilities beyond anything we’d have been able to achieve using our legacy appliances,” said Stokeld. “On the Zscaler platform, we will have increased visibility into potential threats that would have otherwise been hidden, as well as the ability to mitigate them proactively.”
+
+> "Zscaler has given us SSL inspection capabilities beyond anything we’d have been able to achieve using our legacy appliances. On the Zscaler platform, we will have increased visibility into potential threats that would have otherwise been hidden, as well as the ability to mitigate them proactively."
+> — **Stokeld — Department of Education, Victoria**
+
+### Up next: Leveraging Zscaler monitoring capabilities to ensure equitable online experiences for students (ID: up-next-leveraging-zscaler-monitoring-capabilities-to-ensure-equitable-online-experiences-for-students | Type: monitoring)
+With students, faculty, and staff now using direct-to-internet access through the Zscaler platform rather than traditional network paths, legacy network monitoring tools are no longer effective or helpful. A modern approach to security requires a modern approach to experience monitoring. As such, DE recently deployed Zscaler Digital Experience (ZDX).
+
+ZDX provides end-to-end visibility from user to application for easier digital experience monitoring across devices, networks, and applications. The department’s IT team will have a full view into school internet usage, making it easier to streamline student and faculty access to online learning tools.
+
+Zscaler aggregates data, so Stokeld will even be able to baseline user experience for some of the most commonly used applications at public schools. These insights can identify any schools that may be struggling with application performance so DE can offer more targeted support.
+
+With deeper, AI-powered root cause analysis capabilities, the IT team can proactively detect and resolve issues with school connectivity or ISP usage, as well as any problems with online learning tools. With more accurate issue predictability, those potential challenges can be identified and resolved before they have an impact on the learning experience.
+
+“Our goal at DE is to deliver fair and equitable access to online learning tools for public school students across Victoria,” shared Stokeld. “Leveling up our experience monitoring capabilities with Zscaler will give us the data and insights to better support our students and faculty.”
+
+> "Our goal at DE is to deliver fair and equitable access to online learning tools for public school students across Victoria. Leveling up our experience monitoring capabilities with Zscaler will give us the data and insights to better support our students and faculty."
+> — **Stokeld — Department of Education, Victoria**
+
+### Eliminating legacy appliances and improving security posture on the Zero Trust Exchange (ID: eliminating-legacy-appliances-and-improving-security-posture-on-the-zero-trust-exchange | Type: challenge)
+DE has leveraged ZScaler to provide secure, direct-to-internet connectivity for more than 800,000 users statewide, as well as streamline security infrastructure at the corporate level and across the school system.
+
+As public schools migrate to the Zscaler platform and experience the power and ease of zero trust, many of them are retiring remaining onsite legacy firewalls. To date, Stokeld estimates that more than 20% of migrated schools have eliminated firewalls altogether, and he believes this number will continue to grow as more schools settle onto the Zero Trust Exchange.
+
+As the department continues to decommission legacy security architecture, Zscaler continues to improve security posture across Victorian schools. In a recent quarter, Zscaler processed more than 15 billion transactions for DE, preventing 2.7 billion policy violations and eliminating nearly 69 million security threats.
+
+Because the Zscaler platform reduces administrative overhead, staff and faculty can focus more fully on teaching students. “We’ve had a lot of positive feedback from schools about how Zscaler reduces administrative overhead,” said Stokeld. “Our faculty can focus on education, not worry about security.”
+
+> "We’ve had a lot of positive feedback from schools about how Zscaler reduces administrative overhead. Our faculty can focus on education, not worry about security."
+> — **Stokeld — Department of Education, Victoria**
+
+> "We’ve had a lot of positive feedback from schools about ... Zscaler ... Our faculty can focus on education, not worry about security."
+> — **Matthew Stokeld — Director Information Technology Services — Department of Education, Victoria**
+
+### Zscaler gives Department of Education the confidence to continue digital transformation (ID: zscaler-gives-department-of-education-the-confidence-to-continue-digital-transformation | Type: implementation)
+As DE continues its zero trust evolution, Stokeld is already thinking about future Zscaler solutions. Adding Zscaler Data Protection could help bolster data loss prevention (DLP) efforts by identifying sensitive information wherever it goes and providing clear visibility into data exposure across the public school system. Making use of Zscaler Advanced Cloud Sandbox would provide enhanced protection against threats like sophisticated malware and zero-day attacks. The Zscaler sandbox is the world’s first inline, artificial intelligence (AI)-powered malware prevention engine. Both of these powerful solutions can help the department provide even greater protection against threats for students, faculty, and staff working online.
+
+Stokeld views the partnership with Zscaler as integral to the department’s long-term digital transformation goals. “The Zscaler platform is the foundation for our zero trust capabilities,” concluded Stokeld. “As we continue to navigate a total network transformation, Zscaler gives us the confidence to keep letting go of the legacy solutions.”
+
+> "The Zscaler platform is the foundation for our zero trust capabilities. As we continue to navigate a total network transformation, Zscaler gives us the confidence to keep letting go of the legacy solutions."
+> — **Stokeld — Department of Education, Victoria**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].url:** https://www.zscaler.com/products/zscaler-digital-experience
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[2].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Optimize Digital Experiences
+- **root.solutions[1].name:** Data Security
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.solutions[2].name:** Ransomware
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 88981
+- **root.page_metadata.meta_description:** Learn how Department of Education, Victoria The Department of Education Creates Safer Digital Learning Environments with the Zero Trust Exchange with Zscaler ensures safe, direct-to-internet connectivity and offers greater protection from threats for more than 800,000 students, faculty, and staff.
+- **root.page_metadata.og_title:** Department of Education, Victoria Case Study | Customer Stories | Zscaler

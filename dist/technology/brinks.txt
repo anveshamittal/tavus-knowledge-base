@@ -1,0 +1,103 @@
+# Brink’s Bolsters Security and Accelerates M&A
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Brink’s
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/brinks
+- **Slug:** brinks
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:55:06.971948Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Brink’s
+- **Description:** Popularly known for its bullet-resistant armored trucks that carry money and valuable goods, Brink's Company is the global leader in total cash management, route-based secure logistics and payment solutions. Operations in 53 countries serve customers in more than 100 countries.
+- **Industry:** Services
+- **Headquarters:** Richmond, Virginia, USA
+- **Size:** 80,000 employees in 40 countries
+
+## Executive Summary
+### Challenges
+- Replace VPNs with faster, more secure access to network resources from anywhere
+
+### Results & Impact
+- Gives users worldwide faster, safer access to resources
+- Accelerates onboarding of employees in newly acquired companies
+- Provides zero trust, least-privileged access from anywhere
+- Helps company comply with financial industry and other regulations
+- Facilitates security administration with firewall, sandboxing, and other built-in functionality
+
+## Featured Quotes
+> "Zscaler gave us the capability to easily add speed and agility and complex functionality, such as SSL encryption, without having to buy additional hardware or software."
+> — **Mustapha Kebbeh — Chief Information Security Officer — Brink’s**
+
+## Video Testimonial & Transcript
+**Title:** Brink's: Advancing Zero Trust and Accelerating M&amp;A
+**Description:** a Brinks video
+**URL:** https://fast.wistia.net/embed/iframe/cfiykeot9g
+**Provider:** wistia
+**Video ID:** cfiykeot9g
+**Duration:** 151.96 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/8c43fdd451d10fa6c92b7ed4c8c7bf1a.png
+**Video Account Id:** 658399
+**Video Media Id:** 74795829
+**Video Created At:** 1624062453
+
+### Tagged Segments
+- **[Mustapha Kebbeh (Chief Information Security Officer, Brink’s)]** [Segment #1] (self_introduction - Company overview and global presence): "Brinks as a total cash management solution. We operate in about forty countries, and then we have about eighty thousand users."
+- **[Mustapha Kebbeh (Chief Information Security Officer, Brink’s)]** [Segment #2] (self_introduction - High-value asset management): "We also have, what we call, an entity called PGS Cisela, diamonds and goals and and and and and, you know, things like that high value assets that we move around the world. One of the key things that we've been working on is really digitalizing cash management."
+- **[Mustapha Kebbeh (Chief Information Security Officer, Brink’s)]** [Segment #3] (challenges - Security standards and customer diversity): "We do have a variety of different customer so starting from the banking to retail industry. So we have to have, the same or higher security stand the same or higher security controls, you know, with our customers because we are audited by by banks and other institutions."
+- **[Mustapha Kebbeh (Chief Information Security Officer, Brink’s)]** [Segment #4] (challenges - Browser security and user access): "This is gonna really help in our security, especially in in in, you know, browsers, web and then use the logging in to different, things across the wire."
+- **[Mustapha Kebbeh (Chief Information Security Officer, Brink’s)]** [Segment #5] (products_and_solutions - Cloud-based security and agility): "You know, one of the things is really speed. We talk about speed agility we talk about also having the capability to do, very complex things, like, things like, SSL to in the cloud where we don't have to worry about it downstream, as well as the traditional firewall, you know, migrating that to next generation of firewall. Sandboxing in the cloud. So this gives us this capability to really do these things easily without having to buy additional hardware, soft a downstream across the board."
+- **[Mustapha Kebbeh (Chief Information Security Officer, Brink’s)]** [Segment #6] (products_and_solutions - Zscaler's role in business integration): "Zysco is a very significant product in the organization because it's as recognized as the tool that will help the business, connect with, new organizations that we are buying. Right? With this gallery was a matter of providing the connectors. It's a matter of just creating the policies and having the users log in through the browser access or the actual ZZ app and that is pretty straightforward."
+- **[Mustapha Kebbeh (Chief Information Security Officer, Brink’s)]** [Segment #7] (metrics_and_results - Speed and security improvements): "And then we were able to, stop working immediately. So that was really critical for us. Not only the speed that we can provide, but also security that it actually give us to allow them to log in. It's because that we have granular policies that we can put in place to just make sure that they're only accessing the application, really necessary for them to access day one."
+
+### Full Transcript Sentences
+- Brinks as a total cash management solution.
+- We operate in about forty countries, and then we have about eighty thousand users.
+- We also have, what we call, an entity called PGS Cisela, diamonds and goals and and and and and, you know, things like that high value assets that we move around the world.
+- One of the key things that we've been working on is really digitalizing cash management.
+- We do have a variety of different customer so starting from the banking to retail industry.
+- So we have to have, the same or higher security stand the same or higher security controls, you know, with our customers because we are audited by by banks and other institutions.
+- This is gonna really help in our security, especially in in in, you know, browsers, web and then use the logging in to different, things across the wire.
+- You know, one of the things is really speed.
+- We talk about speed agility we talk about also having the capability to do, very complex things, like, things like, SSL to in the cloud where we don't have to worry about it downstream, as well as the traditional firewall, you know, migrating that to next generation of firewall.
+- Sandboxing in the cloud.
+- So this gives us this capability to really do these things easily without having to buy additional hardware, soft a downstream across the board.
+- Zysco is a very significant product in the organization because it's as recognized as the tool that will help the business, connect with, new organizations that we are buying.
+- Right?
+- With this gallery was a matter of providing the connectors.
+- It's a matter of just creating the policies and having the users log in through the browser access or the actual ZZ app and that is pretty straightforward.
+- And then we were able to, stop working immediately.
+- So that was really critical for us.
+- Not only the speed that we can provide, but also security that it actually give us to allow them to log in.
+- It's because that we have granular policies that we can put in place to just make sure that they're only accessing the application, really necessary for them to access day one.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Internet Access (ZIA)
+- **root.products[0].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[1].name:** Zscaler Private Access (ZPA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[2].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[2].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Accelerate M&A and Divestitures
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+- **root.solutions[1].name:** Zero Trust App Access
+- **root.solutions[2].name:** Data Security
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.solutions[3].name:** Ransomware
+- **root.solutions[3].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 50901
+- **root.page_metadata.meta_description:** Learn how Brink’s Brink’s Bolsters Security and Accelerates M&A with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** Brink’s Case Study | Customer Stories | Zscaler

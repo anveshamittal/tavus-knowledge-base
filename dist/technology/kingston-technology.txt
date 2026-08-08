@@ -1,0 +1,86 @@
+# Kingston Technology Reduces Risk Through Segmentation of Mission-Critical OT Devices
+
+> Zscaler Zero Trust Device Segmentation strengthens security posture, deploying in minutes and with zero downtime impacting factory operations
+
+**Customer Name:** Kingston Technology
+
+### Key Metrics
+- **90**: types of devices secured
+- **Minutes**: to apply segmentation
+- **0**: endpoint agents required
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/kingston-technology
+- **Slug:** kingston-technology
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:55:34.138923Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Kingston Technology
+- **Description:** Kingston Technology is a world leader in memory products and technology solutions, trusted by leading PC manufacturers and cloud providers around the world.
+- **Industry:** High Tech
+- **Headquarters:** Fountain Valley, CA, United States
+- **Size:** 3,000+ employees, 63+ Surface Mount Technology (SMT) lines
+
+## Executive Summary
+### Challenges
+- Legacy approach to segmentation made it complex to provision and manage policies for the 90 types of devices on Kingston Technology’s factory floor, including thermal units, packaging machines, testing machines, manufacturing line equipment
+- Misprovisioned access increases risk exposure for OT assets
+
+### Phased Journey
+- Secured access to the internet and private applications with the Zero Trust Exchange, including Zscaler Internet Access and Zscaler Private Access
+- Extended zero trust to the factory floor with Device Segmentation, where every device is secured without taking endpoints offline and without the need for agents, east-west firewalls, or VLAN readdressing
+
+### Results & Impact
+- Reduces complexity and risk by enforcing policy on every endpoint, with the granularity to control access by MAC address
+- Applies segmentation in minutes and without taking devices offline, unlike in legacy approaches where making policy changes means days of offline devices and delays to the factory line
+
+## Featured Quotes
+> "Zscaler has allowed us to reduce our risk footprint by reducing the potential for misconfigured access to the devices that sit in our manufacturing floor. [...] And I would say that the utilization of the platform, in terms of segmenting assets, can be done in minutes."
+> — **John Leitgeb — IT Director and CISO — Kingston Technology**
+
+## Video Testimonial & Transcript
+**Title:** Kingston Technology ft. John Leitgeb (Device Segmentation)
+**Description:** a Customer Testimonials video
+**URL:** https://fast.wistia.net/embed/iframe/breb4n0n8x
+**Provider:** wistia
+**Video ID:** breb4n0n8x
+**Duration:** 70.45 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/22d921cdb7866ba0b666c24620cdfbdc.
+**Video Account Id:** 658399
+**Video Media Id:** 127611661
+**Video Created At:** 1733506910
+
+### Tagged Segments
+- **[John Leitgeb (IT Director and CISO, Kingston Technology)]** [Segment #1] (challenges - Factory security risks and misprovisioned access): "Segmentation is essential to factory security because of all the possibilities of misprovisioned access, from the variance of the product, the IP devices that typically sit in the manufacturing environment."
+- **[John Leitgeb (IT Director and CISO, Kingston Technology)]** [Segment #2] (products_and_solutions - Zscaler controls access by MAC address): "That risk is completely mitigated by the fact that Zscaler controls access by MAC address. And you can basically plug into any network switch connection or for that matter wirelessly, and it'll always get the same policy."
+- **[John Leitgeb (IT Director and CISO, Kingston Technology)]** [Segment #3] (metrics_and_results - Reduced risk footprint and misconfigured access): "Zscaler has allowed us to reduce our risk footprint by reducing the potential for misconfigured access to the devices that sit in our manufacturing floor."
+- **[John Leitgeb (IT Director and CISO, Kingston Technology)]** [Segment #4] (challenges - Issues with traditional VLAN environments): "That would be something that would be, typically would happen in a traditional network, VLAN environment that doesn't happen when you deploy Zscaler."
+- **[John Leitgeb (IT Director and CISO, Kingston Technology)]** [Segment #5] (products_and_solutions - Asset segmentation in minutes with Zscaler): "And I would say that the utilization of the platform in terms of segmenting assets can be done in minutes."
+
+### Full Transcript Sentences
+- Segmentation is essential to factory security because of all the possibilities of of misprovisioned access, from the variance of of the product, the IP devices that that typically sit in the manufacturing environment.
+- That risk is completely mitigated by the fact that Zscaler, controls access by MAC address.
+- And you can basically plug into any network switch connection or for that matter wirelessly, and it'll always get the same policy.
+- Zscaler has allowed us to reduce our risk footprint by reducing the potential for misconfigured access to the devices that sit in our manufacturing floor.
+- That would be something that would be, typically would happen in a traditional network, VLAN environment that doesn't happen when you deploy Zscaler.
+- And I would say that the, utilization of the platform in terms of, segmenting assets can be done in minutes.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].url:** https://www.zscaler.com/products-and-solutions/zero-trust-device-segmentation
+- **root.products[1].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[1].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Secure IoT & OT
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 85866
+- **root.page_metadata.meta_description:** Learn how Kingston Technology Kingston Technology Reduces Risk Through Segmentation of Mission-Critical OT Devices with Zscaler Zero Trust Device Segmentation strengthens security posture, deploying in minutes and with zero downtime impacting factory operations.
+- **root.page_metadata.og_title:** Kingston Technology Case Study | Customer Stories | Zscaler

@@ -1,0 +1,188 @@
+# AMN Healthcare Protects Users and Data Globally with the Zscaler Zero Trust Exchange
+
+> Zscaler secures the remote work experience for 5,000+ users and protects patient data from increasing cyberthreats targeting the healthcare industry
+
+**Customer Name:** AMN Healthcare
+
+### Key Metrics
+- **1.2B**: web transactions processed monthly
+- **7M**: threats blocked in three months
+- **Hours**: to deploy a secure edge anywhere
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/amn-healthcare
+- **Slug:** amn-healthcare
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:01.390822Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** AMN Healthcare
+- **Description:** Providing clients with healthcare workforce solutions to improve patient outcomes
+- **Industry:** Healthcare and Pharmaceutical
+- **Headquarters:** Dallas, Texas, USA
+- **Size:** 10,000+ clients across 24 locations
+
+## Executive Summary
+### Challenges
+- A legacy security infrastructure was no longer compatible with the company's evolving cloud-first operational ecosystem
+- Traditional VPNs could not support growing remote access needs, leaving private resources more vulnerable to cyberthreats
+- A complex security architecture with multiple point solutions made issue visibility and resolution difficult to manage
+
+### Phased Journey
+- AMN already had their sights set on a zero trust architecture when the onset of COVID-19 rapidly and radically transformed the global healthcare environment, including an increase in remote work and telemedicine.
+- AMN had already adopted a cloud enabled and preferred approach.
+- Masood credits the partnership with Zscaler for making AMN Healthcare’s transition to zero trust straightforward and cost-effective.
+
+### Results & Impact
+- Secures outbound and inbound connectivity for 5,000+ users, improving global remote work capabilities and efficiency
+- Enforces zero trust access policies for private applications and digital products used by 10,000+ clients worldwide
+- Simplifies architecture and reduces technology costs to achieve a stronger security posture with less overhead
+
+## Featured Quotes
+> "The Zscaler approach is aligned with our overall zero trust philosophy, and the Zero Trust Exchange platform was the embodiment of our vision for a zero trust architecture at AMN Healthcare."
+> — **Mani Masood — Head of Information Security — AMN Healthcare**
+
+## Customer Case Study
+### Focused on security so clients can focus on patient care (ID: focused-on-security-so-clients-can-focus-on-patient-care | Type: security)
+Launching its traveling nurse program nearly 40 years ago, AMN Healthcare has since deployed more than 90,000 clinicians and nurses to healthcare facilities. By implementing innovative workforce management solutions and digital products, AMN has significantly improved the quality of care its clients can provide to patients.
+
+An increase in cyberthreats across the healthcare industry was the catalyst for AMN Healthcare's drive toward a digital-first initiative and adoption of a zero trust security framework. “Hospitals and healthcare providers are vulnerable because of the valuable data they store,” said Mani Masood, Head of Information Security at AMN. “We invest in technical capabilities and cybersecurity so the clients can focus on their patients. In healthcare, the stakes are high, and data is gold. AMN Healthcare's dedication to zero trust means our team members, clinicians, and clients can be unwavering in their devotion to patient well-being.
+
+> "Hospitals and healthcare providers are vulnerable because of the valuable data they store."
+> — **Mani Masood — Head of Information Security — AMN Healthcare**
+
+### A new healthcare environment called for a better security solution (ID: a-new-healthcare-environment-called-for-a-better-security-solution | Type: implementation)
+AMN already had their sights set on a zero trust architecture when the onset of COVID-19 rapidly and radically transformed the global healthcare environment, including an increase in remote work and telemedicine. These industry changes meant that the shortfalls of traditional security models, including legacy VPNs, would need to be addressed.
+
+“Typically, a hospital would have one central ER in a static, physical location,” Masood stated. “During the pandemic, hospitals were running makeshift, overflow ER facilities in parking lots. Suddenly, our clients were staffing, operating, and providing patient care in alternative locations not always suitable for supporting secure IT solutions and applications. The traditional security model was no longer valid.”
+
+Conversations around the advantages of a zero trust architecture had already taken place. This organizational preparedness enabled AMN to pivot quickly mid-pandemic, making their zero trust plan a reality.
+
+> "Typically, a hospital would have one central ER in a static, physical location. During the pandemic, hospitals were running makeshift, overflow ER facilities in parking lots. Suddenly, our clients were staffing, operating, and providing patient care in alternative locations not always suitable for supporting secure IT solutions and applications. The traditional security model was no longer valid."
+> — **AMN Healthcare**
+
+> "What used to take weeks to accomplish with on-premises … can now be achieved in a matter of hours using Zscaler."
+> — **Mani Masood — Head of Information Security — AMN Healthcare**
+
+### Zscaler enables a holistic approach to zero trust architecture (ID: zscaler-enables-a-holistic-approach-to-zero-trust-architecture | Type: implementation)
+AMN had already adopted a cloud enabled and preferred approach. The company was searching for a zero trust partner offering a cloud native security solution that could integrate across multicloud ecosystem. AMN wanted a managed, reliable security as a service (SaaS) platform that could effectively replace decades of legacy systems as well as scale with their zero trust evolution over time.
+
+The Zscaler Zero Trust Exchange™ ticked all those boxes. “The Zscaler approach is aligned with our overall zero trust philosophy, and the Zero Trust Exchange platform was the embodiment of our vision for zero trust architecture at AMN,” said Masood.
+
+With the pressures of a global pandemic also influencing the decision, another important consideration was speed of deployment. “While evaluating Zscaler, we were surprised to learn that the Zero Trust Exchange could be deployed extremely quickly,” Masood recalled. “We could secure our data in the cloud at a speed that would not have been possible using traditional legacy systems.”
+
+Since adopting the Zero Trust Exchange, AMN has deployed a trifecta of powerful Zscaler solutions.
+
+> "The Zscaler approach is aligned with our overall zero trust philosophy, and the Zero Trust Exchange platform was the embodiment of our vision for zero trust architecture at AMN."
+> — **Masood — AMN Healthcare**
+
+> "While evaluating Zscaler, we were surprised to learn that the Zero Trust Exchange could be deployed extremely quickly. We could secure our data in the cloud at a speed that would not have been possible using traditional legacy systems."
+> — **Masood — AMN Healthcare**
+
+### Secure, direct internet connectivity for a remote workforce and clients (ID: secure-direct-internet-connectivity-for-a-remote-workforce-and-clients | Type: other)
+Zscaler Internet Access™ (ZIA™) enables secure and fast internet and SaaS application access for AMN’s 5,000 hybrid employees around the globe. AMN is committed to supporting hybrid work as a permanent way of doing business. Masood explained, “The shift to remote work may have started as a necessity born out of the pandemic, but hybrid working is the new norm.”
+
+Zscaler eliminates the need to backhaul internet traffic through legacy on-premises security appliances. AMN users have direct-to-internet connectivity protected by AI-powered inline traffic inspection, including SSL decryption and threat detection. Because there is no choke point contributing to remote workflow lag, productivity increases. “Zscaler ensures work-from-anywhere security for our globally diverse workforce without compromising performance, individual productivity, or agility,” Masood said.
+
+AMN also helps clients better leverage zero trust to improve security across a variety of healthcare facilities. “We can deploy a secure edge with Zscaler in just about any client environment,” Masood shared. “What used to take weeks to accomplish with on-premises infrastructure and staff support can now be achieved in a matter of hours with Zscaler, without the need to be on-site.”
+
+> "The shift to remote work may have started as a necessity born out of the pandemic, but hybrid working is the new norm."
+> — **Masood — AMN Healthcare**
+
+> "Zscaler ensures work-from-anywhere security for our globally diverse workforce without compromising performance, individual productivity, or agility."
+> — **Masood — AMN Healthcare**
+
+> "We can deploy a secure edge with Zscaler in just about any client environment. What used to take weeks to accomplish with on-premises infrastructure and staff support can now be achieved in a matter of hours with Zscaler, without the need to be on-site."
+> — **Masood — AMN Healthcare**
+
+> "The [Zscaler] platform is designed to provide end-to-end zero trust security as a pre-integrated, single solution that saves money…"
+> — **Mani Masood — Head of Information Security — AMN Healthcare**
+
+### These are not the apps you are looking for—they are ZTNA protected (ID: these-are-not-the-apps-you-are-looking-for-they-are-ztna-protected | Type: security)
+AMN provides thousands of healthcare facilities with innovative digital products. Those clients have geographically dispersed staff networks relying on these solutions to manage sensitive data. That equates to a lot of remote application connection attempts, and any one of them could be a threat.
+
+Traditional VPN appliances don’t support a holistic zero trust architecture because they inherently create backdoor opportunities for threats to enter a network and move laterally therein. “A notification pings in the middle of the night, and I’m staring at a screen wondering if this is a trusted user dispatched to a remote location or a malicious actor trying to gain access to our network,” Masood explained.
+
+As an upgrade from legacy VPN appliances, Zscaler Private Access™ (ZPA™) connects users directly to private AMN apps in the cloud, bypassing corporate networks to keep resources invisible to threats and minimize the attack surface through zero trust network access (ZTNA). The Zscaler solution verifies user identity and contextual factors, such as device security posture, before establishing a connection to internal resources.
+
+Private application traffic is inspected inline to enforce access control policies and actively prevent cyberattacks. In a single three-month period, Zscaler processed 3.8 billion internet transactions for AMN, blocking more than 7 million security threats.
+
+“Zscaler strengthens our security posture by putting AMN applications in stealth mode,” said Masood. “We have a lot of sci-fi fans in our organization, and they have nicknamed the Zero Trust Exchange our cloaking device.”
+
+> "A notification pings in the middle of the night, and I’m staring at a screen wondering if this is a trusted user dispatched to a remote location or a malicious actor trying to gain access to our network."
+> — **Masood — AMN Healthcare**
+
+> "Zscaler strengthens our security posture by putting AMN applications in stealth mode. We have a lot of sci-fi fans in our organization, and they have nicknamed the Zero Trust Exchange our cloaking device."
+> — **Masood — AMN Healthcare**
+
+### Resolving issues early to ensure consistent user experience (ID: resolving-issues-early-to-ensure-consistent-user-experience | Type: challenge)
+Providing a seamless user experience for both staff and clients is always top of mind for AMN. Zscaler Digital Experience™ (ZDX™) helps the information security team monitor and optimize the user experience.
+
+Zscaler provides end-to-end visibility from user to application, meaning that Masood’s team can detect and resolve issues quickly—often before an issue can noticeably impact the user. That single end-to-end view also streamlines the monitoring stack, enabling comprehensive visibility across devices, networks, and applications to keep users productive.
+
+Using the same lightweight agent for all Zscaler services simplifies operations and reduces complexity. “Zscaler helps us identify the issues that need to be addressed before they cause disruption to AMN users, so we can ensure a seamless experience from anywhere,” said Masood.
+
+> "Zscaler helps us identify the issues that need to be addressed before they cause disruption to AMN users, so we can ensure a seamless experience from anywhere."
+> — **Masood — AMN Healthcare**
+
+> "With Zscaler technology, we’ve reached a level of maturity that allows me to plan for tomorrow’s security outcomes…"
+> — **Mani Masood — Head of Information Security — AMN Healthcare**
+
+### A cost-effective transition to zero trust with Zscaler (ID: a-cost-effective-transition-to-zero-trust-with-zscaler | Type: implementation)
+Masood credits the partnership with Zscaler for making AMN Healthcare’s transition to zero trust straightforward and cost-effective. The multitenant, cloud native Zero Trust Exchange integrates security functions into a single scalable platform, eliminating the need for multiple point solutions. Simplified security operations without legacy infrastructure means that Masood’s team can achieve a greater security posture with less administrative overhead and at a lower cost than traditional alternatives.
+
+“My team no longer has to review logs to manually parse data and determine which events require action,” said Masood. “The Zero Trust Exchange quickly isolates the incidents that need attention, so we can jump straight to the action plan. We are more efficient supported by Zscaler technology.”
+
+About the value of the Zscaler platform, Masood shared, “Balancing outstanding user experience and an affordable cost of security can feel like a fine line to walk. In my experience, most cybersecurity providers are more focused on the technology and less focused on providing that technology in a cost-effective way. Not Zscaler—the platform is designed to provide end-to-end zero trust security as a pre-integrated, single solution that saves money for customers.”
+
+> "My team no longer has to review logs to manually parse data and determine which events require action. The Zero Trust Exchange quickly isolates the incidents that need attention, so we can jump straight to the action plan. We are more efficient supported by Zscaler technology."
+> — **Masood — AMN Healthcare**
+
+> "Balancing outstanding user experience and an affordable cost of security can feel like a fine line to walk. In my experience, most cybersecurity providers are more focused on the technology and less focused on providing that technology in a cost-effective way. Not Zscaler—the platform is designed to provide end-to-end zero trust security as a pre-integrated, single solution that saves money for customers."
+> — **Masood — AMN Healthcare**
+
+### Zscaler provides a clear path to zero trust (ID: zscaler-provides-a-clear-path-to-zero-trust | Type: implementation)
+As AMN continues to advance their security maturity with zero trust, Masood envisions a lasting partnership with Zscaler. He has been consistently impressed with the professionalism and expertise of the Zscaler team across every touch point.
+
+“One of the things I’ve noticed in the cybersecurity industry is that, while the technologies can be effective, they’re not necessarily built or deployed with a customer-centric focus. With Zscaler, we not only get an outstanding platform, we get support from the best zero trust professionals in the industry,” Masood shared.
+
+AMN is already planning to deploy Zscaler Data Protection™ to further secure AMN users and mitigate data leakage. With data loss prevention (DLP) and cloud access security broker (CASB) functionality, Zscaler can secure AMN data at rest and in motion across all endpoints, in addition to helping further secure the company’s users, applications, and devices.
+
+Even as Masood expands on the Zero Trust Exchange, adding those additional functionalities, he knows the path to achieve holistic zero trust is clear with Zscaler.
+
+“With the Zero Trust Exchange deployed, I can focus more on the security posture AMN wants to achieve because I worry less about the devices we have on our edge,” Masood shared. “With Zscaler technology, we’ve reached a level of maturity that allows me to plan for tomorrow’s security outcomes because I know today’s details are in hand.”
+
+> "One of the things I’ve noticed in the cybersecurity industry is that, while the technologies can be effective, they’re not necessarily built or deployed with a customer-centric focus. With Zscaler, we not only get an outstanding platform, we get support from the best zero trust professionals in the industry."
+> — **Masood — AMN Healthcare**
+
+> "With the Zero Trust Exchange deployed, I can focus more on the security posture AMN wants to achieve because I worry less about the devices we have on our edge. With Zscaler technology, we’ve reached a level of maturity that allows me to plan for tomorrow’s security outcomes because I know today’s details are in hand."
+> — **Masood — AMN Healthcare**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].name:** Zscaler Internet Access (ZIA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].name:** Zscaler Private Access (ZPA)
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[3].name:** Zscaler Digital Experience (ZDX)
+- **root.products[3].url:** https://www.zscaler.com/products/zscaler-digital-experience
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[2].name:** Optimize Digital Experiences
+- **root.solutions[3].name:** Secure Remote Access
+- **root.solutions[3].url:** https://www.zscaler.com/products-and-solutions/vpn-alternative
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amplifon
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amplifon
+- **root.extra_metadata.nid:** 70056
+- **root.page_metadata.meta_description:** Learn how AMN Healthcare AMN Healthcare Protects Users and Data Globally with the Zscaler Zero Trust Exchange with Zscaler secures the remote work experience for 5,000+ users and protects patient data from increasing cyberthreats targeting the healthcare industry.
+- **root.page_metadata.og_title:** AMN Healthcare Case Study | Customer Stories | Zscaler

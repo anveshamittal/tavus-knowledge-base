@@ -1,0 +1,167 @@
+# Sandvik Embraces Zero Trust and Empowers 35,000 Users
+
+> to Work-from-Anywhere with Zscaler Private Access
+
+**Customer Name:** Sandvik Group
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/sandvik-group
+- **Slug:** sandvik-group
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:56:27.262980Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Sandvik Group
+- **Description:** Sandvik Group is a global high-tech and engineering company. Founded in 1862, Sandvik holds approximately 6,000 active patents in industrial tools and tooling, mining and construction equipment, and advanced stainless steel and special alloys.
+- **Industry:** Manufacturing
+- **Headquarters:** Stockholm, Sweden
+- **Size:** 35,000 employees at nearly 600 sites in 140 countries
+
+## Executive Summary
+### Challenges
+- Establish zero trust network access rapidly and smoothly to enable WFA transformation
+
+### Phased Journey
+- Moving forward, Sandvik will consider other Zscaler options for improving zero trust network access.
+
+### Results & Impact
+- Transitioned 20,000 global employees to WFA zero trust app access in under five days
+- Minimizes attack surfaces and access barriers by reducing VPNs
+- Significantly improves user experiences
+- Reduces time spent configuring security connectors from over an hour to seconds
+- Effectively segments network access using policy-based tools to speed performance
+- Uncovers and protects applications previously unknown to corporate IT
+
+## Featured Quotes
+> "In less than five days, we smoothly, safely and cost-effectively transitioned 20,000 employees to WFA by replacing VPNs with Zscaler’s zero trust network access solution."
+> — **Michael Alvmarken — Service Manager for Cybersecurity and Technology — Sandvik Group**
+
+## Customer Case Study
+### VPN falls short for security and user productivity (ID: vpn-falls-short-for-security-and-user-productivity | Type: security)
+For the Sandvik Group, even before the COVID-19 pandemic changed everything, the traditional virtual private network (VPN) approach to connecting and securing remote workers was becoming a significant challenge.
+
+“At any given time, we have almost 20,000 users accessing our applications, which includes our employees plus contractors, consultants, and vendors,” explained Michael Alvmarken, Service Manager for Cybersecurity and Technology, at Stockholm-headquartered Sandvik Group. “Prior to the pandemic, VPN technology was increasingly insufficient for supplying secure connections that encouraged productivity. When the pandemic required sending most of our workforce remote almost overnight, we needed to modernize immediately.”
+
+> "At any given time, we have almost 20,000 users accessing our applications, which includes our employees plus contractors, consultants, and vendors. Prior to the pandemic, VPN technology was increasingly insufficient for supplying secure connections that encouraged productivity. When the pandemic required sending most of our workforce remote almost overnight, we needed to modernize immediately."
+> — **Michael Alvmarken — Service Manager for Cybersecurity and Technology — Sandvik Group**
+
+### Embracing zero trust with Zscaler (ID: embracing-zero-trust-with-zscaler | Type: other)
+Although Sandvik had relied on VPNs for decades, the technology increasingly caused productivity and user experience hurdles. “VPNs are a network-centric technology that hasn’t evolved much since it was introduced,” said Alvmarken. “Putting up access barriers causes users to consider shortcuts. We wanted to adopt a technology that removed connectivity hurdles and reduced attack surfaces to improve our security posture.”
+
+Having previously partnered with Zscaler to start implementing a zero trust strategy, Sandvik sought to expand upon its recently deployed cybersecurity innovations. This led the engineering firm to conduct a proof of value (POV) with cloud-driven Zscaler Private Access (ZPA).
+
+Then the pandemic hit. “Fortunately, when management informed us that we needed to prepare for the COVID-19 work-from-anywhere [WFA] transformation, we already knew Zscaler Private Access provided us with a smart, safe and scalable solution for addressing our various VPN concerns,” said Alvmarken.
+
+Alvmarken’s team quickly tested ZPA over a weekend with 30 users. “Everything went completely smoothly,” he said. “We extended our partnership with Zscaler to add ZPA and launched globally five days after that, meeting our corporate deadline for enabling all of our employees to work safely during the pandemic.”
+
+> "VPNs are a network-centric technology that hasn’t evolved much since it was introduced. Putting up access barriers causes users to consider shortcuts. We wanted to adopt a technology that removed connectivity hurdles and reduced attack surfaces to improve our security posture."
+> — **Alvmarken — Sandvik Group**
+
+> "Fortunately, when management informed us that we needed to prepare for the COVID-19 work-from-anywhere [WFA] transformation, we already knew Zscaler Private Access provided us with a smart, safe and scalable solution for addressing our various VPN concerns."
+> — **Alvmarken — Sandvik Group**
+
+> "Everything went completely smoothly. We extended our partnership with Zscaler to add ZPA and launched globally five days after that, meeting our corporate deadline for enabling all of our employees to work safely during the pandemic."
+> — **Alvmarken — Sandvik Group**
+
+> "It doesn’t really matter where an application resides, whether on premises or in the cloud, ZPA adapted to our IT environment."
+> — **Michael Alvmarken — Service Manager for Cybersecurity and Technology — Sandvik Group**
+
+### Zero attack surfaces in a holistic WFA security environment (ID: zero-attack-surfaces-in-a-holistic-wfa-security-environment | Type: security)
+Using ZPA, Sandvik can provide seamless, secure, VPN-free access for private applications running on public clouds and within its data center. By adding ZPA to its existing deployment of Zscaler Internet Access (ZIA), Sandvik established a holistic WFA zero trust security environment called the Zscaler Zero Trust Exchange platform. ZIA enables remote workers to access SaaS applications and the internet, complimenting private-access ZPA.
+
+“In addition to creating attack surfaces, VPNs are also notorious for permitting bad actors to get inside undetected,” said Alvmarken. “Once in, threats move around at will—with many companies learning the hard way that it can take a long time before they’re found.”
+
+What’s more, deploying ZPA ensures neither networks nor applications are ever exposed to the internet. This makes all Sandvik’s infrastructure completely invisible to unauthorized users, while still granting authorized users least-privileged access.
+
+> "In addition to creating attack surfaces, VPNs are also notorious for permitting bad actors to get inside undetected. Once in, threats move around at will—with many companies learning the hard way that it can take a long time before they’re found."
+> — **Alvmarken — Sandvik Group**
+
+### Protecting any application, anywhere, on any device (ID: protecting-any-application-anywhere-on-any-device | Type: security)
+A cloud-delivered zero trust network access (ZTNA) strategy using ZPA provides Sandvik with support for both managed and unmanaged devices as well as any private application, not just web apps.
+
+The Zscaler solution accomplishes its mission using two lightweight applications. The first, called Client Connector, is deployed on client devices. The second, App Connector, is deployed to applications, which can range from a company’s entire presence on a public cloud to only specific software systems.
+
+“It didn’t really matter where an application resided, whether on premise or in the cloud, ZPA adapted to our situation,” said Alvmarken. “We built out our ZPA environment really quickly and, at the same time, segmented applications appropriately.”
+
+Segmenting access gives Sandvik the ability to automate and control user connections while simultaneously speeding application logins. ZPA enables this by creating TLS-based encrypted micro-tunnels every time a user attempts to access an application, increasing security for sensitive data while also ensuring traffic takes the fastest path.
+
+> "It didn’t really matter where an application resided, whether on premise or in the cloud, ZPA adapted to our situation. We built out our ZPA environment really quickly and, at the same time, segmented applications appropriately."
+> — **Alvmarken — Sandvik Group**
+
+> "User response to Zscaler has been overwhelmingly positive, which is a big win for our employees and our security posture."
+> — **Michael Alvmarken — Service Manager for Cybersecurity and Technology — Sandvik Group**
+
+### Configuration tasks slashed from hours to seconds (ID: configuration-tasks-slashed-from-hours-to-seconds | Type: other)
+According to Alvmarken, the company is also impressed with the simplicity, flexibility, and scalability of ZPA. On the application side, Sandvik rapidly adjusted the number of App Connectors to enhance user experiences. “We started with two App Connectors, giving users access to the applications they needed most,” Alvmarken said. “On our rollout’s first day we discovered we needed more App Connectors to achieve the performance and segmentation we wanted, so we added more.
+
+“Adding connectors is so much simpler than deploying VPN gateways, there’s just no comparison,” Alvmarken added. “Configuring a virtual VPN gateway takes over an hour. Deploying an App Connector takes seconds.”
+
+As Sandvik’s implementation continued, the IT team scaled out App Connectors to place them in geographic proximity to users. “For example, we deployed App Connectors to Microsoft Azure by region, which ensured users were connecting over the shortest distance,” said Alvmarken. “Doing so further reduced latency and improved performance.”
+
+> "We started with two App Connectors, giving users access to the applications they needed most."
+> — **Alvmarken — Sandvik Group**
+
+> "Adding connectors is so much simpler than deploying VPN gateways, there’s just no comparison. Configuring a virtual VPN gateway takes over an hour. Deploying an App Connector takes seconds."
+> — **Alvmarken — Sandvik Group**
+
+> "For example, we deployed App Connectors to Microsoft Azure by region, which ensured users were connecting over the shortest distance. Doing so further reduced latency and improved performance."
+> — **Alvmarken — Sandvik Group**
+
+### Revealing undiscovered applications (ID: revealing-undiscovered-applications | Type: other)
+Obtaining granular visibility into applications and their utilization proved another game-changer for Sandvik. “ZPA enables us to see every application in our environment, including who is accessing them,” Alvmarken said. “We also gain other valuable data for generating analytics insights.”
+
+What’s more, the solution’s intuitive dashboard reveals previously undiscovered internal applications running on-prem or in a public cloud. “The ZPA environment displays all of the applications it discovers,” Alvmarken said. “This significantly improved our visibility into what applications we needed to protect, and which users needed access to them.”
+
+Combining this visibility with the customizable policy tools built into ZPA enables enterprises like Sandvik to set and enforce granular policies for discovered applications to ensure least-privilege access. Such control, along with the Zscaler platform’s other capabilities, minimizes exposure and reduces attack surfaces. “ZPA’s visibility and control are real eye-openers as well as excellent contributors to lowering risk,” said Alvmarken.
+
+> "ZPA enables us to see every application in our environment, including who is accessing them. We also gain other valuable data for generating analytics insights."
+> — **Alvmarken — Sandvik Group**
+
+> "The ZPA environment displays all of the applications it discovers. This significantly improved our visibility into what applications we needed to protect, and which users needed access to them."
+> — **Alvmarken — Sandvik Group**
+
+> "ZPA’s visibility and control are real eye-openers as well as excellent contributors to lowering risk."
+> — **Alvmarken — Sandvik Group**
+
+> "[ZPA] significantly improved our visibility into what applications we needed to protect, and which users needed access to them."
+> — **Michael Alvmarken — Service Manager for Cybersecurity and Technology — Sandvik Group**
+
+### Streamlined access delights users, enables M&A growth (ID: streamlined-access-delights-users-enables-m-a-growth | Type: implementation)
+Moving forward, Sandvik will consider other Zscaler options for improving zero trust network access. Meanwhile, the company intends to fully leverage ZPA features, including capabilities for smoothing corporate acquisitions.
+
+No matter what new initiatives come next, Sandvik’s successful ZPA deployment eliminated access hurdles imposed by VPNs, resulting in exceptionally positive user responses. “We received comments such as: ‘Wow, we don’t have to log into the VPN!?! That’s amazing,’” recalled Alvmarken. “Users repeatedly called our new approach lightning-fast.”
+
+“It’s all a big win for our employees, our company productivity and for our security posture,” he added.
+
+> "We received comments such as: ‘Wow, we don’t have to log into the VPN!?! That’s amazing,’. Users repeatedly called our new approach lightning-fast."
+> — **Alvmarken — Sandvik Group**
+
+> "It’s all a big win for our employees, our company productivity and for our security posture."
+> — **Sandvik Group**
+
+### Staying competitive in uncertain times (ID: staying-competitive-in-uncertain-times | Type: other)
+Anticipating the worldwide impacts of COVID-19, Sandvik rapidly transformed its workforce to a secure, high-performance, zero trust WFA model. Leveraging the Zscaler Zero Trust Exchange platform, it kept global lines of business running smoothly while keeping productivity and profitability high.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[2].name:** Data Security
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 45906
+- **root.page_metadata.meta_description:** Learn how Sandvik Group Sandvik Embraces Zero Trust and Empowers 35,000 Users with to Work-from-Anywhere with Zscaler Private Access.
+- **root.page_metadata.og_title:** Sandvik Group Case Study | Customer Stories | Zscaler

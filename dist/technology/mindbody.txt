@@ -1,0 +1,178 @@
+# Mindbody Uplevels Security, Experiences, and M&A
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Mindbody
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/mindbody
+- **Slug:** mindbody
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:40.148366Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Mindbody
+- **Description:** Mindbody provides cloud-based online scheduling and other business management software for gyms, salons, spas, and others in wellness services. Today, 58,000 health and wellness businesses with 35 million consumers in more than 130 countries and territories use its software-as-a-service (SaaS) offerings.
+- **Industry:** High Tech
+- **Headquarters:** San Luis Obispo, CA, USA
+- **Size:** Services 58,000 health and wellness organizations worldwide
+
+## Executive Summary
+### Challenges
+- Provide secure, effortless work-from-anywhere access to users, including developers and employees of newly-acquired companies
+
+### Phased Journey
+- From the beginning of Mindbody’s transformation to the public cloud, it relied on the Zero Trust Exchange to engineer a secure, high-performance deployment.
+
+### Results & Impact
+- Saves weeks—50% less time—onboarding employees of newly acquired companies
+- Slashes time to grant a user access to a network resource from days or weeks to minutes
+- Bolsters security posture with zero trust network access and device posture assessment
+- Provides improved user experience and faster time to productivity
+- Accelerated migration from on-premises data center to AWS cloud
+- Deployed remote access 5x faster than VPNs, and more securely
+
+## Featured Quotes
+> "The ease of using the services within the Zero Trust Exchange, both for end users and IT, simply blew away the competition."
+> — **Michael Jacobs — Deputy CISO — Mindbody**
+
+## Customer Case Study
+### Goal: simplify and improve security and user experience (ID: goal-simplify-and-improve-security-and-user-experience | Type: results)
+Despite providing a cloud-based service, Mindbody had its share of traditional security infrastructure, including multiple virtual private networks (VPNs), making the environment complex for both users and IT. More importantly, security was increasingly insufficient for staying ahead of advanced threats.
+
+“Moving to 100 percent cloud and allowing users to work from anywhere, we could no longer rely on on-premises technology such as firewalls and network intrusion detection to keep our users safe,” said Michael Jacobs, Deputy Chief Information Security Officer and Senior Security Architect. “And with VPNs, our users had free reign to access anything on the network. We needed a solution that provided modern, cloud-native security capabilities and a less complex, easier experience for both users and administrators.”
+
+> "Moving to 100 percent cloud and allowing users to work from anywhere, we could no longer rely on on-premises technology such as firewalls and network intrusion detection to keep our users safe. And with VPNs, our users had free reign to access anything on the network. We needed a solution that provided modern, cloud-native security capabilities and a less complex, easier experience for both users and administrators."
+> — **Michael Jacobs — Deputy CISO — Mindbody**
+
+### Ease of use far leapfrogs the competition (ID: ease-of-use-far-leapfrogs-the-competition | Type: other)
+In business for more than two decades, San Luis Obispo, California-headquartered Mindbody has grown both organically and through acquisitions, thus increasing IT complexity along the way. To streamline and simplify operations, improve user experience, and bolster security across this growing global enterprise, Mindbody evaluated a range of IT security solutions from legacy hardware vendors, such as Cisco and Palo Alto Networks, as well as cloud-based startups.
+
+The company decided to modernize by implementing a zero trust architecture for building a Security Service Edge (SSE) ecosystem. After conducting a proof of concept, it adopted the Zscaler Zero Trust Exchange.
+
+“We looked at a wide range of products,” recalled Jacobs. “The ease of using the services within the Zero Trust Exchange, both for end users and IT, simply blew away the competition.”
+
+> "Although we will continuously mature our zero trust environment, Zscaler is helping us get where we want to be more quickly and efficiently."
+> — **Michael Jacobs — Deputy CISO — Mindbody**
+
+### Secure, easy access to network resources (ID: secure-easy-access-to-network-resources | Type: other)
+To provide Zero Trust Network Access (ZTNA), Mindbody implemented Zscaler Private Access (ZPA). Part of the Zscaler Zero Trust Exchange, ZPA connects users from anywhere directly to applications—without having to place the users on the network—providing fast, easy access while also minimizing the attack surface and eliminating lateral movement.
+
+Mindbody users have faster and easier access to the applications and network resources they need. “Users don’t have to worry about connection or internet performance issues present with legacy VPNs ,” remarked Jacobs. “They just log on and securely access the applications they need.”
+
+Mindbody’s IT team also realizes significant operational and productivity gains from reduced overhead. “ZPA deploys five times more quickly than traditional VPN solutions and we no longer have to manage physical devices,” noted Jacobs. “Plus, we liked that it provides default least-privilege access and is based on a cloud native platform.”
+
+> "ZPA deploys five times more quickly than traditional VPN solutions and we no longer have to manage physical devices. Plus, we liked that it provides default least-privilege access and is based on a cloud native platform."
+> — **Jacobs — Mindbody**
+
+### Boosting security with posture assessment and more (ID: boosting-security-with-posture-assessment-and-more | Type: results)
+With the granular role-based access policies that ZPA supplies, Mindbody now limits application access to only those that each employee needs to do their job. Pre-built integrations within the Zero Trust Exchange also provide seamless connections to other solutions in the company’s security environment, such as single sign-on (SSO) and multi-factor authentication (MFA).
+
+In addition, Mindbody gained device posture assessment—a capability it considered critical. “Along with user authentication, knowing the device security configuration state is a cornerstone of zero trust,” said Jacobs.
+
+Functionally, when a laptop or desktop user connects to a resource, ZPA automatically conducts a posture assessment to ensure that the device’s hard disk is encrypted, endpoint detection and response (EDR) agent is installed, and firewall software is enabled. ZPA also inspects mobile devices to make sure they are in compliance with corporate mobile security policies.
+
+Furthermore, the implementation supplied the Mindbody security operations team with reporting capabilities and critical information for decision making that were previously unavailable. “Using ZPA, we can see exactly which applications our users are connecting to at any given time and have visibility into connection trends, which assists in incident response and improves operational efficiencies,” said Jacobs.
+
+> "Along with user authentication, knowing the device security configuration state is a cornerstone of zero trust."
+> — **Jacobs — Mindbody**
+
+> "Using ZPA, we can see exactly which applications our users are connecting to at any given time and have visibility into connection trends, which assists in incident response and improves operational efficiencies."
+> — **Jacobs — Mindbody**
+
+> "We recently acquired a company with more than 500 users. Using the Zero Trust Exchange to provide access took half the time compared to legacy solutions."
+> — **Michael Jacobs — Deputy CISO — Mindbody**
+
+### Rapid M&A onboarding and access to 700+ applications (ID: rapid-m-a-onboarding-and-access-to-700-applications | Type: other)
+As the company has grown by acquisition, so has the number of configured applications, to more than 700. By providing secure, easy access to applications and other cloud resources that newly acquired employees need, ZPA helps the operations team fully migrate new companies to Mindbody within a matter of weeks.
+
+“We recently acquired a company with more than 500 users,” Jacobs said. “Using the Zero Trust Exchange to provide access took half the time compared to legacy solutions.”
+
+Further, when a user requests access to a particular application, the response is faster than ever before. "With our legacy environment, granting permission typically took days or even weeks and senior technical resources," said Jacobs. "Now, anyone trained to administerZscaler can do it in minutes."
+
+> "We recently acquired a company with more than 500 users. Using the Zero Trust Exchange to provide access took half the time compared to legacy solutions."
+> — **Jacobs — Mindbody**
+
+> "With our legacy environment, granting permission typically took days or even weeks and senior technical resources. Now, anyone trained to administerZscaler can do it in minutes."
+> — **Jacobs — Mindbody**
+
+### Secure, instant access with Zero Trust Browser (ID: secure-instant-access-with-zero-trust-browser | Type: other)
+Mindbody is also beginning to take advantage of Zscaler Zero Trust Browser to allow users to securely browse the internet without the hassle of managing additional endpoint agents or plugins on every device.
+
+Built into the Zero Trust Exchange, Zero Trust Browser creates an isolated browsing session that enables Mindbody users to access any webpage on the internet without having to download any of the web content served by the webpage onto the local device or the corporate network.
+
+The company’s security operations team expects this capability to be particularly useful for granting access to third parties, or users in acquired companies, who only need to access specific internet resources. “With Zero Trust Browser, we can provide web browser access instantly, so they can get to work right away,” noted Jacobs.
+
+> "With Zero Trust Browser, we can provide web browser access instantly, so they can get to work right away."
+> — **Jacobs — Mindbody**
+
+> "Our developers love ZPA; They can access private applications and workloads in AWS quickly, easily, and securely."
+> — **Michael Jacobs — Deputy CISO — Mindbody**
+
+### Reduced overhead for AWS developers (ID: reduced-overhead-for-aws-developers | Type: results)
+In addition, Mindbody relies on the Zero Trust Exchange to support its extensive Amazon Web Services (AWS) deployment, which currently numbers close to 100 active accounts. Mindbody development teams create and manage cloud-based services for each of the various product verticals — including Fitness, Salon & Spa, and Integrative Health.
+
+“Our developers love ZPA,” said Jacobs. “They can access private applications and workloads in AWS quickly, easily, and securely. And it’s extremely easy to grant access to a new resource, almost on the fly.”
+
+> "Our developers love ZPA. They can access private applications and workloads in AWS quickly, easily, and securely. And it’s extremely easy to grant access to a new resource, almost on the fly."
+> — **Jacobs — Mindbody**
+
+### Accelerating AWS migration (ID: accelerating-aws-migration | Type: implementation)
+From the beginning of Mindbody’s transformation to the public cloud, it relied on the Zero Trust Exchange to engineer a secure, high-performance deployment.
+
+To fast-track migration from the company’s on-premises data center into AWS, Mindbody centralized private access to all of its AWS environments by deploying ZPA in an account designated as the hub. Users connect to all other AWS accounts via this AWS hub account. Pursuing this strategy allows the company to onboard new users and cloud accounts even faster. Once their apps are migrated to AWS, users can connect to them immediately.
+
+Mindbody also facilitated its migration to AWS by deploying ZPA via infrastructure-as-code (IaC). “To help us provide consistent and accelerated private access deployment in the cloud, we leveraged IaC to support our ZPA infrastructure,” Jacobs said. “Leveraging the automation capabilities of the Zero Trust Exchange, in combination with those of AWS, we’ve made what was already easy even easier.”
+
+> "To help us provide consistent and accelerated private access deployment in the cloud, we leveraged IaC to support our ZPA infrastructure. Leveraging the automation capabilities of the Zero Trust Exchange, in combination with those of AWS, we’ve made what was already easy even easier."
+> — **Jacobs — Mindbody**
+
+### On-ramp to full zero trust (ID: on-ramp-to-full-zero-trust | Type: other)
+Today, zero trust is more than a buzzword at Mindbody, it is a way of life. “In the cloud, there’s no such thing as implied trust,” noted Jacobs.
+
+As Mindbody moves forward, it will evaluate an expansion of its Zero Trust Exchange deployment with Zscaler Internet Access (ZIA). No matter how Mindbody ultimately proceeds, Jacobs considers his company’s Zero Trust Exchange implementation “an on-ramp to a full zero trust model.”
+
+“Although we will continuously mature our zero trust environment, Zscaler is helping us get where we want to be more quickly and efficiently,” he said. “For our users, the Zero Trust Exchange simply runs in the background, enabling them to securely access exactly what they need, when they need it and wherever they are, ensuring they can focus on what matters.”
+
+> "In the cloud, there’s no such thing as implied trust."
+> — **Jacobs — Mindbody**
+
+> "an on-ramp to a full zero trust model."
+> — **Jacobs — Mindbody**
+
+> "Although we will continuously mature our zero trust environment, Zscaler is helping us get where we want to be more quickly and efficiently. For our users, the Zero Trust Exchange simply runs in the background, enabling them to securely access exactly what they need, when they need it and wherever they are, ensuring they can focus on what matters."
+> — **Mindbody**
+
+### Saving time and money (ID: saving-time-and-money | Type: other)
+“With ZPA, we’ve slashed VPN spending, complexity, and time to onboard remote users,” concluded Mindbody Deputy CISO Michael Jacobs. “Plus, our users’ experience is vastly improved, and they can get to work and be productive immediately. I don’t have metrics for those cost and time savings but it’s substantial.”
+
+> "With ZPA, we’ve slashed VPN spending, complexity, and time to onboard remote users. Plus, our users’ experience is vastly improved, and they can get to work and be productive immediately. I don’t have metrics for those cost and time savings but it’s substantial."
+> — **Michael Jacobs — Deputy CISO — Mindbody**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** BYOD Security
+- **root.products[0].url:** https://www.zscaler.com/demo/byod
+- **root.products[1].url:** https://www.zscaler.com/products-and-solutions/browser-isolation
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[3].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[3].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Accelerate M&A and Divestitures
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+- **root.solutions[1].name:** Secure Remote Access
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/vpn-alternative
+- **root.solutions[2].name:** Zero Trust App Access
+- **root.solutions[3].name:** Ransomware
+- **root.solutions[3].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 54711
+- **root.page_metadata.meta_description:** Learn how Mindbody Mindbody Uplevels Security, Experiences, and M&A with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** Mindbody Case Study | Customer Stories | Zscaler

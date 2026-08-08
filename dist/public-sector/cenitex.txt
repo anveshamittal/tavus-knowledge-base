@@ -1,0 +1,116 @@
+# Cenitex Improves User Experience and Customer Security
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Cenitex
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/cenitex
+- **Slug:** cenitex
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:12.057775Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Cenitex
+- **Description:** Cenitex is a Victorian public sector organization that provides centralized information technology support and advice to a range of state government agencies spanning health, justice, environmental, and economic development. The firm’s solutions are used by over 36,000 people across 450 sites.
+- **Industry:** Federal and Government
+- **Headquarters:** Melbourne, Victoria, Australia
+- **Size:** 36,000 users across 450 sites
+
+## Executive Summary
+### Challenges
+- Cenitex needed to increase its use of cloud-based resources to meet the demand for improved flexibility.
+
+### Phased Journey
+- -A-b-o-u-t- -t-w-o- -y-e-a-r-s- -a-g-o-,- -t-h-e- -C-e-n-i-t-e-x- -s-e-n-i-o-r- -m-a-n-a-g-e-m-e-n-t- -t-e-a-m- -r-e-a-l-i-z-e-d- -i-t-s- -a-p-p-r-o-a-c-h- -t-o- -d-e-l-i-v-e-r-i-n-g- -s-e-r-v-i-c-e-s- -t-o- -i-t-s- -c-u-s-t-o-m-e-r-s- -h-a-d- -t-o- -f-u-n-d-a-m-e-n-t-a-l-l-y- -c-h-a-n-g-e-.-
+- -A-f-t-e-r- -a- -c-o-m-p-r-e-h-e-n-s-i-v-e- -r-e-v-i-e-w- -o-f- -a- -r-a-n-g-e- -o-f- -s-e-c-u-r-i-t-y- -o-p-t-i-o-n-s-,- -C-e-n-i-t-e-x- -d-e-c-i-d-e-d- -t-o- -a-d-o-p-t- -Z-s-c-a-l-e-r- -c-l-o-u-d---d-e-l-i-v-e-r-e-d- -s-e-c-u-r-i-t-y- -f-o-r- -a-l-l- -u-s-e-r-s- -i-n- -a-l-l- -l-o-c-a-t-i-o-n-s-.-
+- -W-i-t-h- -s-e-c-u-r-i-t-y- -p-r-o-v-i-d-e-d- -i-n- -t-h-e- -c-l-o-u-d- -b-y- -Z-s-c-a-l-e-r-,- -t-h-e-r-e- -i-s- -l-e-s-s- -r-e-q-u-i-r-e-m-e-n-t- -f-o-r- -c-e-n-t-r-a-l-i-z-e-d- -m-a-n-a-g-e-m-e-n-t- -o-f- -f-i-r-e-w-a-l-l-s- -a-n-d- -o-t-h-e-r- -c-o-m-p-l-e-x- -s-e-c-u-r-i-t-y- -t-o-o-l-s-.-
+
+### Results & Impact
+- Improves Microsoft 365 application performance by 25%
+- Lowers operational costs, allowing for a shift from a capex to an opex funding model
+- Reduces reliance on network and IT management
+- Enables consistent, user-centric security for all employees, wherever they work
+
+## Featured Quotes
+> "Zscaler’s security functionality keeps users safe regardless of what network they are on, which is great for us as more and more users are working out of the office across all government departments."
+> — **Nav Pillai — Director of Digital Transformation — Cenitex**
+
+## Customer Case Study
+### Cenitex looks to leverage the cloud (ID: cenitex-looks-to-leverage-the-cloud | Type: other)
+About two years ago, the Cenitex senior management team realized its approach to delivering services to its customers had to fundamentally change. It needed to increase its use of cloud-based resources to meet the demand for improved flexibility. It also recognized that its existing operating methods were no longer effective and couldn’t meet the organization’s changing requirements.
+
+This included the need to support Microsoft 365, which, as it came online for Cenitex’s customers, caused issues relating to network load performance. The organization was also suffering from reliability issues within its aging data center infrastructure.
+
+“Our service portfolio was very centralized and built around our core data center,” said Nav Pillai, director of digital transformation at Cenitex. “While this had worked for us in the past, it wasn’t able to provide the adaptability we needed to meet evolving customer demands.”
+
+In early 2018, Cenitex began to address its challenges with the rollout of “Program Fortify,” which set out to improve the resilience, reliability and responsiveness of its core networking and hosting infrastructure and improve its security for its customers. The program involved a migration from existing legacy systems to new on-premises and selected cloud platforms. “Our customers have a choice whether they use us, so we knew this would improve the speed with which we could deliver services and scale to meet their changing requirements,” said Pillai.
+
+Part of the migration involved shifting away from the centralized model Cenitex used to route data traffic from some 450 customer sites across Victoria. Traditionally, for security reasons, any traffic to and from the public internet had to traverse the data center for inspection before being routed to its destination. This “backhauling” caused performance issues and meant there was a single point of failure that could cause service disruptions. “We needed a way to maintain security while, at the same time, allowing users to connect directly with the internet,” said Pillai.
+
+> "Our service portfolio was very centralized and built around our core data center. While this had worked for us in the past, it wasn’t able to provide the adaptability we needed to meet evolving customer demands."
+> — **Nav Pillai — Director of Digital Transformation — Cenitex**
+
+> "Our customers have a choice whether they use us, so we knew this would improve the speed with which we could deliver services and scale to meet their changing requirements."
+> — **Pillai — Cenitex**
+
+> "We needed a way to maintain security while, at the same time, allowing users to connect directly with the internet."
+> — **Pillai — Cenitex**
+
+### How Zscaler helped Cenitex get there (ID: how-zscaler-helped-cenitex-get-there | Type: other)
+After a comprehensive review of a range of security options, Cenitex decided to adopt Zscaler cloud-delivered security for all users in all locations. The organization began deployment of the service in March 2019 and had it fully operational within 16 weeks.
+
+Core to Project Fortify was transforming Cenitex into a cloud-first organization. Because Zscaler provides the entire gateway security stack as a cloud service, its selection became an obvious one. It provided the needed security protection for users throughout Victoria, and those protections were consistent no matter where users connect, such as a customer site, on public Wi-Fi, or while traveling. At the same time, Zscaler is allowing Cenitex to transform its legacy network infrastructure to a more modern, cloud-based environment.
+
+Zscaler has given Cenitex the ability to be much more flexible when it comes to meeting customer demand. The organization is no longer constrained with user bandwidth demands and can send Microsoft 365 and internet traffic directly with full security. Rather than purchasing and deploying equipment in its data center based on estimated capacity demands, the use of Zscaler means Cenitex can seamlessly scale to meet user needs.
+
+Indeed, Zscaler also enables the organization to completely bypass the data center and direct users straight to the internet. Also, because Zscaler is a subscription service based on the number of users—not bandwidth or capacity—scaling up during peak hours or for seasonal spikes does not increase costs.
+
+> "We needed a way to maintain security while, at the same time, allowing users to connect directly with the internet."
+> — **Nav Pillai — Director of Digital Transformation — Cenitex**
+
+### Section (ID: section-3 | Type: other)
+With security provided in the cloud by Zscaler, there is less requirement for centralized management of firewalls and other complex security tools. IT and network staff no longer have to perform tedious, manual security updates or schedule outage windows for software updates and maintenance on their appliances. Staff time can now be redirected to activities that provide additional value to the organization.
+
+“Zscaler’s security functionality keeps users safe regardless of what network they are on, which is great for us as more and more users are working out of the office across all government departments,” said Pillai.
+
+Because user traffic no longer has to be routed through the Cenitex data center, application performance has significantly improved. “We are seeing access improvements for our Microsoft 365 users of more than 25% in terms of access performance time,” said Pillai.
+
+Cenitex’s increased use of cloud resources, aided by Zscaler, has allowed the agency to move from using a CapEx to an OpEx funding model. Infrequent, large capital outlays have been replaced with a more consistent, manageable investment path. “Zscaler has been a game changer to the way we are able to deliver services to our customers,” said Pillai.
+
+> "Zscaler’s security functionality keeps users safe regardless of what network they are on, which is great for us as more and more users are working out of the office across all government departments."
+> — **Pillai — Cenitex**
+
+> "We are seeing access improvements for our Microsoft 365 users of more than 25% in terms of access performance time."
+> — **Pillai — Cenitex**
+
+> "Zscaler has been a game changer to the way we are able to deliver services to our customers."
+> — **Pillai — Cenitex**
+
+> "We are seeing access improvements for our Microsoft 365 users of more than 25% in terms of access performance time."
+> — **Nav Pillai — Director of Digital Transformation — Cenitex**
+
+> "Zscaler has been a game changer to the way we are able to deliver services to our customers."
+> — **Nav Pillai — Director of Digital Transformation — Cenitex**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].name:** Zscaler Internet Access (ZIA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.solutions[0].name:** Ransomware
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[1].name:** Optimize Digital Experiences
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 31861
+- **root.page_metadata.meta_description:** Learn how Cenitex Cenitex Improves User Experience and Customer Security with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** Cenitex Case Study | Customer Stories | Zscaler

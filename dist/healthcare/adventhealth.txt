@@ -1,0 +1,123 @@
+# AdventHealth Empowers Secure, Agile Growth Through Zero Trust Transformation
+
+> Simplified infrastructure and a real-time, dynamic asset inventory ensure AdventHealth can scale rapidly and securely while delivering superior patient outcomes
+
+**Customer Name:** AdventHealth
+
+### Key Metrics
+- **50+**: hospitals across 9 states
+- **500k+**: devices protected with Zscaler
+- **Shortcut**: to producing an asset inventory
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/adventhealth
+- **Slug:** adventhealth
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:55:00.140101Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** AdventHealth
+- **Description:** Not-for-profit healthcare system with a national footprint, providing care to 8 million patients annually
+- **Industry:** Healthcare and Pharmaceutical
+- **Headquarters:** Altamonte Springs, Florida
+- **Size:** 100,000 employees, 50+ hospitals, and 2,000 care sites
+
+## Executive Summary
+### Challenges
+- The shift from a hospital-centric to an ambulatory model of care meant a more distributed, diffuse ecosystem that was difficult to consistently protect.
+- Perimeter-based security tools were complex and costly to manage, limiting AdventHealth’s ability to securely scale alongside its rapid growth.
+- Limited visibility into device and user activity hampered compliance, slowed incident response, and hindered proactive risk management.
+
+### Results & Impact
+- Simplifies network architecture, accelerating the onboarding of new facilities and ambulatory sites.
+- Decreases the blast radius of threats through meaningful segmentation and by removing users from the network.
+- Evolves exposure and risk management through real-time, dynamic visibility device activity, user behavior, and exposures.
+
+## Featured Quotes
+> "When you're working in a very large organization and you have the number of assets that we're trying to protect, actually having an inventory is the very first step. The Zscaler Data Fabric for Security gives you a shortcut to get there."
+> — **Ryan Winn — CISO — AdventHealth**
+
+> "Zscaler provides modern architecture that has less of a surface area for attack. It really is a platform that allows us flexibility as we move forward and the ability to create simplicity in our network environment and simplicity gives us the ability to move quickly."
+> — **Ryan Winn — CISO — AdventHealth**
+
+> "I think the biggest surprise for me has been the ability to create meaning out of a massive amount of data and telemetry that we've been collecting. That isn't always easy, but the tools that we've been investing in and the partnerships that those tools have with each other is allowing us to see our organization in a completely new way."
+> — **Ryan Winn — CISO AdventHealth — AdventHealth**
+
+> "What convinced our network team that Zscaler was the way to go from a proxy perspective was the Imprivata integration. It was the only way that we could actually see what most of our clinical users were using and what they were experiencing when they were interacting with our technology."
+> — **Ryan Winn — CISO — AdventHealth**
+
+## Video Testimonial & Transcript
+**Title:** How the Zscaler Data Fabric for Security Unlocks “Endless Possibilities” for AdventHealth
+**Description:** a Customer Testimonials video
+**URL:** https://fast.wistia.net/embed/iframe/8jefnlzcm0
+**Provider:** wistia
+**Video ID:** 8jefnlzcm0
+**Duration:** 134.375 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/9c21b78682428aaa5c14941e6f6e444d297b5ca4.bin
+**Video Account Id:** 658399
+**Video Media Id:** 136786154
+**Video Created At:** 1754004468
+
+### Tagged Segments
+- **[Ryan Winn (CISO, AdventHealth)]** [Segment #1] (self_introduction - Overview of AdventHealth): "AdventHealth is one of the largest not for profit healthcare systems in the country. Currently we have fifty four hospitals in nine states, but it seems like we're opening one every other month."
+- **[Ryan Winn (CISO, AdventHealth)]** [Segment #2] (self_introduction - Employee and contractor statistics): "AdventHealth has one hundred thousand employees, forty thousand approximately contractors and vendors that have profiles in our network."
+- **[Ryan Winn (CISO, AdventHealth)]** [Segment #3] (challenges - Shift from hospital-centric to ambulatory care): "For years, we've thought of healthcare as being very hospital centric, but as things have changed and technologies improved, it's becoming really more of an ambulatory business, meaning the venues of care have become more diffuse. And as a result, we have a much larger footprint of areas that we need to protect and provide coverage for."
+- **[Ryan Winn (CISO, AdventHealth)]** [Segment #4] (challenges - Need for simplified network architecture): "It's not just about security, it's really about enabling our ability to simplify our network architecture and to be able to quickly deploy, quickly stand down, quickly move from one business opportunity to the next."
+- **[Ryan Winn (CISO, AdventHealth)]** [Segment #5] (challenges - Rebuilding information security infrastructure): "When I arrived on the scene, I had the opportunity to basically dismantle and rebuild our entire information security infrastructure."
+- **[Ryan Winn (CISO, AdventHealth)]** [Segment #6] (products_and_solutions - Zero trust approach to security): "One of the ways that we look at zero trust is if you can get your users off of the network and away from the data that you're trying to protect. It actually creates a level of segmentation and decreases the blast radius of an attack that you might have."
+- **[Ryan Winn (CISO, AdventHealth)]** [Segment #7] (products_and_solutions - Zscaler's modern architecture benefits): "Zscaler provides modern architecture that has less of a surface area for attack. It really is a platform that allows us flexibility as we move forward and the ability to create simplicity in our network environment and simplicity gives us the ability to move quickly."
+- **[Ryan Winn (CISO, AdventHealth)]** [Segment #8] (metrics_and_results - Devices protected by Zscaler): "All in all, we have about five hundred thousand devices that we protect using Zscaler."
+- **[Ryan Winn (CISO, AdventHealth)]** [Segment #9] (challenges - Importance of asset inventory): "When you're working in a very large organization and you have the number of assets that we're trying to protect, actually having an inventory is the very first step."
+- **[Ryan Winn (CISO, AdventHealth)]** [Segment #10] (products_and_solutions - Zscaler's data fabric advantages): "Having a data fabric like what Zscaler is providing really does give you a shortcut to get there."
+- **[Ryan Winn (CISO, AdventHealth)]** [Segment #11] (metrics_and_results - Improved visibility and security): "The possibilities are nearly endless because we have a lot more visibility than we've ever before. And we have the ability to secure the environment in a way that was just not doable in our legacy platform."
+
+### Full Transcript Sentences
+- AdventHealth is one of the largest not for profit healthcare systems in the country.
+- Currently we have fifty four hospitals in nine states, but it seems like we're opening one every other month.
+- AdventHealth has one hundred thousand employees, forty thousand approximately contractors and vendors that have profiles in our network.
+- For years, we've thought of healthcare as being very hospital centric, but as things have changed and technologies improved, it's becoming really more of an ambulatory business, meaning the venues of care have become more diffuse.
+- And as a result, we have a much larger footprint of areas that we need to protect and provide coverage for.
+- It's not just about security, it's really about enabling our ability to simplify our network architecture and to be able to quickly deploy, quickly stand down, quickly move from one business opportunity to the next.
+- When I arrived on the scene, I had the opportunity to basically dismantle and rebuild our entire information security infrastructure.
+- One of the ways that we look at zero trust is if you can get your users off of the network and away from the data that you're trying to protect.
+- It actually creates a level of segmentation and decreases the blast radius of an attack that you might have.
+- Zscaler provides modern architecture that has less of a surface area for attack.
+- It really is a platform that allows us flexibility as we move forward and the ability to create simplicity in our network environment and simplicity gives us the ability to move quickly.
+- All in all, we have about five hundred thousand devices that we protect using Zscaler.
+- When you're working in a very large organization and you have the number of assets that we're trying to protect, actually having an inventory is the very first step.
+- Having a data fabric like what Zscaler is providing really does give you a shortcut to get there.
+- The possibilities are nearly endless because we have a lot more visibility than we've ever before.
+- And we have the ability to secure the environment in a way that was just not doable in our legacy platform.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Asset Exposure Management
+- **root.products[1].name:** Unified Vulnerability Management
+- **root.products[1].url:** https://www.zscaler.com/products-and-solutions/vulnerability-management
+- **root.products[2].name:** Zscaler for Users Platform
+- **root.products[3].name:** Security Operations
+- **root.products[4].name:** Zscaler Internet Access (ZIA)
+- **root.products[4].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[5].name:** Zscaler Private Access (ZPA)
+- **root.products[5].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[6].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[6].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** AI/ML
+- **root.solutions[2].name:** Zero Trust Architecture
+- **root.solutions[3].name:** Customer Success Story
+- **root.solutions[4].name:** Exposure Management
+- **root.solutions[5].name:** Network & Security Transformation
+- **root.solutions[6].name:** SecOps & Endpoint Security
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Akzonobel
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[2].name:** Amn Healthcare
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.related_company_content[3].name:** Amplifon
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amplifon
+- **root.extra_metadata.nid:** 101111
+- **root.page_metadata.meta_description:** Learn how AdventHealth AdventHealth Empowers Secure, Agile Growth Through Zero Trust Transformation with Simplified infrastructure and a real-time, dynamic asset inventory ensure AdventHealth can scale rapidly and securely while delivering superior patient outcomes.
+- **root.page_metadata.og_title:** AdventHealth Case Study | Customer Stories | Zscaler

@@ -1,0 +1,115 @@
+# Genpact Accelerates Its Cloud Transformation
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Genpact
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/genpact
+- **Slug:** genpact
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:25.360114Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Genpact
+- **Description:** Genpact (NYSE: G) is a global professional services firm that drives digital-led innovation and digitally enabled intelligent operations for its clients, guided by its experience running thousands of processes primarily for global Fortune 500 companies.
+- **Industry:** Services
+- **Headquarters:** New York, NY, USA
+- **Size:** 87,000 employees
+
+## Executive Summary
+### Challenges
+- Streamline IT infrastructure, fully embrace a multicloud strategy, and ensure secure connectivity for customers
+
+### Phased Journey
+- More than a technological shift, the transformation demanded a cultural shift.
+
+### Results & Impact
+- Deploys cloud-delivered security to 75+ locations across 25 countries
+- Delivers fast, secure access to cloud applications and services
+- Ensures consistent user experiences for both internal users and customers
+- Improves visibility in-depth reporting, gaining detailed insights into both users and applications
+
+## Featured Quotes
+> "How do you deliver security and a single-pane-of-glass view across all those egress points? It was difficult to envision how to accomplish that until we learned about Zscaler."
+> — **Munish Dargan — Lead Enterprise Architect and IT Leader — Genpact**
+
+## Customer Case Study
+### Setting sights on a future in the cloud (ID: setting-sights-on-a-future-in-the-cloud | Type: roadmap)
+As a global provider of solutions that drive digital transformation for its customers, Genpact made a strategic decision a few years ago to streamline its IT infrastructure and fully embrace a multicloud strategy. Part of the three year journey involved moving the entire application stack to the cloud: Microsoft, Salesforce, SAP Concur, ERP, and other software as a service (SaaS) platforms. The organization was also consolidating data centers, intent on reducing the number to single digits.
+
+As Munish Dargan, lead enterprise architect and global IT operations leader, puts it, “The internet was going to be our primary network. 20% of my traffic was already headed out to the internet, so why not make that 80%?”
+
+While driving forward its cloud-first initiative, Genpact also wanted to ensure secure connectivity with its customers. “As a professional services company, we connect to our customers’ environments over the internet. Most of them have their workloads in public cloud services like AWS. We need to make sure those connections are secure and that we have threat visibility across those connections,” explains Dargan. For Genpact, migrating to the cloud made sense from multiple angles: efficiency, cost, and speed.
+
+But as Dargan acknowledges, making the move early on was difficult because certain products like Microsoft Active Directory were not cloud-ready, nor were some of Genpact’s partners, who are part of its broader ecosystem.
+
+> "The internet was going to be our primary network. 20% of my traffic was already headed out to the internet, so why not make that 80%?"
+> — **Munish Dargan — Lead Enterprise Architect and IT Leader — Genpact**
+
+### How cloud transformation changed a culture (ID: how-cloud-transformation-changed-a-culture | Type: implementation)
+More than a technological shift, the transformation demanded a cultural shift. Initially, Genpact’s internal teams were hesitant. Genpact security and network pros pushed back, citing potential loss of control and visibility. One of their primary concerns centered on properly securing 75+ different locations across 25 countries, with anywhere from 500 to 5,000 users per office. Another big issue was how to manage increased network complexity—largely resulting from rapid growth and launching new locations.
+
+“The mindset and thought process had to change, and it took some time,” says Dargan. “With local breakouts, we would effectively be going from a dozen internet egress points to more than 100. So the question was: How do you deliver security and a single-pane-of-glass view across all those egress points? It was difficult to envision how to accomplish that until we learned about Zscaler.”
+
+> "The internet was going to be our primary network. 20% of my traffic was already headed out to the internet, so why not make that 80%?"
+> — **Munish Dargan — Lead Enterprise Architect and IT Leader — Genpact**
+
+### Choosing SDP over VPN for remote access (ID: choosing-sdp-over-vpn-for-remote-access | Type: other)
+Genpact made a decision to buy instead of build and embarked on its cloud transformation journey with Zscaler as its trusted vendor. The primary driver was security, seen from two perspectives— as an organization that wanted to provide stronger protection for its own cloud environment and as a professional services company working with customers.
+
+Genpact initiated a POC with Zscaler Internet Access™ (ZIA™) and quickly recognized its benefits. ZIA reduced exposure in Genpact’s public clouds (Amazon Web Services and Microsoft Azure platforms) and cloud-based business applications.
+
+ZIA enabled a fast and secure user experience through local breakouts, while eliminating expensive and complex security appliances in all locations and reducing the number of data centers. ZIA also provides Genpact with a direct-to-cloud security stack across all ports and protocols, with full inline and content scanning, botnet protection, zero-day sandboxing, and CASB visibility.
+
+Genpact also added Zscaler Private Access™ (ZPA™) to the mix as an alternative to its incumbent VPN for remote user access to Genpact private apps. ZPA is a software-defined perimeter (SDP) service that provides seamless and secure user connectivity to a specific application without placing the user on network or exposing apps or VPCs to the internet. Instead, the internet becomes the secure network, which is exactly what Genpact aimed to achieve.
+
+ZPA establishes inside-out connections in the form of micro-tunnels that allow segmentation on a per-session and per-application basis, minimizing the chance of DDoS. There is no need to segment networks, manage access control lists, or configure firewall policies. Genpact employees now have fully transparent access to only the applications they need, and they enjoy a consistent and secure user experience, regardless of device, location, or where the app is running.
+
+> "They really love Zscaler. We have integrated it with our SIEM system for richer threat insights and analysis."
+> — **Munish Dargan — Lead Enterprise Architect and IT Leader — Genpact**
+
+### How Zscaler won the security team over (ID: how-zscaler-won-the-security-team-over | Type: security)
+The Zscaler administrative console provides unprecedented visibility into all internet and web traffic, across all devices, users, and locations—all in one place. The security team no longer has to consult multiple appliance consoles to get the information it needs to check on security posture. The Zscaler console provides actionable intelligence, allowing team members to drill down and quickly identify and respond to any potential compromise—whether it comes in the form of botnets or infected devices.
+
+Thanks to ZIA, the Genpact internal team’s reluctance and skepticism turned to overwhelming enthusiasm. “They really love Zscaler. We have integrated it with our SIEM system for richer threat insights and analysis. Role-based access to the management console is also helpful because it enables multiple teams to do their jobs without stepping on each other’s toes,” notes Dargan. Another important advantage offered by the Zscaler single-pane-of-glass management platform is comprehensive reporting, allowing for drilldowns to the user and application level and higher-level views for executives.
+
+The team is especially impressed with the solution’s nearly limitless SSL/TLS inspection capabilities, which far exceeds that of appliances. “For us, Zscaler’s SSL inspection was a big driver. We were worried about the threats we were missing in encrypted traffic. Our on-premises appliances just couldn’t keep up with our requirements,” he points out.
+
+> "For us, Zscaler’s SSL inspection was a big driver. We were worried about the threats we were missing in encrypted traffic."
+> — **Munish Dargan — Lead Enterprise Architect and IT Leader — Genpact**
+
+### Making plans to expand the Zscaler footprint (ID: making-plans-to-expand-the-zscaler-footprint | Type: roadmap)
+With more than 60 local Zscaler internet breakouts and more on the horizon, Dargan is looking to further boost security for its highly distributed organization with Zscaler Cloud Firewall, which will provide next-generation protection for cloud applications while eliminating the financial and administrative burden of appliances.
+
+For Genpact, Zscaler has become a game changer. As Dargan says, “Zscaler is enabling our business in new ways.” For example, Zscaler reporting capabilities enable Genpact to send customers usage reports, which helps them gain insights on where traffic is going and how user behavior may be impacting productivity. Dargan cites another example in which Genpact leverages Zscaler Cloud Sandbox to do content moderation for a customer. Genpact can check on everything users post across an open internet link and ensure that this activity is appropriate and follows policy.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].name:** Zscaler Internet Access (ZIA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].name:** Zscaler Private Access (ZPA)
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[3].name:** Zero Trust Firewall
+- **root.products[3].url:** https://www.zscaler.com/resources/data-sheets/zscaler-firewall.pdf
+- **root.products[4].url:** https://www.zscaler.com/technology/cloud-sandbox
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[2].name:** Data Security
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.solutions[3].name:** Optimize Digital Experiences
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 29281
+- **root.page_metadata.meta_description:** Learn how Genpact Genpact Accelerates Its Cloud Transformation with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** Genpact Case Study | Customer Stories | Zscaler

@@ -1,0 +1,102 @@
+# Mahindra Group Enables Secure Transformation
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Mahindra Group
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/mahindra-group
+- **Slug:** mahindra-group
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:55:36.219202Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Mahindra Group
+- **Description:** Mahindra Group is an India-headquartered global group of companies spread over India, North America, and Europe, with interests in automobile, farm and agriculture, finance, technology, logistics, real estate, and more.
+- **Industry:** Manufacturing
+- **Headquarters:** Mumbai, India
+- **Size:** 40,000+ employees in 100+ countries
+
+## Executive Summary
+### Challenges
+- Digitizing the customer/employee journey, leveraging data with AI and ML, and cloud adoption for agility and innovation
+
+### Results & Impact
+- Creates secure digital experiences for customers for both digital and physical transactions
+- Improves IoT/OT security with zero trust policies
+- Leverages AI and ML to gain real-time data insights
+- Enhances Microsoft suite through close Zscaler partnership
+- Furthers ESG initiatives through sustainable cloud usage
+
+## Featured Quotes
+> "The main advantage of adopting the Zero Trust Exchange, I think it’s around collaboration, the agility, and the time-to-market to release product after product and have a secure work environment in the virtual world."
+> — **Mohit Kapoor — Group CTO — Mahindra Group**
+
+## Video Testimonial & Transcript
+**Title:** Zscaler x Mahindra Group  120S_V2
+**Description:** a Mahindra Group Customer Testimonial video
+**URL:** https://fast.wistia.net/embed/iframe/hrsjl36u4a
+**Provider:** wistia
+**Video ID:** hrsjl36u4a
+**Duration:** 118.486 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/a16489025066cf6be2705b08a755a308.jpg
+**Video Account Id:** 658399
+**Video Media Id:** 96242570
+**Video Created At:** 1665449167
+
+### Tagged Segments
+- **[Mohit Kapoor (Group CTO, Mahindra Group)]** [Segment #1] (general_discussion - Digital transaction acceleration): "The digital transaction is accelerated enormously, whether it's automobile, common agricultural finance, many of those originate online, and maybe delivered physically. So it's a hybrid method of engaging the customers."
+- **[Mohit Kapoor (Group CTO, Mahindra Group)]** [Segment #2] (self_introduction - Introduction of Mohit Kipur and Mahindra Group): "Mohit Kipur, and the group chief technology officer for the Mahindra group. Mahindra group is a India headquartered global group of companies spread over India, North America, and Europe with interest in automobile, farming agriculture, finance, technology, largest six, real estate, a whole group of businesses."
+- **[Mohit Kapoor (Group CTO, Mahindra Group)]** [Segment #3] (challenges - Focus areas for digital transformation): "Our first focus area is around digitization of customer journey an employee journey. Second focus areas use of data and AI and machine learning. Third focus is adopting the cloud for agility and innovation, which is where partnership with Zscaler comes in."
+- **[Mohit Kapoor (Group CTO, Mahindra Group)]** [Segment #4] (products_and_solutions - Adopting Zscaler Zero Trust Exchange): "The main advantage of adopting the zero trust exchange. I think it's around collaboration, the agility. And the time to market to release product after product and have a secure work environment in the virtual world. So the fact that Zscaler works very closely with Microsoft helped us to drive a smooth and secure experience for interaction."
+- **[Mohit Kapoor (Group CTO, Mahindra Group)]** [Segment #5] (quote - Seamless customer experience): "It's a seamless customer experience which we are after."
+- **[Mohit Kapoor (Group CTO, Mahindra Group)]** [Segment #6] (products_and_solutions - Next steps for Zero Trust Exchange): "Next steps of the zero trust exchange beyond the employee vendor and partner securitization. Is to go after the application which are hosted in this file. It's about securing our manufacturing assets, which is part of industry four dot o, focusing on cloud security, o t security, securing our factories and digital assets, our intellectual properties, our designs, many other areas, which are getting more digital as we go."
+- **[Mohit Kapoor (Group CTO, Mahindra Group)]** [Segment #7] (quote - Recommendation for Zscaler): "I surely would recommend Zscaler, the partner, the ESG agenda is the big driving force, and governance is all about security transparency and trust, and that's why any company will need to partner with the best, and this scale up falls in that category."
+
+### Full Transcript Sentences
+- The digital transaction is accelerated enormously, whether it's automobile, common agricultural finance, many of those originate online, and maybe delivered physically.
+- So it's a hybrid method of engaging the customers.
+- Mohit Kipur, and the group chief technology officer for the Mahindra group.
+- Mahindra group is a India headquartered global group of companies spread over India, North America, and Europe with interest in automobile, farming agriculture, finance, technology, largest six, real estate, a whole group of businesses.
+- Our first focus area is around digitization of customer journey an employee journey.
+- Second focus areas use of data and AI and machine learning.
+- Third focus is adopting the cloud for agility and innovation, which is where partnership with Zscaler comes in.
+- The main advantage of adopting the zero trust exchange.
+- I think it's around collaboration, the agility.
+- And the time to market to release product after product and have a secure work environment in the virtual world.
+- So the fact that Zscaler works very closely with Microsoft helped us to drive a smooth and secure experience for interaction.
+- It's a seamless customer experience which we are after.
+- Next steps of the zero trust exchange beyond the employee vendor and partner securitization.
+- Is to go after the application which are hosted in this file.
+- It's about securing our manufacturing assets, which is part of industry four dot o, focusing on cloud security, o t security, securing our factories and digital assets, our intellectual properties, our designs, many other areas, which are getting more digital as we go.
+- I surely would recommend Zscaler, the partner, the ESG agenda is the big driving force, and governance is all about security transparency and trust, and that's why any company will need to partner with the best, and this scale up falls in that category.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].name:** Zscaler Internet Access (ZIA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].name:** Deception
+- **root.products[2].url:** https://www.zscaler.com/products/deception-technology
+- **root.products[3].name:** Web and Email DLP
+- **root.products[3].url:** https://www.zscaler.com/products-and-solutions/data-loss-prevention
+- **root.products[4].name:** Zero Trust for IoT/OT
+- **root.products[4].url:** https://www.zscaler.com/products-and-solutions/secure-your-ot-and-iot
+- **root.solutions[0].name:** Ransomware
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[1].name:** Optimize Digital Experiences
+- **root.solutions[2].name:** Data Security
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 55656
+- **root.page_metadata.meta_description:** Learn how Mahindra Group Mahindra Group Enables Secure Transformation with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** Mahindra Group Case Study | Customer Stories | Zscaler

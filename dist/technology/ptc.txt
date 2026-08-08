@@ -1,0 +1,73 @@
+# PTC Scores a Major Security and Digital Transformation Win with Zero Trust
+
+> Zscaler supports a “café-style” work-from-anywhere model by completely eliminating VPN to provide a superior user experience and improve security posture
+
+**Customer Name:** PTC
+
+### Key Metrics
+- **100%**: transformation to a zero trust architecture
+- **↓ CapEx**: by turning off aging equipment
+- **Reduced**: infected machines
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/ptc
+- **Slug:** ptc
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:56:17.173336Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** PTC
+- **Description:** Software and services provider for all phases of product life cycle management across multiple sectors
+- **Industry:** High Tech
+- **Headquarters:** Boston, Massachusetts, USA
+- **Size:** 7,000+ employees across 30 countries
+
+## Executive Summary
+### Challenges
+- Legacy VPN enabled threat actors by exposing internal IP addresses, allowing lateral threat movement across the network
+- Increased adoption of cloud services and SaaS necessitated a policy-based approach to connect and secure apps, identities, and devices
+- Fragmented and limited visibility into network issues resulted in excessive time spent on troubleshooting and diagnosis
+
+### Results & Impact
+- Enables work from anywhere with a café-like experience, offering least-privileged access to resources without putting users on the network
+- Reduces the attack surface by replacing vulnerable infrastructure and blocking threats regardless of user location or device
+- Saves money by reducing upgrades and maintenance of an aging cybersecurity physical infrastructure
+
+## Featured Quotes
+> "One of the things that happens when you get Zscaler in place, both ZIA and ZPA in our case, is that you really reduce the attack surface."
+> — **Matt Hart — CISO — PTC**
+
+> "We see zero trust as a really good set of guiding principles for how we can approach our safety."
+> — **Matt Hart — CISO — PTC**
+
+> "With ZPA, we're able to go to our branches and start to turn off aging equipment that we are about to spend a ton of capex on to replace."
+> — **Matt Hart — CISO — PTC**
+
+> "Zscaler is a set of products that truly make zero trust something that you can rely on to keep your company safe from harm."
+> — **Matt Hart — CISO — PTC**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Digital Experience (ZDX)
+- **root.products[0].url:** https://www.zscaler.com/products/zscaler-digital-experience
+- **root.products[1].name:** Zscaler Internet Access (ZIA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].name:** Zscaler Private Access (ZPA)
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.solutions[0].name:** Optimize Digital Experiences
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[2].name:** Secure Remote Access
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/vpn-alternative
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 87186
+- **root.page_metadata.meta_description:** Learn how PTC PTC Scores a Major Security and Digital Transformation Win with Zero Trust with Zscaler supports a “café-style” work-from-anywhere model by completely eliminating VPN to provide a superior user experience and improve security posture.
+- **root.page_metadata.og_title:** PTC Case Study | Customer Stories | Zscaler

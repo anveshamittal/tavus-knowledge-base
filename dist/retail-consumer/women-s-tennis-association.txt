@@ -1,0 +1,96 @@
+# The WTA Modernizes its Infrastructure and Security
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Women’s Tennis Association
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/women-s-tennis-association
+- **Slug:** women-s-tennis-association
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:57:06.765011Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Women’s Tennis Association
+- **Description:** The WTA is one of the world’s most recognizable and high-profile sports organizations, consisting of more than 1600 players representing approximately 87 nations. Comprising more than 50 events and four Grand Slams, the Hologic WTA Tour spans six continents and nearly 30 countries and regions.
+- **Industry:** Entertainment and Hospitality
+- **Headquarters:** St. Petersburg, FL, USA
+- **Size:** 1,600+ players across 87 countries
+
+## Executive Summary
+### Challenges
+- Transition from a traditional castle-and-moat security architecture to a more secure, scalable, and cost-effective infrastructure
+
+### Phased Journey
+- -T-h-e- -W-T-A- -i-s- -o-n-e- -o-f- -t-h-e- -w-o-r-l-d-'-s- -m-o-s-t- -r-e-c-o-g-n-i-z-a-b-l-e- -a-n-d- -h-i-g-h---p-r-o-f-i-l-e- -s-p-o-r-t-s- -o-r-g-a-n-i-z-a-t-i-o-n-s-,- -c-o-n-s-i-s-t-i-n-g- -o-f- -m-o-r-e- -t-h-a-n- -1-6-0-0- -p-l-a-y-e-r-s- -r-e-p-r-e-s-e-n-t-i-n-g- -a-p-p-r-o-x-i-m-a-t-e-l-y- -8-7- -n-a-t-i-o-n-s-.-
+- -R-e-c-o-g-n-i-z-i-n-g- -t-h-e- -n-e-e-d- -t-o- -t-r-a-n-s-i-t-i-o-n- -f-r-o-m- -a- -t-r-a-d-i-t-i-o-n-a-l- -c-a-s-t-l-e---a-n-d---m-o-a-t- -s-e-c-u-r-i-t-y- -a-r-c-h-i-t-e-c-t-u-r-e- -t-o- -a- -m-o-r-e- -s-e-c-u-r-e-,- -s-c-a-l-a-b-l-e-,- -a-n-d- -c-o-s-t---e-f-f-e-c-t-i-v-e- -i-n-f-r-a-s-t-r-u-c-t-u-r-e-,- -t-h-e- -W-T-A- -p-i-v-o-t-e-d- -t-o- -a- -S-e-c-u-r-i-t-y- -S-e-r-v-i-c-e- -E-d-g-e- -(-S-S-E-)- -a-r-c-h-i-t-e-c-t-u-r-e-,- -o-f- -w-h-i-c-h- -Z-e-r-o- -T-r-u-s-t- -p-r-i-n-c-i-p-l-e-s- -f-o-r-m- -t-h-e- -f-o-u-n-d-a-t-i-o-n-.-
+- -Z-s-c-a-l-e-r- -f-o-r- -U-s-e-r-s- -p-r-o-v-i-d-e-s- -t-h-e- -W-T-A- -w-i-t-h- -m-u-l-t-i-l-a-y-e-r-e-d- -c-y-b-e-r-t-h-r-e-a-t- -p-r-o-t-e-c-t-i-o-n- -a-s- -w-e-l-l- -a-s- -z-e-r-o- -t-r-u-s-t- -c-o-n-n-e-c-t-i-v-i-t-y-,- -w-h-i-c-h- -u-s-e-s- -i-d-e-n-t-i-t-y- -a-n-d- -b-u-s-i-n-e-s-s- -p-o-l-i-c-i-e-s- -t-o- -c-o-n-t-r-o-l- -a-n-d- -s-e-c-u-r-e- -t-h-e- -o-r-g-a-n-i-z-a-t-i-o-n-'-s- -I-T- -e-n-v-i-r-o-n-m-e-n-t-.-
+
+### Results & Impact
+- Delivers fast, secure SaaS access and comprehensive visibility into internet traffic, including SSL encrypted traffic
+- Protects access to the WTA’s private applications in private or public clouds
+- Improves digital experiences for their hybrid workforce and cloud
+- Gains a unified view of application, CloudPath, and endpoint performance metrics
+
+## Featured Quotes
+> "The Zscaler Zero Trust Exchange is more mature than other security platforms in the market and allows us to move away from third-party VPN solutions, thus minimizing the attack surface."
+> — **Paul Sheth — Head of InfoSec — Women’s Tennis Association**
+
+## Customer Case Study
+### Women’s Tennis Association chooses cloud native protection (ID: women-s-tennis-association-chooses-cloud-native-protection | Type: security)
+The WTA is one of the world’s most recognizable and high-profile sports organizations, consisting of more than 1600 players representing approximately 87 nations. Comprising more than 50 events and four Grand Slams, the Hologic WTA Tour spans six continents and nearly 30 countries and regions. To manage all of these events and meet the demands of players, the media, and its global audience of over 900 million, the organization requires a highly mobile workforce with secure access to the internet and a host of SaaS and internal applications residing in private and public clouds.
+
+“WTA made Zscaler a focal point of our zero trust strategy,” said Paul Sheth, Head of Information Security at the WTA. “With Zscaler, we can enable our entire staff to work securely from anywhere two to three times faster than with competitive solutions. The Zscaler Zero Trust Exchange is more mature than other security platforms in the market and allows us to move away from third-party VPN solutions, thus minimizing the attack surface and eliminating additional point product purchases while also reducing operational overhead.”
+
+> "WTA made Zscaler a focal point of our zero trust strategy. With Zscaler, we can enable our entire staff to work securely from anywhere two to three times faster than with competitive solutions. The Zscaler Zero Trust Exchange is more mature than other security platforms in the market and allows us to move away from third-party VPN solutions, thus minimizing the attack surface and eliminating additional point product purchases while also reducing operational overhead."
+> — **Paul Sheth — Head of InfoSec — Women’s Tennis Association**
+
+### Zero trust was the answer the WTA needed (ID: zero-trust-was-the-answer-the-wta-needed | Type: challenge)
+Recognizing the need to transition from a traditional castle-and-moat security architecture to a more secure, scalable, and cost-effective infrastructure, the WTA pivoted to a Security Service Edge (SSE) architecture, of which Zero Trust principles form the foundation. To accelerate its secure digital transformation initiatives, the organization then selected Zscaler as its trusted cloud security partner of choice. The WTA plans to implement Zscaler for Users, comprised of Zscaler Internet Access™, Zscaler Private Access™and Zscaler Digital Experience™, fundamental services on the Zero Trust Exchange platform, as each provides the association with the following critical capabilities:
+
+Provide WTA staff and authorized parties worldwide with fast, secure SaaS access and comprehensive visibility into internet traffic, including Secure Sockets Layer (SSL) encrypted traffic, and advanced threat protection.
+
+Supply secure and fast access to the WTA’s private applications in the private or public clouds.
+
+Improve the digital experiences for the hybrid workforce and cloud with a unified view of application, CloudPath, and endpoint performance metrics.
+
+> "With Zscaler, we can enable our entire staff to work securely from anywhere two to three times faster than with competitive solutions."
+> — **Paul Sheth — Head of InfoSec — Women’s Tennis Association**
+
+### Comprehensive security, now and into the future (ID: comprehensive-security-now-and-into-the-future | Type: security)
+Zscaler for Users provides the WTA with multilayered cyberthreat protection as well as zero trust connectivity, which uses identity and business policies to control and secure the organization’s IT environment. The association can automatically achieve user-to-application segmentation to shrink the WTA’s attack surface and prevent lateral movement, data compromise, and loss. Further, more than 150 Zscaler points of presence (PoP) reduce latency and ensure an enhanced user experience for WTA staff.
+
+“By selecting Zscaler, the WTA has not only accelerated its secure digital transformation but established an extensible and scalable zero trust foundation for future phases in its transformation journey,” said Steve House, Senior Vice President, Product Management at Zscaler. “We look forward to partnering with the WTA for years to come as it continues to adapt to meet the demands of its players, the media, and its global audiences.”
+
+> "By selecting Zscaler, the WTA has not only accelerated its secure digital transformation but established an extensible and scalable zero trust foundation for future phases in its transformation journey. We look forward to partnering with the WTA for years to come as it continues to adapt to meet the demands of its players, the media, and its global audiences."
+> — **Steve — Women’s Tennis Association**
+
+> "WTA made Zscaler a focal point of our zero trust strategy."
+> — **Paul Sheth — Head of InfoSec — Women’s Tennis Association**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].name:** Zscaler Internet Access (ZIA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].name:** Zscaler Private Access (ZPA)
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[3].name:** Zscaler Digital Experience (ZDX)
+- **root.products[3].url:** https://www.zscaler.com/products/zscaler-digital-experience
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[2].name:** Optimize Digital Experiences
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 58336
+- **root.page_metadata.meta_description:** Learn how Women’s Tennis Association The WTA Modernizes its Infrastructure and Security with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** Women’s Tennis Association Case Study | Customer Stories | Zscaler
