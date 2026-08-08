@@ -1,0 +1,190 @@
+# CSC Secures App Access and Saves A$200,000 Annually
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Commonwealth Superannuation Corporation (CSC)
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/csc
+- **Slug:** csc
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:17.377892Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Commonwealth Superannuation Corporation (CSC)
+- **Description:** For over 100 years, the Commonwealth Superannuation Corporation (CSC) has provided financial advice, retirement planning, superannuation, retirement, finance, investment, and insurance services to Australian Government employees, employers, and Australian Defense Force members and their families.
+- **Industry:** Federal and Government
+- **Headquarters:** Canberra, Australia
+- **Size:** Serves 700,000+ individuals
+
+## Executive Summary
+### Challenges
+- Replace VPNs and firewalls with zero trust access for secure business transformation and exceptional application performance
+
+### Phased Journey
+- Looking ahead, CSC is excited about adding services, like Zscaler Deception for an extra layer of defense against ransomware, supply chain attacks, advanced persistent threats (APTs), and other sophisticated intruders.
+
+### Results & Impact
+- Realizes an ROI of over A$200,000 annually
+- Reduces infrastructure complexity by 90%
+- Decreases overall management overhead by 30%
+- Improves user experience by up to 70%
+- Speeds help desk issue resolution by 30%
+- Prevents an average of 7M policy violations monthly
+
+## Featured Quotes
+> "We’ve improved user experiences up to 70% and reduced complexity over 90%. Overall, we’ve lowered management overhead 30% and are saving A$200,000 annually with the Zero Trust Exchange."
+> — **John Pratezina — Senior Network Operations Administrator — Commonwealth Superannuation Corporation (CSC)**
+
+## Customer Case Study
+### Remote employees hindered by connectivity and security issues (ID: remote-employees-hindered-by-connectivity-and-security-issues | Type: challenge)
+Before the COVID-19 pandemic hit, Commonwealth Superannuation Corporation (CSC) was already struggling with providing appropriate remote access to ensure its employees could assist customers with fulfilling their retirement goals.
+
+At the time, the company was relying on traditional VPNs [virtual private networks] and firewalls for secure access to its internal applications. Application performance was terrible, and the burdens on user devices constantly caused people to be knocked offline. CSC needed a modern solution for keeping remote workers connected and secure.
+
+### Embracing zero trust as a foundation for SSE (ID: embracing-zero-trust-as-a-foundation-for-sse | Type: other)
+As the CSC’s charter is delivering financially stable futures to over 700,000 government and military employees and their families, operating securely, effectively, and efficiently is integral to the agency’s mission.
+
+With remote work an essential part of the CSC employment model and cloud adoption rapidly accelerating, the agency determined it was time to move away from data centers, VPNs, and Symantec Secure Web Gateways by adopting a zero trust architecture for building a security service edge (SSE) ecosystem.
+
+For streamlined and secure access to replace its hardware-based approach, CSC investigated multiple solutions, including Cisco Umbrella and Netskope. Of the contenders, the agency selected the Zscaler Zero Trust Exchange for its comprehensive and integrated suite of solutions.
+
+“Zscaler provided the foundation for a holistic SSE ecosystem that included solutions for users, devices, and workloads,” Pratezina said. “The Zero Trust Exchange went beyond a point-based solution approach for our immediate needs to meeting future requirements as we evolved. We wanted to move away from giving everyone, whether employees or contractors, broad access to our network.”
+
+> "Zscaler provided the foundation for a holistic SSE ecosystem that included solutions for users, devices, and workloads. The Zero Trust Exchange went beyond a point-based solution approach for our immediate needs to meeting future requirements as we evolved. We wanted to move away from giving everyone, whether employees or contractors, broad access to our network."
+> — **Commonwealth Superannuation Corporation (CSC)**
+
+### Simpler, faster, and more secure access (ID: simpler-faster-and-more-secure-access | Type: results)
+CSC’s Zero Trust Exchange deployment includes a range of Zscaler for Users services, which the agency implemented with the help of a local partner, A23.
+
+The journey began with Zscaler Internet Access (ZIA) for fast, direct, and secure connectivity to the internet and SaaS applications regardless of location. The agency also implemented Zscaler Private Access (ZPA). It provides high-performance, VPN-free secure zero trust access to critical private business applications residing in CSC's hybrid IT environment, including running on Amazon Web Services (AWS).
+
+In addition, CSC deployed Zscaler Digital Experience (ZDX) to proactively detect and resolve issues before they impact user experiences.
+
+### Unified protection in the cloud: CASB, sandbox, and firewall (ID: unified-protection-in-the-cloud-casb-sandbox-and-firewall | Type: security)
+CSC also adopted multiple other services within the Zero Trust Exchange, such as Cloud Access Security Broker (CASB) for safeguarding data-at-rest by looking inside software as a service (SaaS) applications and infrastructure as a service (IaaS) offerings.
+
+“When we started our zero trust journey, we lacked any CASB capabilities,” said Pratezina. “As we were becoming more cloud-centric, Zscaler provided us with superior CASB capabilities for protecting cloud applications and environments.”
+
+CSC also relies on the service Advanced Cloud Sandbox to stop patient-zero attacks using artificial intelligence (AI)-based analytics and quarantines, along with Advanced Cloud Firewall for security and access controls, without the cost, complexity, and performance limitations of next-generation firewalls, for all web and non-web traffic.
+
+“The Zscaler Advanced Cloud Firewall enabled us to standardize on one solution and decommission multiple separate appliances,” Pratezina said. “This reduced firewall infrastructure, management, and licensing complexity by over 90%. It was a real breath of fresh air.”
+
+> "When we started our zero trust journey, we lacked any CASB capabilities. As we were becoming more cloud-centric, Zscaler provided us with superior CASB capabilities for protecting cloud applications and environments."
+> — **Pratezina — Commonwealth Superannuation Corporation (CSC)**
+
+> "The Zscaler Advanced Cloud Firewall enabled us to standardize on one solution and decommission multiple separate appliances. This reduced firewall infrastructure, management, and licensing complexity by over 90%. It was a real breath of fresh air."
+> — **Pratezina — Commonwealth Superannuation Corporation (CSC)**
+
+> "We’re preventing an average of 7 million policy violations monthly, including types of violations our legacy solutions allowed through."
+> — **John Pratezina — Senior Network Operations Administrator — Commonwealth Superannuation Corporation (CSC)**
+
+### Nearly a 70% user experience improvement (ID: nearly-a-70-user-experience-improvement | Type: results)
+Upon completing its Zero Trust Exchange deployment, CSC increased remote user productivity by enabling faster access to critical applications.
+
+“We have one legacy business solution that our users log into multiple times a day,” he said. “With legacy VPN technology, remote users clicked on the application and then walked away from their computer for an average of 15 minutes while the VPN connected and the application loaded. What’s more, the VPN connection would frequently fail, requiring users to repeat the process.”
+
+Today, CSC has cut load time for the application to less than five minutes, which improves user experiences by nearly 70%. This results in the agency gaining back an hour or more of productivity for every user, every day.
+
+For business users, accessing applications directly without needing to go through the VPN gateway, firewalls, or network access control lists, speeds performance by eliminating bottlenecks. “We've seen a significant increase in application performance from the users' perspective,” said Pratezina.
+
+> "We have one legacy business solution that our users log into multiple times a day. With legacy VPN technology, remote users clicked on the application and then walked away from their computer for an average of 15 minutes while the VPN connected and the application loaded. What’s more, the VPN connection would frequently fail, requiring users to repeat the process."
+> — **Commonwealth Superannuation Corporation (CSC)**
+
+> "We've seen a significant increase in application performance from the users' perspective."
+> — **Pratezina — Commonwealth Superannuation Corporation (CSC)**
+
+### Accelerating retirement funds investing (ID: accelerating-retirement-funds-investing | Type: other)
+With the Zero Trust Exchange, CSC investment managers gain considerable efficiencies so they can make time-sensitive trades faster and maximize retirement goals for each of their customers.
+
+“In the past, it could take a week or two for a senior IT engineer to unblock a website that investment managers required,” said Pratezina. “Sometimes, this caused investment managers to access a blocked site with off-network devices, where there was no protection at all.”
+
+“Today, with ZIA and its comprehensive controls and remediation capabilities, our investors can confidently use the websites they need to complete transactions, no matter where they are,” he added. “Further, we are able to proactively monitor their experiences in real time using ZDX, and rapidly resolve any device, network, or application issues that may affect their productivity.”
+
+> "In the past, it could take a week or two for a senior IT engineer to unblock a website that investment managers required. Sometimes, this caused investment managers to access a blocked site with off-network devices, where there was no protection at all."
+> — **Pratezina — Commonwealth Superannuation Corporation (CSC)**
+
+> "Today, with ZIA and its comprehensive controls and remediation capabilities, our investors can confidently use the websites they need to complete transactions, no matter where they are. Further, we are able to proactively monitor their experiences in real time using ZDX, and rapidly resolve any device, network, or application issues that may affect their productivity."
+> — **Commonwealth Superannuation Corporation (CSC)**
+
+> "The Zero Trust Exchange provides a holistic SSE ecosystem. It’s been a real breath of fresh air."
+> — **John Pratezina — Senior Network Operations Administrator — Commonwealth Superannuation Corporation (CSC)**
+
+### ZDX empowers IT to eliminate bottlenecks for users (ID: zdx-empowers-it-to-eliminate-bottlenecks-for-users | Type: other)
+CSC is also reaping multiple benefits from ZDX, which provides rich analytics and insights for investigating and resolving issues faster.
+
+“We now have a much easier way to work out where these blocks are, what's causing them, and where to start looking in order to resolve these problems,” said Pratezina.
+
+“By incorporating Zscaler Digital Experience into our ecosystem, we have empowered our service desk with better visibility over the way users are accessing applications,” he observed. “We’ve easily had a 30% reduction in the time spent on service desk tickets.”
+
+> "We now have a much easier way to work out where these blocks are, what's causing them, and where to start looking in order to resolve these problems."
+> — **Pratezina — Commonwealth Superannuation Corporation (CSC)**
+
+### Millions of policy violations and threats thwarted (ID: millions-of-policy-violations-and-threats-thwarted | Type: security)
+As security is built into the core of the Zero Trust Exchange, all connections—regardless of user, endpoint application, or encryption—are inspected. This is enabling Pratezina and this team to tighten up security in numerous ways.
+
+“We’ve come across malicious websites that our old proxies were not only allowing, but also had not flagged,” remarked Pratezina. “Today, with Zscaler, we’re preventing an average of 7 million policy violations per month.”
+
+> "We’ve come across malicious websites that our old proxies were not only allowing, but also had not flagged. Today, with Zscaler, we’re preventing an average of 7 million policy violations per month."
+> — **Pratezina — Commonwealth Superannuation Corporation (CSC)**
+
+> "The success we're having with the Zero Trust Exchange demonstrates that partnering with Zscaler is a great choice."
+> — **John Pratezina — Senior Network Operations Administrator — Commonwealth Superannuation Corporation (CSC)**
+
+### Expansions advance a secure transformation (ID: expansions-advance-a-secure-transformation | Type: implementation)
+Looking ahead, CSC is excited about adding services, like Zscaler Deception for an extra layer of defense against ransomware, supply chain attacks, advanced persistent threats (APTs), and other sophisticated intruders.
+
+The agency is also evaluating Zscaler for Workloads services for securing cloud workloads and reducing the progression of lateral threats. This includes Zscaler Workload Communications for secure internet access between applications, and Zscaler Workload Segmentation™ (ZWS™) for further reducing attack surfaces through segmenting workloads, identifying risks, and applying identity-based protection.
+
+“We feel that including these products in our current Zero Trust Exchange ecosystem will allow us to meet even more of our security requirements in a more unified and synergistic way,” said Pratezina.
+
+> "We feel that including these products in our current Zero Trust Exchange ecosystem will allow us to meet even more of our security requirements in a more unified and synergistic way."
+> — **Pratezina — Commonwealth Superannuation Corporation (CSC)**
+
+### Reducing overhead 30% while saving A$200,000 annually (ID: reducing-overhead-30-while-saving-a-200-000-annually | Type: other)
+Since adopting the Zero Trust Exchange platform, CSC has seen a nearly 30% reduction in overall management overhead, freeing up the team to spend time on more strategic activities.
+
+In addition, minimizing expenditures for on-premises appliances, and the license costs associated with them, is netting the agency an estimated return on investment of close to A$200,000 annually.
+
+Furthermore, with the collaboration of the Zscaler support team, deployment was seamless and helped CSC get the most from its solutions. “The biggest benefit of working with Zscaler has been its amazing support,” said Pratezina. “Our representatives are always quick to respond and have provided excellent suggestions to meet our needs.”
+
+With its zero trust transformation well underway, CSC has already seen game-changing results that touch everyone involved with the organization—its business users, the IT team, and its customers. “The success we're having with the Zero Trust Exchange demonstrates that partnering with Zscaler is a great choice,” Pratezina said.
+
+> "The biggest benefit of working with Zscaler has been its amazing support. Our representatives are always quick to respond and have provided excellent suggestions to meet our needs."
+> — **Pratezina — Commonwealth Superannuation Corporation (CSC)**
+
+> "The success we're having with the Zero Trust Exchange demonstrates that partnering with Zscaler is a great choice."
+> — **Pratezina — Commonwealth Superannuation Corporation (CSC)**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Multi-Mode CASB
+- **root.products[0].url:** https://www.zscaler.com/products-and-solutions/cloud-access-security-broker-casb
+- **root.products[1].url:** https://www.zscaler.com/technology/cloud-sandbox
+- **root.products[2].name:** Zero Trust Firewall
+- **root.products[2].url:** https://www.zscaler.com/resources/data-sheets/zscaler-firewall.pdf
+- **root.products[3].url:** https://www.zscaler.com/products/zscaler-digital-experience
+- **root.products[4].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[5].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[6].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[6].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[2].name:** Data Security
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.solutions[3].name:** Optimize Digital Experiences
+- **root.solutions[4].name:** Accelerate M&A and Divestitures
+- **root.solutions[4].url:** https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 52791
+- **root.page_metadata.meta_description:** Learn how Commonwealth Superannuation Corporation (CSC) CSC Secures App Access and Saves A$200,000 Annually with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** Commonwealth Superannuation Corporation (CSC) Case Study | Customer Stories | Zscaler

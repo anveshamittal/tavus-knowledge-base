@@ -1,0 +1,99 @@
+# Edelweiss Secures Its At-Home Workforce in 48 Hours
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Edelweiss Financial Services
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/edelweiss-financial-services
+- **Slug:** edelweiss-financial-services
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:22.501909Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Edelweiss Financial Services
+- **Description:** As one of India's leading diversified financial services conglomerates, Edelweiss provides a broad range of financial products and services, catering to a substantial and differentiated client base, including corporations, institutions, and individuals.
+- **Industry:** Financial Services and Insurance
+- **Headquarters:** Mumbai, India
+- **Size:** 11,000 employees in 450 offices
+
+## Executive Summary
+### Challenges
+- Keep the organization up and running while ensuring its new at-home workforce stays productive
+
+### Phased Journey
+- -B-l-o-g- -b-y- -N-i-t-i-n- -A-g-a-r-w-a-l-,- -P-r-e-s-i-d-e-n-t- -a-n-d- -G-r-o-u-p- -C-I-O-,- -C-T-O-,- -E-d-e-l-w-e-i-s-s- -F-i-n-a-n-c-i-a-l- -S-e-r-v-i-c-e-s-
+- -T-h-e- -s-e-r-v-i-c-e- -w-a-s- -r-o-l-l-e-d- -o-u-t- -t-o- -o-u-r- -e-n-t-i-r-e- -s-t-a-f-f- -w-i-t-h-i-n- -4-8- -h-o-u-r-s-,- -a-n-d- -t-h-a-t- -c-o-u-l-d-n-'-t- -h-a-v-e- -c-o-m-e- -a-t- -a- -b-e-t-t-e-r- -t-i-m-e-,- -a-s- -o-u-r- -l-e-g-a-c-y- -i-n-f-r-a-s-t-r-u-c-t-u-r-e- -w-a-s-n-'-t- -b-u-i-l-t- -t-o- -h-a-n-d-l-e- -t-h-e- -i-m-m-e-n-s-e- -g-r-o-w-t-h- -i-n- -t-r-a-f-f-i-c- -b-r-o-u-g-h-t- -a-b-o-u-t- -b-y- -o-u-r- -e-m-p-l-o-y-e-e-s- -s-u-d-d-e-n-l-y- -w-o-r-k-i-n-g- -f-r-o-m- -h-o-m-e-.-
+- -B-u-t- -i-t- -w-a-s- -a-n- -i-s-s-u-e- -w-e- -w-e-r-e- -a-b-l-e- -t-o- -o-v-e-r-c-o-m-e- -w-i-t-h- -Z-P-A-.-
+
+### Results & Impact
+- Rolled out the Zero Trust Exchange in just 48 hours
+- Enables secure work-from-anywhere for 95% of workforce
+- Secures application access for 400+ concurrent users
+- Enables 2,500+ video meetings to be held daily (vs. 20-30/day previously)
+
+## Featured Quotes
+> "The great thing about ZPA has been…we’ve been able to provide security access…people are able to seamlessly work from home while accessing applications securely."
+> — **Nitin Agarwal — President and Group CIO — Edelweiss Financial Services**
+
+## Customer Case Study
+### A New At-Home Workforce in 48 Hours (ID: a-new-at-home-workforce-in-48-hours | Type: other)
+Blog by Nitin Agarwal, President and Group CIO, CTO, Edelweiss Financial Services
+
+The past few months have been, to say the least, a challenge for organizations around the world. Keeping an organization up and running while ensuring that your new at-home workforce is productive and secure is not an easy task.
+
+We at Edelweiss Financial have been affected by this global pandemic, as well. However, our transition from more than 11,000 employees working in 450 offices around the globe to having all of them work from home was made easier as we had already been working on a business continuity plan, although it wasn’t in anticipation of anything on the scale of what is happening today.
+
+As part of that plan, we had been working on moving away from a hardware- and perimeter-based infrastructure to a more software-defined and zero trust-based model. To that end, about six months ago, we successfully deployed Zscaler Internet Access (ZIA). So, when we realized that we needed to implement a private access solution to ensure that our staff and colleagues could gain secure access from home, we turned to Zscaler Private Access (ZPA).
+
+### Section (ID: section-2 | Type: other)
+The service was rolled out to our entire staff within 48 hours, and that couldn’t have come at a better time, as our legacy infrastructure wasn’t built to handle the immense growth in traffic brought about by our employees suddenly working from home.
+
+For example, when they were in the office, our employees would hold around 20 to 30 video meetings each day using Microsoft Teams. While working from home, that number has risen to about 2,500 video meetings each day.
+
+In addition, we used to have about 1,000 users logging in concurrently to our various internal networks. These days, we have about 4,000 users concurrently logging into our secure application while working from home.
+
+Needless to say, increases like this would have killed our VPN infrastructure.
+
+Being a financial services company, the security of our data (and our customer data) is of paramount importance. So even though people are working from home, we could not relax on our security standards.
+
+This became an even greater challenge as we discovered that the majority of our employees used desktop computers in the office and didn’t have company-supplied devices to use at home.
+
+> "About 95% of our staff is working from home, and they’re fully enabled and accessing internal applications…"
+> — **Nitin Agarwal — President and Group CIO — Edelweiss Financial Services**
+
+### Section (ID: section-3 | Type: other)
+But it was an issue we were able to overcome with ZPA. As of today, about 95 percent of our staff is working from home, and they're fully enabled and accessing internal and external applications using ZIA and ZPA.
+
+In the end, we achieved our goal of securely implementing a work-at-home program for our employees without disruption or loss of productivity. It’s been great for us to implement and enable so many people in such a short time.
+
+What was made clear to us during this entire exercise was that, if your infrastructure is not dependent on any particular hardware and location, you will be in much better shape to successfully handle the many challenges that lie ahead in our growing cloud and mobile world.
+
+> "We are a financial services company…security is paramount. While people are working at home, we cannot let go of security infrastructure."
+> — **Nitin Agarwal — President and Group CIO — Edelweiss Financial Services**
+
+> "(Video meetings) have been one of the key ways of socializing and talking to people."
+> — **Nitin Agarwal — President and Group CIO — Edelweiss Financial Services**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Data Security
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.solutions[2].name:** Optimize Digital Experiences
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 40401
+- **root.page_metadata.meta_description:** Learn how Edelweiss Financial Services Edelweiss Secures Its At-Home Workforce in 48 Hours with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** Edelweiss Financial Services Case Study | Customer Stories | Zscaler

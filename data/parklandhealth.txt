@@ -1,0 +1,100 @@
+# Parkland Health Elevates Security and Efficiency with a Unified Zero Trust Strategy
+
+> Consolidation of legacy technologies keeps Parkland Health agile in response to an evolving threat landscape, able to protect its highly integrated ecosystem and maintain a high standard of patient care
+
+**Customer Name:** Parkland Health
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/parklandhealth
+- **Slug:** parklandhealth
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:55:47.636790Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Parkland Health
+- **Description:** One of the largest public health systems in the US, with 1.2M+ outpatient visits annually across 16 care centers
+- **Industry:** Healthcare and Pharmaceutical
+- **Headquarters:** Dallas County, Texas, United States
+- **Size:** 16,000 employees, 8,000 contractors
+
+## Executive Summary
+### Challenges
+- Managing multiple, disparate security tools resulted in higher complexity and greater administrative overhead
+- Traditional VPNs posed reliability and security limitations, increasing the risk of lateral movement of threats and introducing access bottlenecks for staff
+- Limited visibility into encrypted traffic created challenges for protecting sensitive patient data across the organization
+
+### Results & Impact
+- Reduces administrative overhead for IT staff, freeing resources for more strategic initiatives that support patient care
+- Improves operational efficiency for healthcare providers, accelerating care and ensuring best-in-class patient experiences
+- Enhanced visibility and protection system-wide by retiring outdated tools and using zero trust to segment access and mitigate risks
+
+## Featured Quotes
+> "[Consolidation] is going to reduce our complexity and make managing all our telemetry significantly easier, and it's going to make my security engineers and my security operations center folks more effective."
+> — **Bruce McDaniels — VP & CISO — Parkland Health**
+
+## Video Testimonial & Transcript
+**Title:** Parkland Health Elevates Security and Efficiency with a Unified Zero Trust Strategy
+**Description:** a Customer Testimonials video
+**URL:** https://fast.wistia.net/embed/iframe/o50nwqxsgd
+**Provider:** wistia
+**Video ID:** o50nwqxsgd
+**Duration:** 152.167 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/82c66c102908f51151a68e8210f0ff226adae636.bin
+**Video Account Id:** 658399
+**Video Media Id:** 136723213
+**Video Created At:** 1753907471
+
+### Tagged Segments
+- **[Bruce McDaniels (VP & CISO, Parkland Health)]** [Segment #1] (self_introduction - Overview of Parkland Health): "Parkland Health is the safe day at a hospital for Dallas County. Because of the generosity of the taxpayers in the county, we've been able to provide health care to those that are in most need at a level and a standard in quality that is, in many cases, unrivaled. Parkland's got approximately sixteen thousand employees and probably another six to eight thousand, what we call POIs and essentially contractors that supplement and augment our staff."
+- **[Bruce McDaniels (VP & CISO, Parkland Health)]** [Segment #2] (challenges - Need for integrated technology): "In order for us to be efficient, in order for us to provide that high level of patient care, we'd need to have a very highly integrated hospital from a technology perspective."
+- **[Bruce McDaniels (VP & CISO, Parkland Health)]** [Segment #3] (challenges - Rapidly evolving threat landscape): "The threat landscape is changing so rapidly, and we have to adopt changes in technologies and changes in approach as quickly as the bad guys."
+- **[Bruce McDaniels (VP & CISO, Parkland Health)]** [Segment #4] (products_and_solutions - Zscaler as a forward-looking platform): "And Zscaler is one of those platforms that really is forward looking and that really is using a different paradigm in one single platform that's much easier to use and to manage."
+- **[Bruce McDaniels (VP & CISO, Parkland Health)]** [Segment #5] (products_and_solutions - Consolidating capabilities and retiring VPN): "The strategy has been to consolidate capabilities, to mature the capabilities that we have. VPN is not a very secure way of allowing people onto your network. Of course, the no brainer is killing our VPN."
+- **[Bruce McDaniels (VP & CISO, Parkland Health)]** [Segment #6] (challenges - Complexity of managing multiple tools): "The thought behind retiring my CASB, I have got data leaving my environment in different paths. And the problem that presents is if we have a security incident, you've got several places that you have to look in order to triangulate those particular events."
+- **[Bruce McDaniels (VP & CISO, Parkland Health)]** [Segment #7] (products_and_solutions - Reducing complexity with Zscaler): "Being able to consolidate the majority of those capabilities under a single platform is going to really reduce that complexity and make our managing all that telemetry significantly easier, and it's gonna make my security operations center folks more effective."
+- **[Bruce McDaniels (VP & CISO, Parkland Health)]** [Segment #8] (products_and_solutions - New capabilities with Zscaler): "In addition to consolidating my current technology, Zscaler is gonna give me capabilities that I don't currently have."
+- **[Bruce McDaniels (VP & CISO, Parkland Health)]** [Segment #9] (products_and_solutions - TLS capability for traffic inspection): "TLS capability of Zscaler is gonna give me that next level up of being able to see what type of data is traversing the network and exiting the network. Right now, the traffic is invisible to me, and that's a very big risk, especially to a hospital system with the types of data that we handle."
+- **[Bruce McDaniels (VP & CISO, Parkland Health)]** [Segment #10] (challenges - Risk of invisible traffic): "So being able to inspect that traffic, be able to act on anything that we identify as a result of being able to access and read that traffic is huge."
+
+### Full Transcript Sentences
+- Parkland Health is the safe day at a hospital for Dallas County.
+- Because of the generosity of the taxpayers in the county, we've been able to provide health care to those that are in most need at a level and a standard in quality that is, in many cases, unrivaled.
+- Parkland's got approximately sixteen thousand employees and probably another six to eight thousand, what we call POIs and essentially contractors that supplement and augment our staff.
+- In order for us to be efficient, in order for us to provide that high level of patient care, we'd need to have a very highly integrated hospital from a technology perspective.
+- The threat landscape is changing so rapidly, and we have to adopt changes in technologies and changes in approach as quickly as the bad guys.
+- And Zscaler is one of those platforms that really is forward looking and that really is using a different paradigm in one single platform that's much easier to use and to manage.
+- The strategy has been to consolidate capabilities, to mature the capabilities that we have.
+- VPN is not a very secure way of allowing people onto your network.
+- Of course, the no brainer is killing our VPN.
+- The thought behind retiring my CASB, I have got data leaving my environment in different paths.
+- And the problem that presents is if we have a security incident, you've got several places that you have to look in order to triangulate those particular events.
+- Being able to consolidate the majority of those capabilities under a single platform is going to really reduce that complexity and make our managing all that telemetry significantly easier, and it's gonna make my security operations center folks more effective.
+- In addition to consolidating my current technology, Zscaler is gonna give me capabilities that I don't currently have.
+- TLS capability of Zscaler is gonna give me that next level up of being able to see what type of data is traversing the network and exiting the network.
+- Right now, the traffic is invisible to me, and that's a very big risk, especially to a hospital system with the types of data that we handle.
+- So being able to inspect that traffic, be able to act on anything that we identify as a result of being able to access and read that traffic is huge.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Data Security
+- **root.products[0].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.products[1].name:** Multi-Mode CASB
+- **root.products[1].url:** https://www.zscaler.com/products-and-solutions/cloud-access-security-broker-casb
+- **root.products[2].name:** Zscaler for Users Platform
+- **root.products[3].name:** Zscaler Private Access (ZPA)
+- **root.products[3].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.solutions[0].name:** SASE & SSE
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/secure-access-service-edge-sase
+- **root.solutions[1].name:** Zscaler Private Access (ZPA)
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 100891
+- **root.page_metadata.meta_description:** Learn how Parkland Health Parkland Health Elevates Security and Efficiency with a Unified Zero Trust Strategy with Consolidation of legacy technologies keeps Parkland Health agile in response to an evolving threat landscape, able to protect its highly integrated ecosystem and maintain a high standard of patient care.
+- **root.page_metadata.og_title:** Parkland Health Case Study | Customer Stories | Zscaler

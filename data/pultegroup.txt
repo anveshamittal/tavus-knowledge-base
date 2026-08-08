@@ -1,0 +1,100 @@
+# PulteGroup Builds a Home in the Cloud
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** PulteGroup
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/pultegroup
+- **Slug:** pultegroup
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:56:17.442276Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** PulteGroup
+- **Description:** Since its founding in 1950, PulteGroup has delivered almost 750,000 homes throughout the United States. Today, they are the third largest homebuilder in the country, with operations in over 40 major cities. They market under some of the industry’s best known brands: Pulte, Centex, Del Webb, and more.
+- **Industry:** Construction
+- **Headquarters:** Atlanta, GA, United States
+- **Size:** 6,000+ employees
+
+## Executive Summary
+### Challenges
+- Move forward from legacy hardware, applications, and point solutions, reduce MPLS backhauling, and simplify systems management
+
+### Phased Journey
+- When I got to Pulte, everything was built on-premises.
+
+### Results & Impact
+- Lowers costs by reducing reliance on MPLS and lessening the need for on-premises hardware maintenance
+- Quickens connectivity and enhances user experience with local internet breakouts
+- Fosters more flexible architecture to ease app management and reduce administrative overhead
+- Expedited Microsoft 365 deployment with a zero trust architecture
+
+## Featured Quotes
+> "Zscaler provided us the ability to… put all the security provisions in place that we needed. We… still sometimes have pipes back to the data center, but every location has connectivity via a local internet provider."
+> — **Joe Drouin — CIO — PulteGroup**
+
+## Customer Case Study
+### Pulte evaluates its IT footprint (ID: pulte-evaluates-its-it-footprint | Type: other)
+I’d been part of some fascinating IT transformations in the past, but this was certainly the most challenging. We had some legacy technology, systems, and applications that didn’t support the business anymore. I was able to lean on my prior transformational experiences at TRW and Kelly to do the same kind of thing at Pulte.
+
+In 2015, we started focusing on what we could do around our now 12-year-old application footprint. By 2016, we were ready to hit the accelerator. We spent all of 2017 laying out the roadmaps and our investment plans, building a fundamentally new architecture—a very cloud-centered architecture—and getting everything lined up for when the flow of investment kicked back in.
+
+As we entered 2018, we built out the underlying foundation and new architecture—our “enterprise data hub,” a platform for integration that broke us out of our legacy environment of a point-to-point, 20-year-old, accidental architecture, to a more deliberate, modular, loosely coupled, API-centered one with a strong footprint in the cloud.
+
+### A transition to cloud architecture (ID: a-transition-to-cloud-architecture | Type: implementation)
+When I got to Pulte, everything was built on-premises. We had a data center in our office in Arizona. Almost everything was built or bought and housed in that data center. We had a traditional hub-and-spoke network with everything pointing back to that data center. Soon thereafter, we were running out of space, were at capacity, and had to add space and power and cooling. The cloud was tried-and-true for me, having had much success with cloud platforms and SaaS at Kelly Services, so we started moving to it in earnest.
+
+> "As more and more of our capabilities are hosted in the cloud, it is important to be able to route traffic locally…"
+> — **Joe Drouin — CIO — PulteGroup**
+
+### Microsoft 365 and local internet breakouts (ID: microsoft-365-and-local-internet-breakouts | Type: other)
+We rolled out Office 365 and got off on-premises Exchange. Early on, we started purchasing SaaS solutions and slowly but surely moved more and more of our footprint out of the data center and into the cloud, which meant that we had to change the traditional hub-and-spoke model of the network. That’s when we brought in Zscaler to help. I was familiar with Zscaler from my time at Kelly, and felt like Pulte was not a dissimilar model. We have lots of small locations that are constantly opening and closing.
+
+We started putting local internet into those locations, so we didn’t have to backhaul all our traffic to the data center in Arizona. Zscaler provided us the ability to do that and put all the security provisions in place that we needed. We moved more toward a hybrid design—we still sometimes have pipes back to the data center, but every location has connectivity via a local internet provider.
+
+This helped give us flexibility, but importantly it also reduced the delays we often experienced waiting for business-class service to be brought out to residential areas in far-flung suburbs, where often getting direct circuits took ages.
+
+> "I see us three or four years from now with a much more flexible IT environment, one that sits mainly in Microsoft’s cloud…"
+> — **Joe Drouin — CIO — PulteGroup**
+
+### Why hybrid cloud? (ID: why-hybrid-cloud | Type: challenge)
+As more and more of our capabilities are hosted in the cloud, it is important to be able to route traffic locally where it needs to go and back to the data center when needed. We still host our legacy ERP in the data center. We’re currently deploying new and updated applications to Microsoft Azure. All our custom applications were built on .NET and SQL, so from the server OS to the database, all the way up through the development stack and to the desktop, we’re a Microsoft environment. As such, Azure was a natural place for us to focus.
+
+> "If I were to advise a company in a similar position, I would say it helps to adopt a cloud-first mentality."
+> — **Joe Drouin — CIO — PulteGroup**
+
+### Pain worth the gain (ID: pain-worth-the-gain | Type: results)
+There is an education process for IT and the whole business as you move into the cloud. One maybe not-so-obvious thing is there is often not a direct cost savings. During the transition stage, we are putting things in the cloud and paying by the drink but at the same time, we can’t just turn the data center off. You can’t shut down enough equipment in the data center fast enough to offset the cost of moving.
+
+Ultimately, the economics of it will pay off, but for a time we’re carrying costs for our data center and we’re incurring new costs. The idea of pay-per-use in the cloud is a great one. The idea that you can turn the dial up and down sounds great, though in my experience the dial only seems to go up.
+
+### A more flexible end state (ID: a-more-flexible-end-state | Type: other)
+I see us three or four years from now with a much more flexible IT environment, one that sits mainly in Microsoft’s cloud but that would be containerized to the point that if we decided to spread the love a little and move some things out of Azure, it wouldn’t be a problem. We will have this modular, plug-and-play architecture that will give us tremendous flexibility. In this scenario, we will have applications that can be plucked out and replaced much more easily than trying to replace a big, monolithic, three-year software development project.
+
+I think slowly but surely we will get to a point where there’s very little on-premises technology. At the point we are ready to entertain the notion of replacing our finance system, I would certainly be looking for a cloud-based system.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Internet Access (ZIA)
+- **root.products[0].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[1].name:** Zscaler Private Access (ZPA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[2].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[2].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Ransomware
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[1].name:** Optimize Digital Experiences
+- **root.solutions[2].name:** Zero Trust App Access
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 40941
+- **root.page_metadata.meta_description:** Learn how PulteGroup PulteGroup Builds a Home in the Cloud with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** PulteGroup Case Study | Customer Stories | Zscaler

@@ -1,0 +1,91 @@
+# Mondi: Simplicity, Savings, and Secure Local Breakouts
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Mondi
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/mondi
+- **Slug:** mondi
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:41.452943Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Mondi
+- **Description:** Mondi develops industrial and consumer packaging solutions for leading brands worldwide with a focus on sustainability, from the generation of electricity and heat to the processing of raw materials. Mondi has been at the forefront of environmentally compatible manufacturing.
+- **Industry:** Manufacturing
+- **Headquarters:** Weybridge, UK, and Vienna, Austria
+- **Size:** 21,000 employees in 100 sites across 30+ countries
+
+## Executive Summary
+### Challenges
+- Empower aggressive growth through M&A and digital transformation with secure internet and SaaS access from anywhere
+
+### Phased Journey
+- In addition to providing better bandwidth and security and easy scalability, implementing the Zero Trust Exchange allowed the company to avoid an MPLS upgrade and eliminate multiple management-intensive products.
+
+### Results & Impact
+- Reduces security operations overhead
+- Simplifies administration and replaces management-intensive solutions
+- Increased available bandwidth by up to 15 times—making an MPLS-upgrade obsolete
+- Accelerates internet and SaaS access and time to productivity
+- Dramatically improves protection against phishing and other web-borne threats
+
+## Featured Quotes
+> "Zscaler supports Mondi in its digital transformation strategy using an approach that provides a high level of security and extremely transparent administration."
+> — **Thomas Vavra — Manager of Communication Networks — Mondi**
+
+## Customer Case Study
+### Fast growth by acquisition increases risk exposure (ID: fast-growth-by-acquisition-increases-risk-exposure | Type: challenge)
+With rapid growth through mergers and acquisitions, Mondi recognized that its legacy hub-and-spoke architecture, which backhauled internet traffic over MPLS to two centralized gateways, no longer met business requirements. It was expensive and caused application latency, negatively impacting user experience. As part of a decentralization strategy for all of its worldwide locations, Mondi sought a more scalable, better solution with increased security.
+
+The security of paper and packaging businesses are not as advanced as financial institutions, so the state of security at acquired companies is often “highly questionable” and needs a “wide range of clean up,” according to Thomas Vavra, Manager of Communication Networks at Mondi. Stopping internet-borne threats from attacking via newly acquired companies was a top priority before integrating new companies into the fold.
+
+Mondi also had a hardware-based proxy, software-based URL filter, and a large number of firewall clusters, all managed by a small IT team. However, it needed a less complex solution that would considerably reduce the work required to provide secure internet and SaaS access for Mondi’s growing employee base.
+
+> "wide range of clean up."
+> — **Thomas Vavra — Manager of Communication Networks — Mondi**
+
+### Improving user experience and security posture (ID: improving-user-experience-and-security-posture | Type: security)
+After intensive testing, Mondi deployed an SD-WAN and the Zscaler Zero Trust Exchange to enable local internet breakouts across the globe. The company also implemented the Zscaler Internet Access (ZIA) service to replace many management-intensive products and help decentralize its network infrastructure. ZIA provides fast, direct, secure access to the internet and SaaS applications.
+
+Turning to Zscaler for direct internet access considerably reduced the company’s bandwidth and latency issues—increasing available bandwidth by up to 15 times. “This is important since the majority of everyday work today is handled over the internet,” notes Vavra. “With Zscaler, our users could access information more quickly as well as more securely.”
+
+“Zscaler helps us clean up the security of newly acquired companies,” continued Vavra. “It is like a litmus test with all sorts of security measures built in. With Zscaler, we’ve seen a dramatic improvement in security posture.”
+
+> "With the help of Zscaler, Mondi could increase the available bandwidth at some locations by up to 15 times—making an MPLS-upgrade obsolete."
+> — **Thomas Vavra — Manager of Communication Networks — Mondi**
+
+### Cutting time, costs and supporting cloud transformation (ID: cutting-time-costs-and-supporting-cloud-transformation | Type: implementation)
+In addition to providing better bandwidth and security and easy scalability, implementing the Zero Trust Exchange allowed the company to avoid an MPLS upgrade and eliminate multiple management-intensive products. Thus, the investment in Zscaler reduced Mondi’s MPLS costs as well as time spent by security operations managing internet security.
+
+“Zscaler supports Mondi in its digital transformation strategy,” noted Vavra. “Through their cloud approach, we were able to not only adapt infrastructure but reinforce security as well. Today, we cover the different security functions from the proxy to the firewall using an approach that provides a high level of security and extremely transparent administration.”
+
+> "Zscaler supports Mondi in its digital transformation strategy. Through their cloud approach, we were able to not only adapt infrastructure but reinforce security as well. Today, we cover the different security functions from the proxy to the firewall using an approach that provides a high level of security and extremely transparent administration."
+> — **Vavra — Mondi**
+
+> "Zscaler helps us clean up the security of newly acquired companies. It is like a litmus test with all sorts of security measures built in."
+> — **Thomas Vavra — Manager of Communication Networks — Mondi**
+
+> "Through [Zscaler’s] cloud approach, we were able to not only adapt infrastructure but reinforce security as well."
+> — **Thomas Vavra — Manager of Communication Networks — Mondi**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.solutions[0].name:** Ransomware
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 23916
+- **root.page_metadata.meta_description:** Learn how Mondi Mondi: Simplicity, Savings, and Secure Local Breakouts with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** Mondi Case Study | Customer Stories | Zscaler

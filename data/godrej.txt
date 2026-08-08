@@ -1,0 +1,90 @@
+# Godrej Implements True Zero Trust Security
+
+> with Zscaler Deception
+
+**Customer Name:** Godrej
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/godrej
+- **Slug:** godrej
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:55:27.691950Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Godrej
+- **Description:** Established in 1897, the Godrej Group today enjoys the patronage of 1.1 billion consumers globally across consumer goods, real estate, appliances, agriculture and many other businesses with a revenue of over USD 4.1 billion.
+- **Industry:** Manufacturing
+- **Headquarters:** Mumbai, India
+- **Size:** 1.1B users in 90 countries
+
+## Executive Summary
+### Challenges
+- Modernize security and improve visibility over users and environments with zero trust
+
+### Results & Impact
+- Gains ability to detect when a user is compromised
+- Increases visibility over network environment and improves threat detection
+- Implements a cloud-delivered zero trust architecture
+- Decreases security operations burden with reduced false positives
+
+## Featured Quotes
+> "When we combine ZPA with Zscaler Deception, we are able to detect compromised users and active network threats, which could otherwise slip in in low-visibility areas."
+> — **Satvayrat Mishra — AVP of Corporate IT — Godrej**
+
+> "Using deception as part of a zero trust architecture also helps us to become more resilient against advanced attacks."
+> — **Satvayrat Mishra — AVP of Corporate IT — Godrej**
+
+> "Since it’s a low false positive product, it really helps the SOC team in pinpointing if there’s… lateral movement happening."
+> — **Satvayrat Mishra — AVP of Corporate IT — Godrej**
+
+## Video Testimonial & Transcript
+**Title:** Godrej: Threat Detection and Combating Advanced Attacks with Zscaler Zero Trust Exchange
+**Description:** a Nurture Stream video
+**URL:** https://fast.wistia.net/embed/iframe/8z63gcqccu
+**Provider:** wistia
+**Video ID:** 8z63gcqccu
+**Duration:** 52.353 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/57217fcb894b254fa3bf990774f94aca1512f302.bin
+**Video Account Id:** 658399
+**Video Media Id:** 88784566
+**Video Created At:** 1649787709
+
+### Tagged Segments
+- **[Satvayrat Mishra (AVP of Corporate IT, Godrej)]** [Segment #1] (products_and_solutions - Combining ZPA with Zscaler Deception): "When we combine ZPA with zscaler deception, I think we are able to detect, compromise users and active network threats, which otherwise, can slip in from, you know, low visibility areas. So that, again, has has really helped the coming of these two solutions together."
+- **[Satvayrat Mishra (AVP of Corporate IT, Godrej)]** [Segment #2] (products_and_solutions - Deception in zero trust architecture): "Using deception as part of a zero to star architecture, also helps us become more resilient against advanced attacks. And any kind of human operated ransomware or supply chain kind of threats. Since it's a no, false positive product, it really helps, you know, the soft team in in pinpointing, you know, if there are really some kind of, lateral movement are happening within the organization."
+
+### Full Transcript Sentences
+- When we combine ZPA with zscaler deception, I think we are able to detect, compromise users and active network threats, which otherwise, can slip in from, you know, low visibility areas.
+- So that, again, has has really helped the coming of these two solutions together.
+- Using deception as part of a zero to star architecture, also helps us become more resilient against advanced attacks.
+- And any kind of human operated ransomware or supply chain kind of threats.
+- Since it's a no, false positive product, it really helps, you know, the soft team in in pinpointing, you know, if there are really some kind of, lateral movement are happening within the organization.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].name:** Zscaler Internet Access (ZIA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].name:** Zscaler Private Access (ZPA)
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[3].url:** https://www.zscaler.com/products/deception-technology
+- **root.products[4].name:** Zero Trust for IoT/OT
+- **root.products[4].url:** https://www.zscaler.com/products-and-solutions/secure-your-ot-and-iot
+- **root.products[5].name:** Zscaler Digital Experience (ZDX)
+- **root.products[5].url:** https://www.zscaler.com/products/zscaler-digital-experience
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 57236
+- **root.page_metadata.meta_description:** Learn how Godrej Godrej Implements True Zero Trust Security with with Zscaler Deception.
+- **root.page_metadata.og_title:** Godrej Case Study | Customer Stories | Zscaler

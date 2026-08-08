@@ -1,0 +1,184 @@
+# TOYOTA GAZOO Protects Its Users and Data in the World's Most Extreme Remote Work Locations with Zscaler
+
+> Champion motorsport team deploys the Zero Trust Exchange, achieves 96% faster connectivity, and gives new meaning to global work-from-anywhere flexibility
+
+**Customer Name:** Toyota Gazoo
+
+### Key Metrics
+- **2.1M**: policy violations prevented in three months
+- **305.9M**: transactions processed in one quarter
+- **96%**: faster average time to connect and start working
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/toyota-gazoo
+- **Slug:** toyota-gazoo
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:56:47.694475Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Toyota Gazoo
+- **Description:** High-performance vehicle arm of Toyota Motor Corporation responsible for the automobile brand’s winning world rally team
+- **Industry:** Manufacturing
+- **Headquarters:** Jyväskylä, Finland
+- **Size:** Specialized team of 300+ motorsport professionals competing at 14 global rallies each year
+
+## Executive Summary
+### Challenges
+- Legacy security infrastructure not flexible enough to support remote work in challenging, geographically diverse environments
+- VPN appliances put sensitive racing data at risk by increasing the attack surface and chance for lateral threat movement
+- Traditional SD-WAN made it more challenging and less secure to connect headquarters to remote operational outposts
+
+### Phased Journey
+- TOYOTA GAZOO Racing World Rally Team Oy (TGR-WRT) pushes the boundaries of remote work to, quite literally, the ends of the earth.
+- Travel stats for the team at TGR-WRT during a typical year are staggering: 11,000 nights in hotels; 5,500 flights; 500 rental car drives; and 400 train journeys for the more than 100 team members required at each competition event.
+- During a rally competition, it is critical for TGR-WRT to be able to transmit sensitive performance data from the rally cars to team engineers on location, as well as back to a team of specialists at headquarters in Finland.
+
+### Results & Impact
+- Secures connectivity for around 300 racing experts traveling and working remotely on a daily basis
+- Protects racing performance data from cyberthreats while enabling faster data sharing among globally dispersed users
+- Provides reliable branch connectivity across 20K+ square meters Finnish headquarters campus and 14 remote global rally events
+
+## Featured Quotes
+> "Zscaler is one of the best decisions we’ve made. In an environment where every tenth of a second matters, the comprehensive Zscaler platform makes a difference at every race event."
+> — **Riku Nykänen — Information Security Officer — Toyota Gazoo**
+
+> "...we were honestly a bit mind-blown with the concept...the Zero Trust Exchange was the best platform to meet our strategy requirements."
+> — **Jussi Luopajärvi — IT Manager — Toyota Gazoo**
+
+## Customer Case Study
+### Zero trust security enables championship racing team to push the boundaries of remote work (ID: zero-trust-security-enables-championship-racing-team-to-push-the-boundaries-of-remote-work | Type: implementation)
+TOYOTA GAZOO Racing World Rally Team Oy (TGR-WRT) pushes the boundaries of remote work to, quite literally, the ends of the earth.
+
+Each racing season, a focused team of more than 250 highly specialized professionals from TGR-WRT participate in a series of 14 motorsport rally competitions held as part of the Fédération Internationale de l'Automobile (FIA) World Rally Championship (WRC). This championship circuit requires a significant team presence on location in some of the world's most extreme geographies—from the plains of Kenya’s Rift Valley Basin to the forests of Sweden just south of the Arctic Circle.
+
+Ensuring efficient, high-performance remote working conditions in challenging physical locations for an elite championship racing team, while also achieving the robust security posture necessary for protecting sensitive racing data, demands a delicate balance not attainable with traditional security approaches.
+
+As part of a larger cloud-first operations strategy, TGR-WRT wanted to modernize its security with a zero trust architecture. “Our work isn’t confined to one facility. We need to operate across a variety of environments, including some incredibly remote rally destinations,” said Riku Nykänen, Information Security Officer at TGR-WRT. “For us, zero trust security is about ensuring the flexibility to work securely from anywhere.”
+
+> "Our work isn’t confined to one facility. We need to operate across a variety of environments, including some incredibly remote rally destinations. For us, zero trust security is about ensuring the flexibility to work securely from anywhere."
+> — **Riku Nykänen — Information Security Officer — Toyota Gazoo**
+
+### Protecting users, applications, and data in motion with the Zscaler Zero Trust Exchange (ID: protecting-users-applications-and-data-in-motion-with-the-zscaler-zero-trust-exchange | Type: security)
+TGR-WRT is a team constantly on the move. Between setting up operational outposts at the official WRC rallies and coordinating test runs across Europe in preparation for competition, the organization is working “on the road”, with an event in a remote location nearly every week of a calendar year.
+
+Traditional security solutions didn’t provide the flexibility or scalability this nomadic workforce needed. A legacy network infrastructure made it challenging to connect operational outposts to headquarters in Finland, and legacy VPNs and firewalls inhibited reliable connectivity for team members working remotely, as well as adding to risk for the organization.
+
+TGR-WRT wanted a cloud native, zero trust platform to protect users, applications, and data across its global operations, including those rally locations. The organization would be using several Microsoft solutions, including Microsoft Azure, Microsoft Defender for Endpoint, and Microsoft Entra ID. So, seamless integration with Microsoft was a requirement. Most importantly, the team wanted to simplify its existing security architecture, replacing multiple legacy point products with a single, comprehensive zero trust platform to support cloud-first remote work.
+
+The organization began its zero trust journey by collaborating with Mintly, a Finnish technology integrator, who recommended that the Zscaler Zero Trust Exchange would be a good fit. After a successful proof of concept, the IT team at TGR-WRT was excited to move forward with Zscaler.
+
+“Once we were introduced to Zscaler, we were honestly a bit mind-blown with the concept,” shared Jussi Luopajärvi, IT Manager at TGR-WRT. “We immediately recognized that the Zero Trust Exchange was the best platform to meet our strategy requirements.”
+
+A phased deployment of the Zero Trust Exchange, managed by Mintly, allowed Nykänen and Luopajärvi to simplify the security stack and streamline the end user experience at TGR-WRT, while also strengthening the organization’s overall security posture.
+
+> "Once we were introduced to Zscaler, we were honestly a bit mind-blown with the concept. We immediately recognized that the Zero Trust Exchange was the best platform to meet our strategy requirements."
+> — **Jussi Luopajärvi — IT Manager — Toyota Gazoo**
+
+### Phase 1: Zscaler direct-to-internet connectivity turns any environment into a secure, remote work location (ID: phase-1-zscaler-direct-to-internet-connectivity-turns-any-environment-into-a-secure-remote-work-location | Type: implementation)
+Travel stats for the team at TGR-WRT during a typical year are staggering: 11,000 nights in hotels; 5,500 flights; 500 rental car drives; and 400 train journeys for the more than 100 team members required at each competition event. Any of these environments may need to function as a remote worksite.
+
+Reliable and secure internet access isn’t a travel luxury—it’s an operational necessity. “We have people traveling all over the world on any given day,” explained Luopajärvi. “We have to make sure they can stay connected and responsive while on the go.”
+
+TGR-WRT deployed Zscaler Internet Access (ZIA) to provide users with secure connectivity to the internet and SaaS applications from anywhere in the world, whether at major airport hubs or at remote rally camps from the forests of Chile to the mountainous Aichi prefecture of Japan.
+
+Zscaler delivers security inspection and policy enforcement as close to the end user as possible from more than 160 edge locations around the world. This broad geographical reach ensures that no matter where TGR-WRT users need to work, they will have consistent, reliable, fast, and secure internet connections without the need to backhaul traffic to a centrally hosted security solution.
+
+Zscaler Internet Access also includes cloud firewall protection, URL filtering, TLS/SSL traffic inspection, and advanced threat protection. Important security measures that would have previously required multiple point products are now managed as part of the comprehensive Zscaler platform.
+
+“We work in very extreme locations and must navigate around lots of environmental challenges that could easily limit our capabilities,” said Luopajärvi. “With Zscaler, we always have reliable and secure internet connectivity, making it much easier to keep all the parts of our operation aligned and in motion.”
+
+> "We have people traveling all over the world on any given day. We have to make sure they can stay connected and responsive while on the go."
+> — **Toyota Gazoo**
+
+> "We work in very extreme locations and must navigate around lots of environmental challenges that could easily limit our capabilities. With Zscaler, we always have reliable and secure internet connectivity, making it much easier to keep all the parts of our operation aligned and in motion."
+> — **Toyota Gazoo**
+
+> "Working to support a championship rally team can be demanding and complex; with Zscaler, conducting that work securely is simple."
+> — **Riku Nykänen — Information Security Officer — Toyota Gazoo**
+
+### Phase 2: Replacing traditional VPNs with zero trust access to protect racing intel when every second counts (ID: phase-2-replacing-traditional-vpns-with-zero-trust-access-to-protect-racing-intel-when-every-second-counts | Type: implementation)
+During a rally competition, it is critical for TGR-WRT to be able to transmit sensitive performance data from the rally cars to team engineers on location, as well as back to a team of specialists at headquarters in Finland. Analyzing performance data helps optimize competition cars to keep the team successful and on the podium. However, this data isn’t just used to enhance team performance at competitions. Parent company Toyota Motor Group views the championship circuit as a crucial platform for automotive innovation, so the proprietary data TGR-WRT gathers at each rally stage can ultimately lead to the design and manufacture of better everyday cars for all drivers.
+
+Securing private data and controlling access to it is fundamental to advancing the team’s larger mission, but a pipeline of legacy VPN appliances created significant risk, stability and performance issues. VPNs naturally create a wider attack surface, so the legacy technology also puts the team at greater risk for data compromise and loss.
+
+TGR-WRT replaced its VPN appliances with Zscaler Private Access (ZPA). ZPA directly connects users to the private applications and data they are authorized to access, not to the network as a whole. The team’s private resources, some of which are hosted on Microsoft Azure, are hidden behind the Zero Trust Exchange, making them invisible to threat actors and reducing the overall attack surface. Zscaler verifies user identity, device posture, and context on a per-session basis to prevent unauthorized access before connections are established, and microsegmented application access prevents potential lateral threat movement.
+
+“During a rally every second counts, not just for our competition drivers, but also for the engineers who need to share and analyze performance data,” said Nykänen. “With Zscaler we can seamlessly transmit data between our various locations and also ensure our data is protected at every step.”
+
+> "During a rally every second counts, not just for our competition drivers, but also for the engineers who need to share and analyze performance data. With Zscaler we can seamlessly transmit data between our various locations and also ensure our data is protected at every step."
+> — **Toyota Gazoo**
+
+### Phase 3: Comprehensive Zero Trust Exchange securely connects all the moving parts of a global operation (ID: phase-3-comprehensive-zero-trust-exchange-securely-connects-all-the-moving-parts-of-a-global-operation | Type: implementation)
+With users and data secured, TGR-WRT focused on making sure all the other moving parts of its global operation were protected under a unified zero trust architecture.
+
+TGR-WRT replaced their traditional SD-WAN with ZScaler Zero Trust SD-WAN to securely and directly connect users and devices in its headquarters campus in Finland (more than 25,000 square meters of facilities), as well as its rally competition locations across Europe and the globe. Unlike traditional SD-WAN solutions that rely on site-to-site VPNs which undermine zero trust architecture, Zero Trust SD-WAN forwards traffic through the Zero Trust Exchange for seamless, secure access to applications and the internet across an organization’s locations and IoT/OT devices. This simplifies their global infrastructure and eliminates the risk of lateral threat movement from remote locations to critical resources at their headquarters.
+
+From file storage to private custom applications for its sensitive engineering and testing data, TGR-WRT connects to around 100 cloud based services, including Microsoft 365 and Box. Zscaler Zero Trust Cloud extends zero trust protection from every team members’ device to every cloud environment and data center that TGR-WRT works within to ensure consistent security policies for cloud workloads and applications.
+
+This combination of Zscaler solutions further reduces the cost and complexity of the organization’s security architecture and adds another powerful layer of data protection. “The Zscaler platform is at the core of our protection for all internet, SaaS, and private app traffic, from our on-premises and cloud servers to our laptops and other mobile devices” said Nykänen.
+
+> "The Zscaler platform is at the core of our protection for all internet, SaaS, and private app traffic, from our on-premises and cloud servers to our laptops and other mobile devices."
+> — **Toyota Gazoo**
+
+### Up Next: Leveraging Zscaler solutions to improve user experience and expand mobile device protection (ID: up-next-leveraging-zscaler-solutions-to-improve-user-experience-and-expand-mobile-device-protection | Type: implementation)
+Committed to continuing its zero trust journey, TGR-WRT is now working to enhance user experience and expand device protection with additional Zscaler solutions.
+
+Deploying Zscaler Digital Experience (ZDX) will help TGR-WRT further optimize the end user experience across its various locations. ZDX provides end-to-end visibility from user to application for easier monitoring across devices, networks, and applications. Nykänen and Luopajärvi, along with the TGR-WRT help-desk team, will leverage ZDX AI capabilities to more quickly detect usability issues, pinpoint root causes for these challenges, and remediate any problems faster.
+
+Installing the Zscaler Client Connector agent on all end user devices will enable faster connectivity and consistent security for team members at remote locations, as well as helpful troubleshooting tools. Especially critical for users who rely on mobile devices, Client Connector automatically determines if a user is trying to access the web, a SaaS application, or an internal private application, and then securely routes traffic to its destination via the Zero Trust Exchange. TGR-WRT is excited about the recently announced, soon-to-release Zscaler Zero Trust SIM (ZSim) and envisions using this solution to further secure mobile devices that require cellular network connections, ensuring that every user is protected on every device.
+
+“With Branch Connector, Cloud Connector, and now Client Connector, we can ensure holistic zero trust protection across the full spectrum of our locations and devices,” shared Nykänen. “We look forward to rolling out even more robust mobile device protection, powered by Zscaler, to give our users maximum flexibility in how they manage remote work.”
+
+> "With Branch Connector, Cloud Connector, and now Client Connector, we can ensure holistic zero trust protection across the full spectrum of our locations and devices. We look forward to rolling out even more robust mobile device protection, powered by Zscaler, to give our users maximum flexibility in how they manage remote work."
+> — **Toyota Gazoo**
+
+> "With Zscaler, we always have reliable and secure internet connectivity, making it much easier to keep all the parts of our operation aligned and in motion."
+> — **Jussi Luopajärvi — IT Manager — Toyota Gazoo**
+
+### Zscaler improves the user experience in demanding remote work environments (ID: zscaler-improves-the-user-experience-in-demanding-remote-work-environments | Type: results)
+A key driver for zero trust adoption at TGR-WRT was creating a flexible, efficient, and effective work-from-anywhere experience. Since deploying the Zero Trust Exchange, Nykänen and Luopajärvi sense an uptick in user satisfaction across the TGR-WRT workforce, which they attribute to some key improvements.
+
+With the organization’s previous legacy security infrastructure, the process to connect to private resources remotely had become a barrier to efficiency. “There were multiple steps involved to get a remote user from opening their laptop to actually engaging in productive work when we still relied on VPN appliances,” explained Luopajärvi. With Zscaler, the time it takes for a remote user to connect and start working has dramatically decreased. Luopajärvi estimates that remote users can connect and start working 96% faster now—what used to take an average of five minutes is accomplished in around 10 seconds on the Zero Trust Exchange.
+
+Remote users trying to browse public internet and SaaS applications no longer face a constant barrage of website blocks. Because Zscaler offers greater accuracy with URL filtering and Browser Isolation, there are fewer instances of false positives that can lead to unnecessary blocks. “We used to get help requests daily from remote users encountering website blocks they didn’t understand,” shared Luopajärvi. “With Zscaler, those requests are now few and far between, probably only once a month.” Based on this tangible observation, both Nykänen and Luopajärvi attribute greater overall accuracy across their security processes to the Zscaler platform.
+
+“Working to support a championship rally team can be demanding and complex; with Zscaler, conducting that work securely is simple,” elaborated Nykänen. “Our users no longer have to worry about where they are working from because they can seamlessly connect to the resources they need anywhere in the world using the Zero Trust Exchange.”
+
+> "There were multiple steps involved to get a remote user from opening their laptop to actually engaging in productive work when we still relied on VPN appliances."
+> — **Toyota Gazoo**
+
+> "We used to get help requests daily from remote users encountering website blocks they didn’t understand. With Zscaler, those requests are now few and far between, probably only once a month."
+> — **Toyota Gazoo**
+
+### Simplicity of one partner for comprehensive zero trust protection allows team to focus on winning (ID: simplicity-of-one-partner-for-comprehensive-zero-trust-protection-allows-team-to-focus-on-winning | Type: security)
+TGR-WRT has replaced its firewalls and VPNs with the multitenant Zscaler platform to streamline its security infrastructure. “We no longer need to have separate providers for different components of our security approach,” shared Nykänen. “The tools available on the Zscaler platform enable us to rely on one partner for comprehensive zero trust protection across our operations.”
+
+With a streamlined security architecture, the organization has achieved a more robust security posture. In a three-month period, Zscaler processed more than 305.9 million transactions and 13.7 TB of traffic for TGR-WRT, preventing 2.1 million policy violations. Of the traffic processed, 96% was encrypted traffic, which previous legacy solutions would have struggled to detect and inspect without hindering performance.
+
+Because Zscaler automates these mitigations, TGR-WRT staff can focus their energy and expertise on winning rallies. The team has been awarded the WRC Manufacturers’ Championship title for the last four seasons consecutively. As they strive to defend that title run, Zscaler will be defending their users, applications, data, and devices across the globe.
+
+“Zscaler is one of the best decisions we’ve made,” concluded Nykänen. “Remote access stability and performance even in remote locations has improved, and our users enjoy fast, seamless connectivity. In an environment where every tenth of a second matters, the comprehensive Zscaler platform makes a difference at every race event.”
+
+> "We no longer need to have separate providers for different components of our security approach. The tools available on the Zscaler platform enable us to rely on one partner for comprehensive zero trust protection across our operations."
+> — **Toyota Gazoo**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].url:** https://www.zscaler.com/products-and-solutions/zero-trust-sd-wan
+- **root.products[1].url:** https://www.zscaler.com/products-and-solutions/workload-communications
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-digital-experience
+- **root.products[3].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[4].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.solutions[0].name:** Optimize Digital Experiences
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 97951
+- **root.page_metadata.meta_description:** Learn how Toyota Gazoo TOYOTA GAZOO Protects Its Users and Data in the World's Most Extreme Remote Work Locations with Zscaler with Champion motorsport team deploys the Zero Trust Exchange, achieves 96% faster connectivity, and gives new meaning to global work-from-anywhere flexibility.
+- **root.page_metadata.og_title:** Toyota Gazoo Case Study | Customer Stories | Zscaler

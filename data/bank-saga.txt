@@ -1,0 +1,138 @@
+# The Bank of Saga Supports Digital Transformation on the Zscaler Zero Trust Exchange
+
+> Zscaler streamlines infrastructure, reduces reliance on legacy solutions, and strengthens security posture as bank operations migrate to the cloud
+
+**Customer Name:** The Bank of Saga
+
+### Key Metrics
+- **~33%**: lower communication costs
+- **1.8K**: users secured with zero trust
+- **One**: single sign-on boosts productivity
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/bank-saga
+- **Slug:** bank-saga
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:03.959503Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** The Bank of Saga
+- **Description:** Community-focused financial services provider working to enhance customer convenience
+- **Industry:** Financial Services and Insurance
+- **Headquarters:** Saga City, Saga Prefecture, Japan
+- **Size:** 1,200+ employees
+
+## Executive Summary
+### Challenges
+- A traditional, perimeter-based security architecture would not support the bank's continuing cloud migration efforts
+- Legacy security appliances lacked the agility to scale with increasing needs for direct, reliable internet connectivity
+- VPNs were costly to maintain and increased the attack surface, leaving private apps and data vulnerable to threats
+
+### Phased Journey
+- -I-n- -l-i-n-e- -w-i-t-h- -i-t-s- -s-l-o-g-a-n-,- -"-I-n- -t-h-i-s- -t-o-w-n-,- -w-i-t-h- -y-o-u-,-"- -t-h-e- -B-a-n-k- -o-f- -S-a-g-a- -a-i-m-s- -t-o- -p-r-o-v-i-d-e- -c-o-m-m-u-n-i-t-y---r-o-o-t-e-d- -s-e-r-v-i-c-e-s-.-
+- -T-h-e- -B-a-n-k- -o-f- -S-a-g-a- -h-a-s- -s-e-t- -o-u-t- -a- -m-i-d---t-e-r-m- -m-a-n-a-g-e-m-e-n-t- -p-l-a-n- -t-o- -c-o-n-t-r-i-b-u-t-e- -t-o- -a- -s-u-s-t-a-i-n-a-b-l-e- -r-e-g-i-o-n-a-l- -s-o-c-i-e-t-y- -a-n-d- -e-c-o-n-o-m-y-,- -w-i-t-h- -d-i-g-i-t-a-l- -t-r-a-n-s-f-o-r-m-a-t-i-o-n- -a-s- -a- -c-o-r-e- -i-n-i-t-i-a-t-i-v-e-.-
+- -T-o- -e-n-a-b-l-e- -c-l-o-u-d- -m-i-g-r-a-t-i-o-n-,- -t-h-e- -S-y-s-t-e-m-s- -D-e-p-a-r-t-m-e-n-t- -d-e-c-i-d-e-d- -t-h-a-t- -a-d-o-p-t-i-n-g- -z-e-r-o- -t-r-u-s-t- -s-e-c-u-r-i-t-y- -w-o-u-l-d- -a-l-s-o- -a-c-h-i-e-v-e- -a-c-c-e-s-s- -c-o-n-t-r-o-l- -f-o-r- -t-h-e- -e-n-t-i-r-e- -g-r-o-u-p-.-
+- -T-h-e- -B-a-n-k- -o-f- -S-a-g-a- -c-o-n-s-i-d-e-r-e-d- -c-o-s-t-s- -f-r-o-m- -v-a-r-i-o-u-s- -a-n-g-l-e-s-.-
+- -I-n- -e-a-r-l-y- -2-0-2-2-,- -t-h-e- -B-a-n-k- -o-f- -S-a-g-a- -b-e-g-a-n- -t-o- -g-r-a-d-u-a-l-l-y- -d-i-s-t-r-i-b-u-t-e- -P-C-s- -w-i-t-h- -t-h-e- -Z-s-c-a-l-e-r- -C-l-i-e-n-t- -C-o-n-n-e-c-t-o-r-™- -a-g-e-n-t- -i-n-s-t-a-l-l-e-d-,- -a-i-m-i-n-g- -t-o- -h-a-v-e- -a- -z-e-r-o- -t-r-u-s-t- -s-e-c-u-r-i-t-y- -s-y-s-t-e-m- -i-n- -p-l-a-c-e- -b-y- -m-i-d---2-0-2-3-.-
+
+### Results & Impact
+- Secures outbound and inbound connectivity for employees, applying consistent access policies regardless of location
+- Protects private banking applications and critical data from compromise, securing and improving customer experiences
+- Streamlines the security stack and displaces legacy appliances, simplifying policy management and reducing costs
+
+## Featured Quotes
+> "A shift to the cloud is necessary for digital transformation. … [However,] conventional boundary security does not allow the convenience of SaaS and web services to be fully utilized. Zero trust security was essential."
+> — **Mr. Hiroaki Hayashida — Deputy Director, Systems Planning and Development Group, Systems Department — The Bank of Saga**
+
+## Customer Case Study
+### Section (ID: section-1 | Type: other)
+In line with its slogan, "In this town, with you," the Bank of Saga aims to provide community-rooted services. Recently, the bank has been promoting initiatives to create value beyond the financial sector across the entire group. Amid the region’s expanding digital transformation needs in wake of the COVID-19 pandemic, the bank is advancing digital transformation both for its customers and to support its infrastructure. Existing traditional perimeter-based security measures posed a major challenge. To balance convenience and security while unifying protection across the banking group, the Bank of Saga implemented Zscaler zero trust solutions.
+
+> "By eliminating the closed network connection and going direct-to-internet, we were able to reduce communication fees by about one-third."
+> — **Mr. Hiroaki Hayashida — Deputy Director, Systems Planning and Development Group, Systems Department — The Bank of Saga**
+
+### Achieving convenience and security by moving beyond boundary-based protection (ID: achieving-convenience-and-security-by-moving-beyond-boundary-based-protection | Type: security)
+The Bank of Saga has set out a mid-term management plan to contribute to a sustainable regional society and economy, with digital transformation as a core initiative. The bank is ambitiously working to enhance customer convenience and added value by promoting digital transformation among local businesses.
+
+Hiroaki Hayashi, Deputy Director of the Systems Department at the Bank of Saga’s Business Management Headquarters, explains, "For customer-focused digital transformation, we are strengthening channels through smartphone apps and the web. Naturally, this requires the cloud, so we are also planning to shift the Bank of Saga’s internal systems to the cloud."
+
+However, the bank’s previous information systems relied on perimeter-based security, which separated the internet from on-premises systems. Hayashi notes, "As we shift to the cloud and increase the use of SaaS, direct connections to the internet become more frequent. While perimeter-based security is suitable for protecting internal systems, it has limitations around convenient access to the cloud and external resources. We decided to implement zero trust security, which doesn't depend on access location."
+
+There was another security challenge. The Bank of Saga is transitioning its entire group into a "consulting firm" to address the business challenges companies face. Although there were security regulations for access control across the group, specific measures were left to each group company. The risk of an attack on the weakest link in the supply chain highlighted the need to unify and enhance security across the entire group.
+
+### Evaluating the balance between high functionality and cost (ID: evaluating-the-balance-between-high-functionality-and-cost | Type: other)
+To enable cloud migration, the Systems Department decided that adopting zero trust security would also achieve access control for the entire group. After comparing products from multiple vendors, they selected Zscaler.
+
+Focusing on two key requirements—managing and monitoring internet access, and controlling private access to the internal network from external devices—the Bank of Saga ultimately chose Zscaler zero trust solutions for their advanced functionality and cost-effectiveness. "Zscaler is a top leader in the industry and excelled in overall balance, which was a significant factor," said Hayashi.
+
+The bank deployed Zscaler Internet Access™ (ZIA™) for managing internet access and Zscaler Private Access™ (ZPA™) for protecting internal communications. The private access functionality was particularly valued. "ZPA offers robust control features for accessing the internal network from external sources, and we appreciated the detailed configuration options," Hayashi explained.
+
+> "Zscaler is a top leader in the industry and excelled in overall balance, which was a significant factor."
+> — **Hayashi — The Bank of Saga**
+
+> "ZPA offers robust control features for accessing the internal network from external sources, and we appreciated the detailed configuration options."
+> — **Hayashi — The Bank of Saga**
+
+> "We decided to implement zero trust security, which doesn't depend on access location."
+> — **Mr. Hiroaki Hayashida — Deputy Director, Systems Planning and Development Group, Systems Department — The Bank of Saga**
+
+### Don’t make zero trust security a cost center (ID: don-t-make-zero-trust-security-a-cost-center | Type: security)
+The Bank of Saga considered costs from various angles. One of these was the communication costs of accessing the company's internal systems from outside. "We introduced a thin client system about seven years ago and connected via mobile communications over a closed network, but this was costly. ZPA allows for safe private access from outside, and security can be guaranteed even over the internet. By eliminating the closed network connection and going direct-to-internet, we were able to reduce communication fees by about one-third," says Hayashida.
+
+Regarding security management for the entire group, Hayashida said, "If we set up a proxy server at each branch, we would also incur implementation and management costs for each branch. Most branches do not have a dedicated IT team, so the burden on each branch would increase. If we use Zscaler to centrally manage security at the parent bank, we can implement unified measures across the entire group while keeping costs down."
+
+The Bank of Saga also evaluated the benefits of introducing zero trust security, such as secure remote work. Creating a secure, mobile-friendly environment, including cloud services such as Microsoft 365, will change the way people work and communicate. "Just being able to hold online meetings from anywhere can reduce travel time, transportation costs, and other expenses," said Hayashida. Even if security measures incur costs, those are outweighed by benefits and cost savings elsewhere.
+
+> "We introduced a thin client system about seven years ago and connected via mobile communications over a closed network, but this was costly. ZPA allows for safe private access from outside, and security can be guaranteed even over the internet. By eliminating the closed network connection and going direct-to-internet, we were able to reduce communication fees by about one-third."
+> — **Hayashi — The Bank of Saga**
+
+> "If we set up a proxy server at each branch, we would also incur implementation and management costs for each branch. Most branches do not have a dedicated IT team, so the burden on each branch would increase. If we use Zscaler to centrally manage security at the parent bank, we can implement unified measures across the entire group while keeping costs down."
+> — **Hayashi — The Bank of Saga**
+
+> "Just being able to hold online meetings from anywhere can reduce travel time, transportation costs, and other expenses."
+> — **Hayashi — The Bank of Saga**
+
+> "Just being able to hold online meetings from anywhere can reduce travel time, transportation costs, and other expenses."
+> — **Mr. Hiroaki Hayashida — Deputy Director, Systems Planning and Development Group, Systems Department — The Bank of Saga**
+
+### Enhancing trust with reliable access control (ID: enhancing-trust-with-reliable-access-control | Type: other)
+In early 2022, the Bank of Saga began to gradually distribute PCs with the Zscaler Client Connector™ agent installed, aiming to have a zero trust security system in place by mid-2023. "Because it is a cloud-based solution, we were able to build the system in a short period of time," said Hayashida. "From spring 2023, we will enter the actual usage phase with 1,800 licenses."
+
+As the Zscaler rollout progresses, Hayashida points to support for single sign-on (SSO) as a key to user convenience. "The Bank of Saga uses HENNGE One IdP Edition for SSO. Zscaler can use SSO linked to HENNGE One, so bank employees can log in to Zscaler without even thinking about it, and access private information using the same screen operations they used to log in to Microsoft 365," he said.
+
+"I feel that the cloud-based Zscaler Zero Trust Exchange offers great advantages, as it does not require hardware or software updates like on-premises solutions and can be used while expanding functions nonstop," Hayashida said. From now on, as the Bank of Saga provides value to solve local issues, Zscaler will support digital transformation as the security infrastructure.
+
+> "Because it is a cloud-based solution, we were able to build the system in a short period of time. From spring 2023, we will enter the actual usage phase with 1,800 licenses."
+> — **Hayashi — The Bank of Saga**
+
+> "The Bank of Saga uses HENNGE One IdP Edition for SSO. Zscaler can use SSO linked to HENNGE One, so bank employees can log in to Zscaler without even thinking about it, and access private information using the same screen operations they used to log in to Microsoft 365."
+> — **Hayashi — The Bank of Saga**
+
+> "I feel that the cloud-based Zscaler Zero Trust Exchange offers great advantages, as it does not require hardware or software updates like on-premises solutions and can be used while expanding functions nonstop."
+> — **Hayashi — The Bank of Saga**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Internet Access (ZIA)
+- **root.products[0].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[1].name:** Zscaler Private Access (ZPA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[2].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[2].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[2].name:** Secure Remote Access
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/vpn-alternative
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 84826
+- **root.page_metadata.meta_description:** Learn how The Bank of Saga The Bank of Saga Supports Digital Transformation on the Zscaler Zero Trust Exchange with Zscaler streamlines infrastructure, reduces reliance on legacy solutions, and strengthens security posture as bank operations migrate to the cloud.
+- **root.page_metadata.og_title:** The Bank of Saga Case Study | Customer Stories | Zscaler

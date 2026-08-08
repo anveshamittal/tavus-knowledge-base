@@ -1,0 +1,114 @@
+# CAPTRUST Enables Work-from-Home
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** CAPTRUST
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/captrust
+- **Slug:** captrust
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:10.537039Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** CAPTRUST
+- **Description:** CAPTRUST provides investment advisory services to retirement plan fiduciaries, endowments, and foundations and wealth planning services to executives, business owners, and families.
+- **Industry:** Financial Services and Insurance
+- **Headquarters:** Raleigh, NC, USA
+- **Size:** 700 employees
+
+## Executive Summary
+### Challenges
+- Moving 683/700 employees to a secure work-from-home setup by replacing a VPN that (literally) couldn’t take the heat
+
+### Phased Journey
+- -T-h-e- -p-a-s-t- -c-o-u-p-l-e- -o-f- -m-o-n-t-h-s- -h-a-v-e-,- -a-t- -t-i-m-e-s-,- -s-e-e-m-e-d- -m-o-r-e- -l-i-k-e- -a- -m-o-v-i-e- -s-c-r-i-p-t- -t-h-a-n- -a-c-t-u-a-l- -r-e-a-l-i-t-y-.-
+- -I- -a-t-t-r-i-b-u-t-e- -o-u-r- -p-o-s-i-t-i-v-e- -e-x-p-e-r-i-e-n-c-e- -s-w-i-t-c-h-i-n-g- -t-o- -w-o-r-k-i-n-g- -f-r-o-m- -h-o-m-e- -t-o- -o-u-r- -j-o-u-r-n-e-y- -t-o- -t-h-e- -c-l-o-u-d-,- -w-h-i-c-h- -w-e- -b-e-g-a-n- -i-n- -e-a-r-l-y- -2-0-1-7-.-
+- -I-n- -e-a-r-l-y- -2-0-1-8-,- -I- -w-a-s- -t-a-s-k-e-d- -w-i-t-h- -l-e-a-d-i-n-g- -o-u-r- -b-u-s-i-n-e-s-s- -c-o-n-t-i-n-u-i-t-y- -e-f-f-o-r-t-s- -a-n-d- -t-o- -r-e-v-a-m-p- -o-u-r- -B-u-s-i-n-e-s-s- -C-o-n-t-i-n-u-i-t-y- -P-l-a-n-n-i-n-g-/-D-i-s-a-s-t-e-r- -R-e-c-o-v-e-r-y- -(-B-C-P-/-D-R-)- -c-a-p-a-b-i-l-i-t-i-e-s-.-
+- -I-n- -J-a-n-u-a-r-y- -2-0-2-0-,- -w-e- -k-n-e-w- -C-O-V-I-D---1-9- -w-a-s- -c-o-m-i-n-g---t-o- -w-h-a-t- -d-e-g-r-e-e- -w-a-s- -d-e-b-a-t-a-b-l-e---a-n-d- -c-o-n-v-e-n-e-d- -o-u-r- -C-r-i-t-i-c-a-l- -I-n-c-i-d-e-n-t- -R-e-s-p-o-n-s-e- -T-e-a-m- -t-o- -t-a-k-e- -t-h-e- -n-e-c-e-s-s-a-r-y- -s-t-e-p-s- -t-o- -b-e- -p-r-e-p-a-r-e-d- -f-o-r- -c-o-n-c-e-i-v-a-b-l-e- -e-v-e-n-t-u-a-l-i-t-i-e-s-.-
+- -B-e-i-n-g- -a-b-l-e- -t-o- -c-o-n-t-i-n-u-e- -o-u-r- -w-o-r-k- -u-n-i-n-t-e-r-r-u-p-t-e-d- -h-a-s- -a-l-l-o-w-e-d- -u-s- -t-o- -c-o-n-s-t-a-n-t-l-y- -s-e-r-v-e- -o-u-r- -c-l-i-e-n-t-s- -t-h-r-o-u-g-h-o-u-t- -t-h-e-s-e- -t-u-r-b-u-l-e-n-t- -t-i-m-e-s- -a-n-d- -c-o-n-t-i-n-u-e- -w-i-t-h- -M-&-A- -a-c-t-i-v-i-t-y-,- -w-h-i-c-h- -i-s- -a-n- -i-m-p-o-r-t-a-n-t- -d-r-i-v-e-r- -f-o-r- -t-h-e- -s-u-s-t-a-i-n-e-d- -g-r-o-w-t-h- -o-f- -o-u-r- -b-u-s-i-n-e-s-s-.-
+
+### Results & Impact
+- Gives 700 users private application access without sacrificing user experience
+- Replaced a legacy VPN that went down during 110-degree weather
+- Enables immediate onboarding after the 40th acquisition in 14 years
+- Leverages Zscaler vendor ecosystem to improve endpoint security and threat detection
+
+## Featured Quotes
+> "…using ZIA and ZPA, we were able to get our new employees set up and productive almost immediately."
+> — **Jon Meyer — CTO — CAPTRUST**
+
+## Customer Case Study
+### How an Outage Prepared CAPTRUST for a Pandemic (ID: how-an-outage-prepared-captrust-for-a-pandemic | Type: other)
+The past couple of months have, at times, seemed more like a movie script than actual reality. Fortunately, this movie we are living through includes scenes that make us hopeful and show us a path to where we, as technologists, should strive to be. Let me give you a glimpse into our story, which fits more into the inspiring feel-good category rather than the catastrophic drama that, unfortunately, many of our fellow global citizens are living through at this moment.
+
+Sunday, March 15: CAPTRUST’s leadership team decided that the following day would be our last day in the office. Later that evening, we distributed a message using our urgent notification system to all employees informing them to prepare to work from home starting Tuesday, March 17. From that point on, only 27 named employees out of 700 team members were on the list to be allowed back into any of our facilities.
+
+Monday, March 16: Admittedly, there was a scramble—but not a network or VPN scramble. Our employees were busy packing their monitors, docking stations, keyboards, and mice to replicate their workspaces at home and make working from home as productive (or nearly as productive) as being in their office.
+
+Wednesday, March 18: On day two of our mandated work-from-home journey, we all caught our breath and started to realize that we were good—as good as one can be in the midst of a global pandemic—and people started to settle in for the long haul. Naturally, our people were scared about the looming economic downturn and market volatility, as we are an employee-owned, independent investment advisor with $370 billion of assets under advisement.
+
+The steady drip of negative economic and health-related news that exacerbates fears among our clients with regard to their financial investments and beyond translates into additional work for us as their trusted partner. Hence, not having to be worried about our core technology or our staff being able to continue to serve our clients and the community was extremely important in our Business Continuity efforts.
+
+Since we had implemented Zscaler Internet Access™ (ZIA™) for internet security policy enforcement and Zscaler Private Access™ (ZPA™) as our primary remote access solution, we had no issues (and hope to have no issues in the future) transitioning to a fully remote workforce. With ZIA, our users are still subject to web filtering and internet access policies, protecting them wherever they work. ZPA also provides them access to private applications, such as our phone system, without sacrificing user experience.
+
+### Preparing for business continuity in times of stability (ID: preparing-for-business-continuity-in-times-of-stability | Type: other)
+I attribute our positive experience switching to working from home to our journey to the cloud, which we began in early 2017. We moved core systems, such as Microsoft Dynamics CE, into the cloud and repositioned most of our server assets to Azure. We shed running our own email and SharePoint, and moved this into Office 365. The year saw so much change! As part of this project, we realized that the cloud experience that we were embracing would be tarnished if we kept our traditional network in place.
+
+At the time, our MPLS network was secured with appliances for our headquarters and a cloud solution from the same vendor for regional offices. It was virtually impossible to keep them synchronized in terms of policy, and we were never able to get the appliances to work properly in our headquarters. Hence, we switched to an SD-WAN solution and knew that, with so many Internet egress points, only a cloud-based security solution would be able to meet our security needs and scale with our growth. After an unplanned but fateful meeting with Lisa Lorenzin from Zscaler at Microsoft Ignite, we embarked on our journey with Zscaler.
+
+> "We realized that the cloud experience that we were embracing would be tarnished if we kept our traditional network in place."
+> — **Jon Meyer — CTO — CAPTRUST**
+
+### Refining BCP/DR after a real-life test (ID: refining-bcp-dr-after-a-real-life-test | Type: other)
+In early 2018, I was tasked with leading our business continuity efforts and to revamp our Business Continuity Planning/Disaster Recovery (BCP/DR) capabilities. Not long after, in June of 2018, we experienced a major power outage in our headquarters building that lasted five business days. While the temperature in our building rose to over 110°F—it’s hot in North Carolina in the summer—250 employees were forced to work either at a business continuity facility that we maintain in a nearby data center or from home.
+
+While our clients did not notice this turbulence, some of our employees were not as effective as they could have been. Our VPN was overloaded, not everyone had a laptop, and the pre-placed disaster recovery machines did not have all the specialized software our employees needed, such as Adobe Creative Suite for the marketing team. Once business returned to normal, as a result, we stopped providing employees with desktop computers and switched almost everyone over to laptops/tablets. In addition, we rolled out ZPA so that our users would never again have to think about VPN.
+
+> "We rolled out ZPA so that our users would never again have to think about VPN."
+> — **Jon Meyer — CTO — CAPTRUST**
+
+### Preparing early for the pandemic (ID: preparing-early-for-the-pandemic | Type: other)
+In January 2020, we knew COVID-19 was coming—to what degree was debatable—and convened our Critical Incident Response Team to take the necessary steps to be prepared for conceivable eventualities. We rolled out softphones. We urged leaders to think about backup personnel for backup personnel in case of mass absenteeism. We asked everyone to validate that they could work from home, and made sure USB dongles, HDMI cords, and Ethernet cables were provided.
+
+When March 17 came around, we did not have to make any network and security changes, adjust capacity, or even install new equipment—any of which would very likely risk the introduction of security misconfigurations or performance failures. For us, Zscaler is an integral part of a solid BCP/DR program and has proven itself in this difficult situation.
+
+While we were all saddle sore the first few weeks switching from mostly face-to-face or conference room speakerphone conversation to Microsoft Teams, imagine how unpalatable this experience would have been if all this traffic had been routed to a central hub and a stack of appliances for inspection?
+
+This transformation has been a true example of an excellent team effort, from our CEO and President who was willing to invest in technology changes to enable the scalability necessary to propel our growth, coupled with the forward-thinking vision of our Head of Information Security & Network Nick Brezinski, our Head of Infrastructure Ken Carter, and our Head of Application Development Scott Andrews. We have been fortunate to have bought into this ecosystem early on, moving to a new network model and security architecture, leveraging a vendor ecosystem, including Microsoft, CrowdStrike, and Zscaler, that naturally complements each other.
+
+> "For us, Zscaler is an integral part of a solid BCP/DR program and has proven itself in this difficult situation."
+> — **Jon Meyer — CTO — CAPTRUST**
+
+### Following our mission throughout the crisis (ID: following-our-mission-throughout-the-crisis | Type: other)
+Being able to continue our work uninterrupted has allowed us to constantly serve our clients throughout these turbulent times and continue with M&A activity, which is an important driver for the sustained growth of our business. In March, we successfully completed the 40th acquisition in 14 years, and using ZIA and ZPA, we were able to get our new employees set up and productive almost immediately.
+
+What also drives us at CAPTRUST is giving back to the communities in which we live. Our mission is not only to grow our business and keep our operations stable but also to be a stabilizing factor for our community. Through the CAPTRUST Community Foundation, we strive to enrich the lives of children by raising $10 million by 2026 through employee contributions.
+
+Our CEO issued a challenge at the end of March to raise an additional $100,000 so we could double emergency grants to local agencies that support people through the pandemic. Little did he know that our employees would surpass that total to reach $137,000 in only three weeks. So far, $95,000 has been distributed to 50 nonprofits nationwide.
+
+This situation is taxing for everyone, but I know we will see brighter days ahead. Just as we got through the financial crisis in 2008, we will get through this as well. While we are waiting for a treatment or a cure, we cannot let fear gnaw at us, and we have to stay productive to serve our clients and communities with service beyond expectation, exactly as called for in our company mission.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].name:** Zscaler Internet Access (ZIA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].name:** Zscaler Private Access (ZPA)
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 40866
+- **root.page_metadata.meta_description:** Learn how CAPTRUST CAPTRUST Enables Work-from-Home with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** CAPTRUST Case Study | Customer Stories | Zscaler

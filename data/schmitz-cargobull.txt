@@ -1,0 +1,97 @@
+# Schmitz Cargobull Secures Its Cloud-Only Strategy
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Schmitz Cargobull
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/schmitz-cargobull
+- **Slug:** schmitz-cargobull
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:56:32.419250Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Schmitz Cargobull
+- **Description:** Schmitz Cargobull AG is a leading global manufacturer of semi-trailers, trailers, and motor vehicle bodies for temperature-controlled freight.
+- **Industry:** Manufacturing
+- **Headquarters:** Horstmar, Germany
+- **Size:** 5,800 employees at 50 locations worldwide
+
+## Executive Summary
+### Challenges
+- Guarantee remote employees secure access to applications in the cloud and the internet at all times while reducing exposure
+
+### Phased Journey
+- -Z-s-c-a-l-e-r-,- -I-n-c-.-
+- -W-i-t-h- -Z-s-c-a-l-e-r-,- -S-c-h-m-i-t-z- -C-a-r-g-o-b-u-l-l- -g-a-i-n-s- -a- -m-u-l-t-i-l-a-y-e-r-e-d- -s-e-c-u-r-i-t-y- -a-p-p-r-o-a-c-h- -a-n-d- -e-n-c-r-y-p-t-e-d- -t-r-a-f-f-i-c- -i-n-s-p-e-c-t-i-o-n- -t-o- -p-r-o-t-e-c-t- -a-g-a-i-n-s-t- -f-a-s-t---m-o-v-i-n-g- -t-h-r-e-a-t-s-.-
+- -B-y- -u-s-i-n-g- -Z-P-A- -i-n-s-t-e-a-d- -o-f- -h-a-r-d-w-a-r-e---b-a-s-e-d- -V-P-N-s-,- -S-c-h-m-i-t-z- -C-a-r-g-o-b-u-l-l- -e-n-s-u-r-e-s- -i-t-s- -p-r-i-v-a-t-e- -a-p-p-l-i-c-a-t-i-o-n-s- -a-r-e- -n-e-v-e-r- -e-x-p-o-s-e-d- -t-o- -t-h-e- -i-n-t-e-r-n-e-t-,- -m-a-k-i-n-g- -t-h-e-m- -c-o-m-p-l-e-t-e-l-y- -i-n-v-i-s-i-b-l-e- -t-o- -u-n-a-u-t-h-o-r-i-z-e-d- -u-s-e-r-s-.-
+
+### Results & Impact
+- Gains a multilayered, cloud-delivered security approach
+- Harnesses ability to inspect encrypted traffic at scale
+- Reduces reliance on maintenance-intensive appliances
+- Increases supply chain availability for consultants
+
+## Featured Quotes
+> "Zscaler will keep our infrastructure hidden from attackers while making us more secure than we were before."
+> — **Michael Schöller — Head of Infrastructure — Schmitz Cargobull**
+
+## Customer Case Study
+### Logistics leader fortifies security (ID: logistics-leader-fortifies-security | Type: security)
+Zscaler, Inc. (NASDAQ: ZS), the leader in cloud security, today announced Schmitz Cargobull AG has selected the Zscaler™ Zero Trust Exchange™ platform to protect users, applications, and workloads for 5,800 employees at 50 locations worldwide. The leading global manufacturer of semi-trailers, trailers, and motor vehicle bodies for temperature-controlled freight will combine Zscaler Internet Access™ (ZIA™) and Zscaler Private Access™ (ZPA™) to create a holistic, high-performance zero trust security environment to power a cloud-only, work-from-anywhere (WFA) business model.
+
+Schmitz Cargobull is deploying Zscaler as the foundation of its overall digitalization and transformation initiative to modernize the company’s IT security infrastructure by migrating it to the cloud. ZIA is providing secure access to the internet for all staff while ZPA will be supplying VPN-free secure access to internal apps for the company’s mobile employees who work remotely.
+
+### Reducing risk across the board (ID: reducing-risk-across-the-board | Type: challenge)
+With Zscaler, Schmitz Cargobull gains a multilayered security approach and encrypted traffic inspection to protect against fast-moving threats. The deployment also furnishes a least privileged access model, which uses policies and identities to control and secure the company’s IT environment. This ensures users can only access the applications they need, while automatically achieving network microsegmentation for shrinking Schmitz Cargobull’s attack surface. Further, Zscaler’s more than 150 globally distributed data centers put the company’s workers in proximity to Zscaler points of presence (PoP) for reduced latency and enhanced performance.
+
+“It’s critical to provide our employees with a secure and highly available working environment by guaranteeing them secure access to applications in the cloud and the internet at all times, while reducing our exposure,” said Michael Schöller, Head of Infrastructure at Schmitz Cargobull AG. “This includes always-on access to our business-critical ERP system, which previously was jeopardized by access failures. To do all of this, we rely on a multilayered approach, which increases security.”
+
+In addition, adopting the Zero Trust Exchange platform enables Schmitz Cargobull to replace its existing decentralized, manually-administered security systems with a highly integrated zero trust solution that automatically applies up to 200,000 security updates daily, saving on resources and costs. “As we wanted to reduce the use of maintenance-intensive appliances in the course of our digitalization, only a cloud-native solution was right for us,” Schöller said.
+
+> "It’s critical to provide our employees with a secure and highly available working environment by guaranteeing them secure access to applications in the cloud and the internet at all times, while reducing our exposure. This includes always-on access to our business-critical ERP system, which previously was jeopardized by access failures. To do all of this, we rely on a multilayered approach, which increases security."
+> — **Michael Schöller — Head of Infrastructure — Schmitz Cargobull**
+
+> "As we wanted to reduce the use of maintenance-intensive appliances in the course of our digitalization, only a cloud-native solution was right for us."
+> — **Schmitz Cargobull**
+
+> "It’s critical to provide our employees with a secure and highly available working environment."
+> — **Michael Schöller — Head of Infrastructure — Schmitz Cargobull**
+
+### The Zscaler advantage (ID: the-zscaler-advantage | Type: other)
+By using ZPA instead of hardware-based VPNs, Schmitz Cargobull ensures its private applications are never exposed to the internet, making them completely invisible to unauthorized users. This not only improves the company’s security posture but also enables it to extend access to external users for greater business agility and a more secure supply chain.
+
+“Reducing VPN appliances, which have recently made headlines for vulnerabilities, will allow us to increase the availability of our supply chain and access for our consultants,” Schöller said. “Zscaler will keep our infrastructure hidden from attackers while making us more secure than we were before.”
+
+> "Reducing VPN appliances, which have recently made headlines for vulnerabilities, will allow us to increase the availability of our supply chain and access for our consultants. Zscaler will keep our infrastructure hidden from attackers while making us more secure than we were before."
+> — **Schmitz Cargobull**
+
+> "We wanted to reduce the use of maintenance-intensive appliances…only a cloud-native solution was right for us."
+> — **Michael Schöller — Head of Infrastructure — Schmitz Cargobull**
+
+> "Reducing VPN appliances will allow us to increase the availability of our supply chain and access for our consultants."
+> — **Michael Schöller — Head of Infrastructure — Schmitz Cargobull**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].name:** Zscaler Internet Access (ZIA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].name:** Zscaler Private Access (ZPA)
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 46636
+- **root.page_metadata.meta_description:** Learn how Schmitz Cargobull Schmitz Cargobull Secures Its Cloud-Only Strategy with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** Schmitz Cargobull Case Study | Customer Stories | Zscaler

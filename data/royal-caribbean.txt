@@ -1,0 +1,111 @@
+# Royal Caribbean Group Improves Security and Experience
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Royal Caribbean
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/royal-caribbean
+- **Slug:** royal-caribbean
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:56:23.883485Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Royal Caribbean
+- **Description:** The Royal Caribbean Group is a global cruise holding company incorporated in Liberia and based in Miami, Florida, United States. Comprised of three brands, the Royal Caribbean International, Celebrity Cruises, and Silversea Cruises, its 85,000 employees are spread over primarily 52 ships.
+- **Industry:** Transportation Services
+- **Headquarters:** Miami, FL, USA
+- **Size:** 85,000+ employees on 52 ships
+
+## Executive Summary
+### Challenges
+- Become a more secure enterprise, decrease operational costs, and provide a better user experience
+
+### Results & Impact
+- Improves security posture by reducing reliance on hub-and-spoke networks
+- Delivers seamless experiences to whichever location(s) employees work from
+- Bolsters cyber defenses and threat detection with zero trust security
+- Lowers operational costs by simplifying data centers and lessening the need for appliances
+
+## Featured Quotes
+> "Zscaler Zero Trust Exchange has allowed us to truly be able to work from anywhere. Anywhere being an office, one of our cruise ships, a hotel, an airplane, a Starbucks."
+> — **John Maya — VP of Operational Excellence — Royal Caribbean**
+
+> "Our legacy environment was incapable of providing a zero trust architecture for the success of our company."
+> — **John Maya — VP of Operational Excellence — Royal Caribbean**
+
+> "Zscaler Zero Trust Exchange has become so ingrained into our environment, it has become foundational."
+> — **John Maya — VP of Operational Excellence — Royal Caribbean**
+
+> "You're going to save money, be more secure, and have a greater experience."
+> — **John Maya — VP of Operational Excellence — Royal Caribbean**
+
+## Video Testimonial & Transcript
+**Title:** Royal Caribbean's digital experience journey
+**Description:** a Royal Caribbean's digital experience journey video
+**URL:** https://fast.wistia.net/embed/iframe/u1pwxayvae
+**Provider:** wistia
+**Video ID:** u1pwxayvae
+**Duration:** 144.996 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/42116b5c53bc218804a674e1da508cc4.png
+**Video Account Id:** 658399
+**Video Media Id:** 99055180
+**Video Created At:** 1671674101
+
+### Tagged Segments
+- **[John Maya (VP of Operational Excellence, Royal Caribbean)]** [Segment #1] (self_introduction - Introduction and company overview): "My name is John Maya. I am the vice president of operational excellence for the Royal Caribbean Group. The Royal Caribbean Group actually is comprised of three brands, the Royal Crip International, Celebrity Cruises, and Silver Sea Cruises. We have eighty five thousand employees, spread over primarily fifty two ships, and our mission is to just create fabulous vacations with great experiences and great great memories for our crew and for our guests."
+- **[John Maya (VP of Operational Excellence, Royal Caribbean)]** [Segment #2] (challenges - Legacy environment and VPN limitations): "Like many companies out there, traditionally, they worked in a castle and moat scenario hub and spoke using on demand VPN for users to connect remotely from their homes or an airplane or a hotel back into our corporate systems. Our legacy environment was incapable of providing a zero trust, architecture for the success of our company, for the things that we want to accomplish. The drivers were, I would say, threefold. Number one, to actually be more secure. Number two, to actually operate at a lower cost than we were had been traditionally. And how do we actually were able to provide a better user experience?"
+- **[John Maya (VP of Operational Excellence, Royal Caribbean)]** [Segment #3] (products_and_solutions - Adopting Zscaler Zero Trust Exchange): "As a result of talking to peers, we quickly realized that there was another solution that we could look at that was able to provide that. And that was Zscaler zero trust exchange."
+- **[John Maya (VP of Operational Excellence, Royal Caribbean)]** [Segment #4] (products_and_solutions - Benefits of Zscaler Zero Trust Exchange): "Zscaler zero trust exchange has allowed us to truly be able to work from any anywhere being an office, one of our cruise ships, a hotel, an airplane, a Starbucks. C skill is your trust exchange has become so ingrained into our environment, it has become foundational. And frankly, I could not see how it would operate without it."
+- **[John Maya (VP of Operational Excellence, Royal Caribbean)]** [Segment #5] (metrics_and_results - ROI and cost savings): "Part of the ROI that was identified was savings that we were able to generate as a result of simplification in our data centers, reduction of appliances, reduction also on cyber threats, and the impact those cyber threats."
+- **[John Maya (VP of Operational Excellence, Royal Caribbean)]** [Segment #6] (general_discussion - Zscaler partnership and customer success): "Pardon with Zscaler has brought in some great benefits. One of them is the presence of Zscaler presence starting from the CEO of the company down to every person, technical or sales to help us in our journey, ensuring our success But most importantly is making sure that as a customer, after we've already paid, is to ensure our success and how we leverage that technology."
+- **[John Maya (VP of Operational Excellence, Royal Caribbean)]** [Segment #7] (quote - Elevator pitch for Zscaler): "If I was an elevator with somebody, you know, I'd tell them the same thing I told our CFO when we sold this. You're gonna save money, be more secure, and have a greater experience."
+
+### Full Transcript Sentences
+- My name is John Maya.
+- I am the vice president of operational excellence for the Royal Caribbean Group.
+- The Royal Caribbean Group actually is comprised of three brands, the Royal Crip International, Celebrity Cruises, and Silver Sea Cruises.
+- We have eighty five thousand employees, spread over primarily fifty two ships, and our mission is to just create fabulous vacations with great experiences and great great memories for our crew and for our guests.
+- Like many companies out there, traditionally, they worked in a castle and moat scenario hub and spoke using on demand VPN for users to connect remotely from their homes or an airplane or a hotel back into our corporate systems.
+- Our legacy environment was incapable of providing a zero trust, architecture for the success of our company, for the things that we want to accomplish.
+- The drivers were, I would say, threefold.
+- Number one, to actually be more secure.
+- Number two, to actually operate at a lower cost than we were had been traditionally.
+- And how do we actually were able to provide a better user experience?
+- As a result of talking to peers, we quickly realized that there was another solution that we could look at that was able to provide that.
+- And that was Zscaler zero trust exchange.
+- Zscaler zero trust exchange has allowed us to truly be able to work from any anywhere being an office, one of our cruise ships, a hotel, an airplane, a Starbucks.
+- C skill is your trust exchange has become so ingrained into our environment, it has become foundational.
+- And frankly, I could not see how it would operate without it.
+- Part of the ROI that was identified was savings that we were able to generate as a result of simplification in our data centers, reduction of appliances, reduction also on cyber threats, and the impact those cyber threats.
+- Pardon with Zscaler has brought in some great benefits.
+- One of them is the presence of Zscaler presence starting from the CEO of the company down to every person, technical or sales to help us in our journey, ensuring our success But most importantly is making sure that as a customer, after we've already paid, is to ensure our success and how we leverage that technology.
+- If I was an elevator with somebody, you know, I'd tell them the same thing I told our CFO when we sold this.
+- You're gonna save money, be more secure, and have a greater experience.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].name:** Zscaler Internet Access (ZIA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].name:** Zscaler Private Access (ZPA)
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[3].name:** Zscaler Digital Experience (ZDX)
+- **root.products[3].url:** https://www.zscaler.com/products/zscaler-digital-experience
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[2].name:** Optimize Digital Experiences
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 58326
+- **root.page_metadata.meta_description:** Learn how Royal Caribbean Royal Caribbean Group Improves Security and Experience with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** Royal Caribbean Case Study | Customer Stories | Zscaler

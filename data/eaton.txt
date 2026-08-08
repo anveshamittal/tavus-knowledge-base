@@ -1,0 +1,139 @@
+# Eaton Secures Global Operations with AI-Powered Segmentation
+
+> Zscaler helps global manufacturer shift to the cloud with advanced threat protection, breach risk reduction, and increased visibility through partner integrations
+
+**Customer Name:** Eaton
+
+### Key Metrics
+- **4M**: threats blocked in one month
+- **90K**: employees worldwide connect to the internet and private apps via zero trust
+- **Multiple**: strategic alliance partners integrate seamlessly
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/eaton
+- **Slug:** eaton
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:55:22.635339Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Eaton
+- **Description:** Global electrical equipment manufacturer for aerospace and other industries
+- **Industry:** Manufacturing
+- **Headquarters:** Cleveland, Ohio, USA
+- **Size:** 90,000+ employees and users in 170 countries worldwide
+
+## Executive Summary
+### Challenges
+- Legacy VPNs and firewalls hindered growth and were unable to support 30,000+ factory floor employees during the pandemic and beyond
+- Traditional perimeter-based security architecture was incompatible with the company’s cloud-first strategy and segmentation needs
+- Lack of visibility limited threat discovery and slowed down time to remediation
+
+### Results & Impact
+- Provides a more secure, reliable, and regulated user experience for employees and third parties
+- Leverages the power of AI for threat detection, data loss prevention, remediation, visibility into ChatGPT usage, and application segmentation
+- Strengthens access control through zero trust segmentation and integration with EDR, CDR, and NDR tools
+
+## Featured Quotes
+> "Zscaler's ability to communicate with the top endpoint, cloud, and network detection and response solutions enables us to see all our security data in a single pane of glass."
+> — **Jason Koler — CISO — Eaton**
+
+> "Zscaler is easy to use, and its capabilities are built into one endpoint agent. We’ve been able to deploy Zscaler in our global environment quickly and expand its capabilities with few resources required on our side."
+> — **Jason Koler — CISO — Eaton**
+
+> "With our legacy VPN we had constant support issues. IT doesn’t have to babysit Zscaler. We see very few tickets related to remote access problems now."
+> — **Jason Koler — CISO — Eaton**
+
+> "We see Zscaler Breach Predictor as a key piece for our e-security ecosystem […] to both identify and prevent potential breaches"
+> — **Jason Koler — CISO — Eaton**
+
+## Video Testimonial & Transcript
+**Title:** Eaton Testimonial ft. Jason Koler
+**Description:** a Customer Testimonials video
+**URL:** https://fast.wistia.net/embed/iframe/hsbsgjp8l7
+**Provider:** wistia
+**Video ID:** hsbsgjp8l7
+**Duration:** 191.327 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/1ae5733822b1d12365db8f6a412c6d52.jpg
+**Video Account Id:** 658399
+**Video Media Id:** 125805574
+**Video Created At:** 1729608954
+
+### Tagged Segments
+- **[Jason Koler (CISO, Eaton)]** [Segment #1] (self_introduction - Eaton's global presence and priorities): "Eaton is a global manufacturer and making sure that we were able to be able to protect those devices and the users as they start to work remotely was very important to us."
+- **[Jason Koler (CISO, Eaton)]** [Segment #2] (self_introduction - Company size and workforce details): "We have one hundred and seventy countries. We have ninety thousand users and then we have around thirty thousand what we call shop floor or OT workers."
+- **[Jason Koler (CISO, Eaton)]** [Segment #3] (challenges - Remote work challenges during COVID): "When COVID hit, we went from one to two thousand employees working remote to twenty to thirty thousand employees."
+- **[Jason Koler (CISO, Eaton)]** [Segment #4] (challenges - Limitations of legacy technology): "And the legacy technology we were using was unable to support it. It was VPNs and it was firewalls. They couldn't support segmentations across the globe. It was all centralized."
+- **[Jason Koler (CISO, Eaton)]** [Segment #5] (products_and_solutions - Vendor selection and Zscaler adoption): "We go through a standard selection process when we look at vendors. And when we went through this process Zscaler came out the winner because of its current capabilities that it had but also the future capabilities that we're looking on. We are using ZPA and ZIA. You have to authenticate before you can get out to the Internet."
+- **[Jason Koler (CISO, Eaton)]** [Segment #6] (metrics_and_results - Blocked threats and reduced support tickets): "You know, on average, we're seeing three or four million attempts blocked by Zscaler in our environment promoted. Before with our legacy VPN, it was a constant support issue. But now your local IT support, they don't have to babysit Zscaler. We don't see as many tickets when it comes to people having trouble with remote access."
+- **[Jason Koler (CISO, Eaton)]** [Segment #7] (products_and_solutions - Data loss detection and ChatGPT visibility): "Data loss detection has been very helpful for us. ChatGPT came out. As a security person, we had no visibility into it. Zscaler was our key solution initially to help us understand who are going to it, what are they uploading, and then providing awareness."
+- **[Jason Koler (CISO, Eaton)]** [Segment #8] (products_and_solutions - Emergency remote access solution): "I think one of their key capability that I haven't mentioned yet is called our emergency remote access solution. Whereas before old VPN solution, there was no way of reducing the time that a third party was logging in. We're utilizing Zeetscaler to help us allow our third parties remote into our environment and really time box that."
+- **[Jason Koler (CISO, Eaton)]** [Segment #9] (products_and_solutions - Application segmentation and AI deployment): "We're continuing to deploy more capabilities like the application segmentation and using AI to do that. We have already in mid POV or proof of value air gapping our manufacturing sites."
+- **[Jason Koler (CISO, Eaton)]** [Segment #10] (general_discussion - Excitement about future technology): "We're really excited about it because we are looking for our technology to be able to do that."
+- **[Jason Koler (CISO, Eaton)]** [Segment #11] (products_and_solutions - Breach predictor and security ecosystem): "We have been part of the early release for breach predictor. We've used that information to push out behaviors, indicators downstream to the rest of our technologies to help, identify potential breaches, but also prevent them. We see it as a key piece for us moving forward to help in our security ecosystem."
+- **[Jason Koler (CISO, Eaton)]** [Segment #12] (quote - Testimonial on Zscaler's ease of use): "I tell people about Zscaler of its ease of use and its capabilities that has built into it. It's one endpoint agent, and we've been able to deploy it across the organization very quickly, and we've been able to expand its capabilities with not much, in a resourcing on our side. It's been outstanding and has been very helpful for us."
+
+### Full Transcript Sentences
+- Eaton is a global manufacturer and making sure that we were able to be able to protect those devices and the users as they start to work remotely was very important to us.
+- We have one hundred and seventy countries.
+- We have ninety thousand users and then we have around thirty thousand what we call shop floor or OT workers.
+- When COVID hit, we went from one to two thousand employees working remote to twenty to thirty thousand employees.
+- And the legacy technology we were using was unable to support it.
+- It was VPNs and it was firewalls.
+- They couldn't support segmentations across the globe.
+- It was all centralized.
+- We go through a standard selection process when we look at vendors.
+- And when we went through this process Zscaler came out the winner because of its current capabilities that it had but also the future capabilities that we're looking on.
+- We are using ZPA and ZIA.
+- You have to authenticate before you can get out to the Internet.
+- You know, on average, we're seeing three or four million attempts blocked by Zscaler in our environment promoted.
+- Before with our legacy VPN, it was a constant support issue.
+- But now your local IT support, they don't have to babysit Zscaler.
+- We don't see as many tickets when it comes to people having trouble with remote access.
+- Data loss detection has been very helpful for us.
+- ChatGPT came out.
+- As a security person, we had no visibility into it.
+- Zscaler was our key solution initially to help us understand who are going to it, what are they uploading, and then providing awareness.
+- I think one of their key capability that I haven't mentioned yet is called our emergency remote access solution.
+- Whereas before old VPN solution, there was no way of reducing the time that a third party was logging in.
+- We're utilizing Zeetscaler to help us allow our third parties remote into our environment and really time box that.
+- We're continuing to deploy more capabilities like the application segmentation and using AI to do that.
+- We have already in mid POV or proof of value air gapping our manufacturing sites.
+- We're really excited about it because we are looking for our technology to be able to do that.
+- We have been part of the early release for breach predictor.
+- We've used that information to push out behaviors, indicators downstream to the rest of our technologies to help, identify potential breaches, but also prevent them.
+- We see it as a key piece for us moving forward to help in our security ecosystem.
+- I tell people about Zscaler of its ease of use and its capabilities that has built into it.
+- It's one endpoint agent, and we've been able to deploy it across the organization very quickly, and we've been able to expand its capabilities with not much, in a resourcing on our side.
+- It's been outstanding and has been very helpful for us.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** AI Security Platform
+- **root.products[1].name:** Zscaler Digital Experience (ZDX)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-digital-experience
+- **root.products[2].name:** Zscaler Internet Access (ZIA)
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[3].name:** Zscaler Private Access (ZPA)
+- **root.products[3].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[4].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[4].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Secure Remote Access
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/vpn-alternative
+- **root.solutions[1].name:** Zero Trust App Access
+- **root.solutions[2].name:** Data Security
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.solutions[3].name:** Optimize Digital Experiences
+- **root.solutions[4].name:** Ransomware
+- **root.solutions[4].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 84786
+- **root.page_metadata.meta_description:** Learn how Eaton Eaton Secures Global Operations with AI-Powered Segmentation with Zscaler helps global manufacturer shift to the cloud with advanced threat protection, breach risk reduction, and increased visibility through partner integrations.
+- **root.page_metadata.og_title:** Eaton Case Study | Customer Stories | Zscaler

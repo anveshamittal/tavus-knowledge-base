@@ -1,0 +1,102 @@
+# West Fraser Embarks on Zero Trust Transformation
+
+> and Speeds M&A Onboarding with Zscaler Zero Trust Exchange
+
+**Customer Name:** West Fraser
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/west-fraser
+- **Slug:** west-fraser
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:57:05.065295Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** West Fraser
+- **Description:** West Fraser Timber is one of the world’s largest diversified wood products companies and the largest lumber producer in North America. In recent years, West Fraser has grown significantly through acquisition, extending its presence in Canada and the US as well as reaching into Europe.
+- **Industry:** Manufacturing
+- **Headquarters:** Quesnel, British Columbia, Canada
+- **Size:** 8,000+ employees across approximately 50 locations
+
+## Executive Summary
+### Challenges
+- Simplify secure remote access and shrink time to productivity for employees of newly acquired companies
+
+### Results & Impact
+- Deployed zero trust work-from-anywhere access globally within weeks
+- Grants new M&A employees access to apps in hours instead of weeks
+- Filtered approximately 3.5 billion events in one year
+- Prevented more than 745,200 policy violations
+- Blocked 37,000+ threats, including 5,490 encrypted threats
+- Simplifies remote access for both IT and users
+- Transformed network access strategy to zero trust
+
+## Featured Quotes
+> "[For acquisitions] providing access to internal applications that would have involved weeks of planning and complicated architecture discussions are now resolved in a matter of hours."
+> — **Michael Dobson — Director of Information Security — West Fraser**
+
+## Video Testimonial & Transcript
+**Title:** West Fraser: a zero trust transformation, enabled.
+**Description:** a West Fraser video
+**URL:** https://fast.wistia.net/embed/iframe/uyehi2aze6
+**Provider:** wistia
+**Video ID:** uyehi2aze6
+**Duration:** 128.421 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/90a860024540f36ea3301cfbb8859e8b.png
+**Video Account Id:** 658399
+**Video Media Id:** 87285061
+**Video Created At:** 1647307119
+
+### Tagged Segments
+- **[Michael Dobson (Director of Information Security, West Fraser)]** [Segment #1] (self_introduction - Introduction and role at West Fraser): "My name is Michael Robson. I'm the director of information security at West Fraser timber."
+- **[Michael Dobson (Director of Information Security, West Fraser)]** [Segment #2] (self_introduction - Company background and growth): "We're one of the largest diversified wood products companies in the world. We're a company that grows their acquisition and we've grown significantly over the past two years."
+- **[Michael Dobson (Director of Information Security, West Fraser)]** [Segment #3] (challenges - Limitations of traditional VPN model): "So in order to allow us to provide our internal applications and network services in the most agile Way, we needed to move beyond the traditional hub and spoke model in the corporate land. So we migrated away from the VPN model for a a couple of reasons."
+- **[Michael Dobson (Director of Information Security, West Fraser)]** [Segment #4] (challenges - Security issues with legacy tokens): "A lot of the security that we were using around those leverage tokens that were hard to maintain and provide, then they would pin users to a particular ingress and point, depending on our points of presence."
+- **[Michael Dobson (Director of Information Security, West Fraser)]** [Segment #5] (challenges - Remote work challenges during COVID-19): "When COVID nineteen hit, we needed an immediate way to support our employees working remotely."
+- **[Michael Dobson (Director of Information Security, West Fraser)]** [Segment #6] (products_and_solutions - Rapid transformation with Zscaler): "We're able to leverage Zscaler to go through a rapid transformation and within only a matter of weeks, successfully onboard our entire employee workforce."
+- **[Michael Dobson (Director of Information Security, West Fraser)]** [Segment #7] (products_and_solutions - Simplified remote access with Zscaler): "So Zscaler simplifies remote access in the sense that it requires simply a software installation on a workstation."
+- **[Michael Dobson (Director of Information Security, West Fraser)]** [Segment #8] (products_and_solutions - Zero Trust security approach): "Zero trust represents the ideal state in terms of securing data and applications from employees because it assumes nothing. So by breaking things down and trusting nothing, you segment and distribute the risk."
+- **[Michael Dobson (Director of Information Security, West Fraser)]** [Segment #9] (metrics_and_results - Threat events filtered by Zscaler): "Around three point five billion events have been filtered for us by Zscaler."
+- **[Michael Dobson (Director of Information Security, West Fraser)]** [Segment #10] (products_and_solutions - Scalability and acquisition support): "Biggest benefit we found working with Zscaler is their ability to scale with us. In addition, Zscaler has helped us with our acquisitions, measures such providing access to internal applications that would involve weeks of planning and complicated network architecture discussions are now resolved in a matter of hours."
+- **[Michael Dobson (Director of Information Security, West Fraser)]** [Segment #11] (quote - Transforming network access strategy): "Zscaler's products we'd allows us to grow from a company that just wanted is Net filtering into one that is now transforming through Zero Trust, our entire network access strategy."
+
+### Full Transcript Sentences
+- We chose Zscaler because it's built from the ground up as a remote access tool.
+- It's optimized to provide best service in terms of web filtering and private access.
+- My name is Michael Robson.
+- I'm the director of information security at West Fraser timber.
+- We're one of the largest diversified wood products companies in the world.
+- We're a company that grows their acquisition and we've grown significantly over the past two years.
+- So in order to allow us to provide our internal applications and network services in the most agile Way, we needed to move beyond the traditional hub and spoke model in the corporate land.
+- So we migrated away from the VPN model for a a couple of reasons.
+- A lot of the security that we were using around those leverage tokens that were hard to maintain and provide, then they would pin users to a particular ingress and point, depending on our points of presence.
+- When COVID nineteen hit, we needed an immediate way to support our employees working remotely we're able to leverage Zscaler to go through a rapid transformation and within only a matter of weeks, successfully onboard our entire employee workforce.
+- So Zscaler simplifies remote access in the sense that it requires simply a software installation on a workstation.
+- Zero trust represents the ideal state in terms of securing data and applications from employees because it assumes nothing So by breaking things down and trusting nothing, you segment and distribute the risk around three point five billion events have been filtered for us by Zscaler.
+- Biggest benefit we found working with Zscaler is their ability to scale with us.
+- In addition, Zscaler has helped us with our acquisitions, measures such providing access to internal applications that would involve weeks of planning and complicated network architecture discussions are now resolved in a matter of hours, and Zscaler's products we'd allows us to grow from a company that just wanted is Net filtering into one that is now transforming through Zero Trust, our entire network access strategy.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Internet Access (ZIA)
+- **root.products[0].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[1].name:** Zscaler Private Access (ZPA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[2].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[2].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Data Security
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.solutions[2].name:** Ransomware
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 51441
+- **root.page_metadata.meta_description:** Learn how West Fraser West Fraser Embarks on Zero Trust Transformation with and Speeds M&A Onboarding with Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** West Fraser Case Study | Customer Stories | Zscaler

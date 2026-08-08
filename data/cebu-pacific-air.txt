@@ -1,0 +1,163 @@
+# Cebu Pacific Air Secures Its Hybrid Workforce with the Zscaler Zero Trust Exchange
+
+> Zscaler improves the remote work experience for 3,900 employees and protects critical business operations at seven strategic hubs across Asia
+
+**Customer Name:** Cebu Pacific Air
+
+### Key Metrics
+- **234M**: policy violations prevented quarterly
+- **90%**: increase in user satisfaction
+- **2**: weeks to deploy zero trust remote app access
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/cebu-pacific-air
+- **Slug:** cebu-pacific-air
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:11.315461Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Cebu Pacific Air
+- **Description:** Leading airline in the Philippines, operating flights to more than 60 destinations
+- **Industry:** Transportation Services
+- **Headquarters:** Metro Manila, Philippines
+- **Size:** 3,900 employees at seven strategic hubs
+
+## Executive Summary
+### Challenges
+- A legacy security infrastructure slowed down digital transformation efforts and increased risk of compromise and threats
+- Traditional security appliances could not adequately protect the private resources critical for business operations
+- VPN appliances struggled with performance and connectivity issues, making remote work more difficult and less secure
+
+### Phased Journey
+- Cebu Pacific began to explore Zscaler as a way to improve the user experience with fast, secure access to the internet and SaaS applications from anywhere.
+- Cebu Pacific plans to expand zero trust with Zscaler.
+
+### Results & Impact
+- Secures work-from-anywhere connectivity for 3,900 users with a safe VPN alternative, improving user satisfaction by 90%
+- Streamlines the security stack while still providing robust protection—processes 733 million transactions a year
+- Prevents 234 million policy violations and blocks 45,000 security threats in a single quarter, enhancing security posture
+
+## Featured Quotes
+> "Our work environment is dynamic, and with Zscaler, employees can continue to work productively without hampering their ability to connect to the resources they need without compromising security."
+> — **Laureen Cansana — CIO — Cebu Pacific Air**
+
+## Customer Case Study
+### Secure anywhere access to apps for everyone (ID: secure-anywhere-access-to-apps-for-everyone | Type: other)
+Cebu Pacific’s zero trust journey began long before the COVID-19 pandemic when it embarked on a digital transformation initiative to improve business agility and operational efficiency. As it embraced a cloud-first strategy, a top priority for the IT team was to ensure that employees could securely and easily access their private or SaaS applications whether they were working at the metro Manila headquarters, at any of its seven operations hubs, or on the road.
+
+“With the rise of sophisticated cybersecurity attacks, we knew traditional perimeter security was not sufficient to protect us against possible data breaches and unauthorized access,” said Glenn Amper, Director of Information Security at Cebu Pacific Air.
+
+Moving to the cloud created new challenges for the traditional network-centric security architecture. IT could no longer rely on security practices built largely on perimeter-based protection and the assertion that users and applications were inherently trustworthy. In a cloud-first world, Cebu Pacific needed stronger, more nimble protection against fast-moving cyberattacks that could result in data loss, regulatory noncompliance, or tarnished customer trust.
+
+> "With the rise of sophisticated cybersecurity attacks, we knew traditional perimeter security was not sufficient to protect us against possible data breaches and unauthorized access."
+> — **Glenn — Cebu Pacific Air**
+
+### Setting a course to true zero trust (ID: setting-a-course-to-true-zero-trust | Type: other)
+A cybersecurity maturity assessment revealed that the company’s existing VPN solution could not properly secure users, especially when they traveled. With a growing risk that VPN usernames and passwords could be compromised, Cebu Pacific wanted stronger authentication and tighter controls for access to both private and SaaS applications that were critical for flight operations, crew scheduling, cargo management, and business operations.
+
+“Our focus was on improving the user experience and boosting our security posture,” said Laureen Cansana, CIO at Cebu Pacific Air. “We wanted an end-to-end solution that would provide robust security and a good user experience.”
+
+Cebu Pacific’s IT leadership was determined to provide employees with a better remote work experience, whether they were accessing private applications or SaaS apps. The legacy VPN software was sluggish and frequently dropped connections, which frustrated employees and impacted their productivity. The service desk was overwhelmed, handling a growing volume of tickets related to remote access.
+
+Moving to cloud with a perimeter-based security architecture also broadened the attack surface, making the company more vulnerable to potential breaches and other threats from external attackers. Additionally, internal users could intentionally or unintentionally act in a way that increased the organization’s overall risk. IT’s goal was to prevent compromise by reducing the attack surface. “We wanted to adopt the principle of least privilege to limit our risk exposure, especially for critical applications,” Amper explained.
+
+> "Our focus was on improving the user experience and boosting our security posture. We wanted an end-to-end solution that would provide robust security and a good user experience."
+> — **Laureen Cansana — CIO — Cebu Pacific Air**
+
+> "We wanted to adopt the principle of least privilege to limit our risk exposure, especially for critical applications."
+> — **Cebu Pacific Air**
+
+> "Zscaler allows us to protect our corporate assets and ensure that only the right people have access to our applications and data."
+> — **Glenn Amper — Director of Information Security — Cebu Pacific Air**
+
+### Rapid adoption accelerates protection (ID: rapid-adoption-accelerates-protection | Type: implementation)
+Cebu Pacific began to explore Zscaler as a way to improve the user experience with fast, secure access to the internet and SaaS applications from anywhere.
+
+Cansana and Amper had both previously used Zscaler, and they knew the zero trust solution would provide a better experience for users and stronger security for the business.
+
+Cebu Pacific rolled out Zscaler Internet Access (ZIA) to provide employees with fast, safe internet access. All internet and SaaS traffic is protected by Zscaler, stopping ransomware, phishing, zero-day malware, and advanced attacks from disrupting the business and distracting users.
+
+Then, with fortuitous timing, Cebu Pacific was evaluating Zscaler Private Access (ZPA) to replace the VPN with zero trust network access when the pandemic swept across the world. Deployment was speedy. Within two weeks of the government-declared lockdown, the IT team delivered ZPA for secure remote access to 3,900 users, who could access their private applications and services from anywhere and on any device. The improvement in the experience was particularly notable for employees who previously used the VPN.
+
+“Rolling out zero trust with Zscaler was turnkey,” recalled Amper. “ZPA learned our traffic patterns for a few weeks, then we began to segment applications strategically so we had good visibility into what traffic was good and bad. We improved the user experience and made it possible for employees to work remotely without compromising any of our security policies.”
+
+### Improving the employee experience (ID: improving-the-employee-experience | Type: monitoring)
+Thanks to Zscaler, employees can easily and safely access the internet and critical SaaS applications, whether they are working at the head office, at an airport, or from home. Staff can stay focused on their work, and the IT service desk has fewer support tickets.
+
+“Embracing Zscaler allowed us to improve both the user experience and our security posture,” said Amper. “We have continuous authentication and strict access controls without affecting the user experience.”
+
+Amper estimates that using ZPA has improved employee satisfaction with the remote access experience by 90% compared to the legacy VPN.
+
+Following the principle of least-privileged access, the Zscaler Zero Trust Exchange platform evaluates the user identity in context with factors like location, device, application, and content, and then creates secure, direct connections between users and the individual applications they are trying to access. Users have a more responsive experience, and the latency inherent in backhauling traffic through centralized security controls is eliminated.
+
+> "Embracing Zscaler allowed us to improve both the user experience and our security posture. We have continuous authentication and strict access controls without affecting the user experience."
+> — **Amper — Cebu Pacific Air**
+
+> "Zscaler equips us to better address modern cybersecurity challenges while supporting business agility."
+> — **Glenn Amper — Director of Information Security — Cebu Pacific Air**
+
+### Safeguarding business continuity and customer trust (ID: safeguarding-business-continuity-and-customer-trust | Type: other)
+The Zero Trust Exchange continues to scale to protect Cebu Pacific’s business operations as post-pandemic travel resumes. Application traffic has increased 60% in a year. In just three months, Zscaler processed more than 159 TB of traffic, prevented more than 234 million policy violations, and blocked more than 45,000 security threats, including more than 1,500 threats hiding in encrypted traffic.
+
+“Zscaler allows us to protect our corporate assets and ensure that only the right people have access to our applications and data,” said Amper. “Zscaler also helps mitigate the risk of insider threats.”
+
+A zero trust approach helps Cebu Pacific mitigate the risk of business disruption, protect data privacy, and avoid the consequences of a successful data breach, including regulatory noncompliance or fines. That’s particularly important as passengers return to the skies with Cebu Pacific.
+
+“If our environment is not secure, we risk exposing customer data,” said Cansana. “Solutions like Zscaler help us give our customers confidence that security is a top priority for Cebu Pacific. With Zscaler, we can protect our brand, our customers, and employees, as well as our data and applications.”
+
+> "Zscaler allows us to protect our corporate assets and ensure that only the right people have access to our applications and data. Zscaler also helps mitigate the risk of insider threats."
+> — **Amper — Cebu Pacific Air**
+
+> "If our environment is not secure, we risk exposing customer data. Solutions like Zscaler help us give our customers confidence that security is a top priority for Cebu Pacific. With Zscaler, we can protect our brand, our customers, and employees, as well as our data and applications."
+> — **Cansana — Cebu Pacific Air**
+
+### A simpler, consolidated security ecosystem (ID: a-simpler-consolidated-security-ecosystem | Type: security)
+Zscaler has been easy to integrate with the company’s other best-in-class security solutions, enabling a more streamlined and coordinated security ecosystem.
+
+Integration with CrowdStrike endpoint detection and response (EDR) provides zero trust access to applications based on device health. Together, Zscaler and CrowdStrike continuously assess the posture of employee devices before permitting access to Cebu Pacific’s applications.
+
+Cebu Pacific plans to integrate Zscaler with other security solutions, including data loss prevention and identity and access management.
+
+Zscaler also helped Cebu Pacific simplify and consolidate security infrastructure by eliminating VPN appliances and reducing its perimeter firewall fortifications, resulting in a smaller data center footprint and lower energy usage.
+
+> "“As a cloud-based solution, Zscaler supports our company’s environmental and sustainability objectives.”"
+> — **Laureen Cansana — CIO — Cebu Pacific Air**
+
+### Continuing the zero trust journey (ID: continuing-the-zero-trust-journey | Type: implementation)
+Cebu Pacific plans to expand zero trust with Zscaler. It is exploring how to achieve further consolidation and simplification with the adoption of Zscaler Digital Experience™ (ZDX) to rapidly detect and resolve application, network, or device issues and keep users productive. ZDX can give the airline’s IT support team greater network visibility to fix problems faster.
+
+The company is also exploring Zscaler Workload Communications, which would extend zero trust protection to cloud workloads. The solution, built on top of the Zscaler Trust Exchange, establishes fast, secure cloud connectivity with consistent access policies—and without the hassle of network security appliances.
+
+### Cloud security supports sustainability (ID: cloud-security-supports-sustainability | Type: security)
+Cloud and zero trust security helps Cebu Pacific prioritize environmental sustainability as it accelerates business growth. Cebu Pacific is introducing a modern, fuel-efficient fleet as part of its efforts to achieve net zero carbon emissions. The company’s environmental, sustainability, and governance priorities extend to IT.
+
+“Our goal is to have zero servers in our data centers to minimize our IT carbon footprint,” said Cansana. “As a cloud-based solution, Zscaler supports our company’s environmental and sustainability objectives.”
+
+Cebu Pacific can not only reduce its own data center space and energy usage, but also be confident that Zscaler’s highly efficient, multi-tenant cloud platform is fueled by 100% renewable energy.
+
+> "Our goal is to have zero servers in our data centers to minimize our IT carbon footprint. As a cloud-based solution, Zscaler supports our company’s environmental and sustainability objectives."
+> — **Cansana — Cebu Pacific Air**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[2].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[2].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[2].name:** Secure Remote Access
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/vpn-alternative
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 72026
+- **root.page_metadata.meta_description:** Learn how Cebu Pacific Air Cebu Pacific Air Secures Its Hybrid Workforce with the Zscaler Zero Trust Exchange with Zscaler improves the remote work experience for 3,900 employees and protects critical business operations at seven strategic hubs across Asia.
+- **root.page_metadata.og_title:** Cebu Pacific Air Case Study | Customer Stories | Zscaler

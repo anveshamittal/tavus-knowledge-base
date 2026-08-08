@@ -1,0 +1,110 @@
+# OneMain Financial Eliminates Hardware, Resulting in Significant Cost Savings
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** OneMain Financial
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/onemain-financial
+- **Slug:** onemain-financial
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:47.186944Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** OneMain Financial
+- **Description:** The largest lending-exclusive financial company in the US, OneMain Financial is the leader in offering nonprime customers responsible access to credit. The company helps customers meet critical financial needs, including debt consolidation, home and auto repair, medical procedures, and other major expenses.
+- **Industry:** Financial Services and Insurance
+- **Headquarters:** Evansville, Indiana, United States
+- **Size:** 8,000+ employees in 1,400 branches across 44 states
+
+## Executive Summary
+### Challenges
+- Simplify infrastructure, reduce risk, perform unlimited TLS/SSL inspection, and deliver a smoother, faster user experience
+
+### Phased Journey
+- -T-h-i-s- -b-l-o-g- -p-o-s-t- -w-a-s- -o-r-i-g-i-n-a-l-l-y- -p-u-b-l-i-s-h-e-d- -i-n- -A-u-g-u-s-t- -2-0-2-0- -a-n-d- -h-a-s- -b-e-e-n- -l-i-g-h-t-l-y- -u-p-d-a-t-e-d-.-
+- -B-e-f-o-r-e- -w-e- -l-o-o-k- -s-p-e-c-i-f-i-c-a-l-l-y- -a-t- -O-n-e-M-a-i-n- -F-i-n-a-n-c-i-a-l-,- -l-e-t- -t-a-k-e- -a- -q-u-i-c-k- -l-o-o-k- -a-t- -s-o-m-e-t-h-i-n-g- -t-h-a-t- -i-s- -t-o-p- -o-f- -m-i-n-d- -o-f- -j-u-s-t- -a-b-o-u-t- -e-v-e-r-y- -e-x-e-c-u-t-i-v-e---c-o-s-t-s-.-
+- -L-i-k-e- -s-o- -m-a-n-y- -o-t-h-e-r-s-,- -O-n-e-M-a-i-n- -F-i-n-a-n-c-i-a-l- -h-a-s- -d-i-s-c-o-v-e-r-e-d- -t-h-e- -b-e-n-e-f-i-t-s- -o-f- -l-e-a-v-i-n-g- -a-p-p-l-i-a-n-c-e-s- -b-e-h-i-n-d- -a-n-d- -m-o-v-i-n-g- -t-o- -Z-s-c-a-l-e-r-.-
+
+### Results & Impact
+- Ensures predictable costs, with no capacity limitations or hardware refreshes
+- Simplifies administration with fewer change windows and less to manage
+- Improves user experience with <1 ms latency for 96% of transactions
+- Fully inspects all traffic, including TLS/SSL-encrypted traffic
+
+## Featured Quotes
+> "Policy administration has been simplified immensely, where we make a change, we put it into one place versus entering it into ten different places."
+> — **Daniel Kelly — VP/Managing Dir. of Network Services & Security — OneMain Financial**
+
+## Customer Case Study
+### Section (ID: section-1 | Type: other)
+This blog post was originally published in August 2020 and has been lightly updated.
+
+We spoke with Daniel Kelly, VP/Managing Director of Network Services and Security at OneMain Financial, one of the largest lending-exclusive financial companies in the United States. This financial leader has been in existence for more than 100 years and has lent more than $152 billion to customers across 44 states since 2005. The company switched from a stack of Broadcom (formerly Blue Coat) appliances to Zscaler Internet Access, and Mr. Kelly shared some of the results with us.
+
+### Benefits (ID: benefits | Type: results)
+Before we look specifically at OneMain Financial, let take a quick look at something that is top of mind of just about every executive—costs. Over just a three-year span, organizations can save millions with a cloud-based security-as-a-service platform over a hardware-based security stack.
+
+As if that wasn’t enough reason to switch, here are some of the specific benefits seen by OneMain Financial after it switched from Broadcom appliances to Zscaler:
+
+Improved performance: OneMain reported zero employee complaints after the switch to Zscaler. It also discovered that 95% of its traffic in the Zscaler cloud has less than 1 millisecond of latency.
+
+SSL inspection: As 96% of its traffic was encrypted, OneMain Financial was now able to inspect all of that traffic, which it used to be blind to.
+
+Microsoft: With Zscaler, OneMain Financial was able to take advantage of the Microsoft best practice—moving away from the express routes and to Zscaler directly out to the internet.
+
+Disaster recovery: The process of disaster recovery planning was made easier. OneMain Financial no longer needed to worry about matching up proxies in each data center with the proxies in the main data center.
+
+Cost: The Zscaler platform provides OneMain with predictable costs as there are no capacity limitations and no hardware refreshes needed.
+
+Staff: The IT team used to have to reboot their proxy servers at least once a month, sometimes three times a night, to keep the devices healthy and working properly. Now, IT team members can spend their time on strategic initiatives instead of on appliance maintenance.
+
+Simplified administration: Policy administration is centralized. With Zscaler, changes only need to be made in one location instead of 10 different places, as was the case before. And since any changes would have to have been done manually at each location, there was always the chance of an error being introduced along the way.
+
+Support: Zscaler provided OneMain Financial with a dedicated technical account manager to provide assistance, and OneMain Financial reported that the support with Zscaler has been stronger than with Broadcom. Even before the Broadcom acquisition, OneMain Financial often found it difficult to get support for the Blue Coat appliances it was using.
+
+> "Using Zscaler now gives us the capability to route things directly out through the internet in our branches and campus location."
+> — **Daniel Kelly — VP/Managing Dir. of Network Services & Security — OneMain Financial**
+
+### Lessons learned (ID: lessons-learned | Type: conclusion)
+Of course, undertaking a task such as replacing your entire legacy appliance stack can seem daunting. But Mr. Kelly offered some tips and suggestions that anyone contemplating this type of move cloud use to their advantage:
+
+Identify legacy proxy references early. OneMain had several servers that accessed the internet directly, and that number has evolved over time. But it wasn’t well-documented as to which servers those were. So Kelly and his team had to spend quite a bit of time tracking down all of that information. OneMain also monitored the traffic from its legacy appliances to see that the volume went down as it shifted to Zscaler. By the time OneMain’s appliances were decommissioned, that number was nearly zero.
+
+Pilot users with special access privileges. Kelly and team focused on providing access to those employees that need special privileges, for example, members of the marketing team that require access to social media sites that are blocked for the rest of the company. After working through all of the special privileges, converting the rest of the users to Zscaler was easy.
+
+Manage partners with allowlisted addresses. Many partners were explicitly allowing OneMain’s IP addresses. It is imperative that organizations reach out to customers to get a complete list of those addresses. (For OneMain Financial, the list of those partners and IP addresses was also not well documented, but they are now, according to Mr. Kelly.) After the shift to Zscaler, partners can either trust the Zscaler IP addresses or rely on ZIA Service Edges to anchor OneMain’s IP addresses.
+
+Go mobile. Mr. Kelly and the IT team preferred to use Zscaler Client Connector (formerly Z App) for its mobile workforce. However, due to the large number of virtual desktops in use by OneMain Financial, the team developed a hybrid approach for its mobile users. Mr. Kelly recommends working with your end user computing teams to determine the best approach for your organization.
+
+> "We don’t have to worry about [adding proxies] in each data center anymore, so it’s a lot less for us to manage. Zscaler is doing that for us."
+> — **Daniel Kelly — VP/Managing Dir. of Network Services & Security — OneMain Financial**
+
+### Better in the cloud (ID: better-in-the-cloud | Type: results)
+Like so many others, OneMain Financial has discovered the benefits of leaving appliances behind and moving to Zscaler.
+
+> "We’re not constantly chasing after measuring what’s going through the proxy servers … we can focus our team members on other initiatives."
+> — **Daniel Kelly — VP/Managing Dir. of Network Services & Security — OneMain Financial**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].name:** Zscaler Internet Access (ZIA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.solutions[0].name:** Data Security
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 58606
+- **root.page_metadata.meta_description:** Learn how OneMain Financial OneMain Financial Eliminates Hardware, Resulting in Significant Cost Savings with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** OneMain Financial Case Study | Customer Stories | Zscaler

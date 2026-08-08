@@ -1,0 +1,141 @@
+# Micron Adopts the Zscaler Zero Trust Exchange
+
+> to Support Business Goals and Secure its Cloud Environment
+
+**Customer Name:** Micron
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/micron
+- **Slug:** micron
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:40.152697Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Micron
+- **Description:** With over 45,000 team members globally, Micron Technology is the leading manufacturer of memory and storage solutions. Its broad portfolio encompasses high-performance DRAM, NAND, and NOR semiconductor products delivered through its global brands, Micron and Crucial.
+- **Industry:** High Tech
+- **Headquarters:** Boise, Idaho, USA
+- **Size:** 45,000+ employees in 17 countries
+
+## Executive Summary
+### Challenges
+- Securing users and workloads in its hybrid multicloud with consistent controls, combating threats, and protecting intellectual property
+
+### Phased Journey
+- In business for over 45 years, Micron Technology is on a mission to become the world’s most efficient and innovative provider of semiconductor memory solutions to drive transformative technologies such as 5G and artificial intelligence (AI).
+
+### Results & Impact
+- Reduced operational overhead by half
+- Enabled strong protection of high-value R&D data
+- Eased the management burden
+- Provided a consistent, safe experience for all users
+- Diminished cyberattacks significantly
+
+## Featured Quotes
+> "The fantastic thing about Zscaler is that it provides everything we need in a zero trust platform: scalable SSL traffic inspection, other threat prevention functionalities, and data security."
+> — **Nitin Negi — Senior Manager for Cybersecurity Engineering and Operations — Micron**
+
+> "Zscaler provides us with consistent controls for our entire worldwide organization, accelerated business activities, reduced risk, and ensured business continuity."
+> — **Chris Harlow — Senior Technical Manager, IT Security — Micron**
+
+## Customer Case Study
+### Expansion goals fuel adoption of zero trust for multicloud environment (ID: expansion-goals-fuel-adoption-of-zero-trust-for-multicloud-environment | Type: implementation)
+In business for over 45 years, Micron Technology is on a mission to become the world’s most efficient and innovative provider of semiconductor memory solutions to drive transformative technologies such as 5G and artificial intelligence (AI). The company’s physical footprint covers 11 manufacturing plants and 12 customer labs in 17 countries, in addition to multiple business offices across the globe.
+
+Micron requires exceptional, future-ready cybersecurity in order to manage risk while staying on the leading edge of technology innovation. It strives to achieve the highest level of protection by partnering with industry leaders to maintain the best possible security across its organization and broader ecosystem. As the company evolved its hybrid multicloud environment, it became apparent that its traditional security architecture was outdated and lacked stability. Chris Harlow, Senior Technical Manager, IT Security, pointed out some of the biggest challenges: protecting intellectual property, stopping cyberattacks, and securing the hybrid environment.
+
+Micron needed a cloud-based solution that could scale and extend to the mobile workforce, suppliers, labs, manufacturing plants, and customers. A unified zero trust platform that could grow with the company was the best choice for this modernization effort. The Zscaler Zero Trust Exchange has the ability to increase visibility into where data goes, who accesses it, and how it is used.
+
+“The fantastic thing about Zscaler is that it provides everything we need in a zero trust platform: scalable SSL traffic inspection, sandboxing and other threat prevention functionalities, data security, and a consistent experience for our users by giving them secure remote connectivity everywhere and at all times,” said Nitin Negi, Senior Manager for Cybersecurity Engineering and Operations.
+
+> "The fantastic thing about Zscaler is that it provides everything we need in a zero trust platform: scalable SSL traffic inspection, sandboxing and other threat prevention functionalities, data security, and a consistent experience for our users by giving them secure remote connectivity everywhere and at all times."
+> — **Nitin Negi — Senior Manager for Cybersecurity Engineering and Operations — Micron**
+
+### Zscaler Internet Access safeguards workloads, data, and users (ID: zscaler-internet-access-safeguards-workloads-data-and-users | Type: data_protection)
+Zscaler Internet Access (ZIA) is the lynchpin in Micron’s zero trust approach to security; 58,000 users—including employees, partners, and other trusted third parties worldwide—rely on the product for secure and seamless access to the internet and SaaS applications. ZIA also simplifies both on-premises and cloud workload management.
+
+With its AI-powered security and data security, ZIA helps Micron curb cyberattacks and data loss. The company relies heavily on inline content inspection for SSL and TLS (including decryption of outgoing traffic) and data security controls to stop data loss from users and SaaS applications. ZIA also reduces risk to workloads in the cloud via the Workload Communications solution.
+
+Another big benefit of Zscaler is the direct-to-cloud architecture, which creates a positive user experience, boosting productivity and increasing Micron’s agility. Regardless of where users are or what devices they are using, everyone experiences the same level of security and fast access to resources. Management is simplified as well: policy enforcement is consistent across users and workloads, and there is no need to implement and maintain a complex infrastructure.
+
+“Zscaler has provided us with consistent controls for our entire worldwide organization, accelerated business activities, reduced risk, and ensured business continuity. This scalable solution helps us grow, simplifies management, and reduces operational overhead,” explained Harlow.
+
+> "Zscaler has provided us with consistent controls for our entire worldwide organization, accelerated business activities, reduced risk, and ensured business continuity. This scalable solution helps us grow, simplifies management, and reduces operational overhead."
+> — **Harlow — Micron**
+
+> "By partnering with Zscaler, we acquired the expert knowledge to implement the technology and to be successful over the long term. Working with Zscaler Professional Services enabled us to become more proficient and self-manage the solution."
+> — **Chris Harlow — Senior Technical Manager, IT Security — Micron**
+
+### Zscaler minimizes supply chain security risk (ID: zscaler-minimizes-supply-chain-security-risk | Type: challenge)
+As a technology manufacturing company, Micron is keenly aware of the need for supply chain security throughout the entire production process—from developing products and procuring solutions from suppliers to partnering with cloud service providers and developing firmware. Third-party SaaS application governance is an overriding concern.
+
+One of the biggest concerns in the industry is getting visibility into malicious transactions that occur in supply chain SaaS software. Zscaler is instrumental in identifying those issues and providing effective mitigation techniques.
+
+### With Zscaler, help is always at hand (ID: with-zscaler-help-is-always-at-hand | Type: other)
+When Micron first embarked on its journey with Zscaler, Harlow and Negi were 100% certain that it was the right solution for the company, but they lacked the internal resources to implement it. The Zscaler Professional Services team stepped in, simplifying deployment and sharing their know-how to make Micron’s team self-sufficient.
+
+“By partnering with Zscaler, we acquired the expert knowledge to implement the technology and to be successful over the long term. Working with Zscaler Professional Services enabled us to become more proficient and self-manage the solution.” said Harlow.
+
+> "By partnering with Zscaler, we acquired the expert knowledge to implement the technology and to be successful over the long term. Working with Zscaler Professional Services enabled us to become more proficient and self-manage the solution."
+> — **Harlow — Micron**
+
+> "A better user experience means happier and more productive employees. Zscaler has provided us with the ability to give our company a consistent experience for zero trust connectivity."
+> — **Chris Harlow — Senior Technical Manager, IT Security — Micron**
+
+### The results speak volumes (ID: the-results-speak-volumes | Type: results)
+Harlow cites multiple positive outcomes from Micron’s Zscaler implementation. First and foremost, Micron benefits from the reduction of operational overhead by half through simplified management. The complexities and high administrative costs associated with unintegrated point products are a thing of the past. The flexible and fully customizable dashboards that are part of the ZIA administrative portal make it easy to monitor internet traffic in real time, track internet usage and anomalous traffic, and view activities by location, groups, or users.
+
+Another important benefit is providing users and workloads with fast, direct, and safe access to the internet and SaaS applications. Zscaler solved a major business challenge: securing users and workloads with consistent controls.
+
+“A better user experience means happier and more productive employees,” noted Harlow. “Zscaler has provided us with the ability to give our company a consistent experience for zero trust connectivity.
+
+Thanks to Zscaler, Micron has also considerably reduced cyberthreats and increased data security for its vital intellectual property (IP). Access to internet and SaaS applications is verified according to the who, what, and where of the request. Zscaler then determines the level of risk and inspects traffic inline to defend against threats and data loss before allowing connectivity.
+
+> "A better user experience means happier and more productive employees."
+> — **Harlow — Micron**
+
+### Choosing the right zero trust partner matters (ID: choosing-the-right-zero-trust-partner-matters | Type: other)
+Research and development (R&D) is Micron’s bread and butter and the foundation for its commitment to continuing innovation. In that regard, the company sees Zscaler as a kindred spirit. The Micron team resonates with Zscaler’s cutting-edge approach to cloud security, and in particular how it leverages AI and machine learning (ML) to advance innovation at scale.
+
+Micron selected Zscaler as its trusted, long-standing partner to help it strengthen the overall security posture and better safeguard intellectual property. Harlow and Negi agreed that one of the most important benefits of using Zscaler is its ability to dynamically scale consistent protection for cloud workloads.
+
+After working with Zscaler for several years on many different projects, Harlow appreciates how Zscaler values its partnership with Micron and is always open to receiving feedback about use cases and new features he and his team would like to see incorporated in the solution.
+
+“We aim to achieve the highest level of cybersecurity by partnering with industry leaders like Zscaler. Zscaler is one of our strongest allies, helping us deliver the best possible security to our customers, suppliers, vendors, partners, and end users,” summarized Negi.
+
+> "One of the biggest concerns…is getting visibility into malicious transactions that occur in supply chain SaaS software. Zscaler has been instrumental in…providing effective mitigation techniques."
+> — **Nitin Negi — Senior Manager for Cybersecurity Engineering and Operations — Micron**
+
+### Taking security to the next level with Zscaler (ID: taking-security-to-the-next-level-with-zscaler | Type: security)
+Through its partnership with Zscaler, Micron has established a firm foundation to advance its security maturity roadmap. In the near future, Negi and Harlow are looking to implement Zscaler Data Security to enforce consistent policies across all endpoints—from removable media to printers to network shares.
+
+Additionally, because Micron collaborates with an extensive network of suppliers and third-party partners, the team is interested in leveraging this product to ensure strong third-party application governance. Micron is also considering Zscaler Cloud Access Security Brokers (CASB) to identify and block risky SaaS applications and control high-value data on or off network.
+
+And last, but far from least, one of Micron’s key priorities is using Zscaler to secure connectivity and access to Internet of Things (IoT) and operational technology (OT) devices at offices and production facilities.
+
+“We are extremely passionate about how we control our sensitive IoT/OT security environments. And we believe Zscaler has the right blend of technologies to help us strengthen our security footprint in that area so that we can stay productive and maintain business continuity,” remarked Negi.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[1].name:** Sandbox
+- **root.products[1].url:** https://www.zscaler.com/technology/cloud-sandbox
+- **root.products[2].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[2].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Secure Remote Access
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/vpn-alternative
+- **root.solutions[1].name:** Zero Trust App Access
+- **root.solutions[2].name:** Ransomware
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 77441
+- **root.page_metadata.meta_description:** Learn how Micron Micron Adopts the Zscaler Zero Trust Exchange with to Support Business Goals and Secure its Cloud Environment.
+- **root.page_metadata.og_title:** Micron Case Study | Customer Stories | Zscaler

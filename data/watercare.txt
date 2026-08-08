@@ -1,0 +1,165 @@
+# Watercare Secures Vital Services for 1.7M Residents
+
+> Using the Zscaler Zero Trust Exchange
+
+**Customer Name:** Watercare
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/watercare
+- **Slug:** watercare
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:57:03.597328Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Watercare
+- **Description:** Every day, public utility Watercare Services converts approximately 400 million liters of collected fresh water into drinking water for 1.7 million residents of the greater Auckland, New Zealand, region. Watercare also treats wastewater and operates a construction division.
+- **Industry:** Energy, Oil, Gas, and Mining
+- **Headquarters:** Auckland, New Zealand
+- **Size:** Approximately 1,100 employees serving 1.7 million residents
+
+## Executive Summary
+### Challenges
+- Replace insufficient security with a comprehensive zero trust approach that optimizes WFA for IIoT and IoT devices
+
+### Phased Journey
+- Stepping back to New Zealand’s first pandemic lockdown, Watercare accomplished a significant remote work expansion by supplementing its existing VPN and secure cloud gateway systems with a trial of VPN-free Zscaler Private Access (ZPA) among several dozen users.
+- Looking ahead, Watercare plans to leverage the Zero Trust Exchange platform in multiple ways.
+
+### Results & Impact
+- Deployed WFA access to private applications for 800 users in less than half a day
+- Reduced application issue resolution from weeks to minutes with AI-powered analytics and real-time insights
+- Optimizes Microsoft Teams and M365 for improved experiences and reduces IT overhead
+- Allows direct internet access to IIoT, IoT, and other connected devices across 1,300 sites
+- Fosters a strategic partnership for securing planned multibillion-dollar physical infrastructure investments
+
+## Featured Quotes
+> "Users love the Zscaler Zero Trust Exchange platform because they don’t even know it’s there. And there’s no administrative overhead. It just works."
+> — **Adam Gower — Head of Digital Operations — Watercare**
+
+## Customer Case Study
+### Failed legacy system, poor experiences plague users (ID: failed-legacy-system-poor-experiences-plague-users | Type: challenge)
+Having weathered the first wave of COVID-19 lockdowns using a combination of security solutions, including a secure cloud gateway and virtual private networks (VPNs), Watercare Services faced an even broader set of challenges when the second lockdown occurred.
+
+“Right before the second lockdown, one of our legacy solutions for securing remote workers failed completely,” explained Adam Gower, Head of Digital Operations at Watercare. “Further, we learned during the initial round of remote work that our traditional troubleshooting tools were insufficient for diagnosing many types of application performance issues on home networks, resulting in poor user experiences and reduced productivity.”
+
+> "Right before the second lockdown, one of our legacy solutions for securing remote workers failed completely. Further, we learned during the initial round of remote work that our traditional troubleshooting tools were insufficient for diagnosing many types of application performance issues on home networks, resulting in poor user experiences and reduced productivity."
+> — **Adam Gower — Head of Digital Operations — Watercare**
+
+### Standardizing on Zscaler and ZDX addresses multiple needs (ID: standardizing-on-zscaler-and-zdx-addresses-multiple-needs | Type: challenge)
+Like any city, Auckland relies on safe drinking water for commercial and daily life, making the protection of water systems a top priority. In addition to providing a vital service to the area’s residents, Watercare’s internal goals include giving every employee an hour back in their week, every week, through the effective use of technology.
+
+With the pandemic setting back its security, productivity, and user experience mandates, Gower’s team decided it needed better solutions. Although one option was building out its existing secure cloud gateway, users were already dissatisfied with the product.
+
+Committed to adopting a zero trust security approach, Watercare realized it needed a comprehensive platform that also delivered exceptional user experiences. Familiar with Zscaler from a limited implementation during the first lockdown, Watercare decided to standardize on the Zscaler Zero Trust Exchange platform.
+
+“Zscaler offered the most complete platform and easy expandability to include more capabilities, such as experience optimization,” Gower said. “What’s more, our early evaluations proved that Zscaler really is easy to deploy and seamless for users. Not only was that refreshing, in our experience it’s notable when a solution truly fulfills the claims a vendor makes.”
+
+> "Zscaler offered the most complete platform and easy expandability to include more capabilities, such as experience optimization. What’s more, our early evaluations proved that Zscaler really is easy to deploy and seamless for users. Not only was that refreshing, in our experience it’s notable when a solution truly fulfills the claims a vendor makes."
+> — **Watercare**
+
+### VPN-free ZPA sets zero trust journey in motion (ID: vpn-free-zpa-sets-zero-trust-journey-in-motion | Type: implementation)
+Stepping back to New Zealand’s first pandemic lockdown, Watercare accomplished a significant remote work expansion by supplementing its existing VPN and secure cloud gateway systems with a trial of VPN-free Zscaler Private Access (ZPA) among several dozen users.
+
+Just prior to the second lockdown, Watercare’s primary VPN product collapsed. With the expected fix requiring several days, Watercare pivoted to Zscaler and immediately expanded its ZPA deployment by 800 people. “It took us less than half a day,” Gower said. “With any other technology it would’ve been a week-long ordeal.”
+
+As a fundamental component of the Zero Trust Exchange, ZPA secures access to Watercare applications running in its data center and in its multi-cloud environment. Like all the Zscaler platform’s solutions, ZPA connects users and devices to applications, rather than to the network, preventing lateral infections while making users and applications invisible to external threats. In addition, the platform inspects traffic, including encrypted traffic, for the effective prevention of threats and data loss.
+
+For Watercare, the adoption paid off quickly. “In addition to being totally seamless for our users, unlike VPNs, the tight integration of Zscaler with our public cloud providers is a plus for keeping application performance high, while saving on costs and reducing complexity, as no appliances are required,” Gower said.
+
+> "It took us less than half a day. With any other technology it would’ve been a week-long ordeal."
+> — **Watercare**
+
+> "In addition to being totally seamless for our users, unlike VPNs, the tight integration of Zscaler with our public cloud providers is a plus for keeping application performance high, while saving on costs and reducing complexity, as no appliances are required."
+> — **Watercare**
+
+> "Zscaler really is easy to deploy. It’s notable when a solution truly fulfills the claims a vendor makes."
+> — **Adam Gower — Head of Digital Operations — Watercare**
+
+### Adding ZIA speeds internet connections and boosts security (ID: adding-zia-speeds-internet-connections-and-boosts-security | Type: results)
+Not long after adopting ZPA, Watercare’s employees expressed increasing frustration with the agency’s existing secure web gateway, particularly for accessing local websites. “As that product’s regional instance was hosted in Australia, it blocked our users from accessing sites located in our country,” Gower explained. “It appeared that users were attempting to access from overseas, which is against policy.”
+
+By adopting Zscaler Internet Access (ZIA), the problem vanished. With ZIA using the same Client Connector agent as ZPA, the transition was fast and enabled Watercare to connect through the Zscaler hub in New Zealand, one of 150 global data centers. “With Client Connector already installed across our device landscape, it was a natural fit,” Gower said. “We simply contacted our Zscaler team, and it went live as soon as we negotiated a licensing agreement.”
+
+> "As that product’s regional instance was hosted in Australia, it blocked our users from accessing sites located in our country. It appeared that users were attempting to access from overseas, which is against policy."
+> — **Watercare**
+
+> "With Client Connector already installed across our device landscape, it was a natural fit. We simply contacted our Zscaler team, and it went live as soon as we negotiated a licensing agreement."
+> — **Watercare**
+
+> "With ZDX, it takes us only seconds to track down Microsoft Teams issues, which frequently are related to a user’s ISP."
+> — **Adam Gower — Head of Digital Operations — Watercare**
+
+### Zscaler Digital Experience solves user challenges (ID: zscaler-digital-experience-solves-user-challenges | Type: challenge)
+With ZPA and ZIA implemented, Watercare turned its attention to improving user experiences. “During the first lockdown, it was extremely difficult to resolve application performance issues,” Gower said. “We didn’t have the tools to locate the source of many problems. It was frustrating and discouraging for users when an issue would go on for weeks without resolution.”
+
+Similar to adopting ZIA, Watercare expanded its use of the Zero Trust Exchange platform to include the granular user experience monitoring and analytics solution, Zscaler Digital Experience (ZDX) simply by contacting its Zscaler account team. “Adding ZDX ensured our help desk could immediately pinpoint problems,” Gower said. “This was particularly important for troubleshooting complaints with Microsoft Teams, which we adopted during the pandemic and now rely upon heavily.”
+
+“With ZDX, it takes only seconds to track down Teams issues, which frequently are related to a user’s ISP [internet service provider]. Even when our techs can’t directly solve the problem, users are relieved to learn the steps they need to take,” he said. “Eliminating emotional roller coasters that could last a week, or more, drives up user satisfaction and productivity while freeing up IT resources as well.”
+
+“In addition, we’re using ZDX application scores to move from a reactive break/fix model to a proactive approach,” Gower continued. “By consulting each application’s score hourly, we can see which ones need attention before user performance is affected.”
+
+> "During the first lockdown, it was extremely difficult to resolve application performance issues. We didn’t have the tools to locate the source of many problems. It was frustrating and discouraging for users when an issue would go on for weeks without resolution."
+> — **Watercare**
+
+> "Adding ZDX ensured our help desk could immediately pinpoint problems. This was particularly important for troubleshooting complaints with Microsoft Teams, which we adopted during the pandemic and now rely upon heavily."
+> — **Watercare**
+
+> "With ZDX, it takes only seconds to track down Teams issues, which frequently are related to a user’s ISP [internet service provider]. Even when our techs can’t directly solve the problem, users are relieved to learn the steps they need to take. Eliminating emotional roller coasters that could last a week, or more, drives up user satisfaction and productivity while freeing up IT resources as well."
+> — **Watercare**
+
+> "Zscaler offered the most complete platform and easy expandability to include more capabilities, such as experience optimization."
+> — **Adam Gower — Head of Digital Operations — Watercare**
+
+### Keeping IoT-enabled water systems connected and secure (ID: keeping-iot-enabled-water-systems-connected-and-secure | Type: implementation)
+Looking ahead, Watercare plans to leverage the Zero Trust Exchange platform in multiple ways. “For example, as we build new bespoke applications for improving our collection, delivery, treatment, and discharge systems, we’ll be using ZDX scores during application testing and deployment,” said Gower.
+
+In addition, Watercare is keen to supply secure, direct internet connections to industrial IoT (IIoT) and IoT-enabled equipment throughout the 1,300 sites in its water systems network. Similarly, it will provide secure, direct internet connections to branch offices when workers return. “Zscaler will be critical for securing device access for everything from pumps to entire treatment facilities,” Gower noted. “ZDX will be vital for ensuring all of our far-flung assets are performing optimally.”
+
+The deployment also eliminates routing traffic from Microsoft M365, Teams, and other SaaS applications to and from its Watercare data center. “Direct connectivity over the internet further improves performance, productivity, and experiences,” Gower added.
+
+> "For example, as we build new bespoke applications for improving our collection, delivery, treatment, and discharge systems, we’ll be using ZDX scores during application testing and deployment."
+> — **Gower — Watercare**
+
+> "Zscaler will be critical for securing device access for everything from pumps to entire treatment facilities. ZDX will be vital for ensuring all of our far-flung assets are performing optimally."
+> — **Gower — Watercare**
+
+> "Direct connectivity over the internet further improves performance, productivity, and experiences."
+> — **Gower — Watercare**
+
+### Strong partnership builds a positive relationship (ID: strong-partnership-builds-a-positive-relationship | Type: other)
+Protecting the future with zero trust A dedication to supplying reliable, safe, and sustainable drinking water makes Watercare a continuous innovator with IIoT and IoT-enabled initiatives, such as installing a one-megawatt floating solar array on a treated wastewater pond to power 200 homes annually.
+
+Today, Watercare is moving into a new multi-billion-dollar water and wastewater investment phase. It will rely on the agency’s zero trust platform for secure application access and AI-driven experience analytics to ensure users and devices can connect effectively in service of Watercare’s environmental, social, and governance (ESG) goals and the wellbeing of the greater Auckland region.
+
+### Protecting the future with zero trust (ID: protecting-the-future-with-zero-trust | Type: security)
+A dedication to supplying reliable, safe, and sustainable drinking water makes Watercare a continuous innovator with IIoT and IoT-enabled initiatives, such as installing a one-megawatt floating solar array on a treated wastewater pond to power 200 homes annually.
+
+Today, Watercare is moving into a new multi-billion-dollar water and wastewater investment phase. It will rely on the agency’s zero trust platform for secure application access and AI-driven experience analytics to ensure users and devices can connect effectively in service of Watercare’s environmental, social, and governance (ESG) goals and the wellbeing of the greater Auckland region.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zero Trust for IoT/OT
+- **root.products[0].url:** https://www.zscaler.com/products-and-solutions/secure-your-ot-and-iot
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-digital-experience
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[3].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[4].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[4].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Data Security
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.solutions[2].name:** Optimize Digital Experiences
+- **root.solutions[3].name:** Ransomware
+- **root.solutions[3].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 48906
+- **root.page_metadata.meta_description:** Learn how Watercare Watercare Secures Vital Services for 1.7M Residents with Using the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** Watercare Case Study | Customer Stories | Zscaler

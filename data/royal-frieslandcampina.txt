@@ -1,0 +1,152 @@
+# FrieslandCampina Cuts Costs and Boosts User Experience
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Royal FrieslandCampina
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/royal-frieslandcampina
+- **Slug:** royal-frieslandcampina
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:56:26.766387Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Royal FrieslandCampina
+- **Description:** FrieslandCampina supplies products such as milk, yogurt, cheese, infant nutrition, and desserts; products for the professional market, such as cream and butter; and ingredients and semi-finished products for producers of food and pharmaceuticals. The company exports to more than 100 countries.
+- **Industry:** Food, Beverage, and Tobacco
+- **Headquarters:** Amersfoort, Netherlands
+- **Size:** 22,000+ employees in 32 countries
+
+## Executive Summary
+### Challenges
+- Improve security, reduce MPLS costs and WAN dependency, and align IT with OT and IoT priorities and processes
+
+### Phased Journey
+- By the end of 2013, the cloud hype cycle started and there were more and more people looking at software as a service, localized content, and moving stuff to the cloud—in our case, Amazon Web Services.
+- Right now, we are going towards a full software-defined wide area network (SD-WAN).
+
+### Results & Impact
+- Reduces costs arising from MPLS and the security hardware stack
+- Delivers dynamic application routing and local internet breakouts
+- Provides faster application access and a better overall user experience
+- Eases deployment challenges around Microsoft 365 and other SaaS
+
+## Featured Quotes
+> "Zscaler was very quick in communicating what they were doing about cybersecurity threats like, but not limited to, WannaCry and NotPetya. … They really did a good job on that one."
+> — **Erik Klein — Infrastructure Architect — Royal FrieslandCampina**
+
+## Customer Case Study
+### Section (ID: section-1 | Type: other)
+FrieslandCampina is a global producer of milk products and has created a sophisticated network to provide consistent and secure global connectivity. Erik Klein, Lead Infrastructure Architect, tells its network and security transformation story.
+
+### Bringing milk products to the world (ID: bringing-milk-products-to-the-world | Type: other)
+I joined FrieslandCampina in 2012. We are a global producer of milk products—we make cheese, infant and toddler nutrition, yogurts, skimmed and semi-skimmed milk, condensed milk, and health foods for athletes. We are based in the Netherlands, and over time we have expanded into other countries, such as Indonesia, Vietnam, Nigeria, Ghana, the US, and many others.
+
+IT has an important role in manufacturing goods. From a production perspective, the availability of the operational technology (OT) environment (which is IT within the production environment with specific requirements) has a huge impact.
+
+For example, the raw milk can’t be stored for more than 72 hours. Any longer and it gets discarded, but it can’t be thrown away into a sewer, so it is a costly process to dispose of the spoiled product. Therefore, OT is used within the production environment to make sure that the production processes aren’t disrupted and work within the strict timeframes.
+
+Within the OT environment, with the introduction of next-generation programmable logic controls (PLCs), smart sensors, and other IoT developments, the number of IP-based endpoints will grow considerably over time.
+
+Currently, we have about 80 factories worldwide. Some are more traditional, but some are really sophisticated, and the Smart Factory is emerging. Therefore, the number of endpoints will grow in the OT environment.
+
+> "We needed to go into a transformation from a private MPLS-centered network to a public internet-centric network."
+> — **Erik Klein — Infrastructure Architect — Royal FrieslandCampina**
+
+### Our cloud transformation (ID: our-cloud-transformation | Type: implementation)
+By the end of 2013, the cloud hype cycle started and there were more and more people looking at software as a service, localized content, and moving stuff to the cloud—in our case, Amazon Web Services.
+
+Eventually, we realized, when going in that direction, the wide area network we had was no longer valid. We needed to go into a transformation from a private MPLS-centered network to a public internet-centric network.
+
+At that time, the designs we made consisted of several boxes on location, and we realized that this would be too complicated and expensive to execute. So in 2014, we embarked on the transformation journey by moving the centralized proxy server to the cloud with the Zscaler cloud service, but still relying on the capabilities of Cisco routers for all other functions.
+
+As cybersecurity became more of an issue, the Zscaler Cloud Firewall came into play. Moving security to the cloud was harder because I had some internal pushback, and there were some reorganization issues. But in 2016, we started a project to extend the boundaries of our network from a stateful firewall on a Cisco router at the FrieslandCampina location to cloud security, the Zscaler Cloud Firewall.
+
+From every location, we then built IPsec tunnels to the Zscaler security service and used the proxy functionality as well as firewall functionality of Zscaler.
+
+To overcome the limitations using proxy auto-configuration (PAC) files in the browser to get to the internet, we also transferred the routing within the whole LAN environment, so that the default route from every location would end up at the security layer of Zscaler. And that’s where we are today.
+
+And then it was time for testing dynamic application routing.
+
+### Why secure local internet breakouts? (ID: why-secure-local-internet-breakouts | Type: challenge)
+There are two reasons why we switched from a centralized proxy environment to the cloud-based proxy environment with local breakouts. Firstly, from a marketing perspective, the driver to break out locally was to get localized content. The web servers that you’re connecting to from each country should automatically give the content of the website in the local language, for example.
+
+Secondly, FrieslandCampina had been using a number of different SaaS applications worldwide, so having it all centrally break out was, from a performance perspective, not a way forward. Also, the web content became richer and files were getting bigger, so there was more data to transport.
+
+From a localized content perspective, and the fact that users are using more and more SaaS applications, we realized that we would need to bring the end user to the internet (cloud) quicker.
+
+Except for our private, direct-connected virtual private cloud (VPC) on AWS—and we have connected that to our MPLS backbone, so that’s still going over an MPLS link—everything else is being offloaded at the local site level and then travels to the closest Zscaler data center based on lowest latency, with a second-closest Zscaler data center as backup. We do a measurement every six months to see if indeed those Zscaler nodes are still the quickest to reach.
+
+> "With the use of tools like the Zscaler App, we are looking at alternatives to connect roaming users to internal applications."
+> — **Erik Klein — Infrastructure Architect — Royal FrieslandCampina**
+
+### Moving applications to AWS (ID: moving-applications-to-aws | Type: other)
+FrieslandCampina is currently migrating applications to AWS based on various criteria, such as those applications that only need to be accessed at certain times. This service can’t be provided by our existing hosting provider, and keeping those servers at their location will be too expensive.
+
+On the other hand, T-Systems couldn’t always meet the requirements of the applications, resulting in an instance that was too big (too expensive) or too small (poor performance). And thirdly, AWS gives us the flexibility to temporarily upscale and downscale when required. With the capabilities of AWS, we could tailor to the actual requirements of the applications.
+
+Last but not least, since not all applications are 24/7, we could use AWS elasticity to turn them off on the weekends, saving money in the process
+
+### Improving SaaS access (ID: improving-saas-access | Type: other)
+In the early days, when we moved to the cloud proxy, we had our share of difficulties with the performance of Microsoft 365. We really struggled to get that done correctly and have good performance now.
+
+The 2016 phase of the network transformation went very quickly and was completely nondisruptive—people didn’t even know we moved security to Zscaler. Nobody really noticed that we went from centralized to decentralized, except that some of the applications became quicker.
+
+Also, Zscaler was very quick in communicating what they were doing about cybersecurity threats like, but not limited to, WannaCry and NotPetya. They were quicker to communicate the impact within their environment than other partners. They really did a good job on that one.
+
+> "Do not invest in a traditional network. Don’t do any investments in your existing MPLS with an internet backup network. That’s old school."
+> — **Erik Klein — Infrastructure Architect — Royal FrieslandCampina**
+
+### Deploying SD-WAN (ID: deploying-sd-wan | Type: implementation)
+Right now, we are going towards a full software-defined wide area network (SD-WAN). Our strategy involves connecting five FrieslandCampina locations to the SD-WAN environment, and that the SD-WAN environment has a network-to-network interface (NNI) with our existing Verizon network. With a full-blown SD-WAN deployment our redundancy plan includes redundant internet lines and universal customer premises equipment.
+
+For locations that use applications that require MPLS services, a fit-for-purpose MPLS line that is smaller than our legacy MPLS circuit is supplied.
+
+Historically, for every location except locations with call center functionality, the MPLS line was approximately 5 Mbps, while the internet lines are a lot bigger. We also have a failover from MPLS to the internet and the two internet lines back each other up. Our goal is to guarantee an experience level agreement (XLA) at the application level, rather than a service level agreement (SLA) based on availability and time to repair. We are aiming for predictable behavior and end-user experience in an application-based context (device, location, connectivity).
+
+The SD-WAN has what they call universal CPEs at each location, and those universal CPEs will have network function virtualization on them. Actually, it’s a device for compute and storage with a hypervisor, which runs virtual services required by either the SD-WAN service itself or the application acceleration. Other virtual network functions can be added if and when required. There will be a growing number of network function virtualizations that we can deploy on those devices.
+
+### Picking an SD-WAN partner (ID: picking-an-sd-wan-partner | Type: other)
+In 2017, we initiated an RFI for, amongst other services, a new WAN service.
+
+The vendors invited to the RFI were only given business requirements, and we asked them to really innovate with a disruptive approach. We selected eight vendors to enter the RFP phase, and we started eliminating vendors based on their offering and presentation of the solution. In the end, three vendors were selected to give us their best and final offer, namely NTT, Interoute (both proposing the Silver Peak SD-WAN solution), and Verizon (proposing a combination of Viptela and Riverbed).
+
+As part of the RFP process, we asked each vendor to present a reference customer where they had already deployed the proposed solution. And based on discussions with those customers, we made the final selection. The vendor testimonials were very important to us in the final phase of the RFP process.
+
+### Things to consider (ID: things-to-consider | Type: other)
+Don’t do any investments in your existing MPLS with an internet backup network. That’s old school. Just make sure that you know how your traffic is routing—so where your end users are and where your applications are—and make sure that you create a network where, based on the applications, the quickest, most efficient route will be taken.
+
+In the end, users aren’t interested in technology; they’re only concerned that the applications they are working with on a day-to-day basis perform well and perform constantly. If you have an application that has a 2.5 millisecond response time throughout all of Asia, nobody is complaining. But if you have one country that has a response time of one and another of four, then they start talking to each other and start complaining.
+
+People are traveling more and working outside of the office, and those people are diverse. Currently, we are bringing people that are roaming back into our network via two central remote access (VPN concentrated) locations. With the use of tools like the Zscaler App, we are looking at alternatives to connect roaming users to internal applications.
+
+In the end, if you have your software-defined wide area network, local area network, and software-defined data centers, you need an orchestrator of orchestrators above that to make sure the policies you set on an application, or at a higher level, flows down to the LAN, the WAN, and the data center. And the next step is to invest in security in the session between consumer and application.
+
+I’m looking towards making the network totally irrelevant in the next five to seven years. The network will only be a transport mechanism that makes sure the application goes from A to B, but the data security itself is completely embedded in the communication stream. For example, based on the identity of the client and on the identity of the application, a secure communication will be set up between them.
+
+That will be my next focus, and will be around the 2025-28 timeframe. It could happen sooner, but developments within our company need a business case for change; there needs to be funding for it, and so on. Not only is the development of the technology driving this, but also the adaptation and the willingness to spend money in new areas.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zero Trust Firewall
+- **root.products[0].url:** https://www.zscaler.com/resources/data-sheets/zscaler-firewall.pdf
+- **root.products[1].name:** Zero Trust for IoT/OT
+- **root.products[1].url:** https://www.zscaler.com/products-and-solutions/secure-your-ot-and-iot
+- **root.products[2].name:** Zscaler Internet Access (ZIA)
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[3].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[3].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Ransomware
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 40926
+- **root.page_metadata.meta_description:** Learn how Royal FrieslandCampina FrieslandCampina Cuts Costs and Boosts User Experience with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** Royal FrieslandCampina Case Study | Customer Stories | Zscaler
