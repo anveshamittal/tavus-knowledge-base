@@ -1,0 +1,101 @@
+# Aster Group UK Delivers Zero Trust Access
+
+> with Zscaler Private Access
+
+**Customer Name:** Aster Group
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/aster-group
+- **Slug:** aster-group
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:00.794219Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Aster Group
+- **Description:** Based in the UK, Aster Group is a not-for-dividend, ethically-driven organization whose vision is that everyone has a home. Aster Group UK provides safety and security to their customers through their services. They currently own and manage over 30,000 homes.
+- **Industry:** Real Estate
+- **Headquarters:** Devices, UK
+- **Size:** More than 30,000 homes managed
+
+## Executive Summary
+### Challenges
+- Provide more secure, faster access to employees so they can work from anywhere
+
+### Phased Journey
+- Since ZPA is a completely software and cloud-hosted service that requires no physical appliances, it was easy for Aster Group to deploy.
+
+### Results & Impact
+- Deployed three times faster than expected, and to four times as many users
+- Dramatically improves user experience
+- Secures remote access for 70% of users
+- Reduces security risk from third party access to corporate resources
+- Simplifies data center consolidation
+- Provides foundation for further leveraging the cloud
+
+## Featured Quotes
+> "ZPA is the future-proof technology for secure remote access. We … can continue to adopt cloud freely in the way it was intended."
+> — **Neil Mallon — Technology Strategy Lead — Aster Group**
+
+## Customer Case Study
+### Needed: better remote access to support mobile workforce (ID: needed-better-remote-access-to-support-mobile-workforce | Type: challenge)
+While Aster Group’s goal to provide safe, reliable and accessible housing hadn’t changed, the IT team recognized a shift in the way their users were working. The company now needed to empower users to work remotely. This shift to working from anywhere required it to rethink the way it was providing access to applications.
+
+For remote access to network resources, Aster employees and third parties used Citrix Netscaler. But the increasingly mobile workforce had high expectations that quickly outpaced the existing capability. They needed a future-proof solution to satisfy the new ways of working. So, Aster Group began searching for a remote access security solution that would enable its partners and mobile workforce, without frustrating end users, without placing them on the network, and without added complexity for IT administrators.
+
+Additionally, Aster Group is in the process of consolidating servers to free up additional resources (upwards of 15 TB of space). Thus, the company desired a simple solution that can cut down on complexity due to the consolidation, but still allow users to connect securely to mission-critical applications.
+
+### Zero trust access from any device, anywhere (ID: zero-trust-access-from-any-device-anywhere | Type: other)
+By researching and attending industry events, Aster Group discovered Zscaler Private Access (ZPA), a service of the Zscaler Zero Trust Exchange. By connecting users directly to an application—without having to place them on the network—ZPA provides fast, easy access while also minimizing the company’s attack surface and eliminating lateral movement.
+
+After a proof of concept, supported by UK Zscaler partner Truststream, the IT team decided to move to the cloud-based Zscaler solution and a zero trust access strategy that gives only authorized users access to specific internal applications. Today, over 70% of the company’s workforce use ZPA to securely connect to internal applications from any device, anywhere.
+
+> "We needed a remote access security solution that would enable our remote users and third-party partners, without the frustrations of a traditional VPN solution."
+> — **Neil Mallon — Technology Strategy Lead — Aster Group**
+
+### Eliminating attack surface via “inside-out connectivity” (ID: eliminating-attack-surface-via-inside-out-connectivity | Type: security)
+One of the top reasons why the company chose ZPA is its unique ability to establish “inside-out” connections from the application to the authorized user, without exposing the IP address of the application. This “inside-out connectivity” is different from other software-defined perimeter solutions as well as virtual firewalls, which are IP-centric and require inbound connectivity. These are often vulnerable to DDoS attacks and require IT to set up ACLs, firewall policies and security groups.
+
+With ZPA, the Aster Group’s IT team can set and enforce granular access policies and never place remote users on the network. Instead, the Zscaler cloud hosts the policies their administrators set and provides a brokered connection between an authorized user and internal application. Aster Group uses ZPA’s outbound connections from the application to the user to ensure their applications remain invisible to unauthorized users.
+
+Unlike other remote access solutions such as VPNs, which give authenticated users full and lateral network access, ZPA provides only applications access, not network access. The result is secure and segmented access to applications granted on zero trust.
+
+> "We’ve received great feedback from our users."
+> — **Neil Mallon — Technology Strategy Lead — Aster Group**
+
+### Less complexity, rapid deployment, and better security (ID: less-complexity-rapid-deployment-and-better-security | Type: implementation)
+Since ZPA is a completely software and cloud-hosted service that requires no physical appliances, it was easy for Aster Group to deploy. Nor did they need to spend time creating access control lists, implementing firewalls, or creating firewall policies—all manual processes that are painful to enforce.
+
+In the end, Aster Group was able to deploy ZPA three times faster than planned. In fact, by the end of the first month of their deployment, they had ZPA rolled out to four times more users than originally planned. This boosted user productivity and allowed them to work remotely, regardless of device or location. Further, IT administrators could provide secure access to internal applications and empower their mobile workforce faster.
+
+> "By the end of the first month of deployment, we had rolled out ZPA to four times more users than originally planned."
+> — **Neil Mallon — Technology Strategy Lead — Aster Group**
+
+### Facilitating data center consolidation and move to cloud (ID: facilitating-data-center-consolidation-and-move-to-cloud | Type: data_protection)
+Aster Group is in the process of consolidating their servers to free up resources. With ZPA they can minimize potential downtime or loss in productivity during this process. Since ZPA is infrastructure-agnostic, the team does not need to worry about incompatibility issues. User traffic can be routed directly to the application’s new location within minutes.
+
+The company is also exploring their options as it relates to moving internal applications to the public cloud (Amazon Web Services or Microsoft Azure). Typically, during app migration to the cloud, both networking and security introduce added complexity and slow the process. Aster Group knows that ZPA’s cloud-based architecture will help ease this process by accelerating cloud migration and providing faster and more secure access to internal cloud-hosted applications.
+
+As at any other organization, Aster Group needs to do more with less. Not only does ZPA optimize connectivity to apps in the cloud and the datacenter, but it serves as an integral part of Aster’s data recovery and business continuity strategy. Allowing swift recovery and crucial connectivity, ZPA provides an agile system for Aster Group to restore any servers or services needed, regardless of type or location.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[2].name:** Data Security
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 27261
+- **root.page_metadata.meta_description:** Learn how Aster Group Aster Group UK Delivers Zero Trust Access with with Zscaler Private Access.
+- **root.page_metadata.og_title:** Aster Group Case Study | Customer Stories | Zscaler

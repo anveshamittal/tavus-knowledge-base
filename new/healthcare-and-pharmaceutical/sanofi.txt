@@ -1,0 +1,114 @@
+# Sanofi Leverages Detailed SaaS Usage Metrics to Accelerate Reinvestment Opportunities
+
+> Zscaler consolidates data from multiple sources in one place, enabling instant access to comprehensive, meaningful insights that guide informed decisions on app utilization and spend
+
+**Customer Name:** Sanofi 
+
+### Key Metrics
+- **15K**: SaaS apps discovered
+- **Days**: to deprecate apps
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/sanofi
+- **Slug:** sanofi
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:56:30.347421Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Sanofi 
+- **Description:** Sanofi S.A. is a global biopharma company specializing primarily in prescription medications
+- **Industry:** Healthcare and Pharmaceutical
+- **Headquarters:** Paris, France
+- **Size:** 160,000+ users across 182 countries
+
+## Executive Summary
+### Challenges
+- To accelerate rationalization of SaaS app usage, Sanofi needed an effective way to identify overlapping, EOL, and unused apps across its massive global user base and physical footprint
+- Deriving meaningful app usage insights from data collected from multiple sources across the IT ecosystem required a great deal of time and effort
+- Tracking unsanctioned use of cloud apps (shadow IT) was essential for enhancing risk management
+
+### Phased Journey
+- -B-i-o-p-h-a-r-m-a- -l-e-a-d-e-r- -S-a-n-o-f-i- -S-.-A-.-
+- -B-u-s-i-n-e-s-s- -I-n-s-i-g-h-t-s- -p-r-o-v-i-d-e-s- -t-h-e- -S-o-f-t-w-a-r-e- -A-s-s-e-t- -M-a-n-a-g-e-m-e-n-t- -t-e-a-m- -w-i-t-h- -a-n- -e-a-s-i-e-r- -a-n-d- -f-a-s-t-e-r- -w-a-y- -t-o- -g-a-i-n- -i-n-s-i-g-h-t-s- -i-n-t-o- -S-a-a-S- -a-p-p-s-.-
+- -H-e- -a-n-d- -h-i-s- -t-e-a-m- -h-a-v-e- -i-d-e-n-t-i-f-i-e-d- -n-e-w- -u-s-e- -c-a-s-e-s- -t-h-a-t- -g-o- -b-e-y-o-n-d- -S-a-a-S- -u-s-a-g-e- -a-n-d- -c-o-s-t-s-.-
+- -T-o- -d-a-t-e-,- -B-u-s-i-n-e-s-s- -I-n-s-i-g-h-t-s- -h-a-s- -d-i-s-c-o-v-e-r-e-d- -1-5-,-1-0-8- -S-a-a-S- -a-p-p-s- -i-n- -u-s-e- -a-c-r-o-s-s- -t-h-e- -o-r-g-a-n-i-z-a-t-i-o-n---s-o-m-e-t-h-i-n-g- -t-h-e- -L-i-c-e-n-s-e- -P-a-t-r-o-l- -T-e-a-m- -h-a-d- -n-o- -w-a-y- -o-f- -k-n-o-w-i-n-g- -p-r-e-v-i-o-u-s-l-y-.-
+
+### Results & Impact
+- Uses insights into SaaS app usage to phase out redundant apps and unnecessary licenses
+- Creates efficiencies with automated processes and access to all relevant data in one place
+- Identifies unsanctioned app usage to mitigate risk and further strengthen security posture
+
+## Featured Quotes
+> "Business Insights is providing us with an automated, data-driven, and scalable approach to gauging SaaS app usage and rationalizing spend."
+> — **Shahir Mishriki — Head of Digital Portfolio Governance — Sanofi**
+
+## Customer Case Study
+### Global biopharma leader accelerates reinvestment opportunities by understanding the full scope of its SaaS app inventory (ID: global-biopharma-leader-accelerates-reinvestment-opportunities-by-understanding-the-full-scope-of-its-saas-app-inventory | Type: other)
+Biopharma leader Sanofi S.A. uses thousands of SaaS apps, among them Microsoft 365, Zoom, SharePoint, Salesforce, ServiceNow, DigiCert, SAP Concur, and a whole host of productivity and customer relationship management (CRM) tools. With its broad global footprint across 182 countries and a user population of more than 160,000, the organization was interested in understanding and optimizing its software spend by leveraging data on SaaS app usage in an innovative way.
+
+While the Sanofi IT team had aggregated data from identity management systems and other solutions, they needed a way to connect the dots across this data and turn it to actions, such as revoking underutilized licenses or phasing out EOL software. To achieve this goal, Sanofi deployed Zscaler Business Insights, a simple, streamlined solution for collecting, correlating, and analyzing app usage data from multiple cloud and security sources.
+
+> "Using the context and data from Business Insights, we are now able to quickly make justifiable decisions on removing certain apps and eliminating redundancy…"
+> — **Shahir Mishriki — Head of Digital Portfolio Governance — Sanofi**
+
+### A 360-degree view into apps and granular utilization metrics aid decision-making (ID: a-360-degree-view-into-apps-and-granular-utilization-metrics-aid-decision-making | Type: other)
+Business Insights provides the Software Asset Management team with an easier and faster way to gain insights into SaaS apps. The Zscaler Zero Trust Exchange platform was already deployed across Sanofi’s entire environment, delivering continuous real-time data feeds from Zscaler Internet Access logs to Business Insights about who uses which SaaS apps and how frequently. Connectors to identity providers, top SaaS apps, and other tools provide a unified data set that enable complete view into Sanofi’s extensive SaaS landscape through a single-pane-of-glass visual dashboard. Sanofi now has an accurate inventory of its SaaS apps, with granular details such as plans and licenses purchased, active users, frequently used apps, and usage by department.
+
+“It helps make ZIA data and data from all our systems more accessible. We are actually able to make use of it, whereas, in the past, we had to pass this data through multiple systems in order to get to a similar result,” said Mishriki.
+
+Business Insights provides a single source of truth with accurate, up-to-date data and the ability to monitor user activity, license allocation, and shadow IT. Stakeholders can easily determine how many licenses of a given SaaS app are actually being used and renew only the required number.
+
+“Using the context and data from Business Insights, we are now able to quickly make justifiable decisions on removing certain apps and eliminating redundancy across our large, global organization. Business Insights providing us with an automated, data-driven, and scalable approach to gauging SaaS app usage and rationalizing spend,” remarked Mishriki.
+
+With zero trust architecture from Zscaler already in place, deployment of Business Insights was simple, fast, and seamless, enabling instant views into app metrics.
+
+“Other solutions require complex configurations, making it difficult to scale. It was so easy to activate Business Insights and derive immediate value,” said Mishriki.
+
+> "It helps make ZIA data and data from all our systems more accessible. We are actually able to make use of it, whereas, in the past, we had to pass this data through multiple systems in order to get to a similar result."
+> — **Mishriki — Sanofi**
+
+> "Using the context and data from Business Insights, we are now able to quickly make justifiable decisions on removing certain apps and eliminating redundancy across our large, global organization. Business Insights providing us with an automated, data-driven, and scalable approach to gauging SaaS app usage and rationalizing spend."
+> — **Mishriki — Sanofi**
+
+> "Other solutions require complex configurations, making it difficult to scale. It was so easy to activate Business Insights and derive immediate value."
+> — **Mishriki — Sanofi**
+
+> "Within days, Business Insights enables us to make decisions on apps we can quickly deprecate due to lack of usage. This was impossible before."
+> — **Shahir Mishriki — Head of Digital Portfolio Governance — Sanofi**
+
+### Current and emerging use cases (ID: current-and-emerging-use-cases | Type: other)
+He and his team have identified new use cases that go beyond SaaS usage and costs. Business Insights provides a view into unsanctioned shadow IT app usage by department and user. This capability ties directly into risk management efforts.
+
+Another unexpected use case for Business Insights is monitoring GenAI apps, which are known to be vulnerable to data loss due to users inadvertently oversharing and uploading sensitive documents to these apps. Business Insights helps Sanofi monitor GenAI app usage to ensure responsible use and compliance with stringent global healthcare and data privacy regulations.
+
+> "Other solutions require complex configurations, making it difficult to scale. It was so easy to activate Business Insights and derive immediate value."
+> — **Shahir Mishriki — Head of Digital Portfolio Governance — Sanofi**
+
+### Empowering teams to make faster, more informed decisions (ID: empowering-teams-to-make-faster-more-informed-decisions | Type: results)
+To date, Business Insights has discovered 15,108 SaaS apps in use across the organization—something the License Patrol Team had no way of knowing previously.
+
+“Within days, Business Insights enables us to make decisions on apps we can quickly deprecate due to lack of usage,” noted Mishriki. Mishriki also looks forward to future advancements to Business Insights that will allow it to deliver similar metrics on app usage for internally developed private apps.
+
+As Sanofi continues to use Business Insights, the company fully expects SaaS app optimization to be part of its long-term strategy to drive efficiencies and maximize the value of its technology investments.
+
+> "Within days, Business Insights enables us to make decisions on apps we can quickly deprecate due to lack of usage."
+> — **Mishriki — Sanofi**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[1].name:** Zscaler Internet Access (ZIA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[2].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 98381
+- **root.page_metadata.meta_description:** Learn how Sanofi  Sanofi Leverages Detailed SaaS Usage Metrics to Accelerate Reinvestment Opportunities with Zscaler consolidates data from multiple sources in one place, enabling instant access to comprehensive, meaningful insights that guide informed decisions on app utilization and spend.
+- **root.page_metadata.og_title:** Sanofi  Case Study | Customer Stories | Zscaler

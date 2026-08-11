@@ -1,0 +1,162 @@
+# Protegrity Boosts Its Protection of Billions of Users’ Data
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Protegrity 
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/protegrity
+- **Slug:** protegrity
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:51.752457Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Protegrity 
+- **Description:** A software and IT company specializing in data security, Protegrity secures the privacy of more than one billion individuals. With offices in the U.S., Europe, and Asia, the company offers professional services, software, and support to customers in many industries, including some of the world’s largest retailers and credit card companies.
+- **Industry:** High Tech
+- **Headquarters:** Salt Lake City, Utah, USA
+- **Size:** Serves companies worldwide and their 1B+ users
+
+## Executive Summary
+### Challenges
+- Empower employees worldwide to access the internet, SaaS, and private applications quickly and securely
+
+### Phased Journey
+- -T-o- -s-u-c-c-e-e-d- -a-t- -i-t-s- -b-u-s-i-n-e-s-s- -o-f- -s-e-c-u-r-i-n-g- -d-a-t-a- -f-o-r- -i-t-s- -c-u-s-t-o-m-e-r-s-,- -P-r-o-t-e-g-r-i-t-y- -k-n-e-w- -i-t- -n-e-e-d-e-d- -t-o- -e-m-b-a-r-k- -o-n- -a- -d-i-g-i-t-a-l- -t-r-a-n-s-f-o-r-m-a-t-i-o-n-.-
+- -A-s- -P-r-o-t-e-g-r-i-t-y- -c-o-n-s-i-d-e-r-e-d- -i-t-s- -o-p-t-i-o-n-s-,- -i-t- -r-e-a-l-i-z-e-d- -t-h-a-t- -a- -s-e-c-u-r-i-t-y- -s-e-r-v-i-c-e- -e-d-g-e- -(-S-S-E-)---a- -s-o-l-u-t-i-o-n- -t-h-a-t- -b-u-n-d-l-e-s- -s-e-c-u-r-e- -w-e-b- -g-a-t-e-w-a-y- -(-S-W-G-)-,- -z-e-r-o- -t-r-u-s-t- -n-e-t-w-o-r-k- -a-c-c-e-s-s- -(-Z-T-N-A-)-,- -a-n-d- -c-l-o-u-d- -a-c-c-e-s-s- -s-e-c-u-r-i-t-y- -b-r-o-k-e-r- -(-C-A-S-B-)- -t-e-c-h-n-o-l-o-g-i-e-s---m-a-d-e- -t-h-e- -m-o-s-t- -s-e-n-s-e-.-
+- -W-i-t-h- -t-h-e- -Z-e-r-o- -T-r-u-s-t- -E-x-c-h-a-n-g-e-,- -P-r-o-t-e-g-r-i-t-y- -n-o-w- -m-a-n-a-g-e-s- -i-n-t-e-r-n-e-t- -s-e-c-u-r-i-t-y- -f-o-r- -i-t-s- -e-n-t-i-r-e- -g-l-o-b-a-l- -e-n-t-e-r-p-r-i-s-e- -v-i-a- -a- -s-i-n-g-l-e- -p-o-r-t-a-l- -a-n-d- -d-a-s-h-b-o-a-r-d-.-
+- -T-o- -p-r-o-v-i-d-e- -a-n- -e-x-t-r-a- -l-a-y-e-r- -o-f- -p-r-o-t-e-c-t-i-o-n- -a-g-a-i-n-s-t- -a- -d-a-t-a- -b-r-e-a-c-h-,- -P-r-o-t-e-g-r-i-t-y- -a-l-s-o- -a-c-t-i-v-a-t-e-d- -Z-s-c-a-l-e-r- -D-a-t-a- -P-r-o-t-e-c-t-i-o-n- -s-e-r-v-i-c-e-s- -w-i-t-h-i-n- -t-h-e- -Z-e-r-o- -T-r-u-s-t- -E-x-c-h-a-n-g-e-.-
+- -A-c-c-o-r-d-i-n-g- -t-o- -A-n-d-e-r-s-o-n-,- -t-h-e- -c-o-m-p-a-n-y- -c-o-n-s-i-d-e-r-e-d- -o-b-t-a-i-n-i-n-g- -d-a-t-a- -l-o-s-s- -p-r-o-t-e-c-t-i-o-n- -f-r-o-m- -o-t-h-e-r- -v-e-n-d-o-r-s- -b-u-t- -a- -k-e-y- -f-e-a-t-u-r-e- -t-h-a-t- -a-t-t-r-a-c-t-e-d- -t-h-e-m- -t-o- -Z-s-c-a-l-e-r- -f-o-r- -D-L-P-,- -a-s-i-d-e- -f-r-o-m- -"-b-e-i-n-g- -p-a-r-t- -o-f- -t-h-e- -Z-e-r-o- -T-r-u-s-t- -E-x-c-h-a-n-g-e- -e-c-o-s-y-s-t-e-m-,-"- -w-a-s- -i-t-s- -o-p-t-i-c-a-l- -c-h-a-r-a-c-t-e-r- -r-e-c-o-g-n-i-t-i-o-n- -(-O-C-R-)- -c-a-p-a-b-i-l-i-t-y-.-
+
+### Results & Impact
+- Saves hours daily for security administration
+- Uplevels security with zero trust access and security service edge (SSE)
+- Further reduces risk of data leakage with DLP and OCR
+- Cuts troubleshooting user experience issues from hours to minutes
+
+## Featured Quotes
+> "Our whole mission is to secure our customers’ data, allowing them to focus on their business, not their data … Being at the forefront with higher level security is important to us, which is why we invested in the Zero Trust Exchange."
+> — **Leo Lovishchuk — Cloud and Network Service Manager — Protegrity**
+
+## Customer Case Study
+### VPN frustration and no centralized internet security (ID: vpn-frustration-and-no-centralized-internet-security | Type: security)
+To succeed at its business of securing data for its customers, Protegrity knew it needed to embark on a digital transformation. The company’s traditional hub-and-spoke network and castle-and-moat security architecture with VPNs also posed a significant security risk since, once connected, users could access almost anything on the network. In addition, the sluggishness of VPN connections and frequent disconnects caused user frustration and hindered productivity. There was also no way to enforce consistent internet security policies across its global enterprise.
+
+“In short, to succeed at our business of securing customers’ data, we needed to transform our own cybersecurity to enable our employees to access the internet, SaaS, and private applications quickly and securely,” said Leo Lovishchuk, Cloud and Network Service Manager at Protegrity.
+
+> "In short, to succeed at our business of securing customers’ data, we needed to transform our own cybersecurity to enable our employees to access the internet, SaaS, and private applications quickly and securely."
+> — **Leo Lovishchuk — Cloud and Network Service Manager — Protegrity**
+
+### Best-of-breed security service edge (ID: best-of-breed-security-service-edge | Type: security)
+As Protegrity considered its options, it realized that a security service edge (SSE)—a solution that bundles secure web gateway (SWG), zero trust network access (ZTNA), and cloud access security broker (CASB) technologies—made the most sense. According to Gartner, by 2025, 80% of organizations buying SSE-related security services will purchase a consolidated SSE solution, rather than stand-alone offerings—up from 15% in 2021.
+
+“Moving to an SSE was important to protect both our users and our assets,” said Lovishchuk. “We wanted an SSE that would let us easily scale, set and enforce universal security policies that apply everywhere, and track user behaviors and traffic across channels. We chose Zscaler because it was a leader in the Gartner SSE quadrant, with the highest ability-to-execute score. Also, our head of information security had had an extremely positive experience with the Zscaler Zero Trust Exchange at another company.”
+
+After a proof of concept, Protegrity rolled out Zscaler Internet Access (ZIA) and Zscaler Private Access (ZPA) as its first Zero Trust Exchange services across its enterprise. ZIA delivers safe, fast internet and SaaS access from anywhere. ZPA provides fast, direct, secure private application access for all users, devices, and locations.
+
+> "Moving to an SSE was important to protect both our users and our assets. We wanted an SSE that would let us easily scale, set and enforce universal security policies that apply everywhere, and track user behaviors and traffic across channels. We chose Zscaler because it was a leader in the Gartner SSE quadrant, with the highest ability-to-execute score. Also, our head of information security had had an extremely positive experience with the Zscaler Zero Trust Exchange at another company."
+> — **Lovishchuk — Protegrity**
+
+> "ZIA reduces what I would consider to be a mostly full-time job to something I do only when I need to. It’s nothing but a dream from a security perspective."
+> — **Leo Lovishchuk — Cloud and Network Service Manager — Protegrity**
+
+### Easier administration saves hours daily (ID: easier-administration-saves-hours-daily | Type: other)
+With the Zero Trust Exchange, Protegrity now manages internet security for its entire global enterprise via a single portal and dashboard. “It’s easy to set common policies for all users as well as to make highly granular rules and exceptions,” noted Lovishchuk.
+
+“Zscaler Internet Access also gives us an extra set of eyes on all outgoing traffic, including encrypted, and all ports and protocols, plus the Zero Trust Exchange portal makes tracking logs and gaining actionable intelligence easy,” continued Lovishchuk. As an example, he noted how ZIA logs showed users streaming movies and shows, which led to a conversation with those users and the implementation of controls to limit future use of such services. “Instead of taking several hours to find the problem and resolve it, it took me only five to 10 minutes.”
+
+“ZIA reduces what I would consider to be a mostly full-time job [managing internet-bound security] to something I do only when I need to,” added Lovishchuk. “It’s nothing but a dream from a security perspective.”
+
+Improved productivity and security posture
+
+While ZIA boosted security for internet and SaaS application access, ZPA improved user productivity and upleveled security for access to private applications and applications in the public cloud. Protegrity users can access these resources without the friction of sluggish VPNs and without compromising security or visibility, no matter where they are, whether working at home or on premises.
+
+“With ZPA providing zero trust, direct user-to-application access, our company has a much better security posture and our users have easier, faster access to the resources they need,” said Lovishchuk.” Since they no longer have to deal with the hassles of VPNs and connections are routed through one of Zscaler’s 150 data centers worldwide rather than backhauled to a data center in the U.S., Protegrity users have a better user experience and can become productive more quickly.
+
+> "It’s easy to set common policies for all users as well as to make highly granular rules and exceptions."
+> — **Lovishchuk — Protegrity**
+
+> "Zscaler Internet Access also gives us an extra set of eyes on all outgoing traffic, including encrypted, and all ports and protocols, plus the Zero Trust Exchange portal makes tracking logs and gaining actionable intelligence easy. Instead of taking several hours to find the problem and resolve it, it took me only five to 10 minutes."
+> — **Lovishchuk — Protegrity**
+
+> "ZIA reduces what I would consider to be a mostly full-time job [managing internet-bound security] to something I do only when I need to. It’s nothing but a dream from a security perspective."
+> — **Lovishchuk — Protegrity**
+
+> "With ZPA providing zero trust, direct user-to-application access, our company has a much better security posture and our users have easier, faster access to the resources they need."
+> — **Lovishchuk — Protegrity**
+
+### Minimizing the risk of data leakage (ID: minimizing-the-risk-of-data-leakage | Type: challenge)
+To provide an extra layer of protection against a data breach, Protegrity also activated Zscaler Data Protection services within the Zero Trust Exchange. One of the first things the security operations team did after implementing DLP was block access to domain controllers and internet file-sharing services for all but the finance team. Then they created DLP policies to prevent sensitive data from being uploaded to the internet via email or other means.
+
+“After a few short weeks of monitoring and optimizing, we received highly valuable actionable alerts,” noted Lovishchuk. “Zscaler Data Protection has been an excellent resource to help us protect sensitive information and let us see where that information resides.”
+
+> "After a few short weeks of monitoring and optimizing, we received highly valuable actionable alerts. Zscaler Data Protection has been an excellent resource to help us protect sensitive information and let us see where that information resides."
+> — **Lovishchuk — Protegrity**
+
+> "We reduce our cyber risk dramatically with direct, zero trust, user-to-application access, and our users get easier, faster access to the resources they need."
+> — **Leo Lovishchuk — Cloud and Network Service Manager — Protegrity**
+
+### OCR to prevent sensitive data escaping via images (ID: ocr-to-prevent-sensitive-data-escaping-via-images | Type: data_protection)
+According to Anderson, the company considered obtaining data loss protection from other vendors but a key feature that attracted them to Zscaler for DLP, aside from “being part of the Zero Trust Exchange ecosystem,” was its optical character recognition (OCR) capability. “If someone tried to smuggle social security numbers through a JPG image or PDF, Zscaler’s OCR functionality would see that and prevent it,” explained Lovishchuk.
+
+Protegrity also takes advantage of the Zscaler data protection’s adult language filter. The filter prevents employees, while on social media at work, from inadvertently or purposefully expressing words or phrases that could lead to bad publicity for the company.
+
+> "being part of the Zero Trust Exchange ecosystem. If someone tried to smuggle social security numbers through a JPG image or PDF, Zscaler’s OCR functionality would see that and prevent it."
+> — **Lovishchuk — Protegrity**
+
+### Faster, safer access to AWS resources (ID: faster-safer-access-to-aws-resources | Type: results)
+Protegrity’s developers had been using an on-premises private cloud that had reached end of life. After implementing the Zero Trust Exchange, the company migrated all its development workloads to the public cloud. The company currently has approximately 50 AWS accounts and 400 servers running at any given time across these accounts.
+
+Thanks to the Zero Trust Exchange and Zscaler’s 150 points of presence worldwide, including almost every AWS region, Protegrity’s developers can access private applications, workloads, and other resources within the AWS cloud much more easily. “If developers in India need to access AWS apps, instead of going over the internet and the site-to-site VPN, which travels who-knows-what path, they automatically connect to a Zscaler Edge location that’s closest to them,” explained Lovishchuk. “That means they can start working more easily, securely, and much faster—sometimes even twice as fast.”
+
+With the Zero Trust Exchange, Protegrity’s overall security posture is further enhanced by the ability to enforce least-privileged access and to segment applications in the public cloud. In addition, since only one Zscaler Client Connector agent is needed to access all the company’s AWS accounts, it’s simple for security operations to extend access to new AWS users, accounts, and applications.
+
+> "If developers in India need to access AWS apps, instead of going over the internet and the site-to-site VPN, which travels who-knows-what path, they automatically connect to a Zscaler Edge location that’s closest to them. That means they can start working more easily, securely, and much faster—sometimes even twice as fast."
+> — **Lovishchuk — Protegrity**
+
+> "ZDX cuts the time needed to diagnose the issue from hours to a couple minutes. And with everyone working remotely, the time savings are even greater."
+> — **Leo Lovishchuk — Cloud and Network Service Manager — Protegrity**
+
+### Troubleshooting connectivity issues within minutes (ID: troubleshooting-connectivity-issues-within-minutes | Type: challenge)
+After the success of using ZIA and ZPA services, Protegrity activated the Zscaler Digital Experience (ZDX) service on the Zero Trust Exchange to accelerate troubleshooting when an employee or contractor experiences challenges connecting to applications or resources. Enabling this new service took “just a click of a button.”
+
+“Today, if a user complains about connection issues, we go to the ZDX portal, locate the user, and look at the metrics,” explained Lovishchuk. “We can pinpoint exactly where the issue is—whether it’s with their ISP or something else. ZDX cuts the time needed to diagnose the issue from hours to a couple of minutes. And with everyone working remotely, the time savings are even greater.”
+
+> "Today, if a user complains about connection issues, we go to the ZDX portal, locate the user, and look at the metrics. We can pinpoint exactly where the issue is—whether it’s with their ISP or something else. ZDX cuts the time needed to diagnose the issue from hours to a couple of minutes. And with everyone working remotely, the time savings are even greater."
+> — **Lovishchuk — Protegrity**
+
+### An extensible, adaptable platform for the future (ID: an-extensible-adaptable-platform-for-the-future | Type: roadmap)
+With the Zscaler Zero Trust Exchange, Protegrity can continue to augment its cloud security and adapt it to meet new business and security needs as they arise. Currently, the company is considering adding ZIA for Workloads to help with compliance initiatives as well as future product offerings.
+
+“Our whole mission is to secure our customers’ data, allowing them to focus on their business, not their data, to pursue positive outcomes,” said Lovishchuk. “We want to practice what we preach. … Being at the forefront with higher level security is important to us, which is why we invested in the Zero Trust Exchange.”
+
+> "Our whole mission is to secure our customers’ data, allowing them to focus on their business, not their data, to pursue positive outcomes. We want to practice what we preach. … Being at the forefront with higher level security is important to us, which is why we invested in the Zero Trust Exchange."
+> — **Lovishchuk — Protegrity**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[3].url:** https://www.zscaler.com/products/zscaler-digital-experience
+- **root.products[4].name:** Web and Email DLP
+- **root.products[4].url:** https://www.zscaler.com/products-and-solutions/data-loss-prevention
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Data Security
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.solutions[2].name:** Ransomware
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[3].name:** Optimize Digital Experiences
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 55971
+- **root.page_metadata.meta_description:** Learn how Protegrity  Protegrity Boosts Its Protection of Billions of Users’ Data with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** Protegrity  Case Study | Customer Stories | Zscaler

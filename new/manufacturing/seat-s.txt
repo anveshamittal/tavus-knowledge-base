@@ -1,0 +1,90 @@
+# Spain’s Leader Carmaker Strengthens Security
+
+> with Zscaler
+
+**Customer Name:** SEAT S.A.
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/seat-s
+- **Slug:** seat-s
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:56:35.208510Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** SEAT S.A.
+- **Description:** SEAT is the only company that designs, develops, manufactures and markets cars in Spain. A member of the Volkswagen Group, the multinational has its headquarters in Martorell (Barcelona), exporting 80% of its vehicles, and is present in over 80 countries on five continents.
+- **Industry:** Manufacturing
+- **Headquarters:** Municipality of Martorell, Spain
+- **Size:** 14,000 users in 80 countries
+
+## Executive Summary
+### Challenges
+- Meet increasing demand of services and security by business units
+
+### Results & Impact
+- Strengthens security by gaining a full view of all user traffic
+- Reduces operational costs by decreasing reliance on expensive hardware
+- Improves scalability by leveraging a cloud native platform
+- Increases mobility by bringing security to users through business policy
+
+## Featured Quotes
+> "The key reasons to choose Zscaler were scalability, mobility, advanced security, and also a way to reduce operational costs. We needed to make (security) follow the user and make the user protected wherever (they are)."
+> — **Samuel Nunez Garcia — Network Security Architect — SEAT S.A.**
+
+## Video Testimonial & Transcript
+**Title:** Strengthening security for Spain’s leading car maker
+**Description:** v6
+**URL:** https://fast.wistia.net/embed/iframe/7hdcmmqn0s
+**Provider:** wistia
+**Video ID:** 7hdcmmqn0s
+**Duration:** 129.33 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/4b601a301e7fe10025520e77b71cfdfd.png
+**Video Account Id:** 658399
+**Video Media Id:** 37907809
+**Video Created At:** 1541611110
+
+### Tagged Segments
+- **[Samuel Nunez Garcia (Network Security Architect, SEAT S.A.)]** [Segment #1] (self_introduction - Company overview and operations): "We are selling designing and making cars in around eighty countries around the world around fourteen thousand mainly based in in Spanish, in Iberia, in the Panisola, but as we are part of a client group company, they may be everywhere in the work."
+- **[Samuel Nunez Garcia (Network Security Architect, SEAT S.A.)]** [Segment #2] (challenges - Infrastructure and service demands): "Our business units are demanding more and more services, which mean part of them are not look in our data center, and this is making us and made us quite a challenge for the infrastructure team. We needed to transform this and and get to reach to the time to business, this is making us to change way we were thinking, about the infrastructure strategy."
+- **[Samuel Nunez Garcia (Network Security Architect, SEAT S.A.)]** [Segment #3] (challenges - Overloaded legacy solution): "Were coming from a solution that was really overloaded, and it was really a talent users were working abroad. In several countries, they needed to be sure that their services was going to be there. And security team was asking us to provide several solutions or several security measures. That we were not able to provide fast enough just relying on local security assumptions."
+- **[Samuel Nunez Garcia (Network Security Architect, SEAT S.A.)]** [Segment #4] (products_and_solutions - Reasons for choosing Zscaler): "The key reasons to to choose Zscaler, whereas scalability, mobility, advanced security, and also a way to reduce aggression on calls. We needed to make this security follow the user, mainly following the user and making the user be protected wherever he is and wherever he goes."
+- **[Samuel Nunez Garcia (Network Security Architect, SEAT S.A.)]** [Segment #5] (products_and_solutions - ZIA for network security): "Using ZIA improved our network security, mainly because we're having a full view of what user traffic was doing or is doing when they are going to the internet, to the open internet. We are able to see the applications they are using."
+- **[Samuel Nunez Garcia (Network Security Architect, SEAT S.A.)]** [Segment #6] (metrics_and_results - Control over user traffic and malware): "They are demanding. We are able to prioritize them if we want. We are able to block them if we want. And, of course, we are seeing all the malware and we are the user in several ways."
+
+### Full Transcript Sentences
+- We are selling designing and making cars in around eighty countries around the world around fourteen thousand mainly based in in Spanish, in Iberia, in the Panisola, but as we are part of a client group company, they may be everywhere in the work.
+- Our business units are demanding more and more services, which mean part of them are not look in our data center, and this is making us and made us quite a challenge for the infrastructure team.
+- We needed to transform this and and get to reach to the time to business, this is making us to change way we were thinking, about the infrastructure strategy.
+- Were coming from a solution that was really overloaded, and it was really a talent users were working abroad.
+- In several countries, they needed to be sure that their services was going to be there.
+- And security team was asking us to provide several solutions or several security measures.
+- That we were not able to provide fast enough just relying on local security assumptions.
+- The key reasons to to choose Zscaler, whereas scalability, mobility, advanced security, and also a way to reduce aggression on calls.
+- We needed to make this security follow the user, mainly following the user and making the user be protected wherever he is and wherever he goes.
+- Using ZIA improved our network security, mainly because we're having a full view of what user traffic was doing or is doing when they are going to the internet, to the open internet.
+- We are able to see the applications they are using.
+- They are demanding.
+- We are able to prioritize them if we want.
+- We are able to block them if we want.
+- And, of course, we are seeing all the malware and we are the user in several ways.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].name:** Zscaler Internet Access (ZIA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.solutions[0].name:** Ransomware
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 28776
+- **root.page_metadata.meta_description:** Learn how SEAT S.A. Spain’s Leader Carmaker Strengthens Security with with Zscaler.
+- **root.page_metadata.og_title:** SEAT S.A. Case Study | Customer Stories | Zscaler

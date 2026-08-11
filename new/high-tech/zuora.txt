@@ -1,0 +1,210 @@
+# Zuora Future-Proofs Its Business with Zero Trust in Just 4 Months
+
+> Zscaler provides end-to-end security that enables secure AI innovation and business agility combined with cost savings, an outstanding user experience, and a robust defense
+
+**Customer Name:** Zuora
+
+### Key Metrics
+- **$500K+**: in cost savings
+- **6.5M**: policy violations prevented
+- **10+**: legacy solutions retired
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/zuora
+- **Slug:** zuora
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:57:11.021395Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Zuora
+- **Description:** The Zuora monetization platform enables businesses to grow people-centric models to unlock recurring revenues
+- **Industry:** High Tech
+- **Headquarters:** Redwood City, CA
+- **Size:** 1,600+ across 16 countries
+
+## Executive Summary
+### Challenges
+- The legacy VPN-based castle-and-moat architecture and the complicated setup for supporting teams in China resulted in high costs, management complexity, and a poor user experience
+- Reliance on VPN created a poor user experience with sluggish performance due to backhauling and increased risk of lateral threat movement
+- Fragmented, unintegrated security point products resulted in security gaps, with no visibility into traffic or device security posture across the estate
+
+### Phased Journey
+- In parallel with ZIA, Vadakandra and his team also implemented Zscaler Digital Experience (ZDX) to help fast-track the deployment process.
+
+### Results & Impact
+- Improves the user experience and boosts productivity with one-time sign-on and faster, more reliable access to the web, SaaS, and private apps
+- Reduces risk and strengthens cybersecurity posture by shrinking the attack surface, blocking lateral threat movement, and mitigating GenAI data loss and misuse
+- Saves $.5+ million by eliminating 10+ legacy solutions, including 3 VPN appliances
+
+## Featured Quotes
+> "Zscaler is the backbone of our zero trust strategy. It not only helps us be more secure, it allows us to scale securely and innovate without compromise."
+> — **Siva Vadakandra — Director of Security and Infrastructure — Zuora**
+
+## Customer Case Study
+### Leader in SaaS monetization replaces outdated perimeter security with zero trust for greater agility, more robust security (ID: leader-in-saas-monetization-replaces-outdated-perimeter-security-with-zero-trust-for-greater-agility-more-robust-security | Type: security)
+As a leading cloud-based SaaS provider specializing in subscription management and monetization, Zuora found that its VPN-based, castle-and-moat approach to security was becoming increasingly unsustainable. When CIO Karthik Chakkarapani joined Zuora a few years ago, one of the first questions asked of him at an all hands meeting was “When are we getting rid of VPN?”
+
+It was apparent to him that the company’s legacy architecture hindered its productivity, growth, and agility, was incapable of supporting its remote workforce, and provided little visibility into the overall environment. Zuora also needed to simplify the complex setup it had in place to support its users in China.
+
+“In this day and age, traditional network boundaries have been erased and enterprises have become perimeter-less. Endpoints are the new perimeter, and our goal was to maintain robust device security backed by dynamic context and identity-aware policies. The main challenges we had at the time were multiple legacy VPNs that required backhauling traffic and delivered a suboptimal user experience; lack of monitoring and visibility into encrypted TLS/SSL traffic; and inadequate protection against the evolving threat landscape,” he observed.
+
+Zuora’s legacy infrastructure was fragmented and disconnected, leading to higher overhead for maintenance and increasing management complexity. Chakkarapani prioritized modernization, and knew that zero trust provided the strategic path forward.
+
+The desired outcomes guiding Zuora’s choice of vendor for its digital transformation were:
+
+Reducing infrastructure complexity and costs
+
+Simplifying operations in China
+
+Creating a frictionless user experience
+
+Achieving seamless integration with the existing security stack
+
+Providing comprehensive protection against advanced threats
+
+Unlocking instant value, increase visibility, and gain rich analytics and insights
+
+Taking in account these objectives and the positive recommendations of team members, Chakkarapani and his colleagues selected the Zscaler Zero Trust Exchange platform.
+
+### Direct zero trust access to SaaS and the internet leads to better visibility, happier users, and stronger security controls (ID: direct-zero-trust-access-to-saas-and-the-internet-leads-to-better-visibility-happier-users-and-stronger-security-controls | Type: results)
+Director of Security and Infrastructure Siva Vadakandra spearheaded Zuora’s digital transformation by deploying cloud-native Zscaler Internet Access (ZIA) initially at his own department—strategy and operations. Strategy and operations is the backbone of the organization, so the focus was on providing the best possible and most secure digital work experience for the 100 employees who run Zuora’s leading subscription and monetization product suite. After this successful pilot, ZIA was rolled out to all 1,600 users at Zuora.
+
+Prior to Zscaler, Zuora relied primarily on firewalls, which slowed performance, were ineffective in combatting cloud-based threats, and provided no visibility into user traffic and the overall device landscape. With the ZIA cloud-enabled secure web gateway, users seamlessly and securely access the internet and the vital SaaS apps they use every day without the need for firewalls. ZIA also inspects 100% of TLS/SSL traffic in real time to detect and block hidden threats and prevent data exfiltration.
+
+Vadakandra’s team also relies on ZIA’s web filtering capabilities to uncover granular details on the types of content and data users are accessing online. They discovered that a number of users were consuming excessive bandwidth by watching non-corporate approved video content on popular streaming platforms. By making simple policy changes, the team blocked that activity and improved network throughput, reduced bandwidth costs, and enhanced the user experience.
+
+In addition, Zuora is benefitting greatly from ZIA’s consistent and continuous security for all users, devices, apps, and locations. AI-powered threat protection shields Zuora against ransomware, phishing, zero-day malware, and advanced attacks.
+
+“With Zscaler, we have so many capabilities that we never had before, like web DLP, detailed visibility into user and device traffic, and stronger, more comprehensive cybersecurity overall,” said Vadakandra.
+
+> "With Zscaler, we have so many capabilities that we never had before, like web DLP, detailed visibility into user and device traffic, and stronger, more comprehensive cybersecurity overall."
+> — **Vadakandra — Zuora**
+
+> "With Zscaler, we have… capabilities that we never had before, like web DLP… , detailed visibility into user and device traffic, and stronger, more comprehensive cybersecurity overall."
+> — **Siva Vadakandra — Director of Security and Infrastructure — Zuora**
+
+### Breaking through GenAI security blind spots (ID: breaking-through-genai-security-blind-spots | Type: security)
+The use of GenAI is highly encouraged at Zuora to support innovation and productivity. At the same time, Zuora’s IT leadership is well aware of the potential for data loss, delivery of hidden malware, and abuse. Many GenAI apps use the WebSockets communication protocol to speed communication between clients and servers. However, this technology offers limited security visibility. ZIA’s latest AI-specific technology breaks through the blind spots by inspecting encrypted WebSockets traffic for exploits and data exfiltration and applying scalable, real-time protection. Additionally, it inspects user prompts online and embedded inside of apps.
+
+“GenAI has many advantages for our business, but it also brings with it significant security challenges. Zscaler helps us in this regard by giving us insights into how our employees are using GenAI tools. It continually monitors this activity and ensures that our sensitive information does not get fed into the public large language models. We're confident that Zscaler will help us proactively deal with these challenges and prevent them from slowing us down,” remarked Vadakandra.
+
+> "GenAI has many advantages for our business, but it also brings with it significant security challenges. Zscaler helps us in this regard by giving us insights into how our employees are using GenAI tools. It continually monitors this activity and ensures that our sensitive information does not get fed into the public large language models. We're confident that Zscaler will help us proactively deal with these challenges and prevent them from slowing us down."
+> — **Vadakandra — Zuora**
+
+### The value of user experience monitoring during and after deployment (ID: the-value-of-user-experience-monitoring-during-and-after-deployment | Type: implementation)
+In parallel with ZIA, Vadakandra and his team also implemented Zscaler Digital Experience (ZDX) to help fast-track the deployment process. They used ZDX to conduct rigorous testing at every stage to ensure a positive and consistent user experience. ZDX provides total visibility from endpoint to app across Zuora’s entire hybrid environment. It enabled the team to keep a close watch on user experience issues by analyzing performance metrics—from app response times to network performance to device health metrics.
+
+“When you are deploying a transformative technology like zero trust, effective change control and management is key to a successful deployment. ZDX was instrumental in ensuring that we had a good start. It made everything go smoothly and helped users adapt to the change seamlessly. We spent time doing some solid testing and retesting to make sure the user experience was not compromised in any way during the deployment process because our goal was to improve the user experience—and ZDX enabled us to accomplish that,” said Vadakandra.
+
+Zuora continues to use ZDX to quickly identify root causes of help desk issues. By proactively identifying and resolving issues, the IT team can ensure a better, more streamlined user experience.
+
+> "When you are deploying a transformative technology like zero trust, effective change control and management is key to a successful deployment. ZDX was instrumental in ensuring that we had a good start. It made everything go smoothly and helped users adapt to the change seamlessly. We spent time doing some solid testing and retesting to make sure the user experience was not compromised in any way during the deployment process because our goal was to improve the user experience—and ZDX enabled us to accomplish that."
+> — **Vadakandra — Zuora**
+
+> "By continually verifying identities and context, Zscaler eliminates the threat of lateral movement."
+> — **Karthik Chakkarapani — CIO — Zuora**
+
+### Goodbye VPN, hello zero trust access to private apps (ID: goodbye-vpn-hello-zero-trust-access-to-private-apps | Type: other)
+On the heels of the ZIA and ZDX deployment, Zuora rolled out Zscaler Private Access (ZPA) to all users. This enabled Zuora to transition from legacy VPN and establish more context and segmented access controls to private apps and systems.
+
+Prior to ZPA, users relied on several VPNs to access private apps. Backhauling resulted in slow, unreliable performance, and daily logins frustrated remote users. VPNs also expanded the attack surface and set the stage for lateral movement of threats.
+
+For Zuora, role-based, adaptive app segmentation based on posture change is among the biggest benefits of ZPA. By applying policies at the app layer instead of the network layer, the team can isolate apps and prevent unauthorized lateral movement. At the same time, users enjoy faster, more reliable access to private apps without performance bottlenecks, along with frictionless, transparently enforced security.
+
+“Before Zscaler, an HR employee and a database administrator would log into VPN and get access to apps that were not relevant or appropriate for their roles. VPN requires identity verification only once and then gives users complete access to our entire network. This opens the door to the risk of lateral movement of threats once attackers compromise credentials or misconfigurations,” pointed out Chakkarapani. “ZPA removes this risk by enabling our team to define identity- and context-based access policies that give users access to only the apps and resources they need to perform their functions. By continually verifying identities and context, Zscaler eliminates the threat of lateral movement.”
+
+### Overcoming connectivity and access limitations in China (ID: overcoming-connectivity-and-access-limitations-in-china | Type: challenge)
+To simplify the technically complex setup in China, Zuora implemented Zscaler Branch Connector. The virtual machine forwards traffic from Zuora’s Chinese branches to ZPA, ensuring that users in that region enjoy the same level of access, security, and performance as other Zuora employees. Branch Connector is fully deployed in Beijing, with plans in place to redirect the traffic in the very near future.
+
+“Zscaler Branch Connector is instrumental in our infrastructure consolidation plans. Reliable and secure zero trust connectivity for our users in China will help us overcome many of the operational challenges we’ve had in that region,” said Chakkarapani. “We’ll not only provide a vastly improved digital experience for our employees, we will also potentially benefit from additional cost savings by eliminating VPNs and other hardware.”
+
+> "Zscaler Branch Connector is instrumental in our infrastructure consolidation plans. Reliable and secure zero trust connectivity for our users in China will help us overcome many of the operational challenges we’ve had in that region. We’ll not only provide a vastly improved digital experience for our employees, we will also potentially benefit from additional cost savings by eliminating VPNs and other hardware."
+> — **Chakkarapani — Zuora**
+
+### Next Up: Fully optimizing Zscaler, ramping up DLP, and addressing AI agentic security (ID: next-up-fully-optimizing-zscaler-ramping-up-dlp-and-addressing-ai-agentic-security | Type: security)
+Chakkarapani had identified three areas of focus for the next stage of Zuora’s zero trust journey. The first priority is to ensure that the current deployment is fully optimized and fine-tuned to continue safeguarding the company with the highest possible level of consistent, comprehensive protection.
+
+Next on the list is data loss protection. Chakkarapani and his team are exploring Zscaler Endpoint DLP, which protects devices and prevents unauthorized users from getting access to apps and resources. It also blocks the exfiltration of sensitive data across removable storage, network sharing, printing, and cloud storage apps such as Dropbox, OneDrive, and others. It will provide Zuora with a powerful DLP toolkit consisting of classification of sensitive data, unified policy monitoring and enforcement for data at rest and in motion, and automated remediation.
+
+“Part of our data protection strategy is to leverage Zscaler Endpoint DLP device control protections to ensure that portable storage devices and mass storage devices either grant access only on a conditional basis or deny it outright when appropriate. We’re also interested in monitoring and blocking the exfiltration of data that moves from one cloud-based file storage solution to another cloud-based file storage solution,” he explained.
+
+In line with his efforts to improve data governance and security, Chakkarapani will be looking to Zscaler for guidance on addressing the risks of AI agents. These autonomous agents pull in data from various sources and perform complex tasks and make decisions, often in concert with other AI agents, and with little to no human intervention. While AI agents promise immense efficiency gains for business, they can open the door to data loss, theft, and abuse and the weaponization of AI agents for malicious purposes. Chakkarapani is especially interested in Zscaler Breach Predictor, which can curb this risk by proactively looking at various sources of security information to gain real-time insights into attacks, preemptively shutting down attack paths, and generating breach probability metrics to help teams focus where it matters most.
+
+> "Part of our data protection strategy is to leverage Zscaler Endpoint DLP device control protections to ensure that portable storage devices and mass storage devices either grant access only on a conditional basis or deny it outright when appropriate. We’re also interested in monitoring and blocking the exfiltration of data that moves from one cloud-based file storage solution to another cloud-based file storage solution."
+> — **Zuora**
+
+> "We now have the right level of agility to meet our growing business needs and to securely and confidently innovate by taking advantage of cutting-edge AI technologies."
+> — **Karthik Chakkarapani — CIO — Zuora**
+
+### Integrations multiply the power of the existing security stack (ID: integrations-multiply-the-power-of-the-existing-security-stack | Type: security)
+To unify and strengthen its zero trust security framework, the Zuora team has integrated Zscaler with key components in its security stack, namely Okta, CrowdStrike, and Rapid7.
+
+“One of the reasons we chose Zscaler over the competition is its ability to tightly integrate with our existing ecosystem, so the tools can communicate with each other by sharing signals. This will go a long way toward helping us write dynamic policies as the posture of our endpoints change,” said Chakkarapani.
+
+The Okta-Zscaler integration leverages Okta’s identity management capabilities to provide continuous authentication. When Okta authenticates a user, Zscaler validates their rights based on their identity and context using the principles of least-privileged access. This means the user can only access the apps they are authorized to use; these apps are invisible unauthorized users. This integration also provides single sign-on (SSO) and multifactor authentication (MFA), improving the user experience with faster, more secure access to resources.
+
+By integrating Zscaler with CrowdStrike Falcon advanced endpoint protection, Zuora increases visibility into and control over device security posture. CrowdStrike assesses a device’s security posture in real time and calculates a Falcon Zero Trust Assessment (ZTA) score, which it feeds to Zscaler. Based on a minimum ZTA score, Zscaler administrators then assign access policies. CrowdStrike and Zscaler also share threat intelligence information, such indicators of compromise (IOCs). Access policies can then be automatically adapted according to user context, device health, and any detected IOCs.
+
+The Zscaler integration with Rapid7 security information and event management (SIEM) streams Zscaler log data into Rapid7, enabling real-time analysis and correlation of this data to provide broader and deeper visibility into suspicious activities, potential threats, and attacks. This helps guide faster, more efficient, and more accurate incident detection and response.
+
+> "One of the reasons we chose Zscaler over the competition is its ability to tightly integrate with our existing ecosystem, so the tools can communicate with each other by sharing signals. This will go a long way toward helping us write dynamic policies as the posture of our endpoints change."
+> — **Chakkarapani — Zuora**
+
+### Checking all the boxes in just four months—from cost savings to measurable improvements in cybersecurity (ID: checking-all-the-boxes-in-just-four-months-from-cost-savings-to-measurable-improvements-in-cybersecurity | Type: results)
+Thus far, Zuora’s Zscaler deployment has not only met key criteria, it has helped the team achieve every targeted outcome on their list.
+
+Zscaler has already enabled Zuora to simplify its environment across all locations, including China, and substantially cut costs, resulting in savings of more than $.5 million. The company has decommissioned more than 10 legacy solutions, including three VPNs, various firewalls, a DNS proxy solution, an outdated CASB solution, and several co-location data centers in the Asia Pacific region to support China. In addition, Zuora has also reduced bandwidth costs by blocking user access to unapproved video content.
+
+Vadakandra proudly asserts that productivity and the user experience have substantially improved—employees now get seamless, secure access to the internet, SaaS, and private apps from anywhere. With VPNs out of the picture, gone are lengthy daily login processes and slow app performance. Now everyone just logs in once and gets down to business. “Whether they're working from one of our 17 worldwide offices or from home, all our employees have a seamless experience and consistent security, thanks to Zscaler’s zero trust identity-based access management,” he noted.
+
+He further acknowledged that Zscaler has not only reduced the attack surface and prevented lateral threat movement, it has also unlocked greater visibility and generated actionable insights to help his team better manage Zuora’s cybersecurity landscape. This has significantly improved the company’s security posture. API integrations with Zuora’s existing security stack have contributed to a more unified and cohesive approach to security, closing gaps and speeding up incident response.
+
+“Over a three-month period, Zscaler blocked more than 600,000 transactions that were deemed malicious and prevented 6.5 million policy violations. This was the quantifiable value of the Zscaler deployment right out of the gate—something that was missing for us previously,” Vadakandra pointed out. “The time to value of the deployment was just four months.”
+
+> "Whether they're working from one of our 17 worldwide offices or from home, all our employees have a seamless experience and consistent security, thanks to Zscaler’s zero trust identity-based access management."
+> — **Vadakandra — Zuora**
+
+> "Over a three-month period, Zscaler blocked more than 600,000 transactions that were deemed malicious and prevented 6.5 million policy violations. This was the quantifiable value of the Zscaler deployment right out of the gate—something that was missing for us previously. The time to value of the deployment was just four months."
+> — **Vadakandra — Zuora**
+
+### Zero trust: A strong foundation for future growth and secure AI innovation (ID: zero-trust-a-strong-foundation-for-future-growth-and-secure-ai-innovation | Type: roadmap)
+Vadakandra speaks proudly about Zuora’s digital transformation. “Our shift to zero trust has fundamentally improved our ability to quickly adapt to evolving security needs, offering a scalable and future-proof solution that aligns with our security strategy,” he said.
+
+Chakkarapani agrees that the organization’s new zero trust architecture is setting the stage for future growth by increasing agility, seamlessly supporting its remote workforce, and minimizing risk in an ever-evolving security landscape.
+
+“Zscaler has reduced our attack surface, improved our user experience, and simplified security operations, allowing us to scale securely and efficiently in a cloud-first world. As a SaaS organization, this is in full alignment with our mission. We now have the right level of agility to meet our changing business needs and to securely and confidently innovate by taking advantage of cutting-edge AI technologies,” summarized Chakkarapani.
+
+> "Our shift to zero trust has fundamentally improved our ability to quickly adapt to evolving security needs, offering a scalable and future-proof solution that aligns with our security strategy."
+> — **Vadakandra — Zuora**
+
+> "Zscaler has reduced our attack surface, improved our user experience, and simplified security operations, allowing us to scale securely and efficiently in a cloud-first world. As a SaaS organization, this is in full alignment with our mission. We now have the right level of agility to meet our changing business needs and to securely and confidently innovate by taking advantage of cutting-edge AI technologies."
+> — **Chakkarapani — Zuora**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** AI Security Platform
+- **root.products[1].name:** Data Security
+- **root.products[1].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.products[3].name:** Web and Email DLP
+- **root.products[3].url:** https://www.zscaler.com/products-and-solutions/data-loss-prevention
+- **root.products[4].name:** Zero Trust SD-WAN
+- **root.products[4].url:** https://www.zscaler.com/products-and-solutions/zero-trust-sd-wan
+- **root.products[5].url:** https://www.zscaler.com/products/zscaler-digital-experience
+- **root.products[6].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[7].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.solutions[0].name:** AI/ML
+- **root.solutions[1].name:** Data Security
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.solutions[2].name:** Optimize Digital Experiences
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 96986
+- **root.page_metadata.meta_description:** Learn how Zuora Zuora Future-Proofs Its Business with Zero Trust in Just 4 Months with Zscaler provides end-to-end security that enables secure AI innovation and business agility combined with cost savings, an outstanding user experience, and a robust defense.
+- **root.page_metadata.og_title:** Zuora Case Study | Customer Stories | Zscaler

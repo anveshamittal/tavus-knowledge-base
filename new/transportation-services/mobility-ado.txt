@@ -1,0 +1,131 @@
+# Mobility ADO Powers Secure, Rapid Expansion
+
+> with a Zero Trust Architecture
+
+**Customer Name:** Mobility ADO
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/mobility-ado
+- **Slug:** mobility-ado
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:40.404108Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Mobility ADO
+- **Description:** Mobility ADO began operating in Mexico in 1939, running six buses from Mexico City to Veracruz. Today, the company is a global provider of bus, taxi, railway, and other transportation services and related amenities in eight countries across Central and South America and Europe, including Spain.
+- **Industry:** Transportation Services
+- **Headquarters:** Mexico City, Mexico
+- **Size:** 7,000+ employees in eight countries
+
+## Executive Summary
+### Challenges
+- Provide faster, more secure access to the internet and cloud apps for a growing user base resulting from new business units and M&As
+
+### Phased Journey
+- With a mission to “bring simplicity to everyday life,” Mobility ADO sees its cloud journey as inevitable and necessary to support its lightning-fast growth, largely a result of mergers and acquisitions (M&As) and the development of new business units.
+
+### Results & Impact
+- Enhances the user experience and improves productivity
+- Reduces management effort and saves time
+- Enables consistent security across the entire estate, including M&As
+- Prevented 25.4 million policy violations over three months
+- Blocked 42,509 cyberthreats over three months
+
+## Featured Quotes
+> "Zero trust is absolutely the right approach, and Zscaler is a critical component of our security architecture. As a Zscaler customer for almost a decade, I guess you can say we are a frontrunner when it comes to zero trust."
+> — **Hector Mendez — Chief Security Officer — Mobility ADO**
+
+## Customer Case Study
+### Astronomical expansion drives cloud-forward transformation (ID: astronomical-expansion-drives-cloud-forward-transformation | Type: implementation)
+With a mission to “bring simplicity to everyday life,” Mobility ADO sees its cloud journey as inevitable and necessary to support its lightning-fast growth, largely a result of mergers and acquisitions (M&As) and the development of new business units.
+
+The transportation company is fully on board with the remote/hybrid business model. Its highly distributed infrastructure encompasses a multitude of devices—from corporate-issued computers to point-of-sale systems to BYOD—used by in-office employees and remote workers, including drivers, mechanics, and partners.
+
+“For us, the concept of remote and hybrid work really is nothing novel, but what has changed over the past several years is our increased reliance on cloud resources. With so many new companies coming into the fold, all with disparate IT environments, we knew we needed to converge our cloud security. Zero trust is absolutely the right approach, and Zscaler is a critical component of our security architecture. As a Zscaler customer for almost a decade, I guess you can say we are a frontrunner when it comes to zero trust,” said Hector Mendez, Chief Security Officer at Mobility ADO.
+
+> "For us, the concept of remote and hybrid work really is nothing novel, but what has changed over the past several years is our increased reliance on cloud resources. With so many new companies coming into the fold, all with disparate IT environments, we knew we needed to converge our cloud security. Zero trust is absolutely the right approach, and Zscaler is a critical component of our security architecture. As a Zscaler customer for almost a decade, I guess you can say we are a frontrunner when it comes to zero trust."
+> — **Hector Mendez — Chief Security Officer — Mobility ADO**
+
+### Up and running in 24 hours with great results (ID: up-and-running-in-24-hours-with-great-results | Type: results)
+Prior to Zscaler, the company’s many branches in Mexico each had their own internet breakouts with an MPLS hub-and-spoke architecture. Additionally, new companies were acquired all over Central America and Spain. To meet the challenge of providing consistent security and security policy company-wide, including M&As, Mendez turned to a trusted partner, Tautenet, a large IT services and consulting company in Mexico. Tautenet wholeheartedly recommended born-in-the-cloud Zscaler.
+
+Realizing the benefits of Zscaler’s high-performance security service edge solution, Zscaler Internet Access (ZIA), took Mendez and his team almost no time at all. Miguel Salgado, Head of Cybersecurity at Mobility ADO, successfully implemented it in just one day.
+
+“The results were immediate. With ZIA, our users benefited from more secure and faster direct-to-internet and SaaS connectivity whether they worked at one of our offices, at home, or on the road. Deploying ZIA opened our eyes to how much our costly, high-maintenance legacy infrastructure weighed down our operations. Best of all, we could easily integrate our M&As into our evolving zero trust infrastructure,” said Salgado.
+
+> "The results were immediate. With ZIA, our users benefited from more secure and faster direct-to-internet and SaaS connectivity whether they worked at one of our offices, at home, or on the road. Deploying ZIA opened our eyes to how much our costly, high-maintenance legacy infrastructure weighed down our operations. Best of all, we could easily integrate our M&As into our evolving zero trust infrastructure."
+> — **Salgado — Mobility ADO**
+
+### User experience goes up several notches (ID: user-experience-goes-up-several-notches | Type: monitoring)
+When the COVID-19 pandemic hit, forcing most employees to work from home, ZIA became the preferred way for users to connect securely to SaaS apps. Mendez and his powerhouse team of three security professionals knew it would provide a vastly improved user experience.
+
+“Everyone immediately noticed the difference. The reality is, prior to Zscaler, our users in Mexico had open internet access across the entire territory with no security controls to speak of. Of course, this was risky and unacceptable. ZIA enabled us to correct multiple security issues by automatically enforcing consistent policies across the board, and this gave us greater peace of mind. It also provided better, faster access to the internet and SaaS apps they needed to do their jobs, with no need to go through the corporate network. With ZIA, there’s no infrastructure needed, so it made our job easier too. Zscaler has helped us maintain productivity and efficient business operations during the pandemic and beyond,” said Salgado.
+
+> "Everyone immediately noticed the difference. The reality is, prior to Zscaler, our users in Mexico had open internet access across the entire territory with no security controls to speak of. Of course, this was risky and unacceptable. ZIA enabled us to correct multiple security issues by automatically enforcing consistent policies across the board, and this gave us greater peace of mind. It also provided better, faster access to the internet and SaaS apps they needed to do their jobs, with no need to go through the corporate network. With ZIA, there’s no infrastructure needed, so it made our job easier too. Zscaler has helped us maintain productivity and efficient business operations during the pandemic and beyond."
+> — **Salgado — Mobility ADO**
+
+> "Deploying ZIA opened our eyes to how much our costly, high-maintenance legacy infrastructure weighed down our operations."
+> — **Miguel Salgado — Head of Cybersecurity — Mobility ADO**
+
+### Threats blocked and policy violations prevented (ID: threats-blocked-and-policy-violations-prevented | Type: security)
+As Head of Cybersecurity, Salgado constantly has his eye on the Zscaler dashboard, continually tracking threat metrics, policy violations, and other security issues. He reported that, over a three-month time span in 2022, Zscaler blocked 42,509 threats and prevented 25.4 million policy violations, thanks to its multilayered approach to security. Mobility ADO has not experienced a single instance of ransomware, thanks to Zscaler.
+
+“ZIA’s AI-powered defense arsenal provides our company with comprehensive protection against ransomware and other attacks that are prevalent today. SSL traffic inspection helps us detect and stop threats buried in encrypted traffic. And another great thing about Zscaler is that all our traffic is routed through the Zscaler cloud, which is monitored by security experts who work day and night to analyze the global threat landscape and eliminate them before they reach us,” said Salgado.
+
+> "ZIA’s AI-powered defense arsenal provides our company with comprehensive protection against ransomware and other attacks that are prevalent today. SSL traffic inspection helps us detect and stop threats buried in encrypted traffic. And another great thing about Zscaler is that all our traffic is routed through the Zscaler cloud, which is monitored by security experts who work day and night to analyze the global threat landscape and eliminate them before they reach us."
+> — **Salgado — Mobility ADO**
+
+> "ZIA’s AI-powered defense arsenal provides our company with comprehensive protection against ransomware and other attacks that are prevalent today."
+> — **Miguel Salgado — Head of Cybersecurity — Mobility ADO**
+
+### Getting a handle on Microsoft 365 usage (ID: getting-a-handle-on-microsoft-365-usage | Type: other)
+A critical use case for Mobility ADO is how to resolve new IP addresses attempting to access cloud-based Microsoft 365, a widely used business application at the organization. With ZIA, this was no longer an issue, as administrators can allow fully authenticated users from any location to access Microsoft 365 directly.
+
+“ZIA’s direct-to-SaaS approach has helped us provide users at approved locations with secure and fast access to Microsoft 365. Now, we can easily extend our secure connectivity to Microsoft 365 across all our locations—from Mexico to Central America to Spain,” said Mendez.
+
+> "ZIA’s direct-to-SaaS approach has helped us provide users at approved locations with secure and fast access to Microsoft 365. Now, we can easily extend our secure connectivity to Microsoft 365 across all our locations—from Mexico to Central America to Spain."
+> — **Mendez — Mobility ADO**
+
+> "Zscaler is like aspirin—it eliminates security headaches. Zscaler has helped us all to become better people and better workers."
+> — **Miguel Salgado — Head of Cybersecurity — Mobility ADO**
+
+### More than an ounce of prevention (ID: more-than-an-ounce-of-prevention | Type: other)
+According to Mendez, the number one business benefit Zscaler has provided is, in a word, prevention, and this applies across the board—from ticket sales to internal administrative and financial operations. One example he cites is how Zscaler enables the security team to control unwarranted user activities. Through a rich set of policy enforcement technologies, users—whether they are employees at point-of-sale locations in the field or executives in the C-suite—can no longer use devices for personal purposes or try to bypass security controls to access non-business-related content online.
+
+“Zscaler is like aspirin—it eliminates security headaches. ZIA provides us with a rich security toolset, including inbound and outbound traffic inspection, malware protection, and browser blocking, along with robust data loss prevention and access control. Our users can only use authorized cloud applications or visit authorized sites. Any other unnecessary activity is blocked. Zscaler has helped us all to become better people and better workers,” said Mendez.
+
+> "Zscaler is like aspirin—it eliminates security headaches. ZIA provides us with a rich security toolset, including inbound and outbound traffic inspection, malware protection, and browser blocking, along with robust data loss prevention and access control. Our users can only use authorized cloud applications or visit authorized sites. Any other unnecessary activity is blocked. Zscaler has helped us all to become better people and better workers."
+> — **Mendez — Mobility ADO**
+
+### Zscaler lives up to the challenge with high performance and scalability (ID: zscaler-lives-up-to-the-challenge-with-high-performance-and-scalability | Type: challenge)
+Mobility ADO is convinced of Zscaler’s value and its ability to scale as the company grows rapidly. For example, total network traffic increased from 2021 to 2022 by 82%—from 74.2 to 135.3 TB. In the summer of 2022 alone, Mobility ADO processed 2.7 billion transactions that ranged from online banking to processing ticket sales for its ridership to requisitioning parts from auto manufacturers for vehicle repairs. In the midst of the pandemic, Zscaler helped the organization gain control over vulnerabilities in user devices that exposed Mobility ADO to potential ransomware attacks and fraud attempts.
+
+“Zscaler’s elastic scalability has made us more agile as we continue to expand. It’s hard to predict what our bandwidth needs will be in the future, but one thing is certain: we can rely on Zscaler to provide ultimate performance, even with all its security capabilities such as SSL/TLS traffic inspection in operation. Zscaler has simplified IT security planning as we amplify our cloud-first initiatives to branch offices and new acquisitions. It’s remarkable how much easier this has become. And, in light of that, I am eager to further explore other Zero Trust Exchange capabilities,” said Mendez.
+
+> "Zscaler’s elastic scalability has made us more agile as we continue to expand. It’s hard to predict what our bandwidth needs will be in the future, but one thing is certain: we can rely on Zscaler to provide ultimate performance, even with all its security capabilities such as SSL/TLS traffic inspection in operation. Zscaler has simplified IT security planning as we amplify our cloud-first initiatives to branch offices and new acquisitions. It’s remarkable how much easier this has become. And, in light of that, I am eager to further explore other Zero Trust Exchange capabilities."
+> — **Mendez — Mobility ADO**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].name:** Zscaler Private Access (ZPA)
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[2].name:** Accelerate M&A and Divestitures
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 57121
+- **root.page_metadata.meta_description:** Learn how Mobility ADO Mobility ADO Powers Secure, Rapid Expansion with with a Zero Trust Architecture.
+- **root.page_metadata.og_title:** Mobility ADO Case Study | Customer Stories | Zscaler

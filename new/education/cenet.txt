@@ -1,0 +1,164 @@
+# CEnet Delivers Scalable Internet Security as a Service
+
+> with the Zscaler Zero Trust Exchange™
+
+**Customer Name:** CEnet
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/cenet
+- **Slug:** cenet
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:11.449578Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** CEnet
+- **Description:** CEnet is a not-for-profit organization that delivers information, communication, and learning technology services to the K-12 population in Australia. It supports safe online environments for 330,000 students, teachers, and staff from more than half of the Catholic dioceses in the country.
+- **Industry:** Education
+- **Headquarters:** Wollongong, New South Wales, Australia
+- **Size:** 330,000 users, incl. K-12 students, teachers, and staff
+
+## Executive Summary
+### Challenges
+- Secure the delivery of shared services and improve the user experience to a growing and distributed user base
+
+### Phased Journey
+- CEnet’s team needed a technology partner that could work with them on the specific infrastructure requirements of their network environment.
+- As part of CEnet’s delivery of safe internet as a service to their learning communities, monitoring student welfare is crucial.
+
+### Results & Impact
+- Scales up internet security to support 20% to 25% year-over-year growth
+- Provides a secure internet experience from anywhere and any device
+- Consolidates technologies to decrease operational complexity
+- Improves security posture by reducing cyberthreats
+- Instills members with greater confidence in the safety of the online service
+
+## Featured Quotes
+> "Zscaler gave us security and flexibility around how we could integrate them into our environment ... and freed up our team to focus on delivering as much value to our members as possible."
+> — **David Jenkins — Infrastructure Manager — CEnet**
+
+## Customer Case Study
+### Zscaler scalable cloud security platform accommodates fast-paced growth (ID: zscaler-scalable-cloud-security-platform-accommodates-fast-paced-growth | Type: security)
+On a mission to support learning communities with secure online experiences, CEnet delivers network and internet connectivity services to its 17 member dioceses across Australia. Users include the students, teachers, and administrative staff at each diocese. With membership growing rapidly, CEnet was wrestling with tight bandwidth capacity and needed to strengthen security for its managed services architecture to keep pace with an increasingly sophisticated threat landscape.
+
+“Our internet connectivity and bandwidth were growing 20% to 25% year on year,” said David Jenkins, Infrastructure Manager for CEnet. “We had URL filtering in place, but the level of visibility was low and we knew there were blind spots. We needed a solution that would meet us where we were but that would also grow with us.”
+
+The organization initiated a request for proposal (RFP) process guided by three core criteria for a zero trust solution: it had to be cloud native, multitenant, and easy to integrate with existing tools. Additionally, CEnet’s shared service model means each member requires access to the same SaaS applications, such as Microsoft 365 and Google Workspace for Education, while keeping individual schools’ data private. The Zscaler Zero Trust Exchange™ platform satisfied all requirements.
+
+“We tested Zscaler in our environment and had our members test it to make sure they were comfortable using it. Through these review cycles, we developed a strong partnership with Zscaler,” said Jenkins.
+
+> "Our internet connectivity and bandwidth were growing 20% to 25% year on year. We had URL filtering in place, but the level of visibility was low and we knew there were blind spots. We needed a solution that would meet us where we were but that would also grow with us."
+> — **David Jenkins — Infrastructure Manager — CEnet**
+
+> "We tested Zscaler in our environment and had our members test it to make sure they were comfortable using it. Through these review cycles, we developed a strong partnership with Zscaler."
+> — **Jenkins — CEnet**
+
+### Zscaler Internet Access ensures secure online experiences at scale (ID: zscaler-internet-access-ensures-secure-online-experiences-at-scale | Type: monitoring)
+Zscaler Internet Access (ZIA), a pillar of the Zscaler Zero Trust Exchange, makes it easy and efficient for CEnet’s widely distributed “lean and keen” infrastructure team of seven professionals to provide secure internet and SaaS application access across schools and dioceses. Additionally, given the unique requirements of teaching environments in each diocese, Zscaler enables access to approved web content in real time while blocking or flagging requests to blocked sites.
+
+“We intentionally selected ZIA for its role-based access control, delegation of administration to the appropriate level and its granular controls at scale,” Jenkins said.
+
+Zscaler scans data on all ports and protocols—even encrypted TLS/SSL traffic—anywhere the user is located and assigns a risk score dynamically so that nothing important gets out and nothing bad gets in.
+
+> "We intentionally selected ZIA for its role-based access control, delegation of administration to the appropriate level and its granular controls at scale."
+> — **Jenkins — CEnet**
+
+### ZIA Private Service Edge deployment frees up time for infrastructure team (ID: zia-private-service-edge-deployment-frees-up-time-for-infrastructure-team | Type: implementation)
+CEnet’s team needed a technology partner that could work with them on the specific infrastructure requirements of their network environment.
+
+“We have a unique deployment, designed to aggregate services for members through our data centers. Zscaler worked well with us through implementation to determine the best architecture,” Jenkins said.
+
+The team set up the ZIA Private Service Edge, an inline proxy that inspects all web traffic bidirectionally and enforces policy. The service edge, managed by Zscaler Cloud Operations, sits inside CEnet’s data center and monitors all traffic. This has eliminated the burden for the CEnet team and saves time as Zscaler fully monitors and manages the service edge.
+
+“Zscaler gave us the security and flexibility around how we could integrate the platform into our environment. This allows us to leverage our peering and partner network to drive down internet cost and frees up our team to focus on delivering as much value as possible to our members,” Jenkins said.
+
+> "We have a unique deployment, designed to aggregate services for members through our data centers. Zscaler worked well with us through implementation to determine the best architecture."
+> — **Jenkins — CEnet**
+
+> "Zscaler gave us the security and flexibility around how we could integrate the platform into our environment. This allows us to leverage our peering and partner network to drive down internet cost and frees up our team to focus on delivering as much value as possible to our members."
+> — **Jenkins — CEnet**
+
+> "The [Zscaler] technical team definitely nails the details, but the fact that you can trust and rely on them is even more important."
+> — **David Jenkins — Infrastructure Manager — CEnet**
+
+### Zscaler Nanolog Streaming Service enables real-time alerting and cost savings (ID: zscaler-nanolog-streaming-service-enables-real-time-alerting-and-cost-savings | Type: implementation)
+As part of CEnet’s delivery of safe internet as a service to their learning communities, monitoring student welfare is crucial. Using Zscaler’s Nanolog Streaming Service (NSS) to stream traffic logs in real time, the team ran a successful proof-of-concept (PoC) with Saasyan, a student safety and well-being solution that can be integrated with Zscaler.
+
+NSS also streams log data to Rapid7, CEnet’s security information and event management (SIEM) tool, from the Zero Trust Exchange. With this setup, CEnet benefits from real-time alerting. In an education context, when paired with student safety and well-being solutions such as Saasyan, these notifications help administrators monitor student behavior for signs of harm, bullying, or inappropriate activity.
+
+The integration created an effective feedback loop. "This worked really well. Zscaler does what it does best, like proxying traffic and enforcing policy, while products like Saasyan provide student safety and well-being insights for school administration.” Jenkins explained.
+
+Leveraging NSS enables CEnet to avoid the cost and operational inefficiency of an on-premises solution. “We’re always looking to conserve funds and put them back into services for our members, so leveraging Zscaler’s capabilities in different ways has been huge for us,” Jenkins explained.
+
+> "This worked really well. Zscaler does what it does best, like proxying traffic and enforcing policy, while products like Saasyan provide student safety and well-being insights for school administration."
+> — **Jenkins — CEnet**
+
+> "We’re always looking to conserve funds and put them back into services for our members, so leveraging Zscaler’s capabilities in different ways has been huge for us."
+> — **Jenkins — CEnet**
+
+> "The tight integration between Zscaler and Okta is key to providing a secure online environment and consistent user experience, regardless of the learning location."
+> — **David Jenkins — Infrastructure Manager — CEnet**
+
+### Tight integration of Okta and Zscaler secures remote work and learning (ID: tight-integration-of-okta-and-zscaler-secures-remote-work-and-learning | Type: other)
+CEnet uses Okta as part of its access management service offering for its membership. Okta’s mature user authentication and access management capabilities feed identity and authentication data into the Zero Trust Exchange. Zscaler uses this data—which includes access authentication, identity, and group membership data—to enforce the internet security policies that CEnet sets at various levels for students, teachers, and staff.
+
+“The tight integration between Zscaler and Okta is key to providing a secure online environment and consistent user experience, regardless of the learning location,” Jenkins said.
+
+> "The tight integration between Zscaler and Okta is key to providing a secure online environment and consistent user experience, regardless of the learning location."
+> — **Jenkins — CEnet**
+
+> "We’re always looking to conserve funds and put them back into services for our members, so leveraging Zscaler’s capabilities in different ways has been huge for us."
+> — **David Jenkins — Infrastructure Manager — CEnet**
+
+### Trust in partnership leads to greater satisfaction (ID: trust-in-partnership-leads-to-greater-satisfaction | Type: other)
+Before beginning their zero trust journey, CEnet regularly received inquiries and concerns from parents about what students were accessing on the internet. Since deploying Zscaler and communicating its security benefits to administrative staff, questions like these have been few and far between.
+
+Customer satisfaction scores are an important gauge for CEnet to understand how the membership perceives its offering. “We’ve seen that membership and staff have a lot more trust and confidence in the secure online environment, thanks to Zscaler,” Jenkins asserted.
+
+Beyond membership satisfaction, the technical teams that regularly interact with Zscaler support and account teams are exceedingly pleased. “The technical team definitely nails the details, but the fact that you can trust and rely on them is even more important,” he added.
+
+> "We’ve seen that membership and staff have a lot more trust and confidence in the secure online environment, thanks to Zscaler."
+> — **Jenkins — CEnet**
+
+> "The technical team definitely nails the details, but the fact that you can trust and rely on them is even more important."
+> — **CEnet**
+
+### Expanding security capabilities with an eye on the future (ID: expanding-security-capabilities-with-an-eye-on-the-future | Type: security)
+CEnet is working toward an ambitious roadmap. Taking a deep dive into its total security strategy, the organization is exploring ways to expand the use of existing technologies for greater cost savings that can be reinvested into schools. CEnet sees a great deal of potential to expand its use of Zscaler.
+
+Given that many CEnet employees are spread across the country and working remotely, the team is considering Zscaler Private Access (ZPA) to provide secure access to private applications while minimizing the attack surface. Where it is not feasible to install software on employees’ devices, ZPA Browser Access provides agentless zero trust access to private applications based on authentication and authorization.
+
+“With hybrid work so common, we’re looking at adopting tighter device management policies but need ZPA to bridge the gap in visibility and security,” said Jenkins.
+
+With an eye toward maximizing CEnet’s investments, the team will begin taking advantage of the insights available through Zscaler Digital Experience™ (ZDX)™. “We’re very keen to increase visibility through ZDX into how our solutions are performing, what the user experience is among our service catalog, and gain clarity on performance issues that will certainly help our service desks,” said Jenkins.
+
+> "With hybrid work so common, we’re looking at adopting tighter device management policies but need ZPA to bridge the gap in visibility and security."
+> — **Jenkins — CEnet**
+
+> "We’re very keen to increase visibility through ZDX into how our solutions are performing, what the user experience is among our service catalog, and gain clarity on performance issues that will certainly help our service desks."
+> — **Jenkins — CEnet**
+
+### Ensuring a safe online learning experience (ID: ensuring-a-safe-online-learning-experience | Type: monitoring)
+Zscaler secures CEnet’s delivery of shared technology services, ensuring a safe online environment for K-12 learning communities throughout Australia. “With the Zscaler Zero Trust Exchange, we’ve seen a huge reduction in cyberthreats. Overall, we have greater confidence in our security posture,” Jenkins concluded.
+
+> "With the Zscaler Zero Trust Exchange, we’ve seen a huge reduction in cyberthreats. Overall, we have greater confidence in our security posture."
+> — **Jenkins — CEnet**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[1].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[1].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Ransomware
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 68311
+- **root.page_metadata.meta_description:** Learn how CEnet CEnet Delivers Scalable Internet Security as a Service with with the Zscaler Zero Trust Exchange™.
+- **root.page_metadata.og_title:** CEnet Case Study | Customer Stories | Zscaler

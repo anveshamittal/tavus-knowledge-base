@@ -1,0 +1,136 @@
+# Keiju Medical Center Transforms Digital Patient Care on the Zscaler Zero Trust Exchange
+
+> Zscaler provides a solution for safe mobile access to EMR data, enables physicians to collaborate from anywhere, and enhances patient experiences
+
+**Customer Name:** Keiju Medical Center
+
+### Key Metrics
+- **800**: medical staff protected
+- **100s**: of mobile devices securely connected
+- **One**: platform for zero trust security
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/keiju-medical-center
+- **Slug:** keiju-medical-center
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:34.338219Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Keiju Medical Center
+- **Description:** The only medical support hospital in the Noto region, recognized as a digital leader
+- **Industry:** Healthcare and Pharmaceutical
+- **Headquarters:** Nanao City, Ishikawa Prefecture, Japan
+- **Size:** 800+ staff for 400+ beds
+
+## Executive Summary
+### Challenges
+- A perimeter security architecture could not adapt to the increasing need for digital-first patient care and telemedicine
+- Legacy firewalls could not secure internet connectivity remotely, limiting physician recruitment to a small local area
+- Traditional VPNs put private applications and resources, including sensitive patient data, at greater risk of compromise
+
+### Phased Journey
+- Keiju Medical Center is a local hospital in Nanao City, Ishikawa Prefecture, with 73 doctors and 379 nursing professionals for 426 beds.
+
+### Results & Impact
+- Enables work-from-anywhere flexibility for medical staff and expands the recruitment aperture for quality physicians
+- Protects sensitive patient records from threats when accessed remotely—500+ mobile devices securely connect to EMR data
+- Eliminates the need for legacy security appliances and improves operational efficiencies, leading to better patient care
+
+## Featured Quotes
+> "Digital transformation is essential to ensure that staff can work efficiently with limited resources. Many doctors live further away … so we needed a secure and easy-to-use remote access environment."
+> — **Mr. Masahiro Kamino — Chairman of the Board of Directors — Keiju Medical Center**
+
+## Customer Case Study
+### Section (ID: section-1 | Type: other)
+Centered around Keiju Medical Center in Nanao City, Ishikawa Prefecture, the Social Medical Corporation Foundation Tosan-kai, which operates medical and nursing care facilities, has been an early adopter of digital transformation.
+
+The hospital wanted to improve the work experience of medical and care staff while balancing hiring and the provision of advanced medical services. To do this, they implemented an electronic medical record (EMR) system accessible remotely from outside the premises. However, the system required a computer and an SSL-VPN token, and failed to provide the key features for a good work experience. Instead, they built a network that allows secure access to the hospital information system from both inside and outside the hospital using smartphones. To ensure the required security, they implemented cloud-based zero trust with Zscaler.
+
+### Reforming work styles in the medical field through digital transformation (ID: reforming-work-styles-in-the-medical-field-through-digital-transformation | Type: implementation)
+Keiju Medical Center is a local hospital in Nanao City, Ishikawa Prefecture, with 73 doctors and 379 nursing professionals for 426 beds. Being far from other big cities can make it difficult to find new full-time medical professionals. That's why, since 1994, Keiju has actively pursued digitalization to improve the working environment and operational efficiency.
+
+Regarding the hospital's journey toward digitalization, Mr. Masahiro Kamino, President of Keiju Medical Center, said, "In 1994, we were the first in Japan to introduce a supply, processing, and distribution (SPD) system that manages clinical materials and medications via barcodes. In 1997, we introduced a Windows-based order system, also a first in Japan. We have been proactive in implementing EMR and have expanded their use to other hospitals, clinics, and medical facilities operated by the Keiju Healthcare Group.
+
+In 2006, the hospital was the first in Japan to integrate medical records between healthcare and nursing care facilities to enable information sharing. In 2014, they began implementing thin client systems and enabling access to EMR from outside the hospital using SSL-VPN.
+
+The goal was to reduce individual workloads by sharing information across roles—including doctors, nurses, rehabilitation therapists, dieticians, pharmacists, medical secretaries, and the admission and discharge center—and enabling key patient tasks to be performed autonomously.
+
+> "There is a high demand from doctors and others for access to medical information on the internet, and using Zscaler Internet Access, we started providing secure internet access."
+> — **Mr. Masahiro Kamino — Chairman of the Board of Directors — Keiju Medical Center**
+
+### Expanding remote access to smartphones: balancing security and convenience (ID: expanding-remote-access-to-smartphones-balancing-security-and-convenience | Type: security)
+Introducing remote access was "extremely effective, allowing doctors to view EMR and issue instructions from outside the hospital," according to Mr. Kamino. However, because handling EMR data required high security, only personnel with a computer and a one-time password token, such as doctors, could use the system. The hospital knew that a system that was too difficult to use would struggle with user adoption—they needed a system that could balance safety and convenience.
+
+The hospital decided to use a mobile-compatible version of the existing EMR system to enable secure access from iPhones inside and outside the hospital. Unfortunately, integrating the nurse call system with iPhones remained a challenge.
+
+Given the need for access both inside and outside the hospital, Keiju planned to adopt zero trust security, which would authenticate all access, rather than using perimeter-style security that grants internal systems inherent trust. However, as they moved forward with a particular zero trust product, they found it difficult to use. The mobile-compatible EMR system they planned to implement required a dedicated software agent on mobile devices like iPhones, but the zero trust product only allowed browser-based access.
+
+Instead, they turned to Zscaler, which has a track record of implementing zero trust security. Using Zscaler Private Access (ZPA), a cloud-based remote access solution that serves as an alternative to SSL-VPN, and Zscaler Internet Access (ZIA), which provides secure access to the internet, they could securely connect the iPhones to the EMR server (Newtons Mobile 2) while ensure safe internet access. Moreover, vendor testing showed that Zscaler worked well with their EMR mobile app.
+
+“Using Zscaler allowed us to maintain high security while working via remote access,” said Mr. Kamino. “We couldn't consider any other option. Without Zscaler, our plan could not have been executed.”
+
+> "Using Zscaler allowed us to maintain high security while working via remote access. We couldn't consider any other option. Without Zscaler, our plan could not have been executed."
+> — **Mr. — Keiju Medical Center**
+
+> "Using Zscaler allowed us to maintain high security while working via remote access (...). We couldn't consider any other option. Without Zscaler, our plan could not have been executed."
+> — **Mr. Masahiro Kamino — Chairman of the Board of Directors — Keiju Medical Center**
+
+### Ensuring smooth operations while maintaining security: safe data sharing on mobile devices (ID: ensuring-smooth-operations-while-maintaining-security-safe-data-sharing-on-mobile-devices | Type: security)
+With Zscaler ensuring security, in April 2023, Keiju Medical Center was able to start allowing staff to access both the Newtons Mobile 2 EMR and the nurse call systems from 520 iPhones. This also enabled the staff to use chat rooms, reference data and images, update charts, and perform voice calls and other ward operations on the devices.
+
+The chat rooms are specially adapted chat services for the medical field. "We create a chat room for each hospitalized patient," Mr. Kamino explained. "This allows doctors, nurses, dietitians, rehabilitation therapists, and others to communicate smoothly in a group chat, enhancing information sharing. We operate about 500 rooms, including chat rooms for each workplace."
+
+Staff can also view test data and post to each patient's chat room, as well as see X-ray, CT, and MRI images from the iPhones. Modifying patient medical records, which requires high security, is easy as well. The system even supports voice input and can save photos. Image reference was not included in the initial features, but was added later on request as doctors got accustomed to using the devices.
+
+Nurses can quickly refer to a view of their individual daily tasks, and the traditional nurse call system, previously handled by dedicated devices, is now accessible via iPhone. "The existing nurse call system could not directly connect with iPhones, so we implemented it through a gateway device," Mr. Kamino shared. Additionally, the hospital's internal communication system was updated to allow both internal and external calls on iPhones, regardless of location.
+
+> "We create a chat room for each hospitalized patient. This allows doctors, nurses, dietitians, rehabilitation therapists, and others to communicate smoothly in a group chat, enhancing information sharing. We operate about 500 rooms, including chat rooms for each workplace."
+> — **Mr. — Keiju Medical Center**
+
+> "The existing nurse call system could not directly connect with iPhones, so we implemented it through a gateway device."
+> — **Mr. — Keiju Medical Center**
+
+> "Doctors often travel for conferences, and many live in remote areas. Being able to issue instructions while viewing patient information from a conference location or home via iPhone represents a significant reform in working practices."
+> — **Mr. Masahiro Kamino — Chairman of the Board of Directors — Keiju Medical Center**
+
+### Considering expanding infrastructure to allow external network connections from iPhones (ID: considering-expanding-infrastructure-to-allow-external-network-connections-from-iphones | Type: roadmap)
+The chat rooms for each patient are the most significant advantage of the new iPhone system, Mr. Kamino explained. "Doctors can access necessary information regardless of their location, and it is convenient for nurses and others to contact doctors in the chat rooms." The ability to complete many tasks via iPhones, both inside and outside the hospital, has led to a step forward in the user experience. "Doctors often travel for conferences, and many live in remote areas. Being able to issue instructions while viewing patient information from a conference location or home via iPhone represents a significant reform in working practices," said Mr. Kamino.
+
+Cloud-based Zscaler services have eliminated the need for VPN devices and other maintenance for a zero trust environment, making operational management easier.
+
+A secure zero trust network has also enabled safe access to the internet from the staff's iPhones. "There is a high demand from doctors and others for access to medical information on the internet, and using Zscaler Internet Access, we started providing secure internet access," Mr. Kamino said.
+
+Currently, Keiju is beginning to deploy a safe and convenient network access environment for iPhones in group care facilities and other locations. Mr. Kamino looks forward to further partnership with Zscaler in pursuit of his vision to enhance regional medical and nursing care through digital transformation. "We want to stay ahead in the world of future medical and nursing care."
+
+> "Doctors can access necessary information regardless of their location, and it is convenient for nurses and others to contact doctors in the chat rooms. Doctors often travel for conferences, and many live in remote areas. Being able to issue instructions while viewing patient information from a conference location or home via iPhone represents a significant reform in working practices."
+> — **Mr. — Keiju Medical Center**
+
+> "There is a high demand from doctors and others for access to medical information on the internet, and using Zscaler Internet Access, we started providing secure internet access."
+> — **Mr. — Keiju Medical Center**
+
+> "We want to stay ahead in the world of future medical and nursing care."
+> — **Mr. — Keiju Medical Center**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[2].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[2].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[2].name:** Secure Remote Access
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/vpn-alternative
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 83276
+- **root.page_metadata.meta_description:** Learn how Keiju Medical Center Keiju Medical Center Transforms Digital Patient Care on the Zscaler Zero Trust Exchange with Zscaler provides a solution for safe mobile access to EMR data, enables physicians to collaborate from anywhere, and enhances patient experiences.
+- **root.page_metadata.og_title:** Keiju Medical Center Case Study | Customer Stories | Zscaler

@@ -1,0 +1,93 @@
+# Fletcher Building Secures Cloud Transformation
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Fletcher Building
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/fletcher-building
+- **Slug:** fletcher-building
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:55:24.429692Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Fletcher Building
+- **Description:** One of the largest public companies in New Zealand, Fletcher Building manufactures building products, operates retail businesses that distribute these products globally, and constructs homes, buildings, and infrastructure in the Asia-Pacific region.
+- **Industry:** Manufacturing
+- **Headquarters:** Auckland, New Zealand
+- **Size:** Approximately 20,000 employees globally
+
+## Executive Summary
+### Challenges
+- Consolidate and centralize internet security, and provide consistent, robust security for mobile users
+
+### Results & Impact
+- Cuts costs while boosting security posture
+- Saves time with centralized reporting and reduction in incidents
+- Implements consistent security policies across global enterprise, on-premises and off
+- Reduces training hours and frees up security operations staff
+- Provides a cloud native foundation for secure cloud transformation
+
+## Featured Quotes
+> "With Zscaler, we had a reduction in cost and a better security solution in place."
+> — **Thomas Willig — Head of Security — Fletcher Building**
+
+## Video Testimonial & Transcript
+**Title:** Fletcher Secures Cloud Transformation with Zscaler
+**Description:** a Customer Testimonial Videos video
+**URL:** https://fast.wistia.net/embed/iframe/cm50dpic4i
+**Provider:** wistia
+**Video ID:** cm50dpic4i
+**Duration:** 90.001 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/2eb195663f5f70e211a9de93a13ef36b79cc6f47.bin
+**Video Account Id:** 658399
+**Video Media Id:** 95607122
+**Video Created At:** 1663976212
+
+### Tagged Segments
+- **[Thomas Willig (Head of Security, Fletcher Building)]** [Segment #1] (self_introduction - Company overview and global operations): "We're working for Petro Building, and we're looking after roughly thirty five companies globally, and we operate out of over eight hundred locations. Yeah. So it is a fairly complex beast."
+- **[Thomas Willig (Head of Security, Fletcher Building)]** [Segment #2] (challenges - Initial IT and security challenges): "When I started building up the security system for Fetshire Building three years ago, I was faced with twenty IT departments. So one of our priorities was to consolidate solutions."
+- **[Thomas Willig (Head of Security, Fletcher Building)]** [Segment #3] (challenges - Limitations of hardware appliances): "We were ruling out appliances early on because it was just not feasible to put a lot of hardware in more than eight hundred locations. We wanted to extend our security solutions to our mobile workforce."
+- **[Thomas Willig (Head of Security, Fletcher Building)]** [Segment #4] (products_and_solutions - Zscaler's cloud-based solution): "ZetScaler has a fairly unique position in the market space and that it was from the get go designed as a cloud solution. That was very attractive to us. It was a solution that was designed around our requirements."
+- **[Thomas Willig (Head of Security, Fletcher Building)]** [Segment #5] (products_and_solutions - Support from Zscaler's professional services): "We had great help from the professional services team of Zets BayHL. We had, very little issues rolling it out."
+- **[Thomas Willig (Head of Security, Fletcher Building)]** [Segment #6] (metrics_and_results - Benefits of Zscaler implementation): "Centralized reporting has been very useful for us. Overall, what we've seen is a reduction in training efforts, less staff. We've seen and incidents across our environment. At the same time, we had a race in security posture. So we have a reduction in cost and a better security in place."
+
+### Full Transcript Sentences
+- We're working for Petro Building, and we're looking after roughly thirty five companies globally, and we operate out of over eight hundred locations.
+- Yeah.
+- So it is a fairly complex beast.
+- When I started building up the security system for Fetshire Building three years ago, I was faced with twenty IT departments.
+- So one of our priorities was to consolidate solutions.
+- We were ruling out appliances early on because it was just not feasible to put a lot of hardware in more than eight hundred locations.
+- We wanted to extend our security solutions to our mobile workforce.
+- ZetScaler has a fairly unique position in the market space and that it was from the get go designed as a cloud solution.
+- That was very attractive to us.
+- It was a solution that was designed around our requirements.
+- We had great help from the professional services team of Zets BayHL.
+- We had, very little issues rolling it out.
+- Centralized reporting has been very useful for us.
+- Overall, what we've seen is a reduction in training efforts, less staff.
+- We've seen and incidents across our environment.
+- At the same time, we had a race in security posture.
+- So we have a reduction in cost and a better security in place.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].name:** Zscaler Internet Access (ZIA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.solutions[0].name:** Ransomware
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 28651
+- **root.page_metadata.meta_description:** Learn how Fletcher Building Fletcher Building Secures Cloud Transformation with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** Fletcher Building Case Study | Customer Stories | Zscaler

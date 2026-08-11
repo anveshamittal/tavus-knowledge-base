@@ -1,0 +1,191 @@
+# United Airlines Detects and Blocks Evolving Threats with the Zscaler Zero Trust Exchange
+
+> Zscaler eliminates 40% more threats than previous legacy solutions to secure 80,000 global users and deliver safer journeys for 143 million passengers
+
+**Customer Name:** United Airlines
+
+### Key Metrics
+- **6**: months to zero trust transformation
+- **1PB**: of TLS traffic inspected
+- **$3M+**: cost savings over legacy solutions
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/united-airlines
+- **Slug:** united-airlines
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:56:53.970761Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** United Airlines
+- **Description:** American aviation company and world's third-largest airline, operating in 48 countries
+- **Industry:** Transportation Services
+- **Headquarters:** Chicago, Illinois, USA
+- **Size:** 80,000+ employees at 350+ locations
+
+## Executive Summary
+### Challenges
+- A traditional, perimeter-based architecture reliant on data centers could not support accelerated digital transformation
+- Legacy firewalls and VPNs lacked the agility to scale with an increase in remote work, putting users and data at risk
+- Previous security point products lacked advanced threat detection capabilities, exposing a wider attack surface
+
+### Results & Impact
+- Enables 80,000 employees to work safely from any location and secures remote access for 2,000+ critical private apps
+- Reduces architecture complexity and cost—zero firewalls needed at airports and six security point products eliminated
+- Unifies the security ecosystem and dynamically enforces policies to block 40% more threats and improve security posture
+
+## Featured Quotes
+> "Zscaler gives us peace of mind that traffic will be secure, regardless of the underlying network, for our employees, customers, and partners."
+> — **Deneen DeFiore — Vice President & Chief Information Security Officer — United Airlines**
+
+> "We are able to use the Zscaler platform to provide secure guest Wi-Fi in our MileagePlus Lounges."
+> — **Deneen DeFiore — Vice President & Chief Information Security Officer — United Airlines**
+
+> "Zscaler integrations with our partners deliver us more visibility into threats and anomalies in real time across our environment."
+> — **Deneen DeFiore — Vice President & Chief Information Security Officer — United Airlines**
+
+> "Zscaler was willing to do the integration work to enable our use cases, and now that capability is part of the product."
+> — **Deneen DeFiore — Vice President & Chief Information Security Officer — United Airlines**
+
+## Video Testimonial & Transcript
+**Title:** United Airlines - 8m
+**Description:** an United Airlines Customer Journey video
+**URL:** https://fast.wistia.net/embed/iframe/ou48ndw8ty
+**Provider:** wistia
+**Video ID:** ou48ndw8ty
+**Duration:** 510.51 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/ed10d9d93f575ba384ba28a656d52a05.png
+**Video Account Id:** 658399
+**Video Media Id:** 105716308
+**Video Created At:** 1686154405
+
+### Tagged Segments
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #1] (general_discussion - Introduction to securing United Airlines): "This is a story of securing an airline from cyber attacks. Each day at united, Our eighty thousand plus employees worldwide play the hero characters in keeping the airline and the passengers we serve annually across three hundred and thirty destinations safe."
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #2] (general_discussion - Overview of United's security needs): "With each page turn, you'll see what it takes to protect United's technology infrastructure, which includes networks, systems, applications, and securing our entire ecosystem. It also means securing people, physical assets like planes and scanners, and the product and customer experiences we provide. From our mobile app to WiFi on our planes and lounges. We write a new chapter daily because we know we will continue to be safe when good leads the way."
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #3] (self_introduction - Joining United before the pandemic): "I joined United six weeks before the pandemic. Which forced us to adapt quickly to new ways of working and securing our employees, applications, and data. United Wet primarily in in the office workforce to a completely remote workforce virtually overnight, representing nearly forty three hundred employees in Chicago in Houston, alone."
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #4] (challenges - Adapting to remote work and customer needs): "As our business model shifted, we had to redesign the way we interacted with our customers. For example, we were the first to launch innovations like a travel ready center an agent on demand, as well as self check-in."
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #5] (challenges - Crisis-driven transformation): "To retool and rethink the way we wanted to achieve those outcomes and that kind of crisis. And ensure our operations are secure and safe for our employees and customers. We had to accelerate our secure transformation journey."
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #6] (challenges - Legacy IT infrastructure and network model): "From an IT perspective, we had applications in the data centers. Hub and spoke networks connected those data centers to our branch offices. To gain agility and meet the demands of our customers and employees, we embrace the cloud. This included adopting SaaS applications like Office three sixty five to support collaboration and employee productivity for a remote workforce."
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #7] (products_and_solutions - Transition to zero trust architecture): "With the rapid change to remote work, we also realized our a network model would need to change to a modern connectivity model that securely connects team members working anywhere directly to the services they need to access. That meant a shift away from hub and spoke networks predicted by legacy, castle, and moat security to a cloud based zero trust architecture."
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #8] (products_and_solutions - Cybersecurity program pillars): "In conjunction with our IT transformation, we've been transforming our security as well. Our cybersecurity program is built on three strategic pillars. Be brilliant at the basics. This means keeping our technology infrastructure up to date, hatched and hardened, eliminating high risk and vulnerabilities around those assets and systems. Advanced our cyber capabilities. With an evolving threat environment, we need to continuously adapt our detection and defense in-depth capabilities. With Intel to remain ahead of the attackers. Securing United Next. As we grow our fleet of connected aircraft and hire more employees, we need to design our security to deliver the outcomes for the next phase of our business, across people, physical infrastructure, and systems that will enable us to enhance automate our operations in the years ahead."
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #9] (products_and_solutions - Phase one: Secure cloud access): "Our security transformation journey has evolved in multiple phases. Phase one, to support the shift to the cloud by enabling secure access to the internet and SaaS applications. With a distributed workforce, we needed consistent protection for employees no matter where they If you're at an airport in the office at your home, wherever you may be in the world, you should have a seamless and secure experience."
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #10] (products_and_solutions - Adopting Zscaler Zero Trust Exchange): "This required a shift from network based security to cloud security. So we adopted the Zscaler zero trust exchange. This benefit extends beyond our employees to customers. For example, we are able to use the Zscaler platform to provide secure guest WiFi in our lounges."
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #11] (products_and_solutions - Phase two: Replacing VPN with ZPA): "Phase two was to replace remote access VPN and to provide fast, secure access to private apps using Zscaler private access. To be productive, no matter where our users are, they need seamless access to our applications. And if you think about a pilot or flight attendant, having to worry about connecting to a VPN is not a productive experience. The solution integrates with our identity provider. United Employees get one click, secure access to more than two thousand critical United applications."
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #12] (metrics_and_results - Improved security and productivity): "Beyond enabling more productive working experiences, Zscaler improves our security posture in two ways. One, it makes our apps invisible to the internet, hence eliminating our attack service. And two, directly connect employees only to the specific apps they need. Never to the network, which minimizes the risk of threats moving laterally on our corporate networks to attack high value targets."
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #13] (products_and_solutions - Phase three: Security ecosystem integration): "Phase three is security ecosystem in integration. Zscaler integrations with our partners delivers us more visibility into threats and anomalies in real time across our We can then apply these insights to continuously tune and dynamically enforce fine grain access policies for different types of employees across our enterprise to improve security. Based not just on their roles, but on factors like their device posture, time of day, location, and more."
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #14] (products_and_solutions - Phase four: Modernizing third-party access): "Phase four is modernizing third party access for our trusted business partners. We have trusted business partners that have been with us for thirty, forty, fifty years. Some of them access our applications via remote access VPN, and others have site to site network connectivity. With Zscaler private access, we were able to provide these partners access to specific United applications without connecting them to our corporate network, eliminating the lateral threat movement that hackers often exploit."
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #15] (products_and_solutions - Securing IoT and OT devices): "Beyond those projects, we're also looking to bring zero trust security to our IoT and OT devices, as well as cloud workloads. As you can imagine, the airline industry has many connected physical assets, including equipment and devices. And we want to ensure the traffic to and those devices is secure. Additionally, we want to ensure that authorized technicians have secure remote access to maintain and update those OT systems."
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #16] (quote - Transformation as an opportunity): "Don't let an opportunity for transformation go to waste. When the pandemic hit, it was a forcing function to drive positive change across IT and security infrastructure that would improve outcomes and experiences for all of our stakeholders."
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #17] (metrics_and_results - Rapid transition and cost savings): "In particular, We were able to rapidly transition away from firewall and VPN to zero trust cloud security in just six months, which is three or four times faster for an organization of our size and complexity. We've seen a forty percent plus increase in threats blocked with our new approach. While also saving more than three million dollars over legacy on premise based solution."
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #18] (quote - Choosing the right partners): "Choose an integrated cloud native platform that enables you to reduce the complexity and cost associated with integrating and managing multiple point products. Select partners that listen and believe in the power of ecosystems."
+- **[Deneen DeFiore (Vice President & Chief Information Security Officer, United Airlines)]** [Segment #19] (metrics_and_results - Benefits of secure transformation): "While we have an ambitious agenda for the future, I'm proud to say our secure digital transformation initiative has already yielded several benefits for United and our cost customers. It has enabled new services, which we can offer travelers, raise productivity for our employees, and improved our security posture. All while reducing costing Plastics. I couldn't be more proud of our team."
+
+### Full Transcript Sentences
+- This is a story of securing an airline from cyber attacks.
+- Each day at united, Our eighty thousand plus employees worldwide play the hero characters in keeping the airline and the passengers we serve annually across three hundred and thirty destinations safe.
+- With each page turn, you'll see what it takes to protect United's technology infrastructure, which includes networks, systems, applications, and securing our entire ecosystem.
+- It also means securing people, physical assets like planes and scanners, and the product and customer experiences we provide.
+- From our mobile app to WiFi on our planes and lounges.
+- We write a new chapter daily because we know we will continue to be safe when good leads the way.
+- I joined United six weeks before the pandemic.
+- Which forced us to adapt quickly to new ways of working and securing our employees, applications, and data.
+- United Wet primarily in in the office workforce to a completely remote workforce virtually overnight, representing nearly forty three hundred employees in Chicago in Houston, alone.
+- As our business model shifted, we had to redesign the way we interacted with our customers.
+- For example, we were the first to launch innovations like a travel ready center an agent on demand, as well as self check-in.
+- To retool and rethink the way we wanted to achieve those outcomes and that kind of crisis.
+- And ensure our operations are secure and safe for our employees and customers.
+- We had to accelerate our secure transformation journey.
+- From an IT perspective, we had applications in the data centers.
+- Hub and spoke networks connected those data centers to our branch offices.
+- To gain agility and meet the demands of our customers and employees, we embrace the cloud.
+- This included adopting SaaS applications like Office three sixty five to support collaboration and employee productivity for a remote workforce.
+- With the rapid change to remote work, we also realized our a network model would need to change to a modern connectivity model that securely connects team members working anywhere directly to the services they need to access.
+- That meant a shift away from hub and spoke networks predicted by legacy, castle, and moat security to a cloud based zero trust architecture.
+- In conjunction with our IT transformation, we've been transforming our security as well.
+- Our cybersecurity program is built on three strategic pillars.
+- Be brilliant at the basics.
+- This means keeping our technology infrastructure up to date, hatched and hardened, eliminating high risk and vulnerabilities around those assets and systems.
+- Advanced our cyber capabilities.
+- With an evolving threat environment, we need to continuously adapt our detection and defense in-depth capabilities.
+- With Intel to remain ahead of the attackers.
+- Securing United Next.
+- As we grow our fleet of connected aircraft and hire more employees, we need to design our security to deliver the outcomes for the next phase of our business, across people, physical infrastructure, and systems that will enable us to enhance automate our operations in the years ahead.
+- Our security transformation journey has evolved in multiple phases.
+- Phase one, to support the shift to the cloud by enabling secure access to the internet and SaaS applications.
+- With a distributed workforce, we needed consistent protection for employees no matter where they If you're at an airport in the office at your home, wherever you may be in the world, you should have a seamless and secure experience.
+- This required a shift from network based security to cloud security.
+- So we adopted the Zscaler zero trust exchange.
+- This benefit extends beyond our employees to customers.
+- For example, we are able to use the Zscaler platform to provide secure guest WiFi in our lounges.
+- This eliminated a need for any firewalls in our various airports.
+- With its proxy architecture, Zscaler enables inspection of more than a petabyte of our TLS traffic, which can't be done by traditional firewall architecture.
+- Phase two was to replace remote access VPN and to provide fast, secure access to private apps using Zscaler private access.
+- To be productive, no matter where our users are, they need seamless access to our applications.
+- And if you think about a pilot or flight attendant, having to worry about connecting to a VPN is not a productive experience.
+- The solution integrates with our identity provider.
+- United Employees get one click, secure access to more than two thousand critical United applications.
+- Whether they are in our data centers or in a public cloud directly over the internet, without having to log in fifty times a day.
+- Beyond enabling more productive working experiences, Zscaler improves our security posture in two ways.
+- One, it makes our apps invisible to the internet, hence eliminating our attack service.
+- And two, directly connect employees only to the specific apps they need.
+- Never to the network, which minimizes the risk of threats moving laterally on our corporate networks to attack high value targets.
+- In terms of additional benefits, we've also been able to reduce the cost and complexity by eliminating six point products.
+- Finally, the Zscaler architecture enables to accelerate integration of acquired companies as we no longer need to wait for network integration to give employees access to key applications.
+- Phase three is security ecosystem in integration.
+- Zscaler integrations with our partners delivers us more visibility into threats and anomalies in real time across our We can then apply these insights to continuously tune and dynamically enforce fine grain access policies for different types of employees across our enterprise to improve security.
+- Based not just on their roles, but on factors like their device posture, time of day, location, and more.
+- Phase four is modernizing third party access for our trusted business partners.
+- We have trusted business partners that have been with us for thirty, forty, fifty years.
+- Some of them access our applications via remote access VPN, and others have site to site network connectivity.
+- With Zscaler private access, we were able to provide these partners access to specific United applications without connecting them to our corporate network, eliminating the lateral threat movement that hackers often exploit.
+- This is particularly important because in some airport environments, we need to use the WiFi or network connections provided by that airport.
+- Zscaler gives us the peace of mind that traffic will be secure regardless of the underlying network for our employees, customers, and partners.
+- Beyond those projects, we're also looking to bring zero trust security to our IoT and OT devices, as well as cloud workloads.
+- As you can imagine, the airline industry has many connected physical assets, including equipment and devices.
+- And we want to ensure the traffic to and those devices is secure.
+- Additionally, we want to ensure that authorized technicians have secure remote access to maintain and update those OT systems.
+- Don't let an opportunity for transformation go to waste.
+- When the pandemic hit, it was a forcing function to drive positive change across IT and security infrastructure that would improve outcomes and experiences for all of our stakeholders.
+- In particular, We were able to rapidly transition away from firewall and VPN to zero trust cloud security in just six months, which is three or four times faster for an organization of our size and complexity.
+- We've seen a forty percent plus increase in threats blocked with our new approach.
+- While also saving more than three million dollars over legacy on premise based solution.
+- Choose an integrated cloud native platform that enables you to reduce the complexity and cost associated with integrating and managing multiple point products.
+- Select partners that listen and believe in the power of ecosystems.
+- With some of the unique needs we had around our identity provider, Zscaler was willing to do the integration work and enable our use cases, and now that capability is part of the product.
+- Security is not about a single vendor, but a five ecosystem.
+- While we have an ambitious agenda for the future, I'm proud to say our secure digital transformation initiative has already yielded several benefits for United and our cost customers.
+- It has enabled new services, which we can offer travelers, raise productivity for our employees, and improved our security posture.
+- All while reducing costing Plastics.
+- I couldn't be more proud of our team.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Web and Email DLP
+- **root.products[0].url:** https://www.zscaler.com/products-and-solutions/data-loss-prevention
+- **root.products[1].name:** Zscaler Digital Experience (ZDX)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-digital-experience
+- **root.products[2].name:** Zscaler Internet Access (ZIA)
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[3].name:** Zscaler Private Access (ZPA)
+- **root.products[3].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[4].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[4].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[2].name:** Data Security
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.solutions[3].name:** Optimize Digital Experiences
+- **root.solutions[4].name:** Accelerate M&A and Divestitures
+- **root.solutions[4].url:** https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 51666
+- **root.page_metadata.meta_description:** Learn how United Airlines United Airlines Detects and Blocks Evolving Threats with the Zscaler Zero Trust Exchange with Zscaler eliminates 40% more threats than previous legacy solutions to secure 80,000 global users and deliver safer journeys for 143 million passengers.
+- **root.page_metadata.og_title:** United Airlines Case Study | Customer Stories | Zscaler

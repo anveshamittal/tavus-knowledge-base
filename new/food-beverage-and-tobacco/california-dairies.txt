@@ -1,0 +1,108 @@
+# California Dairies Enables Privileged Remote Access
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** California Dairies
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/california-dairies
+- **Slug:** california-dairies
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:55:09.456695Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** California Dairies
+- **Description:** Established in 1999, California Dairies is a leading manufacturer of butter, milk powder, nutritional milk powder, and fluid milk products. It is co-owned by nearly 300 dairy families and located throughout California’s rural landscape from San Diego County to Sacramento County.
+- **Industry:** Food, Beverage, and Tobacco
+- **Headquarters:** Visalia, California, USA
+- **Size:** 400 farms, ships products to 50 countries
+
+## Executive Summary
+### Challenges
+- Move from on-premises to cloud to improve accessibility, flexibility, and security, primarily over OT environments
+
+### Results & Impact
+- Transitions to a primarily cloud-based environment to gain flexibility
+- Improves access control with privileged remote access capabilities
+- Reduces reliance on legacy hardware by eliminating need for perimeter-based security
+- Increases efficiency by lessening the need for manual configurations across IT/OT environments
+
+## Featured Quotes
+> "I love Zscaler…we just really encourage anybody to at least take a look at it, understand the technology behind it because it is a game changer for us and I'm sure it'll be a game changer for you."
+> — **Matthew Prieto — Director of Infrastructure and Security — California Dairies**
+
+> "Zscaler's Privileged Remote Access has allowed us at a very high level to facilitate access of the OT environment on a secure level."
+> — **Matthew Prieto — Director of Infrastructure and Security — California Dairies**
+
+> "Zscaler allows California Dairy's CDI to expand our production environment and our company much quicker."
+> — **Matthew Prieto — Director of Infrastructure and Security — California Dairies**
+
+> "Zscaler was a game changer for us. It allowed us to be better at what we do and lean on them when we need to lean on them."
+> — **Matthew Prieto — Director of Infrastructure and Security — California Dairies**
+
+## Video Testimonial & Transcript
+**Title:** Zscaler x California Dairies _ 120S
+**Description:** a video
+**URL:** https://fast.wistia.net/embed/iframe/l5jytkkulm
+**Provider:** wistia
+**Video ID:** l5jytkkulm
+**Duration:** 123.627 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/4bc6a08a726f110561de7b85a267d0f47fff944d.bin
+**Video Account Id:** 658399
+**Video Media Id:** 97796825
+**Video Created At:** 1668805336
+
+### Tagged Segments
+- **[Matthew Prieto (Director of Infrastructure and Security, California Dairies)]** [Segment #1] (quote - Partnering with Zscaler impact): "Partnering with Seascaler was a game changer for us. It allowed us to be better at what we do. And lean on them when we need to lean on them."
+- **[Matthew Prieto (Director of Infrastructure and Security, California Dairies)]** [Segment #2] (self_introduction - Introduction and role at CDI): "My name is Matthew Prieta. I am the director of infrastructure and security for a California dairies. California Derry's Inc. Is nearly four hundred dairy farms producing nearly seventeen billion pounds of milk annually to all fifty states and to fifty countries."
+- **[Matthew Prieto (Director of Infrastructure and Security, California Dairies)]** [Segment #3] (challenges - Transition from on-prem to cloud): "Some of the pain points that CDI was facing was moving primarily from on prem to cloud and how that transition is going to allow us accessibility, flexibility, and security."
+- **[Matthew Prieto (Director of Infrastructure and Security, California Dairies)]** [Segment #4] (products_and_solutions - Zscaler privileged remote access): "Zscaler's privileged remote access has allowed us at a very high level to facilitate access of the OT environment on a secure level. We allow vendors, third parties, customers, even employees access to particular aspects within the OT environment."
+- **[Matthew Prieto (Director of Infrastructure and Security, California Dairies)]** [Segment #5] (products_and_solutions - Key benefits of privileged remote access): "So one of the key benefits of privilege remote access is allowing us to control who has access to what data and when they have access to that particular data. Provo's remote access allows us security can not only work on IT infrastructure, but also OT infrastructure at the same time."
+- **[Matthew Prieto (Director of Infrastructure and Security, California Dairies)]** [Segment #6] (products_and_solutions - Efficiency with IT and OT integration): "We don't have to worry separate individual networks, separate individual configurations from IT and OT. And having those things work together is much more efficient for apartment, company, and as an individual."
+- **[Matthew Prieto (Director of Infrastructure and Security, California Dairies)]** [Segment #7] (metrics_and_results - Centralized and secure expansion): "Zscaler allows California Derry's CDI to expand our production environment and our company much quicker. It's all centralized. And that allows us as a company to feel much more secure in our expansion regardless of the type of network."
+- **[Matthew Prieto (Director of Infrastructure and Security, California Dairies)]** [Segment #8] (quote - Encouragement to explore Zscaler): "I love Zscaler the company of Zscaler, the department of Zscaler. And we've just really encouraged anybody to at least take a look at it, understand the technology behind it, because it is a game changer for us, and I'm sure it'll be a game changer for you."
+
+### Full Transcript Sentences
+- Partnering with Seascaler was a game changer for us.
+- It allowed us to be better at what we do.
+- And lean on them when we need to lean on them.
+- My name is Matthew Prieta.
+- I am the director of infrastructure and security for a California dairies.
+- California Derry's Inc.
+- Is nearly four hundred dairy farms producing nearly seventeen billion pounds of milk annually to all fifty states and to fifty countries.
+- Some of the pain points that CDI was facing was moving primarily from on prem to cloud and how that transition is going to allow us accessibility, flexibility, and security.
+- Zscaler's privileged remote access has allowed us at a very high level to facilitate access of the OT environment on a secure level.
+- We allow vendors, third parties, customers, even employees access to particular aspects within the OT environment.
+- So one of the key benefits of privilege remote access is allowing us to control who has access to what data and when they have access to that particular data.
+- Provo's remote access allows us security can not only work on IT infrastructure, but also OT infrastructure at the same time.
+- We don't have to worry separate individual networks, separate individual configurations from IT and OT.
+- And having those things work together is much more efficient for apartment, company, and as an individual.
+- Zscaler allows California Derry's CDI to expand our production environment and our company much quicker.
+- It's all centralized.
+- And that allows us as a company to feel much more secure in our expansion regardless of the type of network.
+- I love Zscaler the company of Zscaler, the department of Zscaler.
+- And we've just really encouraged anybody to at least take a look at it, understand the technology behind it, because it is a game changer for us, and I'm sure it'll be a game changer for you.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].name:** Zscaler Internet Access (ZIA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].name:** Zscaler Private Access (ZPA)
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[3].name:** Zero Trust for IoT/OT
+- **root.products[3].url:** https://www.zscaler.com/products-and-solutions/secure-your-ot-and-iot
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 57491
+- **root.page_metadata.meta_description:** Learn how California Dairies California Dairies Enables Privileged Remote Access with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** California Dairies Case Study | Customer Stories | Zscaler

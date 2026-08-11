@@ -1,0 +1,191 @@
+# MOL Group Accelerates Expansion and Maturity
+
+> of Its Zero Trust Architecture with the Zero Trust Exchange
+
+**Customer Name:** MOL Group
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/mol-group
+- **Slug:** mol-group
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:39.637198Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** MOL Group
+- **Description:** MOL Group has more than 85 years of experience with hydrocarbons and 30 years with CO₂ injection. The company operates three refineries and two petrochemical plants under integrated supply chain management in Hungary, Slovakia, and Croatia. It owns a network of approximately 2,000 service stations across nine countries in Central and Southeast Europe.
+- **Industry:** Energy, Oil, Gas, and Mining
+- **Headquarters:** Budapest, Hungary
+- **Size:** 25,000 employees in 30 countries
+
+## Executive Summary
+### Challenges
+- Evolve a consolidated zero trust architecture to accommodate a mobile workforce, rapid expansion, and new lines of business.
+
+### Phased Journey
+- For the past several years, MOL Group has fast-tracked its expansion across multiple countries in Eastern Europe.
+- The company began its journey to the cloud several years ago, when the IT team saw a need to consolidate its infrastructure, which had been fragmented due to multiple mergers and acquisitions (M&As).
+- MOL Group found that relying only on traditional network security is ineffective when it comes to protecting work-from-anywhere users, cloud apps, and distributed data.
+
+### Results & Impact
+- Provides an enhanced user experience
+- Reduces the size of the proxy operations team managing web content filtering solutions by 50%
+- Yields significant operational cost savings
+- Decreases the number of help desk tickets substantially
+- Increases overall cybersecurity engagement
+
+## Featured Quotes
+> "No other vendor could even come close to the Zscaler Zero Trust Exchange, which provides our users with a consistent experience through a unified set of integrated, centrally managed solutions."
+> — **Tamás Kapócs — Head of Cybersecurity Strategy & Architecture — MOL Group**
+
+## Customer Case Study
+### Growth spurt demands a new approach to security (ID: growth-spurt-demands-a-new-approach-to-security | Type: implementation)
+For the past several years, MOL Group has fast-tracked its expansion across multiple countries in Eastern Europe. In addition to adding new locations, the company is launching new lines of business—from electric vehicle charging stations to recycling plants—to support a circular economy based on a regenerative model. Fully embracing mobility and the cloud, the company realized that it needed a new approach to securing and accommodating its accelerated business growth with a true zero trust platform.
+
+“Early on in our digital transformation, with our increasing reliance on cloud applications, our growing remote workforce, and multiple mergers and acquisitions, we knew we needed a way to streamline and simplify our security operations,” said Tamás Kapócs, Head of Cybersecurity Strategy and Architecture.
+
+> "Early on in our digital transformation, with our increasing reliance on cloud applications, our growing remote workforce, and multiple mergers and acquisitions, we knew we needed a way to streamline and simplify our security operations."
+> — **Tamás Kapócs — Head of Cybersecurity Strategy & Architecture — MOL Group**
+
+### The first step in cloud security transformation (ID: the-first-step-in-cloud-security-transformation | Type: implementation)
+The company began its journey to the cloud several years ago, when the IT team saw a need to consolidate its infrastructure, which had been fragmented due to multiple mergers and acquisitions (M&As). Another major driver was increased adoption of SaaS applications, including Microsoft 365, cloud-based human resources applications, and multiple SAP applications. Another goal was improving overall operational efficiency.
+
+To standardize its security technologies, policies, and operations, MOL Group first turned to Zscaler Internet Access (ZIA). As part of a cloud native security service edge (SSE) solution, ZIA eliminates legacy network security solutions to stop advanced attacks and prevent data loss while ensuring superior digital experience with a comprehensive zero trust approach. Users now receive best-in-class, consistent security and performance, regardless of whether they work remotely, on the road, or at the office.
+
+“Zscaler was the logical choice,” said Kapócs. “No other vendor could even come close to the Zscaler Zero Trust Exchange, which provides our users with a consistent experience through a unified set of integrated, centrally managed solutions.”
+
+> "Zscaler was the logical choice. No other vendor could even come close to the Zscaler Zero Trust Exchange, which provides our users with a consistent experience through a unified set of integrated, centrally managed solutions."
+> — **MOL Group**
+
+### Faster access to applications, easier management (ID: faster-access-to-applications-easier-management | Type: results)
+Since rolling out Zscaler Internet Access, MOL Group further broadened its Zscaler footprint. Adding Zscaler Private Access (ZPA) brought its security stack together under the umbrella of the Zero Trust Exchange platform. ZPA replaces traditional VPN with high-performance, more secure access to private applications that may not have sufficient built-in security. Kapócs points out that the pandemic had proven that work from home is here to stay, so protecting mobile users and providing easy access to applications was a must.
+
+“Zscaler Private Access is much more convenient, transparent, and faster for our users compared to VPN. They don’t need to know where the application is located—all they have to do is log into their PCs, and Zscaler Private Access does the rest,” said Kapócs.
+
+Another added benefit of this single-vendor focus is freeing up technical resources for other key projects. “Operationally, that means our team is less involved in day-to-day security activities and has more time to work on other strategic initiatives,” he added.
+
+> "Zscaler Private Access is much more convenient, transparent, and faster for our users compared to VPN. They don’t need to know where the application is located—all they have to do is log into their PCs, and Zscaler Private Access does the rest."
+> — **MOL Group**
+
+> "Operationally, that means our team is less involved in day-to-day security activities and has more time to work on other strategic initiatives."
+> — **MOL Group**
+
+> "Zscaler provides us with a single pane of glass for all internet and network access."
+> — **Tamás Kapócs — Head of Cybersecurity Strategy & Architecture — MOL Group**
+
+### Transforming hybrid and branch connections (ID: transforming-hybrid-and-branch-connections | Type: implementation)
+MOL Group found that relying only on traditional network security is ineffective when it comes to protecting work-from-anywhere users, cloud apps, and distributed data. Zscaler Cloud Firewall augments MOL Group's existing traditional firewalls at data centers, providing unlimited inspection of web and non-web traffic and inline protection. With a drastic reduction in cost and complexity, Kapócs foresees the cloud-generation firewall as a viable, more economical replacement for costly on-premises firewall appliances at branch offices.
+
+“For remote employees and branch offices, Zscaler Cloud Firewall is a better, faster way to filter and block suspicious outgoing network traffic compared to on-premises firewalls,” said Kapócs. “And, of course, we can respond immediately from the centralized management console when we need to take action or make modifications to our security settings.”
+
+> "For remote employees and branch offices, Zscaler Cloud Firewall is a better, faster way to filter and block suspicious outgoing network traffic compared to on-premises firewalls. And, of course, we can respond immediately from the centralized management console when we need to take action or make modifications to our security settings."
+> — **MOL Group**
+
+### IoT and server traffic filtering boost security posture (ID: iot-and-server-traffic-filtering-boost-security-posture | Type: results)
+MOL Group is amplifying its use cases for Zscaler Internet Access, using the solution to filter the internet traffic of all servers and devices hosted in the data center, the retail network, and even refineries. Zscaler Internet Access even checks traffic from the cutting-edge internet of things (IoT) devices used in its new cutting-edge smart headquarters building. With all internet traffic going through Zscaler, visibility has increased significantly.
+
+“Zscaler provides us with a single pane of glass and securely delivers direct connectivity to applications on the internet, SaaS, in the data center, and public cloud, regardless of location. This is a huge boost from a cyber defense perspective, as we can ensure that no malicious content reaches our users and devices,” said Kapócs.
+
+> "Zscaler provides us with a single pane of glass and securely delivers direct connectivity to applications on the internet, SaaS, in the data center, and public cloud, regardless of location. This is a huge boost from a cyber defense perspective, as we can ensure that no malicious content reaches our users and devices."
+> — **MOL Group**
+
+### Future-proofing security with CNAPP (ID: future-proofing-security-with-cnapp | Type: security)
+Another key step in MOL Group’s cloud evolution has been the addition of Posture Control by Zscaler. The company is using the Zscaler cloud security posture management (CSPM) solution to continuously assess its security posture and gain deeper insights into the configuration of its Microsoft Azure cloud infrastructure and to better secure cloud workloads, applications, and human and machine identities.
+
+“Posture Control helps our security and cloud operations teams make sure that cloud settings and configuration of our cloud are fully optimized,” said Kapócs. “They can easily make the necessary changes to bring our overall compliance scores and security posture to a higher level.”
+
+Posture Control allows these teams to use multiple industry benchmarks to ensure MOL Group is compliant. The company can check current settings against various frameworks and continually improve its cloud security posture. “Implementing and integrating Posture Control into the Microsoft Azure environment was simple,” said Kapócs. “We were amazed at how quickly we accomplished that. All it took was a one-hour meeting with Zscaler to enable the required application programming interface (API) connections.”
+
+> "Posture Control helps our security and cloud operations teams make sure that cloud settings and configuration of our cloud are fully optimized. They can easily make the necessary changes to bring our overall compliance scores and security posture to a higher level."
+> — **MOL Group**
+
+> "Implementing and integrating Posture Control into the Microsoft Azure environment was simple. We were amazed at how quickly we accomplished that. All it took was a one-hour meeting with Zscaler to enable the required application programming interface (API) connections."
+> — **MOL Group**
+
+> "Zscaler has given us better control over our operations, our products, and our costs—and that has justified the effort to our stakeholders."
+> — **Peter Varga — Group CISO — MOL Group**
+
+### On the path to comprehensive zero trust (ID: on-the-path-to-comprehensive-zero-trust | Type: implementation)
+While zero trust was not the main rationale behind MOL Group’s initial adoption of the Zscaler platform in 2019, the concept is now an integral part of the company’s security strategy.
+
+“We have learned that zero trust prepares us for the possibility of a breach. It enables us to implement procedural, technical, and other process controls to help us cope with such a situation should it occur,” said Kapócs. “Zscaler Zero Trust Exchange embodies the foundational security principles behind zero trust and delivers on its promise by bringing together many of the required security controls and capabilities. Zscaler has really simplified our lives and has paved the way for a comprehensive zero trust architecture.”
+
+Group CISO Peter Varga points out that, on the business side, zero trust is about better protecting company current assets and minimizing risk: “In cybersecurity, risk is a moving target. What wasn't a risk this year could emerge as a huge risk next year, so flexibility is essential. The simplification and consolidation we’ve been able to achieve with Zscaler has given us better control over our operations, our products, and our costs—and that has justified the effort to our stakeholders.”
+
+> "We have learned that zero trust prepares us for the possibility of a breach. It enables us to implement procedural, technical, and other process controls to help us cope with such a situation should it occur. Zscaler Zero Trust Exchange embodies the foundational security principles behind zero trust and delivers on its promise by bringing together many of the required security controls and capabilities. Zscaler has really simplified our lives and has paved the way for a comprehensive zero trust architecture."
+> — **MOL Group**
+
+> "In cybersecurity, risk is a moving target. What wasn't a risk this year could emerge as a huge risk next year, so flexibility is essential. The simplification and consolidation we’ve been able to achieve with Zscaler has given us better control over our operations, our products, and our costs—and that has justified the effort to our stakeholders."
+> — **Peter Varga — Group CISO — MOL Group**
+
+### Trusted partner delivers seamless deployment (ID: trusted-partner-delivers-seamless-deployment | Type: implementation)
+While MOL Group’s highly qualified and experienced security team was solely involved with vendor selection, it relied on NTT Hungary for support in deploying various parts of the Zscaler platform across different countries and locations. The managed services provider has had a long-standing relationship with MOL Group and operates as an extended team.
+
+NTT Hungary has been involved in project management activities and technical support for Zero Trust Exchange rollout, and it continues to play an important role in the company’s cloud security transformation.
+
+### Establishing processes for collecting metrics (ID: establishing-processes-for-collecting-metrics | Type: other)
+Expanding the Zero Trust Exchange footprint has resulted in notable benefits for MOL Group. Kapócs points out that the user experience has improved significantly, as evidenced by the reduction in support tickets for internet access issues. Business users are more productive because they have faster and more convenient access to the applications they need to do their jobs.
+
+Operationally, MOL Group has been able to reduce the size of the proxy operations team by 50%. With centralized security management from Zscaler, security professionals are no longer required at branch locations, which previously had their own appliances or point solutions. This has not only resulted in operational cost savings, but also enabled MOL Group to allocate valuable technical resources to engineering projects that drive innovation. By rationalizing the security team’s workload, MOL Group has been able to reach greater efficiency while maintaining strict security standards.
+
+Recently, the security team started conducting surveys to measure security engagement and user experience on a more regular basis. “One of our goals is to make security as invisible as possible to the user. If security is transparent, people are more likely to embrace additional protections. Zscaler has helped us tremendously in this effort, and we are in the process of determining how best to gather metrics around this,” said Varga. One of the technologies that will assist with this effort is Zscaler Digital Experience (ZDX), which MOL Group is currently using to troubleshoot issues during the Zscaler Private Access rollout.
+
+“With Zscaler Digital Experience, we can see that a user may have a network connection issue at home that has nothing to do with the central architecture,” said Kapócs. “It’s a shortcut way for the internal technical support team to determine the root cause of access problems. This helps us reduce unnecessary time spent on things we cannot fix from the central location. We’re looking forward to applying Zscaler Digital Experience to other use cases in the near future.”
+
+> "One of our goals is to make security as invisible as possible to the user. If security is transparent, people are more likely to embrace additional protections. Zscaler has helped us tremendously in this effort, and we are in the process of determining how best to gather metrics around this."
+> — **Varga — MOL Group**
+
+> "With Zscaler Digital Experience, we can see that a user may have a network connection issue at home that has nothing to do with the central architecture. It’s a shortcut way for the internal technical support team to determine the root cause of access problems. This helps us reduce unnecessary time spent on things we cannot fix from the central location. We’re looking forward to applying Zscaler Digital Experience to other use cases in the near future."
+> — **MOL Group**
+
+> "The Zscaler portfolio always has the right solution at the right time."
+> — **Tamás Kapócs — Head of Cybersecurity Strategy & Architecture — MOL Group**
+
+### What’s on the horizon for the cloud? (ID: what-s-on-the-horizon-for-the-cloud | Type: other)
+With an eye toward consolidating MOL Group’s M&A environments, Kapócs looks forward to standardizing on Zscaler Private Access. “We’re in the throes of incorporating Zscaler Private Access into our M&A consolidation push and wish we could have had it in the past,” he said. “It would have saved us an enormous amount of time, effort, and operational costs. As we move on with our expansion, it will serve as an invaluable tool for quickly integrating our new assets and users into our zero trust architecture.” MOL Group will also be implementing ZPA App Inspection to further safeguard private applications from web attacks and potential risk from compromised users. The solution provides inline inspection based on the Open Web Application Security Project (OWASP) Top 10 web attack techniques. The company is looking to roll out ZPA App Inspection in concert with its full ZPA deployment in the very near future.
+
+Zscaler Zero Trust Browser is another technology that Kapócs and his team are eager to roll out as an added layer of protection. This solution isolates risky browser sessions and serves up clean copies of web pages to end users to prevent hidden online malware from entering endpoints or the network.“So much of the work we do is over the internet, and that will only increase over time. Zscaler Zero Trust Browser gives us extra reassurance that potentially damaging ransomware and threats that reside on risky websites can’t pass through to our network. At the same time, it offers our users more freedom to get their jobs done without having to worry about security,” Kapócs pointed out.
+
+> "We’re in the throes of incorporating Zscaler Private Access into our M&A consolidation push and wish we could have had it in the past. It would have saved us an enormous amount of time, effort, and operational costs. As we move on with our expansion, it will serve as an invaluable tool for quickly integrating our new assets and users into our zero trust architecture."
+> — **MOL Group**
+
+> "So much of the work we do is over the internet, and that will only increase over time. Zscaler Zero Trust Browser gives us extra reassurance that potentially damaging ransomware and threats that reside on risky websites can’t pass through to our network. At the same time, it offers our users more freedom to get their jobs done without having to worry about security."
+> — **MOL Group**
+
+### Building a true long-term partnership (ID: building-a-true-long-term-partnership | Type: other)
+Based on past experience, Kapócs and his team know they have a trusted partner in Zscaler. As MOL Group further builds out its zero trust ecosystem, Zscaler plays a leading role. Kapócs appreciates how the vendor is dedicated to innovation, continually fine-tuning current products and releasing new platform capabilities to advance cloud security.
+
+“Our mission is to improve our cyber resilience. The Zscaler approach to zero trust is helping us tremendously. Whenever we are ready to upgrade our security controls or implement more advanced technology, the Zscaler portfolio always has the right solution at the right time. It’s as if Zscaler has been developing its capabilities in parallel with our own requirements,” said Kapócs.
+
+> "Our mission is to improve our cyber resilience. The Zscaler approach to zero trust is helping us tremendously. Whenever we are ready to upgrade our security controls or implement more advanced technology, the Zscaler portfolio always has the right solution at the right time. It’s as if Zscaler has been developing its capabilities in parallel with our own requirements."
+> — **MOL Group**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[3].url:** https://www.zscaler.com/products/zscaler-digital-experience
+- **root.products[4].name:** Zero Trust Firewall
+- **root.products[4].url:** https://www.zscaler.com/resources/data-sheets/zscaler-firewall.pdf
+- **root.products[5].name:** Zero Trust for IoT/OT
+- **root.products[5].url:** https://www.zscaler.com/products-and-solutions/secure-your-ot-and-iot
+- **root.products[6].url:** https://www.zscaler.com/products-and-solutions/browser-isolation
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[2].name:** Optimize Digital Experiences
+- **root.solutions[3].name:** Accelerate M&A and Divestitures
+- **root.solutions[3].url:** https://www.zscaler.com/products-and-solutions/mergers-acquisitions-and-divestitures
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 57146
+- **root.page_metadata.meta_description:** Learn how MOL Group MOL Group Accelerates Expansion and Maturity with of Its Zero Trust Architecture with the Zero Trust Exchange.
+- **root.page_metadata.og_title:** MOL Group Case Study | Customer Stories | Zscaler

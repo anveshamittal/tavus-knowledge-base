@@ -1,0 +1,182 @@
+# Main Line Health Adopts Zero Trust and Unified Data Security to Support Resilient Continuity of Care
+
+> Zscaler protects sensitive patient data everywhere with end-to-end granular controls while streamlining access to medical devices for mobile clinicians
+
+**Customer Name:** Main Line Health
+
+### Key Metrics
+- **270K+**: threats blocked
+- **100%**: of devices protected
+- **Halved**: time-to-remediation
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/main-line-health
+- **Slug:** main-line-health
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:36.778143Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Main Line Health
+- **Description:** Not-for-profit healthcare system serving the greater Philadelphia area
+- **Industry:** Healthcare and Pharmaceutical
+- **Headquarters:** Newtown Square, Pennsylvania, USA 
+- **Size:** 5 hospitals, 6 health centers, and 150+ medical practice locations
+
+## Executive Summary
+### Challenges
+- Siloed legacy infrastructure left security gaps that reduced resilience, potentially hindering delivery of critical care
+- The organization needed a modern data security strategy with comprehensive controls to protect sensitive patient data
+- Mobile clinicians and other staff needed secure, streamlined, and reliable access to medical devices and workstations
+
+### Phased Journey
+- While Zscaler has been implemented for a relatively short time, it has yielded quantifiable results in several areas.
+
+### Results & Impact
+- Safeguards patient data on Epic-connected devices while enforcing cohesive, fine-grained data security
+- Improves IT agility and saves hundreds of thousands of dollars by simplifying operations with a unified zero trust platform
+- Gives clinicians streamlined tap-and-go access to medical equipment by integrating the Imprivata passwordless identity system with Zscaler
+
+## Featured Quotes
+> "At its core, information safety is patient safety. As part of our resiliency program, we’ve had to completely reimagine and formalize our approach to data security—and Zscaler is playing an essential role in that process."
+> — **Kevin Werner — Deputy CISO — Main Line Health**
+
+## Customer Case Study
+### Operational resilience to ensure continuity of patient care drives digital modernization (ID: operational-resilience-to-ensure-continuity-of-patient-care-drives-digital-modernization | Type: other)
+Main Line Health consists of five hospitals, six health centers, and more than 150 medical practice locations serving the Philadelphia area and beyond. Its mission is to deliver compassionate, quality medical care to its diverse patient base. Cybersecurity plays a key role in advancing that mission.
+
+Associate CISO Kevin Werner and his team are responsible for safeguarding sensitive patient data and ensuring that the organization remains operational in the event of a cyberattack or outage that could take critical healthcare services offline for days, weeks, or even months. In these scenarios, connected medical devices, such as robotic surgical tools, could be rendered nonfunctional in the midst of critical procedures.
+
+Werner knew that minimizing disruptions to patient care required a new approach to security that would address escalating ransomware, distributed denial-of-service (DDoS) attacks, and AI-driven threats. He stressed the critical need for secure, policy-driven access for mobile clinicians and other users and comprehensive data security for vital patient information. To strengthen the organization’s defenses while being mindful of budgetary constraints, he launched a modernization initiative built on the Zscaler Zero Trust Exchange platform.
+
+“We needed to make sure our fundamentals were rock solid to increase our internal agility by leveraging GenAI tools, implement fine-grained network segmentation, and enable secure connectivity so that we could get in front of these sophisticated attacks,” said Werner. “We moved forward without hesitation to implement Zscaler’s cohesive zero trust architecture.”
+
+Alongside this strategy, Main Line Health also had a chaos engineering program in place to test organizational preparedness and build resilience. Digital downtime drills helped train the staff to continue treating patients in the event of catastrophic events.
+
+> "We needed to make sure our fundamentals were rock solid to increase our internal agility by leveraging GenAI tools, implement fine-grained network segmentation, and enable secure connectivity so that we could get in front of these sophisticated attacks. We moved forward without hesitation to implement Zscaler’s cohesive zero trust architecture."
+> — **Werner — Main Line Health**
+
+### Seamless, secure internet and SaaS access for mobile clinicians and non-medical staff (ID: seamless-secure-internet-and-saas-access-for-mobile-clinicians-and-non-medical-staff | Type: other)
+At Main Line Health, mobile physicians and advanced practice providers access multiple connected medical devices (IoMT) and apps every day to treat patients through the passwordless Imprivata system. By tapping a badge, swiping a card, or providing biometrics, clinicians get no-click access to workstations, medical carts, and patient data.
+
+Werner sought a solution that would provide consistent policy enforcement and data security as clinicians move from machine to machine and bedside to bedside at Main Line Health's facilities. The legacy vendor’s solutions were used primarily for internet security, CASB, and data loss prevention but were unable to integrate with Imprivata or apply role-based zero trust access policies for multi-user workstations. Werner pointed out that the incumbent vendor had been working unsuccessfully on a solution for more than two years.
+
+To protect sensitive patient data and ensure that users only had access to the resources needed to perform their jobs, Werner and his team conducted a POV, comparing Zscaler to six other vendors. Zscaler Internet Access (ZIA) checked all the boxes: granular policies across the board for all devices (IT, IoT, and OT) and all users, secure workloads, integration with Imprivata, inline data protection, and more.
+
+“Integrating Zscaler with Imprivata took less than five minutes. My team and I were completely flabbergasted at how quick and easy it was. No one else came close—and we haven’t looked back since,” said Werner. “Zscaler’s architecture handled this tremendously well.”
+
+ZIA now provides identity-, context-, and role-based zero trust access to SaaS apps for employees and physicians. This includes the mission-critical Epic system, which holds sensitive patient records, as well as Microsoft 365.
+
+ZIA acts as a secure internet gateway, scanning all outgoing and incoming traffic to filter and block access to malicious websites and downloaded content. Continuous TLS/SSL traffic inspection detects and prevents hidden malware and data exfiltration. ZIA also provides guardrails for inappropriate sharing of data in public GenAI apps by enforcing granular data loss prevention policies, blocking patient data from being shared or used in prompts, and providing visibility into unauthorized shadow AI app use.
+
+Zscaler Zero Trust Firewall adds another critical layer of protection by blocking unauthorized connections to and from the internet for Epic devices and users. Moreover, AI-powered Zscaler Cloud Sandbox isolates and analyzes suspicious files in real time, preventing malware, ransomware, and advanced threats from infecting devices.
+
+> "Integrating Zscaler with Imprivata took less than five minutes. My team and I were completely flabbergasted at how quick and easy it was. No one else came close—and we haven’t looked back since. Zscaler’s architecture handled this tremendously well."
+> — **Werner — Main Line Health**
+
+> "Integrating Zscaler with Imprivata took less than five minutes. My team and I were completely flabbergasted at how quick and easy it was. No one else came close."
+> — **Kevin Werner — Deputy CISO — Main Line Health**
+
+### Reinventing data security with comprehensive, granular controls (ID: reinventing-data-security-with-comprehensive-granular-controls | Type: security)
+Building on Main Line Health’s success with ZIA, Werner and his team went on to launch a comprehensive data protection strategy. A continual concern is medical staff unknowingly exposing sensitive patient data by sending it to their personal email or uploading it into public GenAI apps. Werner pointed out that the average cost of a healthcare breach is over $7 million—the highest of all sectors—according to IBM’s 2025 Cost of a Data Breach Report.
+
+Main Line Health adopted cloud-based Zscaler Data Security to enable teams to gain visibility and insights into data usage everywhere. Zscaler provides unified, end-to-end data protection and policy enforcement across email, web, SaaS, inline traffic, and all devices for structured and unstructured data. Previously, security teams had to learn and access multiple, unintegrated tools to view incident data. With Zscaler’s single-pane-of-glass interface, incident detection, response, and mitigation are faster and more effective. Consolidation has also reduced infrastructure complexity.
+
+Zscaler Data Security includes incident management and fine-grained capabilities like exact data matching and indexing. Werner and his team are currently developing an acceptable use strategy that entails building custom dictionaries to identify and protect sensitive data and redefining data usage policy to determine what gets blocked and what doesn’t.
+
+“At its core, information safety is patient safety. When there’s a data breach, the exfiltration of health records diminishes patient dignity,” said Werner. “As part of our resiliency program, we’ve had to completely reimagine and formalize our approach to data security—and Zscaler is playing an essential role in that process.”
+
+> "At its core, information safety is patient safety. When there’s a data breach, the exfiltration of health records diminishes patient dignity. As part of our resiliency program, we’ve had to completely reimagine and formalize our approach to data security—and Zscaler is playing an essential role in that process."
+> — **Werner — Main Line Health**
+
+### A secure, zero-friction user experience (ID: a-secure-zero-friction-user-experience | Type: monitoring)
+Werner and his team continue to fully leverage the functionality of the current Zscaler implementation. They recently deployed Zscaler Digital Experience (ZDX) for expanded visibility into connectivity and app performance problems, root cause analysis, and faster resolution of issues. ZDX has optimized IT processes and minimized disruption of patient care workflows, improving the user experience for everyone.
+
+“In the past, we typically had about five connectivity-related support tickets per week, largely because our legacy vendor had no visibility into these issues. Since we deployed Zscaler, we’ve had zero complaints,” pointed out Werner. “ZDX continuously monitors connectivity performance to ensure reliable access to critical apps. When our users are happy with their experience, then we know we’re doing a good job.”
+
+> "In the past, we typically had about five connectivity-related support tickets per week, largely because our legacy vendor had no visibility into these issues. Since we deployed Zscaler, we’ve had zero complaints. ZDX continuously monitors connectivity performance to ensure reliable access to critical apps. When our users are happy with their experience, then we know we’re doing a good job."
+> — **Werner — Main Line Health**
+
+> "We have saved hundreds of thousands of dollars by no longer investing in new security appliances or software purchases. As we phase out more legacy tools, I expect that number to increase."
+> — **Kevin Werner — Deputy CISO — Main Line Health**
+
+### Future-proofing healthcare operations with the Zscaler platform (ID: future-proofing-healthcare-operations-with-the-zscaler-platform | Type: roadmap)
+One of Werner’s priorities is securing access to patient data for third-party partners. This includes insurance providers and medical billing companies as well as biomedical device manufacturers, who need to connect to devices like CAT scanners and infusion pumps to provide patches and perform maintenance. Werner and his team are currently exploring Zscaler Private Access (ZPA) to eliminate the complexity and security risks of high-latency VPNs and provide zero trust access to private apps.
+
+ZPA enables granular segmentation for third-party users, granting secure, least-privileged access to specific internal apps without ever placing users on the corporate network. These direct user-to-app connections make apps invisible to the internet and prevent any possibility of lateral threat movement. For clinicians, ZPA will save time by eliminating multiple logins and providing faster access to critical resources, enabling them to focus on patient care rather than working through technology challenges.
+
+“Zscaler has already simplified and secured workflows for clinicians—and that is an enormous win for us. Expanding our Zscaler platform with ZPA is a unique opportunity to implement technology that will make their life even easier while boosting our security resilience and increasing data security assurance. It’s something we could never have achieved before,” said Werner.
+
+To further stabilize operational resiliency, Main Line Health plans to deploy 100 to 150 cellular-enabled mobile carts that will function as an out-of-band connectivity stack if the network goes down or in the event of other emergencies. Werner is evaluating Zscaler Cellular to secure vital sign monitors that share patient data among clinical staff, insulin pumps, automated external defibrillators (AEDs), and other IoMT devices.
+
+“These carts will enable us to get physicians and other medical staff online quickly. As part of this, we want to make sure the connectivity is encrypted and secure, and we’re looking at leveraging Zscaler Cellular for that. It will enable critical equipment to function securely and without disruption during normal operations and in the event of a Wi-Fi or electrical outage,” he explained.
+
+> "Zscaler has already simplified and secured workflows for clinicians—and that is an enormous win for us. Expanding our Zscaler platform with ZPA is a unique opportunity to implement technology that will make their life even easier while boosting our security resilience and increasing data security assurance. It’s something we could never have achieved before."
+> — **Werner — Main Line Health**
+
+> "These carts will enable us to get physicians and other medical staff online quickly. As part of this, we want to make sure the connectivity is encrypted and secure, and we’re looking at leveraging Zscaler Cellular for that. It will enable critical equipment to function securely and without disruption during normal operations and in the event of a Wi-Fi or electrical outage."
+> — **Main Line Health**
+
+### Resilient, integrated security reaps exceptional outcomes (ID: resilient-integrated-security-reaps-exceptional-outcomes | Type: implementation)
+While Zscaler has been implemented for a relatively short time, it has yielded quantifiable results in several areas.
+
+Since the Zscaler deployment, 100% of Main Line Health’s devices, including those interfacing with the Epic system or Imprivata, are fully secured through zero trust access. Policies follow users as they move from machine to machine, providing comprehensive, advanced data security no matter the workstation or device. As proof of its effectiveness, in a three-month period, Zscaler prevented 22.7 million policy violations and blocked 271,669 security threats.
+
+Managing the need for improved security against budgetary constraints is an ongoing balancing act at not-for-profit healthcare systems. By consolidating its infrastructure on the unified Zscaler platform, Main Line has significantly reduced IT complexity and opex/capex costs.
+
+“With a consolidated view into the entire environment, the security team is spending less time juggling multiple point products and has cut our time-to-remediation in half. In addition, we have saved hundreds of thousands of dollars by no longer investing in new security appliances or software purchases. As we phase out more legacy tools, I expect that number to increase,” affirmed Werner.
+
+> "With a consolidated view into the entire environment, the security team is spending less time juggling multiple point products and has cut our time-to-remediation in half. In addition, we have saved hundreds of thousands of dollars by no longer investing in new security appliances or software purchases. As we phase out more legacy tools, I expect that number to increase."
+> — **Werner — Main Line Health**
+
+> "We needed to make sure our fundamentals were rock solid to increase our internal agility by leveraging GenAI tools, implement fine-grained network segmentation, and enable secure connectivity."
+> — **Kevin Werner — Deputy CISO — Main Line Health**
+
+### Zero trust enhances delivery of uninterrupted, quality patient care (ID: zero-trust-enhances-delivery-of-uninterrupted-quality-patient-care | Type: results)
+Werner and his team thrive on the challenge of modernizing the large security system at Main Line Health as it continues to migrate from on-premises data centers to the cloud. Whereas previous vendors supplied standalone solutions that could not keep pace with the company’s changing infrastructure, Zscaler offers a flexible, scalable platform that aligns with the organization’s vision for operational and cyber resilience.
+
+“In keeping with our chaos engineering program, we have been redesigning our security infrastructure based on the assumption that we have already been compromised and need to respond accordingly. That’s why our defense-in-depth approach embodies the zero trust principles that are at the core of the Zscaler platform,” noted Werner.
+
+He pointed out that Main Line Health’s greatest success comes from tying security directly to patient safety and successful medical outcomes.
+
+“With Zscaler, we’re able to handle everything—from secure access for staff to vendor management to robust data protection. The zero trust model ensures that individuals can only do exactly what they need to do and access only what they need to access,” said Werner. “Zscaler helps us fulfill our mission of delivering critical patient care with confidence even in the most challenging circumstances."
+
+> "In keeping with our chaos engineering program, we have been redesigning our security infrastructure based on the assumption that we have already been compromised and need to respond accordingly. That’s why our defense-in-depth approach embodies the zero trust principles that are at the core of the Zscaler platform."
+> — **Werner — Main Line Health**
+
+> "With Zscaler, we’re able to handle everything—from secure access for staff to vendor management to robust data protection. The zero trust model ensures that individuals can only do exactly what they need to do and access only what they need to access. Zscaler helps us fulfill our mission of delivering critical patient care with confidence even in the most challenging circumstances."
+> — **Werner — Main Line Health**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** AI Security Platform
+- **root.products[1].url:** https://www.zscaler.com/resources/data-sheets/zscaler-firewall.pdf
+- **root.products[2].name:** Unified Vulnerability Management
+- **root.products[2].url:** https://www.zscaler.com/products-and-solutions/vulnerability-management
+- **root.products[3].name:** Multi-Mode CASB
+- **root.products[3].url:** https://www.zscaler.com/products-and-solutions/cloud-access-security-broker-casb
+- **root.products[4].name:** Zero Trust Browser
+- **root.products[4].url:** https://www.zscaler.com/products-and-solutions/browser-isolation
+- **root.products[5].url:** https://www.zscaler.com/technology/cloud-sandbox
+- **root.products[6].url:** https://www.zscaler.com/products/zscaler-digital-experience
+- **root.products[7].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[8].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.solutions[0].name:** Secure Remote Access
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/vpn-alternative
+- **root.solutions[1].name:** Stop Cyberattacks
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/zscaler-risk-360
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.solutions[3].name:** Optimize Digital Experiences
+- **root.solutions[4].name:** Ransomware
+- **root.solutions[4].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 107766
+- **root.page_metadata.meta_description:** Learn how Main Line Health Main Line Health Adopts Zero Trust and Unified Data Security to Support Resilient Continuity of Care with Zscaler protects sensitive patient data everywhere with end-to-end granular controls while streamlining access to medical devices for mobile clinicians.
+- **root.page_metadata.og_title:** Main Line Health Case Study | Customer Stories | Zscaler

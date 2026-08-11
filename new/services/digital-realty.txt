@@ -1,0 +1,87 @@
+# Digital Realty Extends Zero Trust to Its OT Environment
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Digital Realty
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/digital-realty
+- **Slug:** digital-realty
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:55:20.505810Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Digital Realty
+- **Description:** Digital Realty owns, acquires, develops and operates data centers. The company provides data center, colocation and interconnection solutions for customers across the globe in a variety of industry verticals ranging from cloud and IT services, communications, and social networking to financial services, manufacturing, energy, healthcare, and consumer products.
+- **Industry:** Services
+- **Headquarters:** Austin, Texas, USA
+- **Size:** Operates 291 data centers used by organizations worldwide
+
+## Executive Summary
+### Challenges
+- Implement zero trust foundation to secure global enterprise, including operational technology (OT)
+
+### Results & Impact
+- Ensures a robust, cloud-based foundation for securing operations globally
+- Reduces security costs and deployment time
+- Establishes roadmap and simplifies effort required to achieve zero trust
+- Provides "incalculable" expected ROI once extended to OT
+
+## Featured Quotes
+> "Zscaler has provided a solid foundation for us to secure our operations globally, greatly reducing implementation time, cost, and our overall efforts to make zero trust a reality."
+> — **Don Freese — Global CISO — Digital Realty**
+
+## Video Testimonial & Transcript
+**Title:** Digital Realty Customer Testimonial Video
+**Description:** a Digital Realty Customer Testimonial Video video
+**URL:** https://fast.wistia.net/embed/iframe/m0ncyz4jg0
+**Provider:** wistia
+**Video ID:** m0ncyz4jg0
+**Duration:** 75.051 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/c50e76f9547b9046bca4c925e2a7ca55.png
+**Video Account Id:** 658399
+**Video Media Id:** 93139635
+**Video Created At:** 1658340065
+
+### Tagged Segments
+- **[Don Freese (Global CISO, Digital Realty)]** [Segment #1] (self_introduction - Introduction and role at Digital Realty): "Hi. I'm Don Fries, Global Ciso for Digital Realty."
+- **[Don Freese (Global CISO, Digital Realty)]** [Segment #2] (challenges - IT challenges and zero trust roadmap): "On the information technology side, we've had extremely strong deployment continuing really forward facing road map and zero trust."
+- **[Don Freese (Global CISO, Digital Realty)]** [Segment #3] (products_and_solutions - Zscaler's role in zero trust implementation): "Quarter of that is the control plane provided by Zscaler, and their team of technical support design, as well as pro services have really provided solid foundation for us to really secure our operations globally, greatly reducing implementation time, reducing cost, and overall efforts to make zero trust reality for us."
+- **[Don Freese (Global CISO, Digital Realty)]** [Segment #4] (products_and_solutions - Extending zero trust to OT environment): "Currently, we're working with Zscaler directly to assess where we can take these same principles into the OT environment Problem set is somewhat different as everyone knows."
+- **[Don Freese (Global CISO, Digital Realty)]** [Segment #5] (challenges - Challenges in securing OT environment): "However, if we can achieve this standard, if we can come through in a way where we can really secure, transport, network layer, provisions as well as achieving network access control, lease privilege enforcement throughout an operational technology time, the return on investment will be almost in capital."
+- **[Don Freese (Global CISO, Digital Realty)]** [Segment #6] (general_discussion - Excitement and appreciation for Zscaler): "So we're really looking forward to this as exciting times, and we really appreciate these scores."
+
+### Full Transcript Sentences
+- Hi.
+- I'm Don Fries, Global Ciso for Digital Realty.
+- On the information technology side, we've had extremely strong deployment continuing really forward facing road map and zero trust.
+- Quarter of that is the control plane provided by Zscaler, and their team of technical support design, as well as pro services have really provided solid foundation for us to really secure our operations globally, greatly reducing implementation time, reducing cost, and overall efforts to make zero trust reality for us.
+- Currently, we're working with Zscaler directly to assess where we can take these same principles into the OT environment Problem set is somewhat different as everyone knows.
+- However, if we can achieve this standard, if we can come through in a way where we can really secure, transport, network layer, provisions as well as achieving network access control, lease privilege enforcement throughout an operational technology time, the return on investment will be almost in capital.
+- So we're really looking forward to this as exciting times, and we really appreciate these scores
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].name:** Zscaler Internet Access (ZIA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].name:** Zscaler Private Access (ZPA)
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[3].name:** Zero Trust for IoT/OT
+- **root.products[3].url:** https://www.zscaler.com/products-and-solutions/secure-your-ot-and-iot
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 53976
+- **root.page_metadata.meta_description:** Learn how Digital Realty Digital Realty Extends Zero Trust to Its OT Environment with with the Zscaler Zero Trust Exchange.
+- **root.page_metadata.og_title:** Digital Realty Case Study | Customer Stories | Zscaler

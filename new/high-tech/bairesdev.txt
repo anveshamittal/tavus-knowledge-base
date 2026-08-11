@@ -1,0 +1,163 @@
+# Global Software Developer Embraces Zero Trust
+
+> to Streamline Processes and Sustain Client Confidence
+
+**Customer Name:** BairesDev
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/bairesdev
+- **Slug:** bairesdev
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:03.715635Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** BairesDev
+- **Description:** Initially launched in Latin America in 2009, BairesDev now has its headquarters in San Francisco, California. It is one of the world's fastest-growing IT and software development companies, providing outsourcing, testing, maintenance, and other IT solutions.
+- **Industry:** High Tech
+- **Headquarters:** San Francisco, CA, USA
+- **Size:** 4,000+ professionals in 40 countries
+
+## Executive Summary
+### Challenges
+- Ensure secure, privilege-based access to resources and workloads for remote team members based on internal and client policies
+
+### Phased Journey
+- Riboldi is a big believer in conducting POVs, as they offer an opportunity to see a solution in action in a real-life production environment.
+
+### Results & Impact
+- Saves an estimated potential $1+ million over three years
+- Provides secure access to workloads without VPN or other remote access solutions
+- Ensures continuity of service to satisfy changing client needs
+- Protects against breaches that could cost more than $4 million on average
+- Enables enforcement of internal policies and the flexibility to adapt to client policies
+
+## Featured Quotes
+> "(The Zero Trust Exchange) provides our team members and IT department with fast, secure access based on where they are and what they need to do—internally or within client environments."
+> — **Pablo Damian Riboldi — IT Manager and CISO — BairesDev**
+
+## Customer Case Study
+### Improving policy compliance and end-user security drove the move to zero trust (ID: improving-policy-compliance-and-end-user-security-drove-the-move-to-zero-trust | Type: security)
+As a technology provider and software developer, BairesDev provides innovative, tailor-made solutions for premier global organizations. BairesDev outsources dedicated development teams consisting of software engineers, developers, product managers, and designers to execute and manage software development for its clients.[1] The organization prides itself on hiring only the top 1% of software engineering teams in Latin America to fill in skills gaps or work jointly with external client teams to execute key projects.
+
+With the 100% remote workforce using a multitude of endpoints distributed across nearly every continent, providing consistent protection for users of Microsoft Windows, MacOS, and Linux development systems was top of mind for Pablo Damian Riboldi, IT Manager and CISO, at BairesDev. The company needed a data center security stack for end-user traffic. In addition to standardizing security for users and their devices, BairesDev wanted to ensure compliance with its corporate and clients' policies.
+
+Riboldi decided that a zero-trust framework made perfect sense. BairesDev's team requires secure access to internal applications, such as ERP, and workloads on Amazon Web Services (AWS) and other cloud platforms. In addition, protecting valuable intellectual property such as source code and encryption keys was also a key driver. After a highly successful two-month proof-of-value (PoV), the IT Security Team selected the Zscaler Zero Trust Exchange (ZTE) as the best platform for the job.
+
+"ZTE provides our team members and IT department with secure access based on where they are and what they need to do—internally or within client environments. Its advanced capabilities give us greater control over our security posture," said Riboldi. "We can verify that the right user from the right device is only authorized to access the content they need through the Zscaler Zero Trust Exchange —and we can apply policies to that traffic to keep it secure."
+
+> "ZTE provides our team members and IT department with secure access based on where they are and what they need to do—internally or within client environments. Its advanced capabilities give us greater control over our security posture. We can verify that the right user from the right device is only authorized to access the content they need through the Zscaler Zero Trust Exchange —and we can apply policies to that traffic to keep it secure."
+> — **Riboldi — BairesDev**
+
+### Fast, anywhere, anytime access to the internet, web applications, and private apps with zero trust security (ID: fast-anywhere-anytime-access-to-the-internet-web-applications-and-private-apps-with-zero-trust-security | Type: security)
+At first, the simplest way to prevent potential issues was to close access from the internet to the internal systems by provisioning a VPN to the development team or by implementing a jump host/server in the data center that would serve as an intermediary gateway for privileged access to specific resources. Over time, however, he discovered that management complexities and high costs would become an issue. Riboldi found a superior alternative in Zscaler.
+
+Zscaler Internet Access (ZIA) provides BairesDev team members with direct-to-internet connectivity and AI-powered traffic inspection, including SSL decryption, threat detection; alerting; and dynamic policy analysis of users, devices, applications, and content.
+
+With Zscaler Private Access (ZPA), team members connect directly to the private applications and resources they need rather than the network. This significantly shrinks the attack surface and prevents lateral movement. ZPA gives BairesDev team members clientless desktop access to VDI environments and secure shell (SSH) production systems without the need to install clients on unmanaged devices or to log into jump hosts or VPNs.
+
+"ZIA and ZPA provide the best balance between features and cost—and they are from the best zero-trust security vendor in the market," Riboldi remarked.
+
+> "ZIA and ZPA provide the best balance between features and cost—and they are from the best zero-trust security vendor in the market."
+> — **Riboldi — BairesDev**
+
+> "ZIA and ZPA provide the best balance between features and cost savings—and they are from the best zero trust security vendor in the market."
+> — **Pablo Damian Riboldi — IT Manager and CISO — BairesDev**
+
+### ZPA boosts security posture (ID: zpa-boosts-security-posture | Type: results)
+Apart from faster and more secure connectivity to private workloads and applications compared to VPN and other remote access solutions, ZPA also provides extra layers of protection. For example, the ZPA risk-based policy engine checks both user identity and the device's security posture before it establishes connections to resources.
+
+"We need to validate users who attempt to access our platform and ensure their security posture is consistent with our policies. For example, regardless of where or how users connect, we want to ensure endpoints are running the latest version of antivirus and are not compromised. Zscaler does all that for us," explained Riboldi.
+
+> "We need to validate users who attempt to access our platform and ensure their security posture is consistent with our policies. For example, regardless of where or how users connect, we want to ensure endpoints are running the latest version of antivirus and are not compromised. Zscaler does all that for us."
+> — **Riboldi — BairesDev**
+
+### From PoV to deployment (ID: from-pov-to-deployment | Type: implementation)
+Riboldi is a big believer in conducting POVs, as they offer an opportunity to see a solution in action in a real-life production environment.
+
+"In most cases, when you are getting to know a new technology, you don't know all the available features and all the possible use cases. A solution may look great in a PowerPoint presentation, but then you really need to try it yourself," said Riboldi. "During our Zscaler POV, we appreciated the participation of the Zscaler technical team, who answered all our questions. This gave us a solid basis for comparing Zscaler against the other solutions we were evaluating."
+
+He also pointed to another significant benefit of the Zscaler POV: assessing the impact of the technology on the user experience.
+
+"During the PoV, we used the Zscaler Client Connector to measure whether any extra overhead could cause delays for users. That gave us some insights into how users would feel about the solution. We wanted to ensure they didn't experience any frustration from high latency, as they would with VPN. The PoV demonstrated that our users had a great experience with Zscaler," Riboldi remarked.
+
+> "In most cases, when you are getting to know a new technology, you don't know all the available features and all the possible use cases. A solution may look great in a PowerPoint presentation, but then you really need to try it yourself. During our Zscaler POV, we appreciated the participation of the Zscaler technical team, who answered all our questions. This gave us a solid basis for comparing Zscaler against the other solutions we were evaluating."
+> — **Riboldi — BairesDev**
+
+> "During the PoV, we used the Zscaler Client Connector to measure whether any extra overhead could cause delays for users. That gave us some insights into how users would feel about the solution. We wanted to ensure they didn't experience any frustration from high latency, as they would with VPN. The PoV demonstrated that our users had a great experience with Zscaler."
+> — **Riboldi — BairesDev**
+
+> "With Zscaler, we're nearly 100% certain we won't have a breach."
+> — **Pablo Damian Riboldi — IT Manager and CISO — BairesDev**
+
+### Zero trust helps maintain reputation and brand integrity (ID: zero-trust-helps-maintain-reputation-and-brand-integrity | Type: other)
+From a business standpoint, breach prevention is one of the most important benefits of the Zscaler zero trust architecture. BairesDev has always been committed to maintaining the security of the data it holds and accesses, which includes intellectual property, customer information, and other sensitive data its team members access on their devices. Riboldi knows how such security events can negatively impact a company's reputation and brand. In addition, a breach can cost a business $4 million or more per incident, according to 2022 statistics.
+
+"Every company is vulnerable to cybersecurity attacks, but if you can at least have control over what is known, you can keep improving your security over time. With Zscaler, we're nearly 100% certain that we won't have a breach," said Riboldi.
+
+> "Every company is vulnerable to cybersecurity attacks, but if you can at least have control over what is known, you can keep improving your security over time. With Zscaler, we're nearly 100% certain that we won't have a breach."
+> — **Riboldi — BairesDev**
+
+### Integrations based on industry standards maximize flexibility (ID: integrations-based-on-industry-standards-maximize-flexibility | Type: other)
+Riboldi and his team have already integrated several tools in their security stack with Zscaler. They configured Google IdP for single sign-on (SSO) and Identity and Access Management with Zscaler. Two-factor authentication helps prevent credential compromise, and a one-time login provides team members with a more streamlined user experience.
+
+For antivirus, endpoint detection and threat response (EDTR), and threat hunting, BairesDev uses CrowdStrike Falcon, which discovers device vulnerabilities and anomalous behavior. Zscaler and CrowdStrike work together to determine device health and apply appropriate access policies. Looking ahead, Riboldi foresees that future integrations with Zscaler will be as seamless as these were.
+
+"One of the things we discovered is the importance of using industry standards when performing integrations. Zscaler is built with that in mind. So, if, for example, we want to switch to another vendor for identity management, the integration will be much easier," said Riboldi.
+
+> "One of the things we discovered is the importance of using industry standards when performing integrations. Zscaler is built with that in mind. So, if, for example, we want to switch to another vendor for identity management, the integration will be much easier."
+> — **Riboldi — BairesDev**
+
+> "Since we don't have a big team, we need to work more efficiently, and Zscaler will help us achieve that goal."
+> — **Pablo Damian Riboldi — IT Manager and CISO — BairesDev**
+
+### Zscaler protects workloads in AWS (ID: zscaler-protects-workloads-in-aws | Type: security)
+As an AWS subscriber, BairesDev could purchase Zscaler from the AWS Marketplace, simplifying a more involved procurement process.
+
+"AWS Marketplace shortened the acquisition process and made it easier. We already had several Amazon accounts, and everything was set up for us. Once our CIO signed off on Zscaler, I had no trouble purchasing the product or ensuring we could acquire the necessary licenses," pointed out Riboldi.
+
+Soon after obtaining Zscaler, Riboldi worked on integrating ZPA and Posture Control with AWS by leveraging the Zscaler Client Connector, creating an outgoing connection into the Zscaler Zero Trust Exchange. The bridge between these two connections is made internally in the BairesDev infrastructure. With Zscaler Zero Trust Exchange, it acts as a broker that connects users directly to the approved apps.
+
+"It's a simple technical trick. Our environment will not allow a connection unless it's coming through the zero trust exchange—and that connection is outgoing. There is reduced risk of anyone making a mistake in the firewalls with a rule or a policy that allows incoming traffic," explained Riboldi. "That is a huge relief. With Zscaler, our development environment is much more secure than the solutions we had in place before," explained Riboldi.
+
+> "AWS Marketplace shortened the acquisition process and made it easier. We already had several Amazon accounts, and everything was set up for us. Once our CIO signed off on Zscaler, I had no trouble purchasing the product or ensuring we could acquire the necessary licenses."
+> — **Riboldi — BairesDev**
+
+> "It's a simple technical trick. Our environment will not allow a connection unless it's coming through the zero trust exchange—and that connection is outgoing. There is reduced risk of anyone making a mistake in the firewalls with a rule or a policy that allows incoming traffic. That is a huge relief. With Zscaler, our development environment is much more secure than the solutions we had in place before."
+> — **Riboldi — BairesDev**
+
+### Zscaler policy framework aligns with both internal and client requirements (ID: zscaler-policy-framework-aligns-with-both-internal-and-client-requirements | Type: other)
+For BairesDev, one of the most significant advantages of the Zscaler zero trust architecture is the ability to create, optimize, and enforce its internal corporate policies and clients' policies across multiple parameters—user access, web, mobile, firewall, applications, and data. We have engineering teams accessing internal servers for maintenance and also. the finance and other non-technical teams accessing our ERP and other sensitive applications. By default, Zscaler automatically enforces policies based on industry standards, and the IT Security Team can further fine-tune them based on client requirements for any customer.
+
+"Zscaler makes it easy to enforce our internal security policies, which our upper management has set. And it also helps us adapt to our client's policies to cover everything we need. Zscaler gives us a lot of flexibility and helps us fulfill that objective," declared Riboldi.
+
+> "Zscaler makes it easy to enforce our internal security policies, which our upper management has set. And it also helps us adapt to our client's policies to cover everything we need. Zscaler gives us a lot of flexibility and helps us fulfill that objective."
+> — **Riboldi — BairesDev**
+
+### On the zero trust roadmap: additional capabilities and Integrations (ID: on-the-zero-trust-roadmap-additional-capabilities-and-integrations | Type: roadmap)
+Riboldi envisions greatly expanding the utilization of Zscaler at BairesDev. He plans to explore additional technologies like Zscaler Cloud Access Security Broker (CASB) and Zscaler Data Protection to safeguard data wherever it goes, along with Zscaler Workload Communication for advanced cloud workload protection. Over a three-year period, BairesDev could save over $1 million with Zscaler instead of other unintegrated, piecemeal solutions.
+
+"We have a huge roadmap for security and are always looking for new initiatives to implement. Zscaler has everything we need, and we hope to combine its capabilities with other security solutions. I always tell my team they need complete and deep visibility into users, applications, workloads, and data in their environment. Since we don't have a huge security team, we need to work more efficiently. Zscaler provides this centralized visibility across their entire organization - a complete solution that makes it easier for their IT and Security teams", said Riboldi.
+
+> "We have a huge roadmap for security and are always looking for new initiatives to implement. Zscaler has everything we need, and we hope to combine its capabilities with other security solutions. I always tell my team they need complete and deep visibility into users, applications, workloads, and data in their environment. Since we don't have a huge security team, we need to work more efficiently. Zscaler provides this centralized visibility across their entire organization - a complete solution that makes it easier for their IT and Security teams."
+> — **Riboldi — BairesDev**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[2].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 66841
+- **root.page_metadata.meta_description:** Learn how BairesDev Global Software Developer Embraces Zero Trust with to Streamline Processes and Sustain Client Confidence.
+- **root.page_metadata.og_title:** BairesDev Case Study | Customer Stories | Zscaler

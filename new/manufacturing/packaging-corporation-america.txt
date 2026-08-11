@@ -1,0 +1,91 @@
+# Packaging Corporation of America Secures Connectivity
+
+> with Zscaler Internet Access
+
+**Customer Name:** Packaging Corporation of America
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/packaging-corporation-america
+- **Slug:** packaging-corporation-america
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:55:46.557781Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Packaging Corporation of America
+- **Description:** Headquartered in Lake Forest, Illinois, Packaging Corporation of America is one of the largest producers of containerboard and corrugated packaging products in the U.S., producing boxes and displays for grocery stores. The company has over 15,000 employees and over 70 factories.
+- **Industry:** Manufacturing
+- **Headquarters:** Lake Forest, IL, USA
+- **Size:** 15,000+ employees
+
+## Executive Summary
+### Challenges
+- Establish secure connectivity after moving from a centralized egress point to distributed egress points across 70+ plant locations
+
+### Results & Impact
+- Secures internet access at 70+ plant locations
+- Simplifies IT management by limiting configuration changes with a cloud-based solution
+- Defends against known and unknown malware variants
+- Gains a holistic view of the network environment
+
+## Featured Quotes
+> "The best thing about Zscaler would be the view of our network that it provides, and the malicious activity that’s being stopped."
+> — **Dave Hart — Enterprise Security Manager — Packaging Corporation of America**
+
+> "Because (Zscaler is) a cloud-based solution, we only have to make a configuration change in one place and it’s distributed everywhere…"
+> — **Dave Hart — Enterprise Security Manager — Packaging Corporation of America**
+
+> "The number of (malware) detections from websites that you would think were safe was surprising."
+> — **Dave Hart — Enterprise Security Manager — Packaging Corporation of America**
+
+> "Helpdesk issues (as a result of) a machine being loaded with malware has significantly decreased."
+> — **Dave Hart — Enterprise Security Manager — Packaging Corporation of America**
+
+## Video Testimonial & Transcript
+**Title:** Packaging Corporation of America on Why Zscaler
+**Description:** a Customer Testimonial Videos video
+**URL:** https://fast.wistia.net/embed/iframe/f4tuhu99td
+**Provider:** wistia
+**Video ID:** f4tuhu99td
+**Duration:** 66.711 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/77cbcdbfdaa829cc0ea4404c22e23c74245e9d64.bin
+**Video Account Id:** 658399
+**Video Media Id:** 95607110
+**Video Created At:** 1663976158
+
+### Tagged Segments
+- **[Dave Hart (Enterprise Security Manager, Packaging Corporation of America)]** [Segment #1] (self_introduction - Overview of Packaging Corporation of America): "Packaging corp makes corrugated boxes, and we also make displays for grocery stores."
+- **[Dave Hart (Enterprise Security Manager, Packaging Corporation of America)]** [Segment #2] (challenges - Transition from centralized to distributed egress): "We selected these Galer, because we recently went from a centralized Internet access egress Point to distributed egress at over seventy plant locations."
+- **[Dave Hart (Enterprise Security Manager, Packaging Corporation of America)]** [Segment #3] (products_and_solutions - Cloud-based solution benefits): "Because it's a cloud based solution, we only have to make a configuration change in one place and it's distributed everywhere versus with a hardware appliance, we would have to make it multiple times."
+- **[Dave Hart (Enterprise Security Manager, Packaging Corporation of America)]** [Segment #4] (metrics_and_results - Malware detection and surprising insights): "The most surprising thing we've seen since moving to Zscaler is the malware that we didn't know existed on our network. The number of detections from websites that you would think were safe was surprising."
+- **[Dave Hart (Enterprise Security Manager, Packaging Corporation of America)]** [Segment #5] (metrics_and_results - Reduction in help desk issues): "Help desk issues that as a result of a machine being loaded with malware has significantly decreased."
+- **[Dave Hart (Enterprise Security Manager, Packaging Corporation of America)]** [Segment #6] (quote - Best thing about Zscaler): "The best thing about Zscaler would be the view of our network that it provides the malicious activity that is being stopped."
+
+### Full Transcript Sentences
+- Packaging corp makes corrugated boxes, and we also make displays for grocery stores.
+- We selected these Galer, because we recently went from a centralized Internet access egress Point to distributed egress at over seventy plant locations.
+- Because it's a cloud based solution, we only have to make a configuration change in one place and it's distributed everywhere versus with a hardware appliance, we would have to make it multiple times.
+- The most surprising thing we've seen since moving to Zscaler is the malware that we didn't know existed on our network.
+- The number of detections from websites that you would think were safe was surprising.
+- Help desk issues that as a result of a machine being loaded with malware has significantly decreased.
+- The best thing about Zscaler would be the view of our network that it provides the malicious activity that is being stopped.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Internet Access (ZIA)
+- **root.products[0].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[1].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[1].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Ransomware
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 21966
+- **root.page_metadata.meta_description:** Learn how Packaging Corporation of America Packaging Corporation of America Secures Connectivity with with Zscaler Internet Access.
+- **root.page_metadata.og_title:** Packaging Corporation of America Case Study | Customer Stories | Zscaler

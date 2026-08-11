@@ -1,0 +1,151 @@
+# Virginia Commonwealth University Adopts Zero Trust to Support Secure Hybrid Work Across 15 Colleges and Schools
+
+> Increasing security, visibility, and flexibility to protect 7,500 faculty and staff
+
+**Customer Name:** Virginia Commonwealth University
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/virginia-commonwealth-university
+- **Slug:** virginia-commonwealth-university
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:57:03.382974Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Virginia Commonwealth University
+- **Description:** Founded in 1838, Virginia Commonwealth University (VCU) ranks in the top 50 public research universities and is recognized as the top medical and dental center in the Richmond, Virginia area. It comprises 15 schools and colleges spanning disciplines from visual and performing arts to engineering and health sciences.
+- **Industry:** Education
+- **Headquarters:** Richmond, Virginia, USA
+- **Size:** 28,000 students, 2,500 faculty, 5,000 staff members
+
+## Executive Summary
+### Challenges
+- Provide secure remote access to the internet, SaaS, and private applications while increasing visibility and manageability of data.
+
+### Phased Journey
+- VCU encompasses 15 schools and colleges, some of which have dedicated IT teams.
+
+### Results & Impact
+- Minimized the attack surface by eliminating VPN and blocking 20.6M policy violations in three months
+- Reduced compromise by discovering and blocking 3M threats, including 26,973 hidden in encrypted traffic, in just one quarter
+- Prevented lateral movement by connecting users directly to apps, not the network
+- Increased productivity with faster connections and a 75% reduction in infrastructure load
+
+## Featured Quotes
+> "We’ve experienced a net gain in usability, reliability, and security… During a meeting, when I informed people that they don’t have to do MFA or connect to VPNs anymore, they erupted in applause."
+> — **Dan Han — CISO — Virginia Commonwealth University**
+
+## Customer Case Study
+### Dynamic user base requires secure access for hybrid work (ID: dynamic-user-base-requires-secure-access-for-hybrid-work | Type: other)
+VCU’s distributed urban environment—with university buildings standing alongside commercial buildings in Richmond, Virginia—sets it apart from traditional universities that have self-contained campuses. To accommodate the changing needs of its faculty and staff, VCU needed a flexible security solution that would adapt to the complexity of its IT environment.
+
+Many VCU users have blended roles, serving as employees while enrolled as students at the same time. Contractors and researchers from other organizations also access university resources and data. With multiple user types, dynamic access privileges, and sensitive data, VCU needs to prioritize robust security policies that can accommodate changing requirements.
+
+Prior to the COVID-19 pandemic, CISO Dan Han noticed a cultural shift at VCU: more users were finding it desirable and advantageous to work and collaborate remotely from anywhere, on any device. The university’s traditional on-premises IT architecture, however, was unable to support and secure remote work.
+
+When the pandemic made work from anywhere a necessity for everyone, the team sought a way to enable remote and hybrid work while meeting the university’s security requirements. Han decided that a zero trust architecture was the best way to provide fast, secure access to the resources administrative staff, employees, advanced students, and contractors needed to do their jobs and conduct their research.
+
+“Our philosophy is that the best security is effective and invisible and makes people's lives easier,” Han said. He and his team compared Zscaler against legacy network-based security vendors to test product efficacy, and Zscaler was chosen.
+
+> "Our philosophy is that the best security is effective and invisible and makes people's lives easier."
+> — **Virginia Commonwealth University**
+
+### Securing hybrid users and decrypting traffic protects university data (ID: securing-hybrid-users-and-decrypting-traffic-protects-university-data | Type: security)
+Before the pandemic, VCU had a traditional security architecture, protecting on-premises faculty and staff with a firewall that secured east-west traffic between servers in the data center and one that filters north-south traffic at the perimeter. But whenever users left the campus or traveled to a conference, the university recognizes that the same level of security protection can no longer be afforded to these remote users and devices. VCU needed a solution that would protect users, data, and applications on and off the network.
+
+Han first learned about Zscaler Internet Access (ZIA) at a security trade show. He learned how the cloud native Zscaler platform could scale to protect remote users connecting to the internet or SaaS applications and improve the security team’s visibility into traffic and data.
+
+Before long, the pandemic forced VCU to adopt a hybrid work model. Using firewalls and other security appliances in the data center resulted in high latency, slow performance, and a poor user experience. Deploying ZIA improved performance exponentially, and the more than 7,500 users at VCU enjoyed fast, direct access to the internet and SaaS applications. ZIA reduced complexity, eliminated the need for edge and branch firewalls, and offered a faster and more reliable user experience. Most of all, ZIA provided VCU with consistent, less-visible security protection that is location-agnostic.
+
+ZIA has also boosted VCU’s security posture by continually monitoring TLS/SSL traffic. In a single quarter, Zscaler detected and blocked 26,202 threats hidden in encrypted traffic.
+
+Han recalled a specific phishing attack that ZIA blocked. An employee forwarded the security team an email from a known vendor, frustrated that Zscaler was blocking a link in the email. The link was sent over HTTPS and to other VCU employees, as well. Zscaler’s traffic monitoring and advanced behavior-based analysis detected the compromised email and blocked the vendor’s site.
+
+> "Regardless of where users are, they’re receiving the same exact security and policies that on-premises users have."
+> — **Dan Han — CISO — Virginia Commonwealth University**
+
+### Improved usability and security for private application access (ID: improved-usability-and-security-for-private-application-access | Type: results)
+While Han and team were testing ZIA, they were also testing Zscaler Private Access (ZPA), also part of the Zero Trust Exchange, for more secure and user-friendly access to internal applications. Initially, VCU relied on multifactor authentication (MFA) and a VPN to connect remote users to internal applications residing in its on-premises data center.
+
+They prioritized testing ZPA with the most critical corporate applications. By enforcing least-privileged access, connecting users directly to private applications (never to the network), and making applications invisible to unauthorized users, ZPA reduces VCU’s attack surface and prevents threats from moving laterally across the network while the seamless login process boosts user productivity.
+
+“We’ve experienced a net gain in usability, reliability, and security. Now, we can provide users with policy-based secure access only to the internal applications they need to do their jobs. During a meeting, when I informed people that they don’t have to do MFA or connect to VPNs anymore, they erupted in applause,” Han shared.
+
+> "We’ve experienced a net gain in usability, reliability, and security. Now, we can provide users with policy-based secure access only to the internal applications they need to do their jobs. During a meeting, when I informed people that they don’t have to do MFA or connect to VPNs anymore, they erupted in applause."
+> — **Virginia Commonwealth University**
+
+### Expanded protection with tech partner integrations (ID: expanded-protection-with-tech-partner-integrations | Type: security)
+With the Zero Trust Exchange as the foundation, VCU’s security team expanded its protection through integrations with Zscaler technology partners. By integrating with a marketing-leading endpoint detection and response (EDR) platform, VCU maximizes its investment and defense capabilities with end-to-end threat protection from devices to applications anywhere.
+
+The EDR platform VCU uses provides a unique score for every device it manages. When the device OS setting or EDR agent parameters are changed, this device score is recalculated. Zscaler picks up the score and can dynamically adapt network access policy based on the changing posture of the device, providing an extra layer of near-real-time access evaluation and protection in addition to user trust–based access control. Adaptive policies can be configured based on predefined ranges of scores to execute, escalating restrictions such as browser isolation to applications or denying the access to mission-critical applications outright to protect enterprise data.
+
+Aside from ingesting EDR scores, ZPA also allows VCU to build additional access criteria, such as certificate presence, file presence, domain membership, installed applications, and others. “These signals enable us to create flexible access rules that can dynamically adjust to changes in a device’s security posture while it’s connecting to apps or data,” said Han. “This moves us closer to creating real-time access policies in alignment with the new Continuous Access Evaluation Protocol (CAEP).”
+
+To dynamically provision privileges, the team relies on the strong integration of Microsoft and Zscaler for authentication based on a tiered permission system. Integration with Microsoft EntraID and its System for Cross-domain Identity Management (SCIM) feature enables VCU to dynamically define and control access to both Microsoft native and external applications and private applications residing in Microsoft Azure.
+
+> "These signals enable us to create flexible access rules that can dynamically adjust to changes in a device’s security posture while it’s connecting to apps or data. This moves us closer to creating real-time access policies in alignment with the new Continuous Access Evaluation Protocol (CAEP)."
+> — **Han — Virginia Commonwealth University**
+
+> "In six months, we were up and running with Zscaler securing remote work for our entire faculty and staff across all 15 schools and colleges."
+> — **Dan Han — CISO — Virginia Commonwealth University**
+
+### Gaining consensus and participation for a smooth deployment (ID: gaining-consensus-and-participation-for-a-smooth-deployment | Type: implementation)
+VCU encompasses 15 schools and colleges, some of which have dedicated IT teams. It operates much like a service provider with centralized data centers supporting multiple organizations.
+
+To move ahead with the Zscaler deployment, Han and the security team had to get support from not only the board and faculty, but also the individual school and college IT teams. Gaining consensus from multiple diverse groups required a thoughtful strategy that involved the participation of everyone from light users to power users and savvy technical teams. The security team opened an online chat room for users to share screenshots, ask questions, and get help to quickly troubleshoot issues.
+
+“You cannot do this in a silo. We brought everyone together to work through the implementation, and that allowed us to succeed. That initial chat room is still being used and was so popular that we opened another one to discuss information security,” Han related.
+
+> "You cannot do this in a silo. We brought everyone together to work through the implementation, and that allowed us to succeed. That initial chat room is still being used and was so popular that we opened another one to discuss information security."
+> — **Han — Virginia Commonwealth University**
+
+### A zero trust architecture is the right answer for a hybrid work environment (ID: a-zero-trust-architecture-is-the-right-answer-for-a-hybrid-work-environment | Type: other)
+Throughout and following the Zero Trust Exchange implementation, Han and his team have emphasized transparency and communication. When VCU faculty and staff working from home initially expressed data privacy concerns, Han reassured them that their personal computer traffic would continue to connect out of their home network and would not be monitored by the university.
+
+When the security team informed users that Zscaler blocked 3 million security threats and prevented 19.8 million policy violations in 90 days, they were glad to have the protection and saw security as helpful rather than invasive.
+
+With Zscaler’s ability to scale as VCU grows, and the expectation that hybrid work is here to stay, Han is confident about the future of security at the university.
+
+“When I get pushback about our security transformations, I ask: Who expects all employees in our organization to go back to the office full-time? The answer is no one. For higher education, hybrid work is here to stay, and it’s chipping away at the castle-and-moat walls. A Zero Trust security strategy is the best way forward,” Han explained. His sentiment is backed up by research: A PwC poll shows that nearly half of millennial and Gen Z workers expect the flexibility to work from anywhere.
+
+> "When I get pushback about our security transformations, I ask: Who expects all employees in our organization to go back to the office full-time? The answer is no one. For higher education, hybrid work is here to stay, and it’s chipping away at the castle-and-moat walls. A Zero Trust security strategy is the best way forward."
+> — **Han — Virginia Commonwealth University**
+
+> "For higher education, hybrid work is here to stay, and it’s chipping away at the castle-and-moat walls. A zero trust security strategy is the best way forward."
+> — **Dan Han — CISO — Virginia Commonwealth University**
+
+### Preparing for the future of work (ID: preparing-for-the-future-of-work | Type: roadmap)
+Next on VCU’s agenda is to pilot Zscaler Risk360™, which generates a real-time risk posture assessment based on hundreds of factors within the organization’s cybersecurity environment, external data sources, and Zscaler ThreatLabz security research. The risk quantification and visualization framework is a powerful tool that provides security risk insights that can be leveraged immediately to prioritize mitigation and remediation.
+
+VCU decided to pilot Zscaler DLP for actionable visibility across all data. From an intuitive dashboard, the security team can find and control sensitive data with Exact Data Match (EDM), which blocks specific information, such as precise personal information (PII) or research data rather than a pattern of numbers, eliminating false positives and ensuring stronger data protection.
+
+### Zero trust architecture enhances visibility and security at Virginia Commonwealth University (ID: zero-trust-architecture-enhances-visibility-and-security-at-virginia-commonwealth-university | Type: results)
+VCU’s complex IT environment requires the protection of sensitive university data and support for users with dynamic access needs. When the COVID-19 pandemic forced faculty and staff to adopt distance learning and work, VCU needed a modernized security architecture for enhanced visibility, security, and flexibility. With hybrid work here to stay, VCU found a secure and agile architecture in the Zero Trust Exchange to support its goals.
+
+“In six months, we were up and running with Zscaler securing remote work for our entire faculty and staff across all 15 schools and colleges,” Han said. “Our larger transformation journey has better positioned us to scale security as our university grows.”
+
+> "In six months, we were up and running with Zscaler securing remote work for our entire faculty and staff across all 15 schools and colleges. Our larger transformation journey has better positioned us to scale security as our university grows."
+> — **Han — Virginia Commonwealth University**
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.products[2].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[2].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.solutions[0].name:** Zero Trust App Access
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[2].name:** Secure Remote Access
+- **root.solutions[2].url:** https://www.zscaler.com/products-and-solutions/vpn-alternative
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 77151
+- **root.page_metadata.meta_description:** Learn how Virginia Commonwealth University Virginia Commonwealth University Adopts Zero Trust to Support Secure Hybrid Work Across 15 Colleges and Schools with Increasing security, visibility, and flexibility to protect 7,500 faculty and staff.
+- **root.page_metadata.og_title:** Virginia Commonwealth University Case Study | Customer Stories | Zscaler

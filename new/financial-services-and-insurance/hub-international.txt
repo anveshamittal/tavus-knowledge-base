@@ -1,0 +1,66 @@
+# Hub International Supports Cloud-First Strategy
+
+> with Zscaler
+
+**Customer Name:** Hub International
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/hub-international
+- **Slug:** hub-international
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:55:28.787018Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Hub International
+- **Description:** HUB International Limited is an insurance brokerage that provides an array of property, casualty, risk management, life and health, employee benefits, investment, and wealth management products and services across North America.
+- **Industry:** Financial Services and Insurance
+- **Headquarters:** Chicago, Illinois, USA
+- **Size:** 10,000+ employees across 375 offices in the U.S. and Canada
+
+## Executive Summary
+### Challenges
+- Protect against web-borne threats and enable a cloud-first strategy to reduce cost and improve agility
+
+### Results & Impact
+- Secures internet and SaaS access, including SSL inspection
+- Immediately reduces web-borne incidents
+- Provides insights into internet traffic flow and dramatically expands visibility
+- Facilitates investigation and faster response to phishing and other cyberattacks
+- Lays foundation for digital transformation and cloud-first strategy
+
+## Featured Quotes
+> "Almost immediately after deploying ZIA, we saw a reduction in web-borne threats. Additionally, we gained new insight into our traffic flow."
+> — **Jeremy Embalabala — VP of Information Security — Hub International**
+
+## Video Testimonial & Transcript
+**Title:** Transforming Security at Hub International  Customer Stories
+**Description:** a Transforming Security at Hub International | Customer Stories video
+**URL:** https://fast.wistia.net/embed/iframe/0lcq9zg193
+**Provider:** wistia
+**Video ID:** 0lcq9zg193
+**Duration:** 157.258 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/8d371876176cb48b056d5d048705e1bbcb397c0e.bin
+**Video Account Id:** 658399
+**Video Media Id:** 87050170
+**Video Created At:** 1646859148
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Zero Trust Exchange (ZTE)
+- **root.products[0].url:** https://www.zscaler.com/platform/zero-trust-exchange
+- **root.products[1].name:** Zscaler Internet Access (ZIA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.solutions[0].name:** Ransomware
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 32456
+- **root.page_metadata.meta_description:** Learn how Hub International Hub International Supports Cloud-First Strategy with with Zscaler.
+- **root.page_metadata.og_title:** Hub International Case Study | Customer Stories | Zscaler

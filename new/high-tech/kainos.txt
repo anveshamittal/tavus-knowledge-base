@@ -1,0 +1,161 @@
+# Kainos Accelerates Cloud-First Strategy to Secure Global Workforce While Improving Threat Detection and Response
+
+> Zscaler supports innovation by providing a flexible and secure development environment
+
+**Customer Name:** Kainos
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/kainos
+- **Slug:** kainos
+- **Page Type:** customer_story
+- **Scraped At:** 2026-07-24T06:55:32.925137Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** Kainos
+- **Description:** Kainos solves complex technology challenges for some of the world’s biggest brands
+- **Industry:** High Tech
+- **Headquarters:** Belfast, Northern Ireland
+- **Size:** 3,000 employees
+
+## Executive Summary
+### Challenges
+- Advance a cloud-first strategy, enable a growing global remote workforce, better secure users and clients, and support sustainability goals
+
+### Phased Journey
+- As Kainos expands its global footprint, a fast, high-performance, and secure global footprint is essential for delivering solutions and services to its clients.
+
+### Results & Impact
+- Processes growing volumes of traffic at cloud speed 2.9B transactions and 199.9 TB of bandwidth in three months
+- Prevents policy violations and blocks threats 100.7M policy violations and 289,658 threats in one quarter
+- Reduces business risk by blocking threats hidden in encrypted traffic: 198,858 over 90 days
+- Improves SOC effectiveness improvement in visibility, detection, and remediation of advanced threats and data loss
+- Enables cloud-first transformation and global expansion while reducing hardware and upkeep costs
+
+## Featured Quotes
+> "The Zscaler Zero Trust Exchange was the right choice for enabling us to successfully manage and secure a growing global remote workforce."
+> — **Paul Coulter — Group Chief Information Security Officer — Kainos**
+
+## Customer Case Study
+### Migrating from a traditional architecture to zero trust to support expansion efforts (ID: migrating-from-a-traditional-architecture-to-zero-trust-to-support-expansion-efforts | Type: other)
+As a leading global provider of advanced digital solutions for enterprises across multiple sectors, Kainos relentlessly pursues its goal of being a best-of-breed organization. To differentiate itself from the competition, Kainos is focused on accelerating its cloud-first infrastructure to support its sustainability strategy and employees.
+
+Kainos has experienced rapid growth in both headcount and global presence over the past decade. Before the COVID-19 pandemic, many employees worked from its offices, with the majority based in the UK. Its primarily office-based environment was protected by a traditional on-premises security stack that included VPN for mobile workers. While this approach was sufficient at the time, Kainos recognized that expanding this model to support its global ambitions would likely be costly, complex, and time-consuming.
+
+The organization decided that transitioning to zero trust architecture was the best way to modernize its security and IT infrastructure.
+
+“We needed a cost-effective solution that would provide robust, comprehensive security and meet performance requirements across our locations worldwide—without the need to invest in and maintain additional hardware,” said Paul Coulter, Group Chief Information Security Officer. “The Zscaler Zero Trust Exchange was the right choice for enabling us to successfully manage and secure a growing global remote workforce.”
+
+> "We needed a cost-effective solution that would provide robust, comprehensive security and meet performance requirements across our locations worldwide—without the need to invest in and maintain additional hardware. The Zscaler Zero Trust Exchange was the right choice for enabling us to successfully manage and secure a growing global remote workforce."
+> — **Paul Coulter — Group Chief Information Security Officer — Kainos**
+
+### Zero trust drives a cloud-first strategy (ID: zero-trust-drives-a-cloud-first-strategy | Type: other)
+When the pandemic required almost 3,000 employees to work from home, it quickly became apparent that the legacy VPN was not sufficiently scalable and didn’t provide the level of security Kainos required for its customers. Plans to deploy the Zscaler Zero Trust Exchange were already in place, but the pandemic “forced our hand to move forward as quickly as possible,” pointed out Michael Fox, Lead Network Security Engineer at Kainos.
+
+The Zero Trust Exchange acts as an intelligent switchboard to broker connections between users, devices, and applications. It keeps applications invisible to the internet and outside threats, reducing the attack surface and preventing access to corporate networks. This eliminates the risk of lateral threat movement.
+
+Zscaler Internet Access (ZIA) was the starting point, enabling users to get fast and secure access to the internet and SaaS applications from anywhere. Soon after, Kainos implemented Zscaler Private Access (ZPA) to displace its VPN and provide users with seamless access to private applications and development tools residing primarily in Microsoft Teams.
+
+Zscaler’s direct-to-cloud connectivity replaced the organization’s traditional hub-and-spoke model, which was expensive, difficult to maintain at scale, and didn’t align with the company’s IT strategy. “It made sense for us to adopt the Zero Trust Exchange, as it is perfectly aligned with our goals to move to a 100% cloud infrastructure,” observed Fox.
+
+### A more secure environment with consistent policies across the board (ID: a-more-secure-environment-with-consistent-policies-across-the-board | Type: other)
+Thanks to Zscaler, Kainos was able to move to a fully remote work environment to support its employees and customers throughout the pandemic. By removing the need to backhaul traffic through Kainos' data center, the Zscaler solution effectively eliminated performance and connectivity issues while improving security. Moreover, Kainos' IT and security teams gained greater visibility into shadow IT, ensuring that users, applications, and data can be protected wherever they reside.
+
+“Zscaler provides a much stronger defense-in-depth approach. Through features like TLS inspection, it ensures that malicious traffic is detected before it can reach sensitive areas of our network,” Coulter added. “Rather than relying on reactive technologies and processes, we have proactive prevention.”
+
+> "Zscaler provides a much stronger defense-in-depth approach. Through features like TLS inspection, it ensures that malicious traffic is detected before it can reach sensitive areas of our network. Rather than relying on reactive technologies and processes, we have proactive prevention."
+> — **Kainos**
+
+> "The Zero Trust Exchange … is perfectly aligned with our goals to move to a 100% cloud infrastructure."
+> — **Michael Fox — Lead Systems Engineer Systems Transformations — Kainos**
+
+### Increased visibility into traffic across the entire global estate (ID: increased-visibility-into-traffic-across-the-entire-global-estate | Type: results)
+Since the initial deployment, Kainos added Zscaler Zero Trust Firewall to gain full visibility over all ports and protocols and enable fast, secure local internet breakouts at all locations. The easy-to-manage dashboard provides real-time visibility into traffic usage, threats, and applications accessed by users and groups. It also provides advanced security features, including granular policy enforcement, intrusion prevention system (IPS) to detect and block known and unknown threats, and more.
+
+“From a troubleshooting point of view, Zscaler has made life easier for my networking team. Now, they can see what’s running on any port and what users are trying to do,” explained Fox. “And, because it’s cloud-based, we’ve eliminated the need to purchase and maintain firewall appliances at our global locations. This has resulted in significant cost savings.”
+
+> "From a troubleshooting point of view, Zscaler has made life easier for my networking team. Now, they can see what’s running on any port and what users are trying to do. And, because it’s cloud-based, we’ve eliminated the need to purchase and maintain firewall appliances at our global locations. This has resulted in significant cost savings."
+> — **Fox — Kainos**
+
+### Integration with Microsoft tools boosts SOC efficiency and effectiveness (ID: integration-with-microsoft-tools-boosts-soc-efficiency-and-effectiveness | Type: results)
+For the Kainos security operations center (SOC) team, the integration of Zscaler with Microsoft Azure Sentinel has been instrumental in reducing the time to identify, block, and remediate threats. Azure Sentinel provides SIEM and SOAR capabilities and integrates with ZIA to consolidate logs from all users to a central repository. Sentinel has access to billions of Zscaler threat logs, providing more data points, which enables better threat intelligence, visibility, and detection. The SOC team creates playbooks based on Zscaler logs, and then automates remediation and notifications sent to users through Sentinel.
+
+“The integration enriches and consolidates insights in our SIEM solution in a single pane of glass. Our security analysts no longer have to jump between multiple tools to look at network logs and device logs. It has substantially improved the productivity and effectiveness of our security analysts,” said Coulter.
+
+The integration of Zscaler with Microsoft Defender for Cloud Apps provided an unexpected benefit: visibility into shadow IT, allowing the security team to see exactly which web applications employees are using. This integration provides the SOC with inline and out-of-band CASB protection, along with access to Zscaler logs. Zscaler then streams real-time log data into Defender, where access to high-risk services can be restricted through security policies in Defender, which are enforced inline through ZIA. This has led to improved policies and access restrictions to various cloud applications and unapproved file-sharing tools.
+
+> "The integration enriches and consolidates insights in our SIEM solution in a single pane of glass. Our security analysts no longer have to jump between multiple tools to look at network logs and device logs. It has substantially improved the productivity and effectiveness of our security analysts."
+> — **Coulter — Kainos**
+
+> "From a troubleshooting point of view, Zscaler has made life easier for my networking team."
+> — **Michael Fox — Lead Systems Engineer Systems Transformations — Kainos**
+
+### Zero trust enables secure innovation (ID: zero-trust-enables-secure-innovation | Type: implementation)
+As Kainos expands its global footprint, a fast, high-performance, and secure global footprint is essential for delivering solutions and services to its clients. Zscaler fully meets the demands of the diverse Kainos global development team, consisting of software developers, platform engineers, infrastructure engineers, and other specialists. Now, developers can access the applications they need, regardless of where they work, and rest assured that client data and assets are protected.
+
+“With Zscaler, we have enabled our people to innovate and use new technology securely, responsibly, and in alignment with a wide range of customer requirements,” said Coulter. For him, another important advantage of Zscaler in the development environment is its ability to prevent lateral threat movement in the event of a device compromise.
+
+“Our laptops are critical tools for delivering services to our customers, so it’s important for us to secure them properly. Microsegmentation of devices was one of our biggest drivers for adopting the Zero Trust Exchange, a big advantage over traditional VPN,” he explained. “Zscaler provides granular controls via policy and continually assesses privileges—something that would be much more difficult with a traditional solution.”
+
+> "With Zscaler, we have enabled our people to innovate and use new technology securely, responsibly, and in alignment with a wide range of customer requirements."
+> — **Coulter — Kainos**
+
+> "Our laptops are critical tools for delivering services to our customers, so it’s important for us to secure them properly. Microsegmentation of devices was one of our biggest drivers for adopting the Zero Trust Exchange, a big advantage over traditional VPN. Zscaler provides granular controls via policy and continually assesses privileges—something that would be much more difficult with a traditional solution."
+> — **Kainos**
+
+### Aligning with client security requirements (ID: aligning-with-client-security-requirements | Type: security)
+Zscaler provides the flexibility and coverage Kainos needs to deliver its customized services and solutions to its broad base of clients and their unique security, compliance, and data residency requirements.
+
+“Many of our clients require us to maintain strong network security controls, so we need to make sure we have the best products in place to protect our networks,” said Coulter. “Zscaler has helped us align with some of the complex network security requirements within Cyber Essentials Plus, along with ISO 27001 and SOC 2 standards.”
+
+Kainos also leverages Zscaler’s more than 150 data centers to meet regional data residency and access requirements for clients all over the world. “We are able to meet these requirements because we're not backhauling traffic through our own data center anymore,” pointed out Coulter. “Instead, traffic is forwarded securely to the Zscaler data centers nearest to our clients, enabling us to keep their sensitive data protected and localized.”
+
+> "Many of our clients require us to maintain strong network security controls, so we need to make sure we have the best products in place to protect our networks. Zscaler has helped us align with some of the complex network security requirements within Cyber Essentials Plus, along with ISO 27001 and SOC 2 standards."
+> — **Coulter — Kainos**
+
+> "We are able to meet these requirements because we're not backhauling traffic through our own data center anymore. Instead, traffic is forwarded securely to the Zscaler data centers nearest to our clients, enabling us to keep their sensitive data protected and localized."
+> — **Coulter — Kainos**
+
+### Quantifiable security benefits win executive buy-in (ID: quantifiable-security-benefits-win-executive-buy-in | Type: results)
+Deploying Zscaler has brought Kainos multiple benefits, including improvements in detection, protection, and remediation of advanced threats and data loss. In just three months, Zscaler prevented thousands of threats from reaching Kainos devices and networks, including detecting and blocking encrypted threats, significantly reducing business risk.
+
+Coulter leverages Zscaler reporting to present metrics that clearly demonstrate improvements in threat detection and response to senior leaders and executives. This has increased leadership buy-in across the company.“Now that Zscaler gives us visibility across our entire infrastructure, I can take facts and figures to leadership and show them how our security program is progressing, especially around how we handle security and network events.”
+
+> "Now that Zscaler gives us visibility across our entire infrastructure, I can take facts and figures to leadership and show them how our security program is progressing, especially around how we handle security and network events."
+> — **Coulter — Kainos**
+
+> "Since we deployed Zscaler, it’s been like night and day compared to our legacy security stack."
+> — **Michael Fox — Lead Systems Engineer Systems Transformations — Kainos**
+
+### Sustainability goals are within reach (ID: sustainability-goals-are-within-reach | Type: other)
+By transitioning to Zscaler, Kainos has made major strides toward its United Nations sustainable development goals as part of its environmental, social, and governance (ESG) initiatives. By 2025, the company aims to achieve carbon net zero. Zscaler is contributing to that effort with a highly efficient multitenant cloud, powered by 100% renewable energy. It helps improve power usage effectiveness by 50% on average.
+
+“Because we’re not having to build and maintain infrastructure in all of our worldwide locations, Zscaler is helping us to keep our carbon footprint as low as possible,” asserted Coulter. “And it’s really great to know that Zscaler is on the same page, prioritizing the use of renewable energy at its data centers.”
+
+> "Because we’re not having to build and maintain infrastructure in all of our worldwide locations, Zscaler is helping us to keep our carbon footprint as low as possible. And it’s really great to know that Zscaler is on the same page, prioritizing the use of renewable energy at its data centers."
+> — **Coulter — Kainos**
+
+### Fine-tuning for the future (ID: fine-tuning-for-the-future | Type: roadmap)
+As Fox remarked, adopting the Zscaler zero trust methodology represents a “monumental shift” for Kainos, accelerating its cloud-first strategy to support secure remote work and driving global expansion.
+
+“Since we deployed Zscaler, it’s been like night and day compared to our legacy security stack,” he concluded. “If we look back over the past three years, the changes we’ve made with Zscaler have made a massive difference to our operations.”
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].url:** https://www.zscaler.com/resources/data-sheets/zscaler-firewall.pdf
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[2].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.solutions[0].name:** Optimize Digital Experiences
+- **root.solutions[1].name:** Ransomware
+- **root.solutions[1].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 88346
+- **root.page_metadata.meta_description:** Learn how Kainos Kainos Accelerates Cloud-First Strategy to Secure Global Workforce While Improving Threat Detection and Response with Zscaler supports innovation by providing a flexible and secure development environment.
+- **root.page_metadata.og_title:** Kainos Case Study | Customer Stories | Zscaler

@@ -1,0 +1,125 @@
+# Hibank Secures Expansion with Zero Trust by Unifying Data Security Everywhere and Simplifying Operations
+
+> Zscaler’s single consolidated platform replaces VPN and NAC, reduces the attack surface, prevents lateral threat movement, and cuts spend
+
+**Customer Name:** PT Bank Hibank
+
+### Key Metrics
+- **100%**: replacement of VPN and NAC
+- **Zero**: user friction
+- **One**: unified console replaces siloed tools
+
+## Metadata
+- **Url:** https://www.zscaler.com/customers/pt-bank-hibank
+- **Slug:** pt-bank-hibank
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-07-24T06:56:17.443276Z
+- **Language:** en
+
+## Customer Snapshot
+- **Title:** PT Bank Hibank
+- **Description:** Digital bank for micro, small, and medium-sized enterprises
+- **Industry:** Financial Services and Insurance
+- **Headquarters:** Jakarta, Indonesia
+- **Size:** 600 employees
+
+## Executive Summary
+### Challenges
+- The complex, disparate security infrastructure, including VPN and network access control (NAC), created administrative challenges for the small team of five and resulted in poor performance and security gaps
+- Concerned about avoiding data breaches and meeting compliance demands, the organization needed more robust and comprehensive data protection
+- The traditional architecture lacked agility and scalability, hindering expansion into new markets and slowing M&A integration
+
+### Results & Impact
+- Creates a consistent, secure, and reliable experience for users at headquarters and branches anytime and on any device
+- Protects sensitive data everywhere at rest, in use, and in motion to build customer trust while maintaining compliance with finserv and regional privacy regulations
+- Reduces the operational burden and supports growth by consolidating the technology stack on a single, scalable zero trust platform
+
+## Featured Quotes
+> "Unlike our disparate legacy infrastructure, Zscaler unifies all of its many capabilities in a single platform, making it easier for our small team to keep operations and sensitive data secure."
+> — **Lim Siaw Liang — CISO — PT Bank Hibank**
+
+> "Zscaler is fully aligned with our expansion plans, streamlining the process of securing branch offices in new markets and M&A onboarding."
+> — **Lim Siaw Liang — CISO — PT Bank Hibank**
+
+> "By replacing our VPN with Zscaler, we have significantly shrunk our attack surface. We no longer worry about attackers penetrating our network."
+> — **Lim Siaw Liang — CISO — PT Bank Hibank**
+
+> "We’re currently exploring Unified Vulnerability Management for real-time asset discovery and to enable us to identify and remediate high-priority security gaps on the fly."
+> — **Lim Siaw Liang — CISO — PT Bank Hibank**
+
+## Video Testimonial & Transcript
+**Title:** Hibank Partners with Zscaler to Expand and Secure Delivery of Innovative Financial Services to Growing Businesses
+**Description:** a Customer Testimonials video
+**URL:** https://fast.wistia.net/embed/iframe/najlbiuj1j
+**Provider:** wistia
+**Video ID:** najlbiuj1j
+**Duration:** 200.625 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/1d4fbdc4a73a60f1921f86b397092967.jpeg
+**Video Account Id:** 658399
+**Video Media Id:** 140509252
+**Video Created At:** 1762378417
+
+### Tagged Segments
+- **[Lim Siaw Liang (CISO, PT Bank Hibank)]** [Segment #1] (self_introduction - Introduction to Highbank): "Highbank is a fast growing and a trusted digital bank for MSMS Indonesia that has a commitment to delivering secure, innovation and user friendly financial services."
+- **[Lim Siaw Liang (CISO, PT Bank Hibank)]** [Segment #2] (challenges - Issues with traditional VPN and NAC): "When a traditional VPN, the traffic itself will be centralised in the data centre. And then we need another tool to secure our environment within the head office and the branch using the NAC."
+- **[Lim Siaw Liang (CISO, PT Bank Hibank)]** [Segment #3] (products_and_solutions - Zscaler features under one tool): "While in Zscaler, all of the features are sitting under one tool."
+- **[Lim Siaw Liang (CISO, PT Bank Hibank)]** [Segment #4] (challenges - Limited security operation resources): "In Hybang, our size is only six hundred and then the security operation here is less than five percent to manage the overall cybersecurity tools within the bank."
+- **[Lim Siaw Liang (CISO, PT Bank Hibank)]** [Segment #5] (products_and_solutions - Zscaler for operational support): "So now in Hai Bank, we totally rely on Zscaler to do our operational things, not only for supporting for the back office, but also the front office. So with Zscaler, we can open up brands anywhere where the marketing can do customer acquisition, not only on our brands."
+- **[Lim Siaw Liang (CISO, PT Bank Hibank)]** [Segment #6] (products_and_solutions - Zscaler DLP and CASB implementation): "After that, we extend to the DLP part where Zscaler is helping high bank to cover the DLP endpoint, DLP email, CASB. We do a full suite DLP of Zscaler. So where we can do an application limitation on each role in the banks, can avoid sort of like lateral movement on each endpoint within the bank."
+- **[Lim Siaw Liang (CISO, PT Bank Hibank)]** [Segment #7] (challenges - Traditional IP publishing vulnerabilities): "So we can eliminate attack posture as well, basically from the external, where usually on the traditional part, we must publish the IP public to the external, where usually attackers use that kind of IP public to discover and then try to penetrate the bank."
+- **[Lim Siaw Liang (CISO, PT Bank Hibank)]** [Segment #8] (products_and_solutions - Zscaler reduces attack surface): "With Zscaler, attack surface, we don't need to worry because they're doing a proxy there. So any attacker, they don't know the exact IP address or original IP address behind the VPN."
+- **[Lim Siaw Liang (CISO, PT Bank Hibank)]** [Segment #9] (metrics_and_results - Reduced noise for SOC and SIEM): "It is helpful for the GSO like us to reduce a lot of noise or maybe recon from the attacker, especially for the SIEM or our SOC. So we can focus on protecting our data center."
+- **[Lim Siaw Liang (CISO, PT Bank Hibank)]** [Segment #10] (products_and_solutions - Future exploration with Zscaler): "In future, we are trying to explore the UVM and then the asset discovery of the where currently the bank itself we would like to have a real time maturity assessment where we can find the overall gap within the tools that we have. So we expect Zscaler can fill out this gap so we can identify on the fly the gap and then remediate the gap itself as soon as possible."
+- **[Lim Siaw Liang (CISO, PT Bank Hibank)]** [Segment #11] (quote - Recommendation for Zscaler): "You should try Zscaler. This product is very impressive. You can have a lot of features within a single console. And then along with the cost efficiency, you can replace the traditional network topology and then the latency itself is very low. And then you don't need to manage a lot of tools just to protect your endpoint so your security operation can focus more on data center protection."
+
+### Full Transcript Sentences
+- Highbank is a fast growing and a trusted digital bank for MSMS Indonesia that has a commitment to delivering secure, innovation and user friendly financial services.
+- When a traditional VPN, the traffic itself will be centralised in the data centre.
+- And then we need another tool to secure our environment within the head office and the branch using the NAC.
+- While in Zscaler, all of the features are sitting under one tool.
+- In Hybang, our size is only six hundred and then the security operation here is less than five percent to manage the overall cybersecurity tools within the bank.
+- So now in Hai Bank, we totally rely on Zscaler to do our operational things, not only for supporting for the back office, but also the front office.
+- So with Zscaler, we can open up brands anywhere where the marketing can do customer acquisition, not only on our brands.
+- After that, we extend to the DLP part where Zscaler is helping high bank to cover the DLP endpoint, DLP email, CASB.
+- We do a full suite DLP of Zscaler.
+- So where we can do an application limitation on each role in the banks, can avoid sort of like lateral movement on each endpoint within the bank.
+- So we can eliminate attack posture as well, basically from the external, where usually on the traditional part, we must publish the IP public to the external, where usually attackers use that kind of IP public to discover and then try to penetrate the bank.
+- With Zscaler, attack surface, we don't need to worry because they're doing a proxy there.
+- So any attacker, they don't know the exact IP address or original IP address behind the VPN.
+- It is helpful for the GSO like us to reduce a lot of noise or maybe recon from the attacker, especially for the SIEM or our SOC.
+- So we can focus on protecting our data center.
+- In future, we are trying to explore the UVM and then the asset discovery of the where currently the bank itself we would like to have a real time maturity assessment where we can find the overall gap within the tools that we have.
+- So we expect Zscaler can fill out this gap so we can identify on the fly the gap and then remediate the gap itself as soon as possible.
+- You should try Zscaler.
+- This product is very impressive.
+- You can have a lot of features within a single console.
+- And then along with the cost efficiency, you can replace the traditional network topology and then the latency itself is very low.
+- And then you don't need to manage a lot of tools just to protect your endpoint so your security operation can focus more on data center protection.
+
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Endpoint DLP
+- **root.products[1].name:** Web and Email DLP
+- **root.products[1].url:** https://www.zscaler.com/products-and-solutions/data-loss-prevention
+- **root.products[2].name:** Zero Trust Firewall
+- **root.products[2].url:** https://www.zscaler.com/resources/data-sheets/zscaler-firewall.pdf
+- **root.products[3].name:** Zero Trust Browser
+- **root.products[3].url:** https://www.zscaler.com/products-and-solutions/browser-isolation
+- **root.products[4].name:** Zscaler Digital Experience (ZDX)
+- **root.products[4].url:** https://www.zscaler.com/products/zscaler-digital-experience
+- **root.products[5].name:** Zscaler Internet Access (ZIA)
+- **root.products[5].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[6].name:** Zscaler Private Access (ZPA)
+- **root.products[6].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/data-security
+- **root.related_company_content[0].name:** Abanca
+- **root.related_company_content[0].url:** https://www.zscaler.com/customers/abanca
+- **root.related_company_content[1].name:** Adventhealth
+- **root.related_company_content[1].url:** https://www.zscaler.com/customers/adventhealth
+- **root.related_company_content[2].name:** Akzonobel
+- **root.related_company_content[2].url:** https://www.zscaler.com/customers/akzonobel
+- **root.related_company_content[3].name:** Amn Healthcare
+- **root.related_company_content[3].url:** https://www.zscaler.com/customers/amn-healthcare
+- **root.extra_metadata.nid:** 105221
+- **root.page_metadata.meta_description:** Learn how PT Bank Hibank Hibank Secures Expansion with Zero Trust by Unifying Data Security Everywhere and Simplifying Operations with Zscaler’s single consolidated platform replaces VPN and NAC, reduces the attack surface, prevents lateral threat movement, and cuts spend.
+- **root.page_metadata.og_title:** PT Bank Hibank Case Study | Customer Stories | Zscaler
