@@ -143,7 +143,7 @@ Empirical exploit data from Zscaler red teaming across 25+ enterprise environmen
 
 ### Key Findings (ID: sec2 | Type: key_findings)
 **Key Points:**
-- AI transaction volume grew exponentially to 845+ billion
+- AI transaction volume grew exponentially to 989.3 billion
 - Grammarly, ChatGPT, and Codeium lead enterprise AI adoption
 - ChatGPT accounts for the vast majority of AI DLP policy violations
 - Embedded AI capabilities in SaaS tools introduce silent risk
@@ -403,7 +403,7 @@ Empirical exploit data from Zscaler red teaming across 25+ enterprise environmen
 
 ## Datasets
 ### Zscaler Zero Trust Exchange Telemetry
-**Name:** Zscaler Zero Trust Exchange Telemetry | **Description:** 845+ billion AI/ML transactions logged in 2025
+**Name:** Zscaler Zero Trust Exchange Telemetry | **Description:** 989.3 billion AI/ML transactions logged in 2025
 
 
 ## Attack Vectors
