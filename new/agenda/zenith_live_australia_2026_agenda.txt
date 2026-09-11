@@ -1,553 +1,152 @@
-==========================================================================================
-ZENITH LIVE 2026 AUSTRALIA — FULL AGENDA DATA (converted from JSON, all fields preserved)
-==========================================================================================
+ZENITH LIVE 2026 - SYDNEY AGENDA
+============================================================
+------------------------------------------------------------
+City: Note: All times in venue-local time. Zone/Hall and Track/Theme should match values used in the Booth Mapping tab for this city.
 
-------------------------------------------------------------------------------------------
-SECTION 1: METADATA
-------------------------------------------------------------------------------------------
-document_type: conference_agenda
-source_url: https://www.zenithliveapj.com/australia/agenda
-canonical_url: https://www.zenithliveapj.com/australia
-scraped_at: 2026-09-10
-supersedes_snapshot: 2026-08-20
-event_name: Zenith Live 2026 Australia
-event_organizer: Zscaler, Inc.
-event_topic: AI Security & Zero Trust
-event_location: Australia (city not specified on agenda page; OG image references Sydney)
-event_dates:
-  - main_day: 2026-09-17
-timezone: Not specified on page (assume local Australia time, likely AEST/UTC+10 if Sydney)
-schema_version: 1.0
-extraction_notes:
-  1. Page is a JS-rendered single-page agenda widget; 'View details' buttons open in-page modals, not separate URLs, so no per-session detail pages exist to crawl for fuller descriptions.
-  2. Most session descriptions are truncated in the source HTML (end with '...'); these are flagged via 'description_truncated': true and should not be treated as complete.
-  3. Page includes a note: 'This agenda is subject to change. Changes can occur up until the event date.' Treat all session data as provisional. This snapshot confirms that warning is real — see SECTION 5 for the diff against the 2026-08-20 capture.
-  4. Unlike the Singapore agenda, breakout sessions here are labeled by physical Room (Room 1/2/3) rather than named tracks, and room-topic pairing shifts each time slot. Room assignments also changed between the 2026-08-20 and 2026-09-10 captures for every afternoon slot — do not treat room number as a stable identifier.
-  5. Where a session description explicitly names a speaker, that speaker is linked in the 'speakers' array via 'linked_sessions'; speakers not explicitly named in a session's visible text are left unlinked rather than guessed.
-  6. Rule 5 now drops two links that existed in the previous snapshot: Jay Chaudhry is no longer named in the sess_a005 description text (rewritten to 'Zscaler's vision'), and the sess_a008 keynote was retitled and its description no longer names Brian Deitch. Both remain in the speaker list; both are left unlinked per rule 5. The page intro paragraph does still promise Jay Chaudhry's Zenith Live Australia debut, so a sess_a005 link is highly likely but is not asserted here.
-  7. The 'Brian Dietch' vs 'Brian Deitch' surname discrepancy recorded in the previous snapshot no longer appears: the live speaker list now spells it 'Brian Deitch', matching the old session text. Speaker ID changed from spk_brian_dietch to spk_brian_deitch accordingly.
-  8. Session IDs are assigned sequentially in page display order, as in the previous snapshot. Because one session was removed and one added, IDs sess_a008 and sess_a020 onward do NOT refer to the same sessions as in the 2026-08-20 file. Do not join the two files on session ID.
-  9. Source typo preserved verbatim in sess_a020 description ('appraches'); corrected to 'approaches' in rag_text only, matching prior-snapshot handling.
+------------------------------------------------------------
+City: Sydney
+Session/Activity Name: Secure AI Access for Users: Protect Innovation and Empower Adoption
+Session Type: Breakout Session
+Start Time: 13:15
+End Time: 13:50
+Track / Theme: Security for AI
+Related Booth: Security for AI
+Session Description (Attendee-Facing): Explore how organisations can give users safe, seamless access to AI tools without slowing progress. Learn how to balance security, governance, and user experience to reduce risk, accelerate adoption, and empower teams to innovate confidently in the rapidly evolving AI landscape.
+Speaker Name: Nick Clark, Principal Solutions Engineer, Zscaler
 
-event_notice: This agenda is subject to change. Changes can occur up until the event date.
+Disha Nayyar, Solutions Engineer, Zscaler
 
-------------------------------------------------------------------------------------------
-SECTION 2: SPEAKERS
-------------------------------------------------------------------------------------------
-[spk_jay_chaudhry]
-  name: Jay Chaudhry
-  title: Founder, Chairman & CEO
-  company: Zscaler
-  linked_sessions: None
-  note: Linked to sess_a005 in the 2026-08-20 snapshot; that session's description was rewritten and no longer names him. Unlinked per extraction rule 5.
+------------------------------------------------------------
+City: Sydney
+Session/Activity Name: Securing the Agentic AI Era on AWS with Zscaler
+Session Type: Breakout Session
+Start Time: 14:00
+End Time: 14:35
+Track / Theme: Security for AI
+Related Booth: Sponsor booth: AWS
+Session Description (Attendee-Facing): AI is evolving from chatbots to autonomous agents that reason, access data, call tools, and act across cloud environments. As organizations adopt Amazon Bedrock and AgentCore, traditional security falls short. AWS and Zscaler explore how to apply Zero Trust to AI — securing model access, RAG pipelines, MCP integrations, agent-to-agent communication, and runtime protection while gaining visibility into your AI ecosystem without slowing innovation.
+Speaker Name: Chamandeep Singh, Partner Security Tech Leader, APJ, AWS
 
-[spk_adam_gilchrist]
-  name: Adam Gilchrist AM
-  title: World Renowned Cricketer
-  company: N/A
-  linked_sessions: sess_a002
+ Amol Mittal, Partner Solutions Architect, Zscaler
 
-[spk_georgie_tunny]
-  name: Georgie Tunny
-  title: MC, TV Host, Author, Podcaster and Presenter
-  company: N/A
-  linked_sessions: sess_a002
+------------------------------------------------------------
+City: Sydney
+Session/Activity Name: Securing Custom AI Applications: AI Red Teaming & Guardrails
+Session Type: Breakout Session
+Start Time: 14:45
+End Time: 15:20
+Track / Theme: Security for AI
+Related Booth: Security for AI
+Session Description (Attendee-Facing): Discusses proactive appraches to protecting in-house AI apps through security testing, policy controls, and resilient design. Learn how red teaming and guardrails help identify weaknesses early, reduce risk, and enable teams to build and deploy AI applications with greater confidence.
+Speaker Name: Julian Greensmith, Senior Solutions Engineer, Zscaler
 
-[spk_dave_worthington]
-  name: Dave Worthington
-  title: CISO
-  company: Jemena
-  linked_sessions: None
+------------------------------------------------------------
+City: Sydney
+Session/Activity Name: Managing Enterprise AI: Asset Discovery, Visibility, Policy & Governance
+Session Type: Breakout Session
+Start Time: 15:30
+End Time: 16:05
+Track / Theme: Security for AI
+Related Booth: Security for AI
+Session Description (Attendee-Facing): Examines best practices to identify AI assets, gain visibility into usage, and apply consistent governance and policy controls. Learn how a strong foundation of discovery and oversight helps reduce risk, improve accountability, and support responsible AI adoption across the enterprise.
+Speaker Name: Amuthan Selvarajoo, Senior Solutions Engineer, Zscaler
 
-[spk_jacob_roy]
-  name: Jacob Roy
-  title: CTO
-  company: E-Health NSW
-  linked_sessions: None
-  status: new since 2026-08-20
+------------------------------------------------------------
+City: Sydney
+Session/Activity Name: Making Data Protection Work: Three Lessons from the Field
+Session Type: Breakout Session
+Start Time: 13:15
+End Time: 13:50
+Track / Theme: Data Security
+Related Booth: Sponsor booth: A23
+Session Description (Attendee-Facing): AI is reshaping how sensitive information moves across increasingly complex environments, and traditional data protection approaches are struggling to keep pace. Most enterprises have invested in data protection technology, but far fewer have made it work in production - the gap between policy and daily practice is only widening. In this session, a23 shares practical lessons from three real-world engagements in a highly regulated government sector, showing how organisations built enforceable data strategies from governance and architecture, through DLP tooling and implementation, to continuous incident response. Attendees will take away field-tested approaches for closing that gap.
+Speaker Name: Martin Hurst, Senior Security Solutions Architect - Zero Trust & Enterprise Platforms, A23
 
-[spk_henry_wright]
-  name: Henry Wright
-  title: Cybersecurity Manager
-  company: Komatsu
-  linked_sessions: sess_a009
+------------------------------------------------------------
+City: Sydney
+Session/Activity Name: Data Security Everywhere: Discover, Classify & Protect
+Session Type: Breakout Session
+Start Time: 14:00
+End Time: 14:35
+Track / Theme: Data Security
+Related Booth: Data Security
+Session Description (Attendee-Facing): Disjointed data security leaves blind spots across endpoints, public clouds, and SaaS applications. See how unifying AI-powered DSPM discovery with adaptive Endpoint DLP creates a single central policy, simplifying your architecture while delivering real-time classification, inline defense, and robust insider risk detection.
+Speaker Name: Johann Lo, Senior Solutions Engineer, Zscaler
 
-[spk_natalie_legg]
-  name: Natalie Legg
-  title: CEO
-  company: A23
-  linked_sessions: None
-  status: new since 2026-08-20
+ Paul Haggarty, Senior Solutions Engineer, Zscaler
 
-[spk_jamie_rossato]
-  name: Jamie Rossato
-  title: CISO
-  company: Orica
-  linked_sessions: None
-  status: new since 2026-08-20
+------------------------------------------------------------
+City: Sydney
+Session/Activity Name: Cyber Risk Reduction in the Frontier AI Era
+Session Type: Breakout Session
+Start Time: 14:45
+End Time: 15:20
+Track / Theme: Risk Reduction
+Related Booth: Sponsor booth: Optus
+Session Description (Attendee-Facing): As Frontier models become more accessible and the world observe their breakout of safeguards we are seeing global warnings of what is to come.  Frontier AI accelerates innovation and changes the threat landscape dramatically, Optus will share practical guidance from strengthening cyber resilience and applying the priorities highlighted in the ASIC letter and Five Eyes recommendations. Attendees will leave with actionable steps to reassess AI-driven cyber risk, identify and protect critical assets, helping organisations adopt AI securely while preparing to defend against AI practically.
+Speaker Name: Corien Vermaak, EGM Security and Risk, Optus
 
-[spk_duncan_hills]
-  name: Duncan Hills
-  title: General Manager (CISO) - Cyber Security
-  company: Fletcher Building
-  linked_sessions: None
-  status: new since 2026-08-20
+Sofia Merida, Senior Partner Engineer, Zscaler
 
-[spk_eric_swift]
-  name: Eric Swift
-  title: Managing Director and Area Vice President, ANZ
-  company: Zscaler
-  linked_sessions: sess_a007
+------------------------------------------------------------
+City: Sydney
+Session/Activity Name: Security Operations (SecOps): Detect Threats, Unify Alerts, and Reduce Attack Surface
+Session Type: Breakout Session
+Start Time: 15:30
+End Time: 16:05
+Track / Theme: Agentic SecOps
+Related Booth: Agentic SecOps
+Session Description (Attendee-Facing): Fragmented telemetry and endless alerts overwhelm SOC teams, allowing machine-speed adversaries to slip through the cracks. Learn how Agentic SecOps unifies Zscaler and third-party signals into actionable threat stories, automating investigations and inline zero trust enforcement to contain breaches in minutes.
+Speaker Name: Heng Mok, CISO APJ, Zscaler
 
-[spk_adam_dobell]
-  name: Adam Dobell
-  title: Head of Public Sector APJ
-  company: Zscaler
-  linked_sessions: None
-  status: new since 2026-08-20
+Johnny Yeo, Transformation Architect, Zscaler
 
-[spk_shannon_nixon]
-  name: Shannon Nixon
-  title: Regional Director
-  company: Zscaler
-  linked_sessions: None
+------------------------------------------------------------
+City: Sydney
+Session/Activity Name: Zero Trust Cloud: Extending Zero Trust to Workloads and Applications
+Session Type: Breakout Session
+Start Time: 13:15
+End Time: 13:50
+Track / Theme: Zero Trust SASE Everywhere: Cloud
+Related Booth: Zero Trust SASE Everywhere: Cloud
+Session Description (Attendee-Facing): Hybrid and multicloud environments expose workloads to lateral movement that traditional perimeter security cannot contain. Learn how the Zero Trust Cloud framework extends identity-based protection directly to your cloud workloads, streamlining multi-cloud connectivity and enforcing least privilege across any environment.
+Speaker Name: Andrew Skinner, Senior Solutions Consultant, Zscaler
 
-[spk_nick_harders]
-  name: Nick Harders
-  title: Senior Director, Solutions Engineering
-  company: Zscaler
-  linked_sessions: None
+------------------------------------------------------------
+City: Sydney
+Session/Activity Name: Zero Trust SASE: Modernising the Branch & Campus
+Session Type: Breakout Session
+Start Time: 14:00
+End Time: 14:35
+Track / Theme: Zero Trust SASE Everywhere: Branch
+Related Booth: Zero Trust SASE Everywhere: Branch
+Session Description (Attendee-Facing): Legacy MPLS, complex SD-WAN, and hardware firewalls make branch networking costly and fragile. Discover a Zero Trust SASE blueprint that delivers café-like simplicity to the enterprise campus, providing secure, seamless access for all users and devices while drastically reducing infrastructure complexity.
+Speaker Name: Jamie Brown, Principal Transformation Architect, Zscaler
 
-[spk_sonja_johnson]
-  name: Sonja Johnson
-  title: Senior Director - Partnerships
-  company: Zscaler
-  linked_sessions: None
+Juan Regina, Principal Specialist Solutions Engineer, Zscaler
 
-[spk_nathan_howe]
-  name: Nathan Howe
-  title: SVP of Innovation
-  company: Zscaler
-  linked_sessions: None
+------------------------------------------------------------
+City: Sydney
+Session/Activity Name: Security at the Edge: IoT/OT Use Cases & Secure Cellular Connectivity
+Session Type: Breakout Session
+Start Time: 14:45
+End Time: 15:20
+Track / Theme: Zero Trust SASE Everywhere: Branch
+Related Booth: Zero Trust SASE Everywhere: Branch
+Session Description (Attendee-Facing): Connect and protect distributed devices, industrial systems, and remote environments within a Zero Trust framework. Learn how secure cellular connectivity helps enable resilient operations, extend security to the edge, and support IoT/OT use cases with greater visibility, control, and reliability.
+Speaker Name: Nathan Howe, SVP of Innovation, Zscaler
 
-[spk_brian_deitch]
-  name: Brian Deitch
-  previous_id: spk_brian_dietch
-  title: Chief Technology Evangelist
-  company: Zscaler
-  linked_sessions: None
-  note: Surname now spelled consistently on page as 'Deitch'; the prior 'Dietch' variant is gone. Linked to the 11:05 keynote in the previous snapshot; that keynote was retitled and no longer names him. Unlinked per extraction rule 5.
+Nelson Da Silva, Innovation Lead, APJ, Zscaler
 
-[spk_heng_mok]
-  name: Heng Mok
-  title: CISO - APJ
-  company: Zscaler
-  linked_sessions: None
+------------------------------------------------------------
+City: Sydney
+Session/Activity Name: Zero Trust as a Journey: Real-World Architectures for a Changing Threat Landscape
+Session Type: Breakout Session
+Start Time: 15:30
+End Time: 16:05
+Track / Theme: Zero Trust SASE Everywhere: Users
+Related Booth: Sponsor booth: BT International
+Session Description (Attendee-Facing): This session explores Zero Trust as an ongoing security journey rather than a one-time project. Through real-world case studies, it will highlight how organisations are building and evolving their Zero Trust architectures, the lessons learned along the way, and the challenges of adapting to a rapidly changing threat landscape in the AI era.
+Speaker Name: Kyle Lovenduski, Senior Director Global Security Sales, BT International
 
-speaker_count: 17 (was 12 on 2026-08-20)
-
-------------------------------------------------------------------------------------------
-SECTION 3: SESSIONS
-------------------------------------------------------------------------------------------
-[sess_a001]
-  day: 2026-09-17
-  start_time: 08:15
-  end_time: 09:00
-  type: logistics
-  room: N/A
-  title: Registration
-  description: N/A
-  description_truncated: False
-  rag_text: Registration. 08:15 AM - 09:00 AM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a002]
-  day: 2026-09-17
-  start_time: 09:00
-  end_time: 09:20
-  type: Keynote
-  room: N/A
-  title: Lessons from Cricket
-  description: Playing to win. A discussion with Adam Gilchrist & Georgie Tunny: What does it take to face the fastest bowler in the world? In this exclusive facilitated conversation, cricket icon Adam Gilchrist takes us...
-  description_truncated: True
-  speakers_mentioned: Adam Gilchrist AM, Georgie Tunny
-  rag_text: Keynote: Lessons from Cricket, featuring Adam Gilchrist AM and Georgie Tunny. Playing to win. A discussion with Adam Gilchrist & Georgie Tunny: What does it take to face the fastest bowler in the world? In this exclusive facilitated conversation, cricket icon Adam Gilchrist takes us... [description truncated in source]. 09:00 AM - 09:20 AM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a003]
-  day: 2026-09-17
-  start_time: 09:20
-  end_time: 09:25
-  type: Keynote
-  room: N/A
-  title: Welcome Message: Australia & New Zealand's Agentic Future
-  description: The future of business will be increasingly agentic. The organisations that lead will be those that enable autonomous innovation within a security architecture built for continuous trust.
-  description_truncated: False
-  rag_text: Keynote: Welcome Message: Australia & New Zealand's Agentic Future. The future of business will be increasingly agentic. The organisations that lead will be those that enable autonomous innovation within a security architecture built for continuous trust. 09:20 AM - 09:25 AM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a004]
-  day: 2026-09-17
-  start_time: 09:25
-  end_time: 09:45
-  type: Keynote
-  room: N/A
-  title: Securing Australia's Next Horizon: Building Resilience in the Age of AI
-  description: From SolarWinds to the rise of agentic AI, major shifts in the cyber threat environment have forced governments to rethink how security is built. This session will trace...
-  description_truncated: True
-  change_since_2026-08-20: description rewritten (was: 'This session will examine the next phase of Australia's national cyber resilience in the agentic age. As the Federal Government implements Horizon 2 of the...')
-  rag_text: Keynote: Securing Australia's Next Horizon: Building Resilience in the Age of AI. From SolarWinds to the rise of agentic AI, major shifts in the cyber threat environment have forced governments to rethink how security is built. This session will trace... [description truncated in source]. 09:25 AM - 09:45 AM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a005]
-  day: 2026-09-17
-  start_time: 09:45
-  end_time: 10:15
-  type: Keynote
-  room: N/A
-  title: Reimagining Zero Trust SASE for the AI Era
-  description: AI and market shifts are redefining the enterprise. You cannot win by outrunning attackers with better AI; you out-architect them. This keynote shares Zscaler's vision for...
-  description_truncated: True
-  speakers_mentioned: None
-  change_since_2026-08-20: description rewritten and now truncated; Jay Chaudhry no longer named in visible text, so speaker link removed per extraction rule 5
-  rag_text: Keynote: Reimagining Zero Trust SASE for the AI Era. AI and market shifts are redefining the enterprise. You cannot win by outrunning attackers with better AI; you out-architect them. This keynote shares Zscaler's vision for... [description truncated in source]. 09:45 AM - 10:15 AM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a006]
-  day: 2026-09-17
-  start_time: 10:15
-  end_time: 10:40
-  type: logistics
-  room: N/A
-  title: Break
-  description: N/A
-  description_truncated: False
-  rag_text: Break. 10:15 AM - 10:40 AM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a007]
-  day: 2026-09-17
-  start_time: 10:40
-  end_time: 11:05
-  type: Keynote
-  room: N/A
-  title: Technology Leadership in an Agentic World
-  description: The panel session facilitated by Eric Swift, will explore the strategies and perspectives of a CEO, CISO and CTO in navigating the speed of AI agent deployment versus...
-  description_truncated: True
-  speakers_mentioned: Eric Swift
-  change_since_2026-08-20: panel framing changed from three industries (banking, energy, natural resources) to three roles (CEO, CISO, CTO)
-  rag_text: Keynote: Technology Leadership in an Agentic World, panel facilitated by Eric Swift (Managing Director and Area Vice President ANZ, Zscaler). The panel session facilitated by Eric Swift, will explore the strategies and perspectives of a CEO, CISO and CTO in navigating the speed of AI agent deployment versus... [description truncated in source]. 10:40 AM - 11:05 AM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a008]
-  day: 2026-09-17
-  start_time: 11:05
-  end_time: 11:35
-  type: Keynote
-  room: N/A
-  title: Securing the AI Era: AI Security, Data Protection & Agentic Defence
-  description: AI accelerates innovation but introduces risk at every layer. This session explores how to govern data access, control what every agent can do, and modernise...
-  description_truncated: True
-  speakers_mentioned: None
-  change_since_2026-08-20: session replaced. Previously 'Innovation Deep Dive: Advancing Zero Trust Everywhere', which named Brian Deitch. Same slot and duration; title, description and speaker attribution all changed.
-  rag_text: Keynote: Securing the AI Era: AI Security, Data Protection & Agentic Defence. AI accelerates innovation but introduces risk at every layer. This session explores how to govern data access, control what every agent can do, and modernise... [description truncated in source]. 11:05 AM - 11:35 AM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a009]
-  day: 2026-09-17
-  start_time: 11:35
-  end_time: 11:50
-  type: Keynote
-  room: N/A
-  title: Digging Deep, Defending Smarter: Komatsu's Zero Trust Story
-  description: Komatsu Australia's Cyber Security Manager Henry Wright joins us for a live Z-Cellular demo and candid interview on moving 4,000 users across...
-  description_truncated: True
-  speakers_mentioned: Henry Wright
-  rag_text: Keynote: Digging Deep, Defending Smarter: Komatsu's Zero Trust Story, featuring Henry Wright (Cybersecurity Manager, Komatsu). Komatsu Australia's Cyber Security Manager Henry Wright joins us for a live Z-Cellular demo and candid interview on moving 4,000 users across... [description truncated in source]. 11:35 AM - 11:50 AM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a010]
-  day: 2026-09-17
-  start_time: 11:50
-  end_time: 11:55
-  type: Keynote
-  room: N/A
-  title: The Next Innings
-  description: Our opportunity to shape a future in which Agentic AI drives growth, resilience, and competitive advantage, within a cybersecurity posture built for what comes next.
-  description_truncated: False
-  rag_text: Keynote: The Next Innings. Our opportunity to shape a future in which Agentic AI drives growth, resilience, and competitive advantage, within a cybersecurity posture built for what comes next. 11:50 AM - 11:55 AM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a011]
-  day: 2026-09-17
-  start_time: 12:00
-  end_time: 13:00
-  type: logistics
-  room: N/A
-  title: Lunch, Expo
-  description: N/A
-  description_truncated: False
-  rag_text: Lunch, Expo. 12:00 PM - 01:00 PM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a012]
-  day: 2026-09-17
-  start_time: 13:15
-  end_time: 13:50
-  type: Breakout
-  room: Room 2
-  title: Making Data Protection Work: Three Lessons from the Field
-  description: AI is reshaping how sensitive information moves across increasingly complex environments, and traditional data protection approaches are...
-  description_truncated: True
-  parallel_with: sess_a013, sess_a014
-  change_since_2026-08-20: room moved from Room 3 to Room 2
-  rag_text: Breakout session, Room 2. Making Data Protection Work: Three Lessons from the Field. AI is reshaping how sensitive information moves across increasingly complex environments, and traditional data protection approaches are... [description truncated in source]. 01:15 PM - 01:50 PM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a013]
-  day: 2026-09-17
-  start_time: 13:15
-  end_time: 13:50
-  type: Breakout
-  room: Room 1
-  title: Secure AI Access for Users: Protect Innovation and Empower Adoption
-  description: Explore how organisations can give users safe, seamless access to AI tools without slowing progress. Learn how to balance...
-  description_truncated: True
-  parallel_with: sess_a012, sess_a014
-  rag_text: Breakout session, Room 1. Secure AI Access for Users: Protect Innovation and Empower Adoption. Explore how organisations can give users safe, seamless access to AI tools without slowing progress. Learn how to balance... [description truncated in source]. 01:15 PM - 01:50 PM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a014]
-  day: 2026-09-17
-  start_time: 13:15
-  end_time: 13:50
-  type: Breakout
-  room: Room 3
-  title: Zero Trust Cloud: Extending Zero Trust to Workloads and Applications
-  description: Hybrid and multicloud environments expose workloads to lateral movement that traditional perimeter security cannot contain. Learn how the Zero Trust Cloud...
-  description_truncated: True
-  parallel_with: sess_a012, sess_a013
-  change_since_2026-08-20: room moved from Room 2 to Room 3
-  rag_text: Breakout session, Room 3. Zero Trust Cloud: Extending Zero Trust to Workloads and Applications. Hybrid and multicloud environments expose workloads to lateral movement that traditional perimeter security cannot contain. Learn how the Zero Trust Cloud... [description truncated in source]. 01:15 PM - 01:50 PM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a015]
-  day: 2026-09-17
-  start_time: 13:50
-  end_time: 14:00
-  type: logistics
-  room: N/A
-  title: Break
-  description: N/A
-  description_truncated: False
-  rag_text: Break. 01:50 PM - 02:00 PM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a016]
-  day: 2026-09-17
-  start_time: 14:00
-  end_time: 14:35
-  type: Breakout
-  room: Room 1
-  title: Securing the Agentic AI Era on AWS with Zscaler
-  description: AI is evolving from chatbots to autonomous agents that reason, access data, call tools, and act across cloud environments. As organizations adopt...
-  description_truncated: True
-  parallel_with: sess_a017, sess_a018
-  rag_text: Breakout session, Room 1. Securing the Agentic AI Era on AWS with Zscaler. AI is evolving from chatbots to autonomous agents that reason, access data, call tools, and act across cloud environments. As organizations adopt... [description truncated in source]. 02:00 PM - 02:35 PM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a017]
-  day: 2026-09-17
-  start_time: 14:00
-  end_time: 14:35
-  type: Breakout
-  room: Room 2
-  title: Data Security Everywhere: Discover, Classify & Protect
-  description: Disjointed data security leaves blind spots across endpoints, public clouds, and SaaS applications. See how unifying AI-powered...
-  description_truncated: True
-  parallel_with: sess_a016, sess_a018
-  change_since_2026-08-20: room moved from Room 3 to Room 2
-  rag_text: Breakout session, Room 2. Data Security Everywhere: Discover, Classify & Protect. Disjointed data security leaves blind spots across endpoints, public clouds, and SaaS applications. See how unifying AI-powered... [description truncated in source]. 02:00 PM - 02:35 PM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a018]
-  day: 2026-09-17
-  start_time: 14:00
-  end_time: 14:35
-  type: Breakout
-  room: Room 3
-  title: Zero Trust SASE: Modernising the Branch & Campus
-  description: Legacy MPLS, complex SD-WAN, and hardware firewalls make branch networking costly and fragile. Discover a Zero Trust SASE blueprint that...
-  description_truncated: True
-  parallel_with: sess_a016, sess_a017
-  change_since_2026-08-20: room moved from Room 2 to Room 3
-  rag_text: Breakout session, Room 3. Zero Trust SASE: Modernising the Branch & Campus. Legacy MPLS, complex SD-WAN, and hardware firewalls make branch networking costly and fragile. Discover a Zero Trust SASE blueprint that... [description truncated in source]. 02:00 PM - 02:35 PM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a019]
-  day: 2026-09-17
-  start_time: 14:35
-  end_time: 14:45
-  type: logistics
-  room: N/A
-  title: Break
-  description: N/A
-  description_truncated: False
-  rag_text: Break. 02:35 PM - 02:45 PM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a020]
-  day: 2026-09-17
-  start_time: 14:45
-  end_time: 15:20
-  type: Breakout
-  room: Room 1
-  title: Securing Custom AI Applications: AI Red Teaming & Guardrails
-  description: Discusses proactive appraches to protecting in-house AI apps through security testing, policy controls, and resilient design. Learn how...
-  description_truncated: True
-  parallel_with: sess_a021, sess_a022
-  source_typo: 'appraches' appears in source; preserved in description, corrected in rag_text
-  rag_text: Breakout session, Room 1. Securing Custom AI Applications: AI Red Teaming & Guardrails. Discusses proactive approaches to protecting in-house AI apps through security testing, policy controls, and resilient design. Learn how... [description truncated in source]. 02:45 PM - 03:20 PM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a021]
-  day: 2026-09-17
-  start_time: 14:45
-  end_time: 15:20
-  type: Breakout
-  room: Room 2
-  title: Cyber Risk Reduction in the Frontier AI Era
-  description: As Frontier models become more accessible and the world observe their breakout of safeguards we are seeing global warnings of what is to come. Frontier AI accelerates innovation and changes...
-  description_truncated: True
-  parallel_with: sess_a020, sess_a022
-  change_since_2026-08-20: NEW SESSION — did not exist in the previous snapshot
-  source_grammar_note: 'the world observe their breakout' appears in source; preserved verbatim in description
-  rag_text: Breakout session, Room 2. Cyber Risk Reduction in the Frontier AI Era. As frontier models become more accessible and the world observes their breakout of safeguards, we are seeing global warnings of what is to come. Frontier AI accelerates innovation and changes... [description truncated in source]. 02:45 PM - 03:20 PM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a022]
-  day: 2026-09-17
-  start_time: 14:45
-  end_time: 15:20
-  type: Breakout
-  room: Room 3
-  title: Security at the Edge: IoT/OT Use Cases & Secure Cellular Connectivity
-  description: Connect and protect distributed devices, industrial systems, and remote environments within a Zero Trust framework. Learn how secure...
-  description_truncated: True
-  parallel_with: sess_a020, sess_a021
-  change_since_2026-08-20: room moved from Room 2 to Room 3
-  rag_text: Breakout session, Room 3. Security at the Edge: IoT/OT Use Cases & Secure Cellular Connectivity. Connect and protect distributed devices, industrial systems, and remote environments within a Zero Trust framework. Learn how secure... [description truncated in source]. 02:45 PM - 03:20 PM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a023]
-  day: 2026-09-17
-  start_time: 15:20
-  end_time: 15:30
-  type: logistics
-  room: N/A
-  title: Break
-  description: N/A
-  description_truncated: False
-  rag_text: Break. 03:20 PM - 03:30 PM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a024]
-  day: 2026-09-17
-  start_time: 15:30
-  end_time: 16:05
-  type: Breakout
-  room: Room 1
-  title: Managing Enterprise AI: Asset Discovery, Visibility, Policy & Governance
-  description: Examines best practices to identify AI assets, gain visibility into usage, and apply consistent governance and policy controls. Learn how a strong...
-  description_truncated: True
-  parallel_with: sess_a025, sess_a026
-  rag_text: Breakout session, Room 1. Managing Enterprise AI: Asset Discovery, Visibility, Policy & Governance. Examines best practices to identify AI assets, gain visibility into usage, and apply consistent governance and policy controls. Learn how a strong... [description truncated in source]. 03:30 PM - 04:05 PM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a025]
-  day: 2026-09-17
-  start_time: 15:30
-  end_time: 16:05
-  type: Breakout
-  room: Room 2
-  title: Security Operations (SecOps): Detect Threats, Unify Alerts, and Reduce Attack Surface
-  description: Fragmented telemetry and endless alerts overwhelm SOC teams, allowing machine-speed adversaries to slip through the cracks. Learn how Agentic SecOps...
-  description_truncated: True
-  parallel_with: sess_a024, sess_a026
-  change_since_2026-08-20: moved one slot later (was 02:45 PM - 03:20 PM) and from Room 3 to Room 2; description truncation point extended slightly
-  rag_text: Breakout session, Room 2. Security Operations (SecOps): Detect Threats, Unify Alerts, and Reduce Attack Surface. Fragmented telemetry and endless alerts overwhelm SOC teams, allowing machine-speed adversaries to slip through the cracks. Learn how Agentic SecOps... [description truncated in source]. 03:30 PM - 04:05 PM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a026]
-  day: 2026-09-17
-  start_time: 15:30
-  end_time: 16:05
-  type: Breakout
-  room: Room 3
-  title: Zero Trust as a Journey: Real-World Architectures for a Changing Threat Landscape
-  description: This session explores Zero Trust as an ongoing security journey rather than a one-time project. Through real-world case studies, it will highlight...
-  description_truncated: True
-  parallel_with: sess_a024, sess_a025
-  change_since_2026-08-20: room moved from Room 2 to Room 3
-  rag_text: Breakout session, Room 3. Zero Trust as a Journey: Real-World Architectures for a Changing Threat Landscape. This session explores Zero Trust as an ongoing security journey rather than a one-time project. Through real-world case studies, it will highlight... [description truncated in source]. 03:30 PM - 04:05 PM, Thursday 17 September, Zenith Live 2026 Australia.
-
-[sess_a027]
-  day: 2026-09-17
-  start_time: 13:15
-  end_time: 16:00
-  type: PartnerConnect
-  room: PartnerConnect Hall
-  title: PartnerConnect
-  description: Secure your seat at the forefront of the next era of partnership at Zscaler PartnerConnect, designed to foster collaboration among the sales and technical engines driving our mutual success.
-  description_truncated: False
-  runs_parallel_with: afternoon breakout sessions (sess_a012 through sess_a026)
-  registration_url: https://www.zenithliveapj.com/australia/partner-connect#register
-  rag_text: PartnerConnect, held in the PartnerConnect Hall. Secure your seat at the forefront of the next era of partnership at Zscaler PartnerConnect, designed to foster collaboration among the sales and technical engines driving our mutual success. Runs in parallel with afternoon breakout sessions, 01:15 PM - 04:00 PM, Thursday 17 September, Zenith Live 2026 Australia. Registration: https://www.zenithliveapj.com/australia/partner-connect#register
-
-[sess_a028]
-  day: 2026-09-17
-  start_time: 16:00
-  end_time: 18:30
-  type: After Party
-  room: N/A
-  title: Zenith Live Afterparty
-  description: N/A
-  description_truncated: False
-  rag_text: Zenith Live Afterparty. 04:00 PM - 06:30 PM, Thursday 17 September, Zenith Live 2026 Australia.
-
-session_count: 28 (unchanged in total; composition changed — see SECTION 5)
-
-------------------------------------------------------------------------------------------
-SECTION 4: RELATED PAGES
-------------------------------------------------------------------------------------------
-home: https://www.zenithliveapj.com/australia/home
-why_attend: https://www.zenithliveapj.com/australia/why-attend
-agenda: https://www.zenithliveapj.com/australia/agenda
-partner_connect: https://www.zenithliveapj.com/australia/partner-connect
-faq: https://www.zenithliveapj.com/australia/faq
-training_certification: https://www.zenithliveapj.com/australia/training
-register: https://www.zenithliveapj.com/australia/register-now
-
-------------------------------------------------------------------------------------------
-SECTION 5: CHANGELOG (2026-08-20 -> 2026-09-10)
-------------------------------------------------------------------------------------------
-SESSIONS REMOVED
-  - 'A Practical Path to Replacing Branch Firewalls' (was Room 3, 03:30 PM - 04:05 PM). No longer on the agenda.
-
-SESSIONS ADDED
-  - 'Cyber Risk Reduction in the Frontier AI Era' (Room 2, 02:45 PM - 03:20 PM). Now sess_a021.
-
-SESSIONS REPLACED
-  - 11:05 AM keynote: 'Innovation Deep Dive: Advancing Zero Trust Everywhere' (Brian Deitch) -> 'Securing the AI Era: AI Security, Data Protection & Agentic Defence' (no speaker named).
-
-SESSIONS MOVED
-  - 'Security Operations (SecOps)': 02:45 PM Room 3 -> 03:30 PM Room 2.
-
-DESCRIPTIONS REWRITTEN
-  - 'Securing Australia's Next Horizon': now opens on SolarWinds and agentic AI; the Federal Government 'Horizon 2' reference is gone.
-  - 'Reimagining Zero Trust SASE for the AI Era': now an 'out-architect them' framing; Jay Chaudhry's name removed; description is now truncated where it previously was not.
-  - 'Technology Leadership in an Agentic World': panel reframed from three industries to three executive roles.
-
-ROOM REASSIGNMENTS (every afternoon slot affected)
-  01:15 PM  Making Data Protection Work      Room 3 -> Room 2
-  01:15 PM  Zero Trust Cloud                 Room 2 -> Room 3
-  02:00 PM  Data Security Everywhere         Room 3 -> Room 2
-  02:00 PM  Zero Trust SASE: Branch & Campus Room 2 -> Room 3
-  02:45 PM  Security at the Edge             Room 2 -> Room 3
-  03:30 PM  Zero Trust as a Journey          Room 2 -> Room 3
-  (Room 1 assignments unchanged in all slots.)
-
-SPEAKERS ADDED (5)
-  - Jacob Roy, CTO, E-Health NSW
-  - Natalie Legg, CEO, A23
-  - Jamie Rossato, CISO, Orica
-  - Duncan Hills, General Manager (CISO) - Cyber Security, Fletcher Building
-  - Adam Dobell, Head of Public Sector APJ, Zscaler
-
-SPEAKERS REMOVED
-  - None.
-
-SPEAKER DATA CORRECTIONS
-  - 'Brian Dietch' -> 'Brian Deitch' in the speaker list; the two-spelling discrepancy noted in the previous snapshot is resolved.
-
-UNCHANGED
-  - Event date (Thursday 17 September 2026), all time slots, all break/logistics sessions, PartnerConnect, Afterparty, related page URLs, and the 'subject to change' notice.
-
-==========================================================================================
-END OF FILE
-==========================================================================================
+Jamie Rossato, CISO, Orica
