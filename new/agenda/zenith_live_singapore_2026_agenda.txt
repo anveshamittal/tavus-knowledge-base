@@ -1,0 +1,100 @@
+ZENITH LIVE 2026 - SINGAPORE AGENDA
+============================================================
+------------------------------------------------------------
+City: Note: All times in venue-local time. Zone/Hall and Track/Theme should match values used in the Booth Mapping tab for this city.
+
+------------------------------------------------------------
+City: Singapore
+Session/Activity Name: Zero Trust for Agentic AI: Securely Enable AI Agents Everywhere
+Session Type: Breakout Session
+Start Time: 13:30
+End Time: 14:10
+Zone / Hall: Track 1
+Track / Theme: AI Security
+Related Booth: Security for AI
+Session Description (Attendee-Facing): Agentic AI changes the game: non-human identities, A2A/MCP traffic, and new authentication frameworks create a control-plane problem that legacy tools can't handle. Learn how Zscaler is delivering a zero trust framework for agentic AI, including MCP gateway and registry, authorisation and agentic registry.
+Speaker Name: Michael Lam
+
+------------------------------------------------------------
+City: Singapore
+Session/Activity Name: Unified DSPM & Endpoint DLP: Discovery, Classification & Inline Defence
+Session Type: Breakout Session
+Start Time: 14:15
+End Time: 14:55
+Zone / Hall: Track 1
+Track / Theme: Protect Data Everywhere
+Related Booth: Data Security
+Session Description (Attendee-Facing): Disjointed data security leaves blind spots across endpoints, public clouds, and SaaS applications. See how unifying AI-powered DSPM discovery with adaptive Endpoint DLP creates a single central policy, simplifying your architecture while delivering real-time classification, inline defence, and robust insider risk detection.
+Speaker Name: Venkat Krishnamoorthi
+
+------------------------------------------------------------
+City: Singapore
+Session/Activity Name: AI Red Teaming & Guardrails: Securing Models from Jailbreaks
+Session Type: Breakout Session
+Start Time: 15:05
+End Time: 15:45
+Zone / Hall: Track 1
+Track / Theme: AI Security
+Related Booth: Security for AI
+Session Description (Attendee-Facing): Get a comprehensive overview of Zscaler's continuous red teaming solution. Simulate thousands of adversarial attacks to gain insights into security, safety, hallucinations & trustworthiness and business alignment for your AI system. Leverage insights for dynamic prompt hardening and automated guardrail policies.
+Speaker Name: Michael Lam
+
+------------------------------------------------------------
+City: Singapore
+Session/Activity Name: Building a Successful Enterprise AI Security Program
+Session Type: Breakout Session
+Start Time: 15:50
+End Time: 16:30
+Zone / Hall: Track 1
+Track / Theme: AI Security
+Related Booth: Security for AI
+Session Description (Attendee-Facing): This session outlines an architectural approach for building an AI security program. Based on real-world experiences with many enterprise customers, our experts will step through best practices for discovering your AI footprint, implementing controls that align to corporate policies, securely deploying enterprise AI systems and ensuring governance and compliance.
+Speaker Name: Steven Ng
+
+------------------------------------------------------------
+City: Singapore
+Session/Activity Name: Zero Trust Cloud 101: Extending Zscaler to Your Workloads
+Session Type: Breakout Session
+Start Time: 13:30
+End Time: 14:10
+Zone / Hall: Track 2
+Track / Theme: Zero Trust Cloud
+Related Booth: Zero Trust SASE Everywhere
+Session Description (Attendee-Facing): Hybrid and multicloud environments expose workloads to lateral movement that traditional perimeter security cannot contain. Learn how the Zero Trust Cloud framework extends identity-based protection directly to your cloud workloads, streamlining multi-cloud connectivity and enforcing least privilege across any environment.
+Speaker Name: Felix Lam
+
+------------------------------------------------------------
+City: Singapore
+Session/Activity Name: Modernising the Branch & Campus: A Zero Trust SASE Blueprint
+Session Type: Breakout Session
+Start Time: 14:15
+End Time: 14:55
+Zone / Hall: Track 2
+Track / Theme: Zero Trust Branch
+Related Booth: Zero Trust SASE Everywhere
+Session Description (Attendee-Facing): Deliver cafe-like simplicity across branch and campus with a practical Zero Trust blueprint - secure, seamless access for users and devices without the cost and complexity of MPLS, traditional SD-WAN, or branch firewalls. Hear from us how Zero Trust SASE is improving security outcomes and elevating the end-user experience.
+Speaker Name: Edwin Sutherland
+
+------------------------------------------------------------
+City: Singapore
+Session/Activity Name: Zero Trust Browser: Secure Every Managed and Unmanaged Device
+Session Type: Breakout Session
+Start Time: 15:05
+End Time: 15:45
+Zone / Hall: Track 2
+Track / Theme: Zero Trust Browser
+Related Booth:
+Session Description (Attendee-Facing): Disjointed browser extensions and isolation tools create friction and leave gaps in endpoint security. Discover how the integrated Zscaler Zero Trust Browser platform secures managed endpoints, contractor BYOD, and high-risk agentless workflows through a single unified policy framework for complete data and access control.
+Speaker Name: Nishant Sharma
+
+------------------------------------------------------------
+City: Singapore
+Session/Activity Name: Radical Risk Reduction: Exposure Management & Threat Hunting
+Session Type: Breakout Session
+Start Time: 15:50
+End Time: 16:30
+Zone / Hall: Track 2
+Track / Theme: Agentic SecOps
+Related Booth: Agentic SecOps
+Session Description (Attendee-Facing): Adversaries now exploit trusted cloud services and weaponize new vulnerabilities within hours. Learn how to operationalise threat-informed exposure management and proactive hunting, transforming Zscaler telemetry into high-fidelity intelligence to identify hidden foes and apply dynamic mitigations beyond traditional patch management.
+Speaker Name: Gilford Lin
