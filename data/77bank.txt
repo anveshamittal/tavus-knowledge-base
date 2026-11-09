@@ -1,0 +1,83 @@
+# The 77 Bank Solves Internet Access Challenges with Zscaler on the Path to Digital Transformation
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** The 77 Bank, Ltd.
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/77bank
+- **Slug:** 77bank
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** The 77 Bank, Ltd.
+- **Description:** The 77 Group, made up of The 77 Bank at its core along with 77 Lease, 77 Credit Guarantee, 77 Card, 77 Securities and other companies, began its ten-year management plan, "Vision 2030," in April 2021. One of its key factors is the digital transformation of the banking business at The 77 Bank. The bank's previous systems made it hard to balance the security required of a financial institution with convenience. One example was internet access from the bank's internal office automation (OA) environment, where two-step login and data transfer took time and web browsing was restricted. The bank therefore deployed Zscaler's zero trust network solution and built a mechanism that delivers security, convenience and ease of operation and maintenance together.
+- **Industry:** Financial Services and Insurance
+- **Headquarters:** 3-3-20 Chuo, Aoba-ku, Sendai, Japan
+- **Size:** 2,587 employees, consolidated (as of March 31, 2024)
+
+## Executive Summary
+
+### Challenges
+- The existing internet access environment, separated from the internal OA environment, required two-step login, and data transfer took time. Web browsing was also restricted, causing problems for work efficiency
+- At the same time, maintaining security measures such as access control was also a challenge in keeping systems running safely and securely
+
+### Results & Impact
+- Rebuilding the internal OA system with zero trust improved convenience
+- Automatic access control through Zscaler's cloud proxy eased web browsing restrictions
+- Using the cloud proxy service to handle the latest threats makes maintenance and management more efficient
+
+## Featured Quotes
+
+> "What matters in advancing DX is balancing security measures with convenience. The Zscaler service, which delivers up-to-date security measures along with convenience, was attractive."
+> — **Michio Iwabuchi, Manager, Digital Development Section, Digital Strategy Department, The 77 Bank, Ltd.**
+
+> "Zero trust is needed precisely because security threats are rising. Zscaler was the best answer for balancing convenience and security."
+> — **Hiroaki Soma, Chief Expert, Digital Development Section, Digital Strategy Department, The 77 Bank, Ltd.**
+
+## Customer Case Study
+
+### Two-Step Login on a VDI (Virtual Desktop) Creates Internet Access Challenges
+Founded in 1878, The 77 Bank began its "Vision 2030: Leading Company That Opens Up the Future" initiative in 2021, covering the ten years to fiscal 2030. Michio Iwabuchi, Manager of the Digital Development Section in the Digital Strategy Department at The 77 Bank, says: "One of the key factors in realizing the 'desired state' set out in Vision 2030 is DX (digital transformation). We are advancing the digital transformation of the banking business with five pillars."
+
+The five pillars are "non-face-to-face channel reform," which changes customer touchpoints; "branch reform," which changes face-to-face sales; "paperless operations reform," which eliminates physical items and administrative work; "data utilization reform," which makes use of information; and "employee digital reform," which maximizes employees' capabilities. In advancing the employee digital reform, the existing systems had challenges.
+
+The bank's internal OA system, which employees use from inside the bank or from outside, used VDI (virtual desktop) thin client devices with security as a priority. This kept data from remaining on the device and kept the environment secure. On the other hand, usability was a problem: using the internet required two-step login, and data transfer took time.
+
+Hiroaki Soma, Chief Expert in the Digital Development Section of the Digital Strategy Department at The 77 Bank, explains: "After logging in to the internal OA system, you had to log in again in two steps to the internet access environment. Connections took time, and web browsing was restricted, so some websites needed for work could not be viewed."
+
+At the same time, "as many kinds of digital tools, starting with cloud services (SaaS), keep appearing, we felt the existing setup had its limits for using them quickly and flexibly. We also felt limits in maintenance and management, with security operations based on on-premises firewalls," says Mr. Iwabuchi. The bank therefore began an initiative to solve these problems by moving internet access to a cloud-based proxy service.
+
+### Zscaler Chosen for Its Rich Functionality and Track Record
+As a financial institution, the bank had been "cautious, so much that we sometimes wouldn't cross a bridge even after tapping it with a stone," says Mr. Iwabuchi. It built solid defenses with conventional security measures, such as physically separating its networks from the outside.
+
+"But to advance DX, connecting with external services such as public cloud is key. I feel we need to speed up digitalization while taking appropriate measures against new risks," says Mr. Iwabuchi.
+
+The bank is making use of public clouds such as Amazon Web Services (AWS), has retired internal desk phones in favor of smartphones across the bank, and is steadily advancing cloud lift of its internal subsystems. With the environment changing so much, the internet access infrastructure also had to change, and the bank decided to move to a cloud proxy.
+
+With that policy set, Mr. Soma and the development team compared solutions to select a product. "Zscaler Internet Access (ZIA) offers a rich variety of functions against security threats, and we paid particular attention to remote browser isolation, which keeps web content separate from the user's device to ensure safety," says Mr. Soma. They also valued that the management screen is in Japanese and intuitive.
+
+There were other decisive factors beyond functionality. "It mattered a lot that it had been deployed by large companies in Japan and overseas. Hearing good things about Zscaler from security staff at information exchange meetings with other banks also encouraged us to adopt it," says Mr. Soma.
+
+The bank began its evaluation around October 2022 and signed a contract after about a year of evaluation. It has now connected Zscaler to the newly built internal OA system and moved on to the verification phase ahead of launch. "The Zscaler deployment is going well, without major trouble. Unlike an on-premises system, there is no actual development work. You simply decide on settings by following the templates provided, so I find it easy to deploy," says Mr. Soma.
+
+The bank is steadily advancing the project, with full-scale operation targeted for January 2025.
+
+> "Zero trust is needed precisely because security threats are rising. Zscaler was the best answer for balancing convenience and security."
+> — **Hiroaki Soma, Chief Expert, Digital Development Section, Digital Strategy Department, The 77 Bank, Ltd.**
+
+### Better Usability and More Efficient Operations, and in the Future an Infrastructure for Cloud Services (SaaS) and Digital Tools
+Of his expectations for Zscaler's solutions, Mr. Soma says: "With better usability of internet access, we resolve problems such as not being able to see some websites needed for work, and we can flexibly bring in cloud services (SaaS) and digital tools. I think users will be pleased." He expects small issues, such as a needed site not displaying because of differences between Zscaler's policy and The 77 Bank's policy, but believes tuning during operation after deployment can handle them.
+
+On maintenance and management after deployment, Mr. Iwabuchi says: "As cyber threats grow more sophisticated every day, I expect that by drawing on Zscaler's expertise we'll be able to take the latest security measures in a timely manner. I think that's a strength of cloud services." At the same time, he doesn't forget to add a word of caution: "We want Zscaler, which will play a part in the bank's critical infrastructure, to deliver stable system operation and quick response to security threats."
+
+Looking ahead, Mr. Iwabuchi says: "On the premise of ensuring safety and security through advanced security measures, we also expect it to become a foundation for using new digital tools to improve our services for customers. We'll consider using various external services via Zscaler's infrastructure."
+
+Mr. Soma says: "Right now we build security management functions by combining multiple solutions, but in the future we may consider consolidating those functions in Zscaler and managing them in an integrated way." The cloud proxy deployment story, which began with solving internet access problems, is now being drawn out toward a security infrastructure that will support The 77 Bank in the future.
+
+## Additional Data Attributes
+- **Products:** Zscaler Zero Trust Exchange (ZTE); Zscaler Internet Access (ZIA)
+- **Solutions:** Zscaler Internet Access (ZIA)
+- **Related Customer Stories:** Dai-ichi Life Holdings, Inc.; The Bank of Saga, Ltd.; Fukuoka Hibiki Shinkin Bank

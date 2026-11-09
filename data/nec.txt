@@ -1,0 +1,84 @@
+# NEC Centrally Controls Internet Security for 120,000 People Worldwide and Detects Cloud Service Outages Before the News Does
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** NEC Corporation
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/nec
+- **Slug:** nec
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** NEC Corporation
+- **Description:** The NEC Group has about 120,000 employees worldwide. As part of building a reliable network infrastructure that balances employee safety with convenience, it uses Zscaler solutions. After Zscaler Internet Access (ZIA), which protects internet access, and Zscaler Private Access (ZPA), which protects private access, NEC deployed Zscaler Digital Experience (ZDX), which monitors everything from the device to the cloud. By consolidating security functions in the cloud, NEC can monitor and control people, data and IT resources distributed across Japan and overseas in a centralized, unified way. At the same time, it gained visibility into the operating status of cloud services that are essential to the business, such as web conferencing, enabling early detection of and response to problems that affect employees' digital experience. NEC also publishes the status of ZIA filtering and threat protection to all employees through a cybersecurity dashboard, using it to change the company's security culture.
+- **Industry:** High Tech
+- **Headquarters:** 5-7-1 Shiba, Minato-ku, Tokyo, Japan
+- **Size:** 118,527 employees, consolidated (as of the end of March 2023)
+
+## Executive Summary
+
+### Challenges
+- Provide every employee with a comfortable workspace
+- Eliminate weaknesses in internet security that arise by region or country
+- Quickly roll out globally the advanced measures already achieved in Japan
+- The shift to the cloud and telework had made it impossible to tell when, where and what was happening
+
+### Results & Impact
+- Local breakout plus cloud-based centralized control and protection deliver comfortable internet connectivity and unified management together
+- Separating and centrally controlling internet access and private (remote) access routes optimizes communications
+- Communication quality from device to internal network, and from home network to internet to cloud, is visualized hop by hop, showing when, where and what is happening and speeding up incident response
+
+## Featured Quotes
+
+> "As systems moved to the cloud and work moved to remote locations, we needed stronger safety. To move away from an old foundation that favored functional restrictions and partial optimization over employee comfort and business continuity, we shifted our network to the cloud as well."
+> — **Natsuo Tanaka, CISSP, Director; Network Security Group Manager, CISO Office, Corporate IT and Digital Division, and Network Service Group Manager, Work Style DX Development Center, NEC Corporation**
+
+## Customer Case Study
+
+### Building Infrastructure and an Operating Model That Balance Convenience and Safety
+NEC is promoting "Smart Work 2.0" to increase people's sense of fulfillment at work. As a new way of working, employees design their own working time and place, and NEC has established hybrid work that combines remote and in-person work in the best way. With 120,000 employees across the group and their work locations, data and IT resources spread around the world, being able to monitor and control them centrally is vital. The key was balancing business safety and convenience.
+
+The NEC Group has been building a global operating model for a business infrastructure it calls the "Truly Trusted Network." It is based on zero trust, not on the presumed trust of the past, and it aims to balance the convenience that encourages employees' use of the cloud with the safety of centrally controlling distributed resources. For example, NEC is building access environments in which the differences between office and telework, or between cloud and on-premises, don't become security risks or sources of stress for employees. It is also working on global traffic monitoring and incident response.
+
+"Based on zero trust thinking, the Truly Trusted Network aims to shift the business infrastructure for hybrid work to a state we can truly trust in terms of both safety and availability, and we are building the network toward that goal," explains Natsuo Tanaka, who leads the introduction and rollout of the network security foundation across the NEC Group.
+
+### Balancing Safety from Cyberattacks with Employee Convenience
+NEC has been building out its network security in stages toward the Truly Trusted Network. As the first step, in April 2018 it introduced Zscaler Internet Access (ZIA) to protect internet access. All access to the internet from every site in Japan and overseas, including SaaS such as Microsoft 365, Zoom, Box and Salesforce, now goes through ZIA.
+
+ZIA improved both security and user experience. On the security side, NEC strengthened its defenses against cyberattacks, using ZIA's web filtering, sandbox and APT (threat protection) functions on web traffic from every site. The logs are collected on a global SIEM platform and constantly analyzed for risk. For example, when malicious communication between malware and an external server is detected, a global CSIRT made up of teams from Japan and Singapore immediately blocks the communication to limit the damage. It then promptly investigates and responds for the affected employees, giving NEC a globally resilient response.
+
+On user experience, web response delays that often occurred over the lunch hour were greatly reduced by using Zscaler's abundant and continuously strengthened resources. Browser wait times fell by 60 to 70 percent. Domestic communication speed was about 1 Gbps before ZIA, rose to 3 Gbps right after deployment, and is now about 30 Gbps. "ZIA also lets us see inside SSL-encrypted communication, so employees no longer need to apply in advance to view social media or video sites as they once did. That has also expanded the content they can access," says Mr. Tanaka.
+
+### Stress-Free, Secure Connections to SaaS and Data Centers, and Relief from Patching Many VPN Devices
+The second step after ZIA was Zscaler Private Access (ZPA), in use since October 2020, which provides secure remote access to NEC's own data centers (DCs) and IaaS.
+
+NEC Group once had multi-vendor VPN devices at its sites in Japan and overseas. In many countries, however, there was no mechanism to protect traffic from PCs taken off premises to SaaS, and the PCs could connect to the internal VPN at the same time. This meant there was a risk that the company's internal network could be attacked through unprotected internet traffic.
+
+In some cases, an SWG (Secure Web Gateway) in the DC forcibly protected traffic while on VPN, but this caused problems such as slower SaaS communication and strain on the DC's lines. And whenever a vulnerability was found in a VPN device, each country's equipment had to be patched, which was a heavy burden and left a period of risk until the fixes were complete. ZPA resolved this. "Zscaler's solutions solve remote access performance problems while also delivering safety," says Mr. Tanaka.
+
+### Early Detection and Visibility of SaaS Outages Help Keep the Business Running
+As cloud use and hybrid work advanced, NEC also faced new problems. Employees' IT environments and the cloud services they access had become complex and distributed, and "we couldn't tell what was happening where, so isolating problems and reporting them internally during an outage was hard," Mr. Tanaka admits. For example, when an employee reported being unable to join a web conference, it was not immediately clear whether the problem was in the employee's home network or the web conference service, and it was hard to give employees and executives a fact-based explanation.
+
+NEC introduced Zscaler Digital Experience (ZDX) to address this. ZDX accurately monitors how employees use applications and quickly identifies and fixes performance and problems caused by applications, networks and devices.
+
+ZDX uses Zscaler Client Connector installed on employees' devices and the cloud platform to monitor the entire path from the device through the network and internet to the cloud service. "By drilling down hop by hop along the communication path, we can pinpoint what is happening and where. With the overview from dashboards based on measured data, we can now detect an outage, from its start to recovery, and tell the company about it quickly," Mr. Tanaka stresses, describing the importance of visualizing communication quality with ZDX.
+
+Soon after NEC deployed ZDX, one vendor's cloud service had an outage, and applications such as web conferencing, email and storage became unavailable. "Even then, ZDX let us detect the outage inside the company before it was reported in the external news. Web conferencing from other vendors was working fine, so we told employees that, minimizing the impact of the outage and helping keep the business running," says Mr. Tanaka. Telling employees about an outage right away reduces the stress of wondering why they can't connect, and it also reduces inquiries to the operations team.
+
+### Example of Faster Internal Communication
+For informing employees, NEC uses an IT dashboard it developed itself. It displays the results of monitoring tools for SaaS and IaaS, and uses APIs to show ZDX information, such as communication quality between the cloud and devices, in near real time.
+
+Going forward, the NEC Group will use Zscaler solutions to address challenges such as consolidating its own global DCs into the cloud and sharing applications with companies acquired through M&A.
+
+### Offering Zscaler Solutions to Customers, Drawing on NEC's Own Deployment Experience and Know-How
+NEC also draws on its in-house deployment experience and know-how to provide Zscaler solutions to customers. One offering is a customer-facing package that combines the deployment and build of ZIA and ZPA. According to Kenji Hasegawa of NEC's Security Business Division: "Compared with ordinary SI, it can be deployed at lower cost and faster. Zscaler's solutions let you apply the same security policy and governance to the on-premises internal network and the external internet, and customers who have deployed it rate it highly."
+
+NEC is also considering offering its own IT dashboard in combination with ZDX, and intends to use Zscaler to solve problems for many customers, going beyond its own use.
+
+## Additional Data Attributes
+- **Products:** Zscaler Zero Trust Exchange (ZTE); Zscaler Internet Access (ZIA); Zscaler Digital Experience (ZDX); Zscaler Private Access (ZPA)
+- **Solutions:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Digital Experience (ZDX)
+- **Related Customer Stories:** Balmuda Inc.; Shindengen Electric Manufacturing Co., Ltd.; Sojitz Corporation; The Bank of Saga, Ltd.

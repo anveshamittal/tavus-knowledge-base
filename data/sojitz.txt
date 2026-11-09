@@ -1,0 +1,91 @@
+# Sojitz Dramatically Speeds Up External Connectivity from Overseas Offices and Enables Secure, Convenient Remote Work
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Sojitz Corporation
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/sojitz
+- **Slug:** sojitz
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** Sojitz Corporation
+- **Description:** Sojitz operates five offices in Japan and 88 overseas, and together with roughly 200 consolidated companies and more than 20,000 employees in Japan and abroad, it conducts a wide range of business around the world. As cloud usage grew and remote work spread rapidly, problems in its existing network came to the surface. Sojitz resolved them by moving to a zero trust network. It first achieved secure local breakout with SD-WAN and ZIA, speeding up access to external services from overseas offices. It then added ZPA, delivering strong security and scalability for access to internal systems from outside the company. All users can now work safely and efficiently from anywhere, and users have given the new environment high marks.
+- **Industry:** Services
+- **Headquarters:** 2-1-1 Uchisaiwaicho, Chiyoda-ku, Tokyo, Japan
+- **Size:** 2,579 employees (non-consolidated); 20,752 employees (consolidated)
+
+## Executive Summary
+
+### Challenges
+- Overseas offices reached external cloud services through a data center in Japan, which slowed communication speeds
+- The rapid shift to remote work exposed four major challenges in accessing internal systems
+
+### Results & Impact
+- Secure local breakout with SD-WAN and ZIA significantly increased communication speeds from overseas offices to external services
+- With a zero trust network built on ZPA, all users can work securely and efficiently from anywhere
+
+## Featured Quotes
+
+> "With ZPA and ZIA, every user can now work securely and efficiently from anywhere. Users rate it highly, and that feedback motivates everyone on the project team."
+> — **Makiya Nami, General Manager, IT Operations Department (now Digital Promotion Department No. 2), Sojitz Corporation**
+
+## Customer Case Study
+
+### Changing Conditions Exposed Problems in the Existing Network
+Sojitz Corporation is a global trading company that carries out a wide variety of businesses through seven business divisions, guided by its corporate philosophy: "Sojitz connects the world with sincerity, creating new value and a prosperous future." Its roots lie in Nichimen Corporation and Nissho Iwai Corporation, each with a long history, and for more than 160 years it has contributed to the development of many countries and regions. Today it operates five offices in Japan and 88 overseas, and with about 400 consolidated companies and more than 20,000 employees in Japan and abroad, it does business across the globe.
+
+Speaking about the communications environment at the overseas offices, Makiya Nami, General Manager of the IT Operations Department (now the Digital Promotion Department No. 2), says that "growing cloud usage had made slow response times a visible problem." The overseas offices belonged to the network environment of Sojitz's head office in Japan. All external traffic first traveled over leased lines to Japan and connected to a data center there, where it passed through an on-premises proxy before reaching external cloud services.
+
+"With this setup, even when connecting to a cloud service located in the same overseas region, traffic had to go through Japan. The path was longer than necessary and response times suffered. As the shift to the cloud accelerated, we heard more and more complaints about the stress this caused overseas users."
+
+At the same time, the rise in remote work was creating problems of its own. Remote access had been built inside Sojitz's own data center, and it ran into four major challenges.
+
+The first was security. The company used its own authentication servers, which faced a growing risk of external attack. The second was convenience. Users had to authenticate manually every time they accessed an internal system, which was a real burden. The third was scalability: it was hard to adjust the environment quickly as business conditions changed. The fourth was business continuity (BCP). If the company's own data center were hit by a disaster, there would be no alternative for authentication and access control.
+
+"We had encouraged remote work before, but it was nowhere near company-wide, and we had never assumed that all employees would access internal systems remotely at the same time. But in 2019, companies in the Tokyo area were encouraged to have employees work from home ahead of a major sporting event in Tokyo, and that changed things dramatically. Solving these four problems became urgent."
+
+### Faster Overseas Connectivity with SD-WAN and ZIA
+For external access from overseas offices, Sojitz began studying ways to improve communication speeds around 2018. It moved toward SD-WAN to ensure reliability and to let it use different lines for different types of traffic.
+
+Sojitz concluded that achieving local breakout with SD-WAN would require a security approach to replace its existing on-premises proxy. It decided to deploy Zscaler's cloud proxy, Zscaler Internet Access (ZIA), together with SD-WAN. ZIA provides the URL filtering and antivirus functions of a typical proxy filtering service, along with threat inspection of SSL traffic and policy control, all from the cloud. External traffic could now break out locally while security stayed intact. At the same time, Sojitz rebuilt its authentication infrastructure. The first rollouts were agentless, mainly overseas, and were handled through on-site business trips.
+
+Sojitz introduced ZIA in 2019, when Zscaler's Japanese subsidiary had only just been established, its organization was small and its name was not yet widely known. Why did Sojitz choose Zscaler at that point? Mr. Nami explains:
+
+"We gathered information on five solutions and compared them. What mattered most were coverage of our sites, cost, and track record. We judged that Zscaler's solution was a sound and economically rational choice for deploying across many overseas sites. Its ability to be used without agents was also a major advantage. We use a vendor-provided distribution system to roll out applications to our sites. That environment is in place at headquarters and overseas subsidiaries, but at overseas affiliates it varies, and the distribution success rate is not always high. With ZIA, you only need to put the required information in a PAC file. We can set up the environment without distributing anything, which we felt made deployment much easier."
+
+The speed gains from local breakout appeared as soon as ZIA went live. At some sites, download speeds rose from 5 Mbps to 211 Mbps, more than 40 times faster, and upload speeds rose from 1.5 Mbps to 187 Mbps, more than 120 times faster. Users felt the difference immediately. "The delight we heard from users motivated everyone who worked on this project."
+
+### ZPA Solves the Four Remote Work Challenges
+Work on remote work challenges was already underway in 2020, as COVID-19 began to spread. Sojitz had expanded its VPN license purchases to prepare for a surge in remote access, but it then ran into a major obstacle, Mr. Nami recalls.
+
+"When the state of emergency was declared in April 2020, we believed we were ready. But our existing remote access equipment had processing limits, and our license increases were capped by them. The number of licenses fell short of our global headcount, so when many employees began working from home we had to limit simultaneous connections. We got through by asking people to connect to the VPN only when they needed it."
+
+Drawing on that experience and the four challenges above, Sojitz looked for a cloud-based remote access solution that did not require its own equipment. Again it chose Zscaler. Zscaler Private Access (ZPA) enables secure, comfortable remote access, and Sojitz has rolled it out to group companies around the world, including in Japan, since autumn 2020. ZPA was deployed remotely with the help of local vendors.
+
+"ZPA solved all four of our remote work challenges," says Mr. Nami. On security, the connectors on Sojitz's own data center side are configured to accept access only from ZPA access points, achieving zero trust network access.
+
+"We highly value no longer having to worry about our internal gateways being exposed to external attacks. Another big benefit is that ZPA can share the authentication mechanism we built when we introduced ZIA."
+
+On convenience, Sojitz distributed an agent that works with both ZPA and ZIA when it rolled out ZPA. Users no longer need to log in every time, and they like it.
+
+On scalability, Zscaler's access points around the world resolved the throughput drops caused by concentrated access, and the operational workarounds described above are no longer needed.
+
+On BCP, Mr. Nami says the risk of failure in the old, centralized equipment has been dramatically reduced.
+
+### Safe, Efficient Work from Anywhere
+By fiscal 2022, Sojitz had completed the rollout to 105 companies, including the head office, overseas offices and operating companies, and users at those sites rate it highly. At these sites, all users can work securely and efficiently from anywhere.
+
+"People tell us it's far more convenient. Access starts automatically the moment the PC boots and doesn't drop. For IT, it's also easier to understand the state of remote work, because we can filter and collect logs from communications no matter where they originate."
+
+Sojitz also rates Zscaler's support and its ability to resolve technical issues as highly as the solution's functionality.
+
+"I believe the key to a successful zero trust rollout is teamwork among headquarters, subsidiaries, each company's IT staff and the implementation vendors. Zscaler plays an important role in that team, and we look forward to stable service and high technical capability from them going forward."
+
+## Additional Data Attributes
+- **Products:** Zscaler Zero Trust Exchange (ZTE); Zscaler Private Access (ZPA); Zscaler Internet Access (ZIA)
+- **Solutions:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA)
+- **Related Customer Stories:** NEC Corporation; Japan External Trade Organization (JETRO); Shindengen Electric Manufacturing Co., Ltd.; The Bank of Saga, Ltd.

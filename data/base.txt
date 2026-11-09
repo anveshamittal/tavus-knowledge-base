@@ -1,0 +1,82 @@
+# BASE Balances Convenience and Security with Zscaler as VPN Routers Reach Their Limits in the Post-COVID Hybrid Workplace
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** BASE, Inc.
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/base
+- **Slug:** base
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** BASE, Inc.
+- **Description:** BASE plans, develops and operates the online store creation service "BASE," the shopping service for buyers "Pay ID," and the online payment service "PAY.JP" (*), among others. Because anyone can easily create an online store with "BASE," it was in use by more than 2.1 million shops as of the end of 2023. COVID-19 led BASE to start company-wide WFH (work from home), and it has continued hybrid work, combining office attendance and WFH, ever since. This brought up the problem of VPN for remote access from home. VPN consumed bandwidth, so employees had to connect and disconnect the VPN depending on the task. BASE Group deployed Zscaler solutions and built an IT foundation that is both safe and convenient, with logs captured even for communication that does not go through the VPN. (*) "PAY.JP" is provided by PAY Inc., a wholly owned subsidiary.
+- **Industry:** Services
+- **Headquarters:** Sumitomo Fudosan Roppongi Grand Tower, 3-2-1 Roppongi, Minato-ku, Tokyo, Japan
+- **Size:** 274 employees, consolidated (as of December 31, 2023)
+
+## Executive Summary
+
+### Challenges
+- During COVID-era hybrid work, VPN bandwidth consumption became pronounced. At the same time, BASE wanted stronger security, including capturing logs of all communications and visualizing shadow IT. It needed to balance the freedom to use the latest tools with stronger security
+
+### Results & Impact
+- After deploying Zscaler, the switching that was needed when using the VPN is gone, improving convenience
+- Capturing logs of all communications and gaining visibility into shadow IT makes responses to security incidents accurate and quick
+- The cause of network delays can now be pinpointed quickly, and Zscaler is also expected to help with BCP
+
+## Featured Quotes
+
+> "To support hybrid work, we were looking for a security solution to replace VPN. Zscaler's solution improved convenience for work and ensured safety at the same time."
+> — **Hiroaki Kurihara, Manager, Corporate Infosys Group, BASE, Inc.**
+
+> "As an IT company, the latest technology is a must, and we needed both freedom in development and visibility into shadow IT. Because we don't restrict the use of IT tools or SaaS, we needed to understand things like unmanaged SaaS use."
+> — **Jun Hamaya, Engineer, Corporate Infosys Group, BASE, Inc.**
+
+> "Even when we get questions about network delays, we can find the cause right away and give a clear answer. With ZDX, we can immediately isolate where the cause of a network delay lies."
+> — **Masaki Takeuchi, Engineer, Corporate Infosys Group, BASE, Inc.**
+
+## Customer Case Study
+
+### Remote Access After COVID: Moving Away from VPN Routers
+BASE provides web services, including "BASE," which makes it easy to create an online store. Hiroaki Kurihara, Manager of the Corporate Infosys Group, describes the company's steady business growth: "During COVID-19, demand for e-commerce services rose sharply and the response was very large. Many owners continue to use us."
+
+BASE had long provided a remote access environment using VPN routers for some sales staff, and when COVID arrived it extended it to the whole company. "With the extension to the whole company and the growing number of employees, the VPN used up bandwidth, and even after replacing the VPN routers, connections remained unstable," says Mr. Kurihara.
+
+In practice, running web meetings while connected to internal systems over VPN caused problems such as communication delays from bandwidth strain. The company also had to ask people to "turn off the VPN during web meetings," so employees kept connecting and disconnecting the VPN during work, which frustrated them and cut productivity. Jun Hamaya, an engineer at BASE, says, "With a VPN, all traffic goes through the company network, so it was straining our bandwidth."
+
+That led BASE to begin looking at SASE (Secure Access Service Edge), which combines security and network functions in a single cloud service.
+
+"If you use an external VPN that doesn't go through the company network, you can't capture communication logs. Since we encourage hybrid work, we thought we should keep logs capturable wherever people work, and we looked at SASE with stronger security in mind." (Mr. Hamaya)
+
+### A Convenient, Safe Environment Where Engineers Can Use the Latest Tools with Confidence
+SASE had another purpose, Mr. Hamaya says. "BASE is an IT company with many engineers. We basically don't restrict the use of IT tools or SaaS, and our stance is that we want people to try new things. That gives developers a lot of freedom, but it also means shadow IT that the company can't manage, such as unauthorized SaaS use. We wanted to make that visible and understand it."
+
+For information leak prevention too, if logs of IT tool use are captured, you can separate problems on the tool side from those on the user side. Masaki Takeuchi, a systems engineer at BASE, recalls: "On the front line there was concern that deploying SASE would mean access logs being monitored. But we explained that we needed to understand the situation in order to protect employees, and spread that understanding."
+
+At the product evaluation stage, BASE received explanations and demos of about seven products besides Zscaler. It narrowed them down by looking at requirements such as being able to access SaaS from a fixed IP, and the usability of the user interface. In the end, Zscaler and one other product remained and went into testing. Mr. Hamaya describes how they evaluated:
+
+"For engineers, we need to let them use services and sites without restrictions. But with the competitor's product that we trialed, errors occurred with tools engineers use, such as GitHub and Docker, and each time we had to add an exclusion. It was not only laborious, it also meant security couldn't be assured. Zscaler's product, on the other hand, ran without trouble." He felt that Zscaler suited development environments.
+
+The pre-deployment trial also showed how easy to use and flexible Zscaler is. "It has rich reporting, and you can view reports at any time without special effort. For example, a default report for the CTO (Chief Technology Officer) is provided, so there's no work to reformat it, which we really appreciated," says Mr. Takeuchi.
+
+### No More VPN Switching Improves Convenience, with Benefits from Troubleshooting to BCP
+In 2023, BASE moved Zscaler from a test environment into full deployment. It moved remote access security from VPN to a cloud service with Zscaler Private Access (ZPA). It also controls access inside the company and to the internet with Zscaler Internet Access (ZIA) to understand shadow IT. With these, logs of all communications can be captured, making it possible to respond to and anticipate security incidents. Zscaler Digital Experience (ZDX) also makes it possible to investigate and benchmark user experience.
+
+Mr. Kurihara says, "We hear from many employees that it's easier now because they no longer have to switch VPN for work." Mr. Takeuchi also praises the stable operation: "Since introducing Zscaler, we no longer get questions about VPN failures or delays."
+
+ZDX is paying off too. "When the network is slow, ZDX lets us immediately check whether the cause is at home, in the office or on the SaaS side, so we can give clear instructions. Of course, response times have improved as well," says Mr. Takeuchi.
+
+There have been benefits BASE did not originally aim for. "A few times a year the building has a power outage for maintenance. In the past the VPN router wouldn't work, which disrupted work in departments that operate 24 hours a day. Since moving to Zscaler, we can continue working regardless of the building's facility status. I think this is effective from a BCP (business continuity plan) standpoint for failures and emergencies," says Mr. Hamaya.
+
+Work on preventing information leaks is also moving forward. BASE is using DLP (Data Loss Prevention), which stops leaks of items such as credit card numbers by pattern matching, to secure its information. Zscaler's DLP can prevent leaks when the information leaving is confidential, such as credit card numbers or My Number (Japan's national ID number). "By introducing EDM (Exact Data Match), we're building a strong safeguard against leaks of the credit card and other information that we hold," says Mr. Takeuchi.
+
+Going forward, BASE is looking at strengthening endpoint security through integration with Zscaler products and at introducing a SIEM (Security Information and Event Management) solution that automatically detects and reports threats from many sources of log data. It is also considering Zscaler Endpoint DLP, which provides visibility into and leak prevention for confidential data moving through client devices, not only over the network. "The services we offer support e-commerce and payments for shop owners and buyers, so we must be able to work from wherever our offices are in Japan or abroad. We need an environment where security is assured and logs can be collected no matter where, and on what device, people connect," says Mr. Hamaya. BASE has high expectations for Zscaler's future as it builds that environment.
+
+## Additional Data Attributes
+- **Products:** Zscaler Zero Trust Exchange (ZTE); Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Digital Experience (ZDX)
+- **Solutions:** Zscaler Private Access (ZPA); Zscaler Digital Experience (ZDX); Zscaler Internet Access (ZIA)
+- **Related Customer Stories:** TSI Holdings Co., Ltd.; Keiju Medical Center; SBS Holdings, Inc.

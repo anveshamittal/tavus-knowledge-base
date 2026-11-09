@@ -1,0 +1,94 @@
+# Chopro Moves to Zero Trust So Everyone Can Connect Anytime, Anywhere, Securely, and Cuts Internal Inquiries by 80%
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Chopro Co., Ltd.
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/chopro
+- **Slug:** chopro
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** Chopro Co., Ltd.
+- **Description:** Chopro's core business is LP gas sales in Nagasaki Prefecture, and in recent years it has broadened into services for everyday living, including environmental energy and home renovation and housing sales. Every employee at the company and its group companies uses a PC. When the spread of remote work that began with COVID-19 forced the company to strengthen network security and improve performance at the same time, it decided to move from perimeter security based on VPN to zero trust security. It deployed Zscaler solutions, which let all employees connect anytime, anywhere while ensuring safety.
+- **Industry:** Energy, Oil, Gas, and Mining
+- **Headquarters:** 62-1 Takada-go, Nagayo-cho, Nishisonogi-gun, Nagasaki, Japan
+- **Size:** 149 employees (as of August 1, 2024)
+
+## Executive Summary
+
+### Challenges
+- After an incident and the rise in demand for remote work during COVID-19, the company felt the limits of conventional perimeter security. Challenges included securing safe communications inside and outside the company as it retired its HDI-based thin client, and relieving traffic concentrated on the VPN server
+
+### Results & Impact
+- Employees can work at a high level of security without being aware of it
+- Network-related internal inquiries fell by 80% after deploying Zscaler
+- Telling employees how visible usage is through the monitoring features deters risky use
+
+## Featured Quotes
+
+> "Deploying Zscaler improved convenience, and employees have told us they're happy. As the digitalization of our business raises the importance of IT infrastructure, we needed a mechanism that delivers both performance and security."
+> — **Jun Kamba, General Manager, IT Promotion Department, Chopro Co., Ltd.**
+
+> "For executives, zero trust is an unfamiliar term. The fact that Gartner rates the product highly gave us a persuasive third-party evaluation."
+> — **Jun Kamba, General Manager, IT Promotion Department, Chopro Co., Ltd.**
+
+> "Introducing Zscaler has also helped raise employee literacy. Being able to see usage through Zscaler's monitoring features has let us secure governance over employees."
+> — **Jun Kamba, General Manager, IT Promotion Department, Chopro Co., Ltd.**
+
+## Customer Case Study
+
+### Concerns About VPN Vulnerabilities Grow, and New Security Measures Become Necessary
+Chopro had built a VPN-based remote access environment on the basis of perimeter security. But because internet traffic from the internal network was concentrated on the VPN server, a shortage of capacity had become apparent.
+
+Jun Kamba, General Manager of Chopro's IT Promotion Department, says: "During all-hands meetings such as morning assemblies on Zoom, even when we asked participants to turn their cameras off, the audio and video would stop." Besides having to go through a procedure to connect to the network, and reconnect when a line dropped, there was also the risk that people would access the internet without using the VPN.
+
+Chopro also suffered a ransomware attack in 2019, and interest in security rose, including among executives. "Even with perimeter security and VPN in place, incidents happened. I keenly felt that there are incidents VPN can't prevent," Mr. Kamba recalls.
+
+The following year COVID-19 arrived, and demand for remote work grew as all employees began taking their devices out of the office. There were also concerns about the growing number of attacks aimed at VPN vulnerabilities.
+
+In addition, information that individual employees don't think of as important can be important to the company for security reasons. The company wanted to avoid having information held by individual employees leak outside without anyone noticing. "To strengthen security and improve employee performance, we needed a solution that doesn't rely on VPN," says Mr. Kamba.
+
+### Choosing Zscaler as a Zero Trust Solution That Balances Usability and Security
+As an alternative to perimeter security with VPN, the company considered zero trust security. The deciding factor was wanting to move beyond perimeter security in order to secure communications inside and outside the company as it retired the HDI (hosted desktop infrastructure) thin client it had been using.
+
+Mr. Kamba and his team narrowed the field at an early stage to Zscaler and one other company's product. In selecting, what they valued most was that security would not slow down employees' communication speed or other performance.
+
+"We saw both as basically capable of the same things. At the evaluation stage we took into account that the proposal was specific, that the PoC schedule and approach were clearly laid out, and that the support structure during the PoC was thorough, and we decided to run the PoC with Zscaler," says Mr. Kamba.
+
+The PoC found no drop in performance, such as communication speed, from using Zscaler. The user interface, including the management console, was also easy to use, which helped, and the company decided to move ahead with Zscaler.
+
+> "For executives, zero trust is an unfamiliar term. The fact that Gartner rates the product highly gave us a persuasive third-party evaluation."
+
+The company spent time on its explanation to management while it was considering adoption. "For executives, zero trust is an unfamiliar term. Because we'd experienced an incident, they felt security was necessary, but they also seemed concerned that spending too much or tightening security too far would defeat the purpose. They also asked whether a company of Chopro's size should be deploying Zscaler," says Mr. Kamba.
+
+Zscaler's track record and brand power helped make the case. "The fact that Gartner rates the product highly gave us a persuasive third-party evaluation," he says.
+
+Chopro began seriously considering zero trust security in early 2023 and signed a contract for Zscaler in August of that year. It then installed Zscaler software and distributed it in stages, timed with PC replacement and the retirement of thin clients, and completed replacement of all PCs in October.
+
+The number of Zscaler accounts is 130, equal to every PC in the company. "We built it on the concept that everyone can connect anytime, anywhere. Now people can work even after they get home," says Mr. Kamba proudly.
+
+### Network-Related Internal Inquiries Down 80%, and a Deterrent Effect on Employees
+Speaking of the situation after introducing Zscaler, Mr. Kamba says: "We've had no complaints about Zscaler. I think the biggest result is that employees can use it as it is without being aware of the deployment."
+
+"PCs are new, and people can reach the internal network without VPN, so convenience has gone up. When we told employees they no longer had to go through connection procedures as they did with VPN, they were delighted," says Mr. Kamba. It seems the PCs are also far easier to use for work.
+
+"Compared with the VPN days, I feel inquiries about the network, such as remote access, have fallen by about 80 percent," he says. The significant Zoom delays at the morning assembly have also disappeared. "We can now hold the morning assembly smoothly without asking people to turn off their video."
+
+> "Introducing Zscaler has also helped raise employee literacy. Being able to see usage through Zscaler's monitoring features has let us secure governance over employees."
+
+From the administrator's point of view, being able to see and control users' usage with Zscaler has contributed to raising literacy. Some Chopro employees did not have a high level of literacy in digital tools and security.
+
+"There were cases before where people used their company email address for personal matters, or watched video services on a company smartphone. By telling people that Zscaler's monitoring features can show usage, I feel we've secured governance over employees," says Mr. Kamba.
+
+It has been nearly a year since Zscaler went into operation. Asked for an overall assessment, Mr. Kamba says, "I'm glad we introduced it." As a solution that lets employees have security without thinking about it while improving performance, he judges that it has achieved its original purpose.
+
+What of the outlook? Mr. Kamba says: "Many departments want to use various external services. To keep moving the business forward and collaborate while ensuring security, we need a cloud-based zero trust security solution like Zscaler." The company also wants to work on using generative AI, and plans to explore new technologies while hardening its security with Zscaler.
+
+## Additional Data Attributes
+- **Products:** Zscaler Zero Trust Exchange (ZTE); Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Digital Experience (ZDX)
+- **Solutions:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Digital Experience (ZDX)
+- **Related Customer Stories:** Dai-ichi Life Holdings, Inc.; The Bank of Saga, Ltd.; BASE, Inc.

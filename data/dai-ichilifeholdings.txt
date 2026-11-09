@@ -1,0 +1,77 @@
+# Dai-ichi Life Holdings Builds a Cloud Checkpoint to Safely Solve Business Challenges
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Dai-ichi Life Holdings, Inc.
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/dai-ichilifeholdings
+- **Slug:** dai-ichilifeholdings
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** Dai-ichi Life Holdings, Inc.
+- **Description:** Dai-ichi Life Group is a global insurance group with nine life insurance companies in North America and Asia Pacific, along with insurance operations across Japan and around the world. To raise group-wide security governance, secure business agility with fast-evolving cloud services, and build resilient work styles that can withstand events like COVID-19, the group found that traditional security measures had reached their limits. It chose Zscaler, consolidating security functions in the Zscaler cloud to achieve these goals safely and smoothly. The group began by renewing the global infrastructure of its holding company, Dai-ichi Life Holdings, and is now modernizing its domestic environment in phases.
+- **Industry:** Financial Services and Insurance
+- **Headquarters:** 1-13-1 Yurakucho, Chiyoda-ku, Tokyo, Japan
+- **Size:** 824 employees (as of October 1, 2022)
+
+## Executive Summary
+
+### Challenges
+- Make effective use of rapidly evolving cloud services
+- Enable new, more diverse ways of working in the COVID-19 era without compromising security
+
+### Results & Impact
+- Business agility to respond quickly to business needs
+- A more advanced operating model through consolidated functions and teams
+- Lower global site management costs through SaaS
+
+## Featured Quotes
+
+> "We never set out to 'implement zero trust.' We solved our business strategy challenges one by one, and zero trust, in the form of Zscaler's zero trust solution, is where that led us."
+> — **Toshiki Ota, Fellow and Head of Information Security, IT & Digital Planning Unit, Dai-ichi Life Holdings, Inc.**
+
+## Customer Case Study
+
+### Two Major Challenges Facing Dai-ichi Life Group
+The challenges facing Dai-ichi Life Group differed significantly between its holding company, Dai-ichi Life Holdings, and its operating company, Dai-ichi Life Insurance.
+
+For Dai-ichi Life Holdings, the question was how to maintain and strengthen system infrastructure operations and security governance at its global sites. Seven locations, including the Regional Headquarters (RHQs) that oversee overseas group companies and representative offices that conduct market research, each lacked the IT staff to run their own infrastructure. Security levels also varied from site to site, and there were not enough security specialists to respond effectively to increasingly complex and sophisticated cyberattacks. Building a new operating model was essential to maintaining and strengthening global security governance.
+
+At Dai-ichi Life Insurance, the goal was a new way of working. The company had been gradually adopting cloud services such as Microsoft Teams™ and Microsoft 365™, with a breakout configuration for internet access. When COVID-19 abruptly made telework the default, and the need for business agility through digitalization grew, the shift to cloud services went further than originally planned. The range of services in use became extremely diverse, and traditional security measures could no longer hedge risk effectively. The priority became how to use fast-evolving cloud services safely while accelerating business agility.
+
+### Making 19 Threats and 11 Measures Visible to Share the Strategy with Executives
+After thorough discussion from the perspectives of both Dai-ichi Life Holdings and Dai-ichi Life Insurance, the group chose Zscaler's zero trust solution as the way to address all of these challenges at once. The deciding factors were functionality, track record and, above all, Zscaler's strategic concept. Mr. Toshiki Ota, Fellow and Senior Executive IT Specialist, who leads cybersecurity and IT infrastructure strategy for Dai-ichi Life Group, was convinced of the benefits of Zscaler's zero trust solution. He also believed it needed to be pursued as a group-wide strategy.
+
+He began by collecting a wide range of real-world security incidents and condensing the threats that could affect Dai-ichi Life Group into 19 patterns. From these, the team drew up 11 measures, with a zero trust solution at their center. A heat map showed how much each of the 11 measures would reduce the group's risk against the anticipated threats. By repeatedly communicating the visualized risks and their impact on the business, and by drawing clear lines around acceptable risk where needed, the team earned executive understanding that this was a necessary strategic item for the group. Deploying Zscaler's zero trust solution became a group strategy.
+
+### A Global Strategy Needs a Global Framework
+In rolling out zero trust as a global group strategy, Mr. Ota felt that simply following domestic standard frameworks, as the group had in the past, would be a problem. The group adopted the "Zero Trust Architecture" (SP 800-207) defined by NIST, the U.S. National Institute of Standards and Technology. Of its seven basic tenets, three received the most emphasis:
+
+- Tenet 5: The enterprise monitors and measures the integrity and security posture of all assets.
+- Tenet 6: Authentication and authorization of all resources are dynamic and strictly enforced before access is allowed.
+- Tenet 7: The enterprise collects as much information as possible about the current state of assets, network infrastructure and communications, and uses it to improve its security posture.
+
+These three tenets are at the heart of security operations, which means a zero trust solution cannot succeed without a solid security operating model. There is a limit to how many security experts a company can recruit, and that approach ran counter to the challenges Dai-ichi Life Holdings faced. The group chose instead to consolidate and integrate security functions, share know-how and skills, and automate thoroughly. Zscaler's zero trust solution was the best fit for this approach.
+
+### Building a Checkpoint for Outbound Traffic on the Internet
+The architecture Dai-ichi Life deployed consolidates and standardizes outbound traffic security on the internet.
+
+Devices are hardened with EDR (Endpoint Detection and Response). Their outbound traffic is protected by Zscaler's security functions, and the additional security controls the group needs are also consolidated as cloud services on the internet. The logs from all of this traffic are gathered in a SIEM (Security Information and Event Management) system, handled automatically by SOAR (Security Orchestration, Automation and Response), and continuously monitored 24x7x365 by a SOC (Security Operation Center) of experts who detect security incidents quickly. The key point is that the SIEM, SOAR and SOC components are themselves standardized across the globe.
+
+Each site has its own CSIRT (Computer Security Incident Response Team) to lead the response when an incident occurs. Because the security solutions in use are common worldwide, it is easier to share know-how and skills. With the burden of common activities reduced, each site can focus on what is unique to it, such as local regulations. Dai-ichi Life Group is also strengthening its governance policies and rules at the same time. Its approach is that using common rules, common security solutions and a common security organization will build strong CSIRT capabilities at every site. Rather than simply deploying a zero trust solution, the group is strengthening technology, processes and people together, and at the center of that effort is Zscaler's zero trust solution.
+
+### Zero Trust Was Where Solving Business Challenges Led
+At Dai-ichi Life Holdings, whose global sites were struggling with a shortage of staff, full zero trust was achieved in one step. The internal network was eliminated and everything now runs over the internet. On-premises servers moved to the cloud and the data centers were closed. Client device management was automated with MDM (Mobile Device Management), and a common Japanese-and-English help desk was set up to keep system operations to a minimum. All of this traffic passes through a collection of cloud services known as the global network. It is monitored 24x7x365 by a global SOC, and a global SOAR automates the first response and containment when an incident occurs. With full zero trust in place, Dai-ichi Life Holdings overcame its shortage of staff.
+
+Dai-ichi Life Insurance, which aims to improve business agility, needed to move to zero trust in stages so as not to get in the way of the business. Its system landscape is highly varied, mixing open and mainframe systems, and moving everything to the cloud at once carried too high a risk of business disruption. It has completed the first stage: moving internet access to the cloud using Zscaler's services. Next, it plans to move through a split-tunneling configuration that separates traffic to on-premises servers from traffic to the cloud, and then toward zero trust for the entire office. Beyond that lies greater business agility through the strategic use of cloud services.
+
+Dai-ichi Life Group never set out to "implement zero trust." Solving business challenges one by one, in line with its business strategy, led to zero trust, and Zscaler's zero trust solution has been its best partner in making it real.
+
+## Additional Data Attributes
+- **Products:** Zscaler Zero Trust Exchange (ZTE); Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA)
+- **Solutions:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA)
+- **Related Customer Stories:** Shindengen Electric Manufacturing Co., Ltd.; The Bank of Saga, Ltd.; Fukuoka Hibiki Shinkin Bank; Mizuho Leasing Company, Limited

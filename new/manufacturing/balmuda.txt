@@ -1,0 +1,86 @@
+# Balmuda Supports Its Fast-Growing Creative Workforce with Secure 3D CAD and Web Meetings for Everyone, Inside and Outside the Company
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Balmuda Inc.
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/balmuda
+- **Slug:** balmuda
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** Balmuda Inc.
+- **Description:** Balmuda is known as a maker of beautifully designed electrical equipment and home appliances. The company has been moving its internal systems and applications to the cloud and has pursued telework as part of its work style reforms. In recent years, headcount has grown rapidly to more than 150, and COVID-19 moved many employees to working from home. Proxy servers and VPN equipment became bottlenecks that disrupted daily work such as web meetings and CAD design. Balmuda adopted Zscaler solutions and greatly improved its network environment. Employees can now use the internet and SaaS/IaaS safely and comfortably, which supports unique product development and significantly reduces support effort and the burden on the systems department.
+- **Industry:** Manufacturing
+- **Headquarters:** 5-1-21 Kyonan-cho, Musashino-shi, Tokyo, Japan
+- **Size:** Approximately 168 employees (as of December 2022)
+
+## Executive Summary
+
+### Challenges
+- Use cloud-based systems both reliably and securely
+- VPN became a bottleneck for work as more employees began working remotely
+- A growing help desk burden related to VPN
+
+### Results & Impact
+- Flexible, secure internet and SaaS access
+- VPN equipment eliminated, giving direct access to IaaS
+- An environment employees can use right away, without having to think about security settings
+
+## Featured Quotes
+
+> "We have been thinking about the 'ideal network security' based on zero trust. The best answer turned out to be a combination of Zscaler, which can control access destinations in fine detail, and Intune, which can manage devices."
+> — **Nobuyoshi Kaga, Manager, Infrastructure Team, Systems Department, Administration Division, Balmuda Inc.**
+
+> "Pricing is based on the number of licenses, so you can use it regardless of company size. Zscaler is proven at large enterprises, and it's attractive because services can scale flexibly as the company grows."
+> — **Hayato Shinyashiki, Infrastructure Team, Systems Department, Administration Division, Balmuda Inc.**
+
+## Customer Case Study
+
+### Driving IT Adoption to Improve Work Efficiency
+"To make the future we imagine from free thinking a reality through technology, and to be useful to people." Founded in 2003 on this mission, Balmuda has spent 20 years developing its own distinctive kitchen products, air conditioning products, lighting and audio equipment that excite the heart.
+
+"We are driving IT adoption inside the company, building a development and operations foundation that makes use of the cloud, low-code development and RPA (Robotic Process Automation) to raise work efficiency," says Nobuyoshi Kaga of the Systems Department.
+
+Employees use SaaS for Microsoft 365 and for applications such as expense reporting. The company has also moved aggressively to the cloud. Its three-dimensional (3D) CAD for product development and design, and its core business systems, run on Microsoft Azure.
+
+### VPN Becomes a Bottleneck and Disrupts Even Everyday Web Meetings
+Balmuda has promoted telework and remote work as part of its work style reforms for some time. But rapid headcount growth, combined with a shift to telework for many employees during COVID-19, brought a number of problems to the surface.
+
+One was the proxy server that controls internet connections. Balmuda used a cloud proxy, with the proxy server in the cloud, but the product did not support the Android devices employees used. It could also become unstable on the Macs many employees use. "There were cases where people disabled the proxy and connected directly to the internet, which was a security problem we couldn't overlook," Mr. Kaga admits.
+
+The other was VPN (virtual private network). As more employees worked remotely, access to the VPN equipment at the Musashino site, where headquarters is located, often became congested. Hayato Shinyashiki of the Systems Department recalls that when employees used Teams, which had become widely used for internal communication, "the VPN equipment was a bottleneck, and we had to turn off video and hold web meetings with audio only."
+
+To address this, Balmuda spread the traffic that had been concentrated at the Musashino site across the Mitaka site, home to the design and development departments, and replaced the VPN equipment with a VPN connection service from a telecom carrier.
+
+### Achieving a Zero Trust Environment with Zscaler
+To resolve these infrastructure problems, the Systems Department looked at solutions based on the zero trust model as the path to "ideal network security." The candidate it settled on combined Zscaler Internet Access (ZIA) with Microsoft Intune, Microsoft's cloud-based endpoint management solution.
+
+Mr. Kaga had had this configuration in mind since his previous job. "ZIA and Microsoft 365 can be integrated with single sign-on, which makes them convenient. And by design, you can't sign in to Microsoft 365 from a device that isn't registered in Intune. A personal PC that isn't registered can't log in, and combined with ZIA's detailed control over where users can go, this secures telework." He explains how well ZIA and Intune work together.
+
+Mr. Shinyashiki, who supports employees' use of IT, values the efficiency: "We manage devices with Intune. When we set up a new hire's device, we configure the Zscaler account at the same time, linked with Intune, so it's distributed efficiently."
+
+Zscaler Client Connector, the forwarding agent installed on devices that use Zscaler, supports multiple operating systems, including Windows, macOS, iOS, Android and Linux. Android devices and Macs, which the previous cloud proxy could not handle, can now use the internet securely, along with SaaS such as Teams and IaaS, safely and comfortably.
+
+### Well Suited to Mid-Sized Companies with Small IT Teams
+Balmuda also brought Zscaler Private Access (ZPA) online just two months after introducing ZIA. It had originally planned to do this a year later. "We found that starting a VPN connection service on Windows devices conflicted with ZIA, so we moved quickly. We also learned that the server needed for ZPA could be built on Azure rather than on-premises, so we could go ahead early," says Mr. Kaga.
+
+Unlike a typical VPN, where connecting to the internal network gives access to many different systems, "ZPA establishes one-to-one remote access for each application you specify, so security is strong," Mr. Kaga stresses. Azure holds the company's core system data and design data. For Balmuda, which prizes design, development and design data is a lifeline and highly confidential. Securing it is the top priority for the Systems Department, and management has been proactive about investing in stronger security.
+
+Zscaler's solutions also made a big difference to Balmuda's internal support workload, since its systems department has limited resources. With the old VPN equipment, employees had to register and configure their own accounts. "We had manuals, but quite a few people still asked us because they couldn't connect. With ZPA, users don't have to configure anything, and they don't even have to click an icon to connect," says Mr. Shinyashiki.
+
+Two people, Mr. Kaga and Mr. Shinyashiki, support the infrastructure used by Balmuda's 150-plus employees. Centralized management of ZIA and ZPA and fewer connection questions reduce the operational burden of network security. The management portal is also easy to understand, so support is almost unnecessary.
+
+"The time we spend on management, operations and support, which used to take so much effort, has definitely come down. I feel we can now concentrate on higher-value work," Mr. Kaga says of the results of introducing Zscaler.
+
+Mr. Shinyashiki had worried before deployment that Zscaler was aimed at large enterprises and would be overkill for Balmuda, but that concern proved unfounded. "Because pricing is based on the number of licenses, a smaller company ends up with a total cost that matches its size. And for a company like ours that is growing, it's reassuring that the service can scale flexibly."
+
+As Balmuda keeps bringing fresh products to market and growing, Zscaler's role in its network security infrastructure is certain to grow.
+
+## Additional Data Attributes
+- **Products:** Zscaler Zero Trust Exchange (ZTE); Zscaler Private Access (ZPA); Zscaler Internet Access (ZIA)
+- **Solutions:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA)
+- **Related Customer Stories:** NEC Corporation; Japan External Trade Organization (JETRO); Dai-ichi Life Holdings, Inc.; Shindengen Electric Manufacturing Co., Ltd.

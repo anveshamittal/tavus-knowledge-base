@@ -1,0 +1,112 @@
+# NTT DOCOMO Promotes Group Management Integration and Achieves "Zero Trust Migration" and "Work Style Reform for 50,000 People," with a Two-Phase Rollout That Preserves the User Experience
+
+> A phased move to a zero trust environment with Zscaler
+> delivers stronger security and a better user experience together.
+> It also reduces the number of PCs, improves employee satisfaction and shortens management integration.
+
+**Customer Name:** NTT DOCOMO, INC. | NTT DOCOMO SOLUTIONS, INC.
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/nttdocomo-nttdocomosolultions
+- **Slug:** nttdocomo-nttdocomosolultions
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** NTT DOCOMO, INC. | NTT DOCOMO SOLUTIONS, INC.
+- **Description:** NTT DOCOMO, INC.: aims to "create a world of new communication culture" through its consumer telecommunications business, smart life business and telecommunications services for corporate customers. | NTT DOCOMO SOLUTIONS, INC.*: supports the back-office systems of NTT DOCOMO and the NTT Group, from development through operation, with an integrated structure. (*In July 2025, NTT COMWARE CORPORATION changed its name to "NTT DOCOMO SOLUTIONS, INC.")
+- **Industry:** High Tech
+- **Headquarters:** NTT DOCOMO, INC.: Sanno Park Tower, 2-11-1 Nagata-cho, Chiyoda-ku, Tokyo, Japan | NTT DOCOMO SOLUTIONS, INC.: NTT Shinagawa TWINS Annex Building, 1-9-1 Konan, Minato-ku, Tokyo, Japan
+- **Size:** NTT DOCOMO, INC.: 9,433 employees (as of the end of March 2025) | NTT DOCOMO SOLUTIONS, INC.: 5,083 employees (as of the end of March 2025)
+
+## Executive Summary
+
+### Challenges
+- Remote work increased during COVID-19. The existing DaaS environment lacked resources, making remote work for all employees impossible
+- The perimeter defense model could not cope with the remote work era, and a move to zero trust, which puts the emphasis on defense at the device, became essential
+- The product first selected could not support the zero trust model for several remaining legacy applications, and management costs were also rising
+
+### Phased Journey
+- The deployment was split into two phases, with ZPA introduced first in Phase 1 and ZIA and ZDX in Phase 2, a staged approach
+- A mechanism was built on the back end to convert the authentication and communication sequences of existing applications, so the system could be switched over without users noticing or being burdened
+- Integration with the existing ID system strengthened device management. Combining Microsoft products with Zscaler built a robust zero trust environment
+
+### Results & Impact
+- Major improvement in the remote work environment. Users reach the internal network automatically without a VPN connection step, eliminating the trade-off between security and convenience
+- The vulnerabilities VPN carried, such as two-way communication, including inbound, and third-party attack risk from persistent sessions, were eliminated. One-way communication and per-session authentication greatly raised the security level
+- The same single PC can be used for work both remotely and in the office, helping reduce the number of PCs
+
+## Featured Quotes
+
+> "With Zscaler, people can now work securely from anywhere on a single PC. We have greatly improved employee convenience while reducing costs and CO2 emissions."
+> — **Takashi Kuraoka, Head, IT Environment Division, Managed Cloud Solutions Department, Business Transformation Division, NTT DOCOMO SOLUTIONS, INC. (affiliation and title as of the time of the interview)**
+
+> "This is the essence of zero trust, and Zscaler makes that environment possible. A mechanism that doesn't trust client devices and evaluates things like patch status each time was only possible with Zscaler."
+> — **Koshiro Asaka, Specialist, IT Environment Division, Managed Cloud Solutions Department, Business Transformation Division, NTT DOCOMO SOLUTIONS, INC. (affiliation and title as of the time of the interview)**
+
+> "Strengthening security without sacrificing ease of use is the balance that matters. With Zscaler we improved the employee experience and optimized IT costs, and as a result we could also raise the quality of the service we provide to customers."
+> — **Shuji Takagi, Specialist, IT Environment Division, Managed Cloud Solutions Department, Business Transformation Division, NTT DOCOMO SOLUTIONS, INC. (affiliation and title as of the time of the interview)**
+
+> "The biggest result is that we achieved a smooth management integration while balancing stronger security and ease of use. We could skip the physical connection work between data centers during the integration, shortening the project by six months."
+> — **Masaya Sato, Section Manager, Management Quality Division, Corporate Planning Department, NTT DOCOMO SOLUTIONS, INC. (affiliation and title as of the time of the interview)**
+
+## Customer Case Study
+NTT DOCOMO SOLUTIONS, INC. supports the back-office systems of the NTT DOCOMO Group and focuses on building a zero trust environment. When COVID-19 made remote work mainstream, it faced the limits of the conventional perimeter security model. Traffic also surged, and using the model alongside a DaaS (Desktop as a Service) environment began to interfere with work. To solve this, it decided to make its operations fully zero trust, and chose Zscaler. With a phased approach it introduced ZPA, ZIA and ZDX and built a zero trust environment, achieving both security and convenience. (At the time of the interview, NTT DOCOMO SOLUTIONS, INC. was NTT COMWARE CORPORATION, and it changed its name in July 2025. The affiliations and titles in this article are based on the interviews of March 2025.)
+
+### The Important Role of NTT DOCOMO SOLUTIONS in Supporting a Back-Office Foundation for 50,000 People
+NTT DOCOMO SOLUTIONS supports the NTT Group's telecommunications services from the software side. It designs, develops, maintains and operates information management systems used by tens of millions of users, and underpins Japan's social infrastructure. Today it is also the company that supports the back-office systems of the NTT DOCOMO (DOCOMO) Group, from development to operation, in an integrated structure. DOCOMO's back-office systems are now used by about 50,000 staff inside and outside the company, so achieving safe and efficient access management is an important management item. Changes in the IT environment have now forced a review of the access management policy. Koshiro Asaka explains:
+
+"The DOCOMO Group's work was basically done in the office, and we had a thorough perimeter defense. But the COVID-19 pandemic changed the work environment overnight, and remote work became the norm."
+
+The conventional perimeter security model consolidated each site's communications at a data center in Tokyo and connected to the outside from there. But with the growing use of cloud services and more external traffic, this became inefficient. Mr. Asaka continues:
+
+"Until then we had done remote work with DaaS (Desktop as a Service), but if all staff moved to remote work, each resource would of course be stretched. So in November 2021 we urgently began providing the zero trust devices that we had been planning quietly."
+
+But the solution introduced at that time soon ran into an unexpected problem: the existence of legacy applications. Takashi Kuraoka explains: "More legacy applications remained inside the company than we had assumed, and we couldn't provide them under the zero trust model. We therefore had to keep the DaaS environment, which meant paying twice."
+
+> "This is the essence of zero trust, and Zscaler makes that environment possible. A mechanism that doesn't trust client devices and evaluates things like patch status each time was only possible with Zscaler."
+> — **Koshiro Asaka, Specialist, IT Environment Division, Managed Cloud Solutions Department, Business Transformation Division, NTT DOCOMO SOLUTIONS, INC. (affiliation and title as of the time of the interview)**
+
+### The Deciding Factor for Zscaler: A Design Philosophy That Overcomes VPN's Weaknesses
+To solve this problem, NTT DOCOMO SOLUTIONS decided to switch its zero trust solution to Zscaler. One deciding factor was Zscaler Private Access (ZPA). Mr. Asaka explains:
+
+"What caught our eye was the direction of ZPA's communication and its authentication method. The VPN (Virtual Private Network) we had relied on has weaknesses: communication is two-way, and authentication can't be verified per session. ZPA avoids these and can also deliver non-HTTP client-server communication, which was attractive."
+
+ZPA is designed to allow only one-way communication. It works with just two outbound connections: one from the device to the Zscaler cloud, and one from the Zscaler connector inside the company to the Zscaler cloud. Connections from outside are blocked at the root.
+
+On authentication, Zscaler authenticates per session and requires re-authentication after the PC is closed or wakes from sleep. This removes the security risk of a persistent connection after a single authentication, as with a VPN. Mr. Asaka says: "We thought that ZPA would allow strict access control and continuous security verification, and that it could build the zero trust environment we were aiming for."
+
+### A Two-Phase Rollout Preserves the User Experience and Reliably Verifies Compatibility with Existing Systems
+Zscaler was introduced in two phases, designed not to harm the user experience. Shuji Takagi explains the process:
+
+"First, in Phase 1, we introduced ZPA, and then in Phase 2 we rolled out ZIA (Zscaler Internet Access) and ZDX (Zscaler Digital Experience). Phase 1 took about five months, which was not just for the implementation work itself but because we were thorough about compatibility checks with existing systems and coordination with the departments concerned. Phase 2 also took four months, and we were especially careful to make the switch from the existing web security product seamless. To minimize the impact on about 50,000 users, and so that they could move to the new system without noticing, we worked hard on how applications were distributed and configured."
+
+Another step in the Zscaler deployment was integration with the existing identity management system. DOCOMO has built an authentication foundation centered on Microsoft's Entra ID (formerly Azure Active Directory) and Intune, and integrated Zscaler with it over the SAML 2.0 protocol. Mr. Asaka evaluates the effect:
+
+"With this integration, we can reflect posture checks by Intune and EDR, that is, evaluation of a device's security state, in the authentication process. A mechanism that doesn't trust the client device and evaluates things like patch status each time is, we believe, the essence of zero trust."
+
+It is also now linked to "dDREAMS," an OA foundation developed within the NTT DOCOMO Group. Personnel transfer information is reflected in real time, enabling automatic management of access rights.
+
+> "Strengthening security without sacrificing ease of use is the balance that matters. With Zscaler we improved the employee experience and optimized IT costs, and as a result we could also raise the quality of the service we provide to customers."
+> — **Shuji Takagi, Specialist, IT Environment Division, Managed Cloud Solutions Department, Business Transformation Division, NTT DOCOMO SOLUTIONS, INC. (affiliation and title as of the time of the interview)**
+
+### Zscaler Delivers a Stronger Remote Environment and Faster Management Integration at the Same Time
+The clearest effect of Zscaler's deployment was on user convenience. Mr. Asaka praises it: "About 400,000 web meetings a month, 7 million internal system transactions and 11 billion internet accesses are being processed stably through Zscaler. The NTT Group introduced a new way of working based on remote work from July 2022, and it is no exaggeration to say that Zscaler supports that at its root."
+
+The economic effect is also significant. "The same PC can be used both remotely and in the office, so we expect to purchase fewer PCs. That reduces procurement costs, and it is also significant for sustainability, through lower CO2 emissions," says Mr. Kuraoka.
+
+Zscaler is also creating value on the management challenge of integration. Masaya Sato of the company explains:
+
+"The former NTT COMWARE integrated its management with the DOCOMO Group in January 2022. In the past, that could have meant running dedicated lines between the two companies' data centers and designing and installing new firewalls. But with Zscaler's zero trust model, that kind of physical network connection work was no longer needed, and we shortened the integration project as a whole by at least about six months."
+
+> "The biggest result is that we achieved a smooth management integration while balancing stronger security and ease of use. We could skip the physical connection work between data centers during the integration, shortening the project by six months."
+> — **Masaya Sato, Section Manager, Management Quality Division, Corporate Planning Department, NTT DOCOMO SOLUTIONS, INC. (affiliation and title as of the time of the interview)**
+
+The NTT DOCOMO SOLUTIONS case shows that Zscaler is not just a security tool but a foundation that supports business transformation as a whole, including promoting remote work, reducing costs and smoothing management integration. Mr. Kuraoka described the outlook: "We won't trade off security against user convenience. While improving the employee experience, we'll optimize IT costs and aim to establish more personal communication that truly satisfies our customers."
+
+## Additional Data Attributes
+- **Key Stats:** Six months shorter (physical network connection work skipped in the management integration); 7,400 people (OA environment of all employees and business partners integrated through the management integration); 50% (working time for the project halved)
+- **Products:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Zero Trust Exchange (ZTE)
+- **Solutions:** Zscaler Digital Experience (ZDX); Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Zero Trust Exchange (ZTE)
+- **Related Customer Stories:** NEC Corporation; ADK Holdings Inc.; Japan International Cooperation Agency (JICA)

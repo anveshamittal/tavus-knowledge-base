@@ -1,0 +1,91 @@
+# Shindengen Rebuilds Its Infrastructure from Scratch with a Zero Trust Vision for the Entire Group's ICT Environment
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Shindengen Electric Manufacturing Co., Ltd.
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/shindengen
+- **Slug:** shindengen
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** Shindengen Electric Manufacturing Co., Ltd.
+- **Description:** The Shindengen Group contributes to sustainability through the manufacture and sale of power electronics products. In April 2021 it opened its Asaka Office, which brings together headquarters and R&D functions, and at the same time it rethought its ICT infrastructure from the ground up. It chose Zscaler. Shindengen decided to shift its security from perimeter-based to zero trust, with the goal of an environment where employees can work anytime, anywhere, quickly and securely. The initial ICT infrastructure was completed in time for the April 2021 opening. It has delivered significant results from management, employee and IT department perspectives alike, and is highly regarded inside the company.
+- **Industry:** Manufacturing
+- **Headquarters:** Headquarters: Shin-Otemachi Building, 2-2-1 Otemachi, Chiyoda-ku, Tokyo, Japan. Asaka Office: 3-14-1 Saiwaicho, Asaka-shi, Saitama, Japan
+- **Size:** 5,268 employees, consolidated (as of March 31, 2022)
+
+## Executive Summary
+
+### Challenges
+- The opening of a new office that combines headquarters and R&D functions called for a review of the entire group's ICT infrastructure
+
+### Results & Impact
+- An environment where employees can work anytime, anywhere, quickly and securely
+- For management: employee safety and business continuity are secured, and work style reform has advanced significantly
+- For employees: work is easier than before and work-life balance has improved
+- For IT: lower operational burden and lower costs
+
+## Featured Quotes
+
+> "Our ICT infrastructure built on Zscaler has made the company itself evolve dramatically. We're still driving DX and the cloud shift across the group, and Zscaler is at the core of the foundation supporting it. We plan to keep raising the level by using it even more."
+> — **Shinji Kobayashi, General Manager, Information Systems Department, Corporate Planning Office, Shindengen Electric Manufacturing Co., Ltd.**
+
+> "We were able to keep the business running while protecting employees' lives, and we also made major progress in work style reform. Combined with flextime and working from home, we're hearing more and more people say work is easier than before."
+> — **Sho Fukuda, Manager, Infrastructure Section, Information Systems Department, Corporate Planning Office, Shindengen Electric Manufacturing Co., Ltd.**
+
+## Customer Case Study
+
+### COVID-19 Prompts a Review of the Entire Group's ICT Infrastructure
+The Shindengen Group, made up of nine companies in Japan and 13 overseas, contributes to a decarbonized society by "maximizing energy conversion efficiency." In April 2021 it opened the new Asaka Office, which brings headquarters and R&D functions together in one place. The office has drawn attention for bringing together a variety of energy-saving technologies that significantly reduce its environmental impact, for a space designed to encourage borderless communication, and for its state-of-the-art air conditioning and lighting systems.
+
+Shinji Kobayashi, General Manager of the Information Systems Department in the Corporate Planning Office, explains that the Asaka Office had three main aims.
+
+"First, by consolidating functions that were previously split between headquarters and the Hanno Plant, we wanted to tighten collaboration between divisions, create synergies and raise productivity. Second, we wanted employees to be comfortable and able to work well. To that end, we introduced free-address seating, provided meeting spaces throughout the building, made all employees eligible for flextime and set up an environment where they can work from home. Third, we wanted to maximize the benefits of consolidation with an advanced ICT environment, improving productivity and comfort and achieving both work style reform and security."
+
+Work on the ICT environment for the Asaka Office was interrupted, however, when the COVID-19 outbreak in 2020 demanded an urgent response. To keep the business running while protecting employees' lives, the company introduced VPN, VDI and RDP in April 2020 and quickly put an environment in place that supported remote work.
+
+"But because it was done in a rush, we couldn't say we had achieved the ideal. In May, management sent a message that 'we will not go back to the way things were before COVID.' Based on that, we decided to take another look at how we work and what the new office should be, and to explore a new vision."
+
+The company restarted its ICT planning for the Asaka Office, which had been on hold for about three months because of the COVID-19 response, with a new project team. It surveyed employees about their dissatisfaction with ICT to understand what users wanted. It also defined requirements from the administrator's perspective and what security should look like in the future. The result was the selection of Zscaler.
+
+### Meeting Two User Needs and Six Administrator Requirements
+Why Zscaler? From the user's perspective, Mr. Kobayashi cites two main reasons.
+
+"The employee survey showed that people were very concerned about longer commutes with the change in work location, and strongly wanted to be able to work from either the office or home. They also wanted to reach internal systems remotely from home with simple operations and a stable connection. Achieving both required a new generation of remote access, different from what we had already deployed. Our product research showed that Zscaler could deliver it."
+
+He adds that there were also six administrator requirements.
+
+"First, flexible access control: per-user control, including for sites restricted by global IP address. Second, flexible proxy PAC configuration by location, so that proxy servers can be used independent of the device. Third, integration with systems such as SIEM, CASB and device trust. Fourth, a unified security policy and further strengthened security, including control at the cloud application level. Fifth, stronger and broader operational monitoring. And sixth, cost reduction through consolidating or retiring existing systems. We judged that Zscaler could deliver all of these. We ran a PoC with Zscaler's cooperation and verified that all of them could be implemented without problems."
+
+Right after the emergency COVID response, the company began planning the new foundation. It reviewed vendors and solutions from scratch and decided to shift security from traditional perimeter defense to zero trust. The Zscaler project started in July 2020, with the PoC running from July to September.
+
+In October 2020, information system administrators representing each user department joined full-scale operational testing of Zscaler Internet Access (ZIA) and Zscaler Private Access (ZPA). ZIA went into production that December, and some on-premises proxies were retired. In March 2021 ZPA went live for company-wide systems, and SSL-VPN is being phased out.
+
+From May 2021, work began on ZPA support for departmental systems, which had been in high demand internally. It was completed in September of that year, finishing the base of the zero trust foundation. In May 2022, with the closure of the server room at the existing Hanno Plant, all on-premises security appliances were retired. In parallel, the company is testing SD-WAN with an eye toward rolling it out to the group. In January 2023, Zscaler Digital Experience (ZDX) went into production, and internet and cloud service connection status can now be seen for each user.
+
+### How the New ICT Foundation Changed the Whole Company
+"From a management perspective, this foundation has let us keep the business running while protecting employees' lives, and it has greatly advanced work style reform," says Sho Fukuda, Manager of the Infrastructure Section in the Information Systems Department.
+
+"Take meetings. Face-to-face meetings used to be the norm, and a lot of effort and time went into finding rooms and traveling. Now we have an environment where we can communicate securely with anyone, anytime, anywhere, so web meetings are the default. We don't particularly care where the other person is. We meet in person when precise communication is needed and online when it isn't, so communication fits the situation. This has also contributed a great deal to employees' work-life balance. In employee interviews, many people told us that, combined with flextime and working from home, they can now work in a way that fits their own lifestyle and find work easier than before."
+
+Mr. Kobayashi adds, "It feels like I'm working for a completely different company. I really feel the whole company has evolved."
+
+The IT department has benefited as well. Moving security from perimeter defense to zero trust meant existing security products could be retired, which lowers the operational burden and reduces costs.
+
+Together, these benefits for management, employees and the IT department earned the project the highest honor, the "Special Grade," in the company's FY2021 internal "Meritorious Service Award," which recognizes outstanding projects.
+
+"The company-wide average rate of working from home is still around 50%, but because we can work anytime, anywhere, quickly and securely, there is no disruption to daily work. Even CAD users work remotely without problems."
+
+### Zscaler at the Core of Future DX and Beyond
+Shindengen is now using this new ICT infrastructure to drive DX and the cloud shift across the group. It is also making group-wide security governance even stronger through "strengthening the organization and creating or revising rules," "consolidating dispersed systems" and "strengthening operations and education."
+
+"Zscaler is the core of the network security that supports all of this," says Mr. Kobayashi. The company plans to keep expanding its use of Zscaler and to raise the level of information leak protection across the group. "We hope Zscaler will remain a partner that supports our business foundation, by continuing to provide advanced solutions and know-how."
+
+## Additional Data Attributes
+- **Products:** Zscaler Zero Trust Exchange (ZTE); Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Digital Experience (ZDX)
+- **Solutions:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Digital Experience (ZDX)
+- **Related Customer Stories:** NEC Corporation; Sojitz Corporation; Open House Group Co., Ltd.; Dai-ichi Life Holdings, Inc.

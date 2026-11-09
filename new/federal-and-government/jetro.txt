@@ -1,0 +1,86 @@
+# JETRO, a Government Agency with Many Overseas Offices, Achieves Full Zero Trust and Security That Users Never Have to Think About
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Japan External Trade Organization (JETRO)
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/jetro
+- **Slug:** jetro
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** Japan External Trade Organization (JETRO)
+- **Description:** The Japan External Trade Organization (JETRO) is an independent administrative agency that aims to contribute to the development of Japan's economy and society through trade and investment promotion and research on developing countries. In addition to its headquarters, research institute and 49 offices in Japan, it has 76 offices in 55 countries overseas, with about 1,900 staff. Its unusually large number of overseas sites for a government-affiliated organization has made security for its information systems especially challenging. To make internet access safer, JETRO first deployed Zscaler Internet Access (ZIA) at its overseas offices and then extended ZIA to Japan. It then deployed Zscaler Private Access (ZPA) in Japan and overseas, achieving zero trust across its entire information system.
+- **Industry:** Federal and Government
+- **Headquarters:** Ark Mori Building, 1-12-32 Akasaka, Minato-ku, Tokyo, Japan
+- **Size:** Japan: 1,180; overseas: 708; total: 1,888 (as of April 1, 2023)
+
+## Executive Summary
+
+### Challenges
+- As a government agency that is an easy target, stronger security was essential
+- An overseas office suffered a cyberattack and needed an urgent response
+- COVID-19 sharply increased the need for secure access to the work environment
+- The costly IP-VPN closed network needed to be reconsidered
+
+### Results & Impact
+- Communications are secure wherever staff work
+- System support work at overseas sites reduced by 20 to 30 percent
+- Lower administrative effort and lower costs from retiring the IP-VPN network
+
+## Featured Quotes
+
+> "We've achieved strong security that doesn't stop and that users don't even notice. The only time users are aware of ZIA is when they occasionally see a logout warning. It gives them a good user experience."
+> — **Makoto Murata, Senior Staff, Planning Department, Japan External Trade Organization (JETRO)**
+
+> "As a government-related organization that's an easy target, we have to be careful about suspicious websites and emails. With Zscaler at our overseas offices, we no longer have to worry about whether connections are safe, and we can concentrate on checking the safety of the web and email."
+> — **Kimihiko Kano, Assistant Manager, Information Systems Division, Planning Department, Japan External Trade Organization (JETRO)**
+
+> "We went through a city lockdown in Chicago during COVID-19 and found ourselves with no choice but to work from home. We needed a secure access environment that covered not just internet access but also business applications in the cloud."
+> — **Akira Kawachi, Assistant Manager, Information Systems Division, Planning Department, Japan External Trade Organization (JETRO)**
+
+## Customer Case Study
+
+### Securing Information at Offices Spread Around the World
+For JETRO, which has many offices overseas as well as in Japan, information systems are the central nervous system that links its sites at home and abroad. But government-related organizations that promote Japan's presence overseas are easy targets for cyberattacks. JETRO maintains several public-facing channels, such as its website and email, so it can respond to a wide range of inquiries. Staff also have to open attachments for their work, which means JETRO is constantly exposed to attack.
+
+Kimihiko Kano, Assistant Manager in JETRO's Planning Department, Information Systems Division, says: "We get many attacks on our website, and for overseas in particular we also have to think about the safety of communications. Security for our information systems is essential." At smaller offices, staff stationed abroad sometimes have to handle systems themselves, but they are not IT specialists. Makoto Murata, Senior Staff in the Planning Department, describes the challenge of operating and maintaining systems across many sites: "From past experience, we think it's unrealistic to ask expatriate staff and local employees to handle information systems. As a result, many inquiries are concentrated in Tokyo." Depending on the region, JETRO also has to watch for maintenance vendors' lack of technical skill and compliance violations. Ensuring the health of the work environment and overseas devices was a challenge.
+
+JETRO had also run a Tokyo-centered IP-VPN closed network since around 2010. In some countries high-speed lines are expensive, so a review was needed for cost reasons as well.
+
+### An Overseas Incident Leads to Cloud Security
+In 2018, a cyberattack targeting a government project took place in Bangkok. Traces of intrusion were also found in JETRO's systems, and strengthening internet access security became urgent.
+
+Akira Kawachi, Assistant Manager in the Information Systems Division, recalls: "Compared with Japan, where we had perimeter security, we felt our overseas offices were weaker, and we were gathering information. The vendor that had built our overseas network also told us Zscaler's cloud proxy would be effective." Following the Bangkok incident, JETRO decided to deploy ZIA, first to secure access to the internet and SaaS. JETRO had also been using Office 365 (now Microsoft 365) as SaaS since 2017.
+
+"The deciding factors were that it isn't a hardware product and that the configuration isn't complicated," says Mr. Kawachi. Shipping hardware overseas raises customs and export control issues, and local installation support could not be expected. "At the time, there were hardly any software-based services other than Zscaler that worked even on slow connections. Zscaler's many access points overseas were also attractive," says Mr. Kano.
+
+JETRO set out the functions it needed as requirements and issued a public tender. Several companies bid, and every proposal turned out to be for Zscaler. In autumn 2019, JETRO ultimately deployed ZIA on PCs at its overseas offices.
+
+### COVID-19 Changes the Picture and Brings Zero Trust to Cloud Access
+Just as JETRO felt reassured about internet access at its overseas offices, COVID-19 struck. Mr. Kano says: "Until then, apart from business trips in Japan, work was done in the office, and traditional perimeter security worked fine. But in March and April 2020 we needed people to work from home, so the communications they needed for work went outside the firewall. Risk rose quickly, so we decided to put ZIA on our PCs in Japan too."
+
+ZIA in Japan was handled by the vendor JETRO had commissioned to maintain its information systems. This gave JETRO an environment in which PC access to the internet and SaaS was secure, in Japan and overseas.
+
+But that still did not mean all work could be done safely. JETRO is moving its business systems to the cloud and was considering using applications built on cloud services such as AWS (Amazon Web Services). ZIA, which covers internet access, was not enough on its own. Overseas especially, strict lockdowns in cities during COVID-19 meant people could not go to the office and were doing all their work from home.
+
+With the 2022 system renewal, JETRO therefore changed its architecture so that all systems are zero trust. It deployed Zscaler's zero trust solution ZPA and the client-side software Zscaler Client Connector (ZCC), including access to AWS and Azure AD (Active Directory). "We strengthened security on the assumption that nothing can be trusted, and we have been operating it worldwide since June 2022," says Mr. Kawachi.
+
+### Staff and Administrators Work Safely Without Thinking About Security
+How did JETRO change after following ZIA's internet access security with zero trust through ZPA? Mr. Murata says: "When hardware like VPN appliances sat in Tokyo, we had to maintain them ourselves, and if one went down we'd get calls from around the world. Introducing Zscaler has reduced that maintenance burden."
+
+"We've also been able to retire some lines used for the IP-VPN, which brings cost savings and a lighter management burden," adds Mr. Kawachi. Together, consolidating information systems in the cloud and zero trust with Zscaler have cut the workload at overseas offices by about 20 to 30 percent.
+
+There are still some challenges. Even with many access points, in some countries and regions the nearest one is far away and communication can be slow. In some countries, certain sites can only be accessed from that country or region, so connecting through an access point in another country can prevent staff from viewing the sites they need for work. "In such cases, we're also considering local breakout, which bypasses Zscaler, while securing safety through web isolation," says Mr. Kawachi.
+
+Including these points, JETRO views its measures against cyberattacks as being in good shape overall. Its focus now is on refining cost and efficiency. Mr. Kano says: "Some functions overlap between Microsoft 365 E5 licenses and Zscaler, and sorting that out is our next step." Mr. Kawachi adds: "We're also considering Zscaler Digital Experience (ZDX), which monitors and visualizes the user experience, to help us find the causes when communication is slow."
+
+Whatever the next step, the basic principle of security at JETRO is simply not to make users aware of it. Including staff stationed at overseas offices, JETRO aims to give employees a higher level of safety without their having to think about the security that systems can handle for them, so they can concentrate on their core mission of promoting Japan's trade and overseas investment.
+
+## Additional Data Attributes
+- **Products:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Zero Trust Exchange (ZTE)
+- **Solutions:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA)
+- **Related Customer Stories:** Shindengen Electric Manufacturing Co., Ltd.; Dai-ichi Life Holdings, Inc.; Balmuda Inc.; Sojitz Corporation

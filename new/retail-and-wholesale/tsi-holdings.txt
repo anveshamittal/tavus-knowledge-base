@@ -1,0 +1,95 @@
+# TSI Holdings Lays the Foundation for a Three-Year Security Roadmap with ZIA
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** TSI Holdings Co., Ltd.
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/tsi-holdings
+- **Slug:** tsi-holdings
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** TSI Holdings Co., Ltd.
+- **Description:** The TSI Group runs many brands, each with its own distinctive worldview, and in fiscal 2022 it achieved sales of more than 150 billion yen. In 2022 it announced a medium-term management plan under the banner of moving "beyond being an apparel-only company," aiming to become a "fashion entertainment creation company." To support this strategy, it is putting priority on implementing new security measures. It drew up a three-year roadmap and, as the first foundation, deployed Zscaler Internet Access (ZIA). Its goals are to block sophisticated attacks that VPN and firewalls alone cannot stop and to keep telework PCs safe. TSI Group also describes Zscaler as a "partner that stays close to us," and expects continued support going forward.
+- **Industry:** Retail and Wholesale
+- **Headquarters:** Sumitomo Fudosan Aoyama Building, 8-5-27 Akasaka, Minato-ku, Tokyo, Japan
+- **Size:** 4,206 employees (consolidated)
+
+## Executive Summary
+
+### Challenges
+- Conventional security measures are not enough to carry out a new business strategy safely
+
+### Results & Impact
+- Blocks attacks that conventional VPN and firewalls cannot stop
+- Malicious communications can be blocked even when telework PCs access the internet directly
+
+## Featured Quotes
+
+> "The main reason we chose Zscaler for our SWG is that we were confident we could build a partnership. Zscaler stayed with us in building the three-year plan even before the sale, and has continued to support us since with our management goals in view."
+> — **Takashi Matsui, General Manager, IT Promotion Department, Platform Division, TSI Holdings Co., Ltd.**
+
+> "There are two main aims in introducing an SWG. One is to block sophisticated attacks that VPN and firewalls can't stop, and the other is to keep telework PCs secure."
+> — **Daisuke Sato, IT Promotion Department, Platform Division, TSI Holdings Co., Ltd.**
+
+## Customer Case Study
+
+### Moving Beyond "Apparel-Only" to Broaden the Brand Worldview
+TSI Group (TSI Holdings) runs many brands that are loved for a long time, such as "JILL STUART" and "nano universe." It operates 57 brands, and with about 900 physical stores plus e-commerce, it achieved sales of more than 150 billion yen in the fiscal year ended February 2022. Its business model, however, is now at a major turning point.
+
+"Until now, our business centered on planning, manufacturing and selling apparel, but to expand that worldview further we drew up a new medium-term management plan in 2022," says Takashi Matsui, General Manager of the IT Promotion Department in the Platform Division at TSI Holdings. The direction of the transformation is captured in the phrase "moving beyond being an apparel-only company," with the aim of becoming a "fashion entertainment creation company." "We're changing from a company that simply plans, makes and sells clothes into one that offers fashion as entertainment to more people."
+
+TSI has also put its corporate purpose in writing: "to create global empathy and social value through the power of fashion entertainment." Its specific strategies include dramatically expanding e-commerce sales, already at 38.8 billion yen, to 76 billion yen, strengthening profitability through higher productivity and labor savings, and connecting with customers by creating new experiential value that blends with the metaverse and NFTs.
+
+To support this management strategy, TSI is pursuing IT strategy under four themes: (1) upgrading business processes across the board; (2) raising productivity so it can keep efficiently producing output customers enjoy even as the working-age population shrinks; (3) strengthening customer engagement by adding digital while retaining human contact; and (4) securing system agility so management can respond to environmental change, Mr. Matsui explains.
+
+"The business processes of the apparel industry have barely changed in the last 30 years. TSI Group is trying to create new processes by bringing digital into them."
+
+To advance this safely, security measures are of course essential. The IT Promotion Department therefore drew up a roadmap for achieving new security measures, which will roll out over three years starting in fiscal 2023.
+
+### Changes in How People Work Make Conventional Security Insufficient
+The changes in how TSI Group works are also a major reason new security measures were needed. "TSI has been pursuing many initiatives to achieve flexible ways of working," says Mr. Sato, Infrastructure Team Leader in the IT Promotion Department of the Platform Division.
+
+In 2019, ahead of a large sporting event in Tokyo planned for 2020, TSI renewed its VPN gateway to make telework the default way of working. Because TSI's Aoyama office is near the National Stadium, traffic restrictions were expected to limit commuting, Mr. Sato explains. These efforts paid off the following year when the COVID-19 state of emergency was declared. All 1,800 headquarters staff moved smoothly to telework without losing access to business systems.
+
+Beyond telework, the IT department introduced flextime ahead of the rest of the company. After clarifying the requirements for flextime and proposing it to the HR department, it gave every member of the IT Promotion Department a business mobile PC and a smartphone, with 24/7/365 access to business systems, so they could work free from constraints of place and time. Telework and flextime were later rolled out company-wide and are now well established.
+
+In parallel, TSI introduced free-address seating in its physical offices. On the network side, it made the internet lines from inside the company local breakout. It also changed internal communication by rolling out a business chat tool company-wide, enabling real-time conversation.
+
+"As we pursued these efforts, we found that security measures based on the conventional approach were no longer enough. So we identified the main points of cyberattacks that could endanger our management and business operations, and as the first step of our three-year security roadmap we decided to deploy a Secure Web Gateway (SWG)."
+
+### Choosing Zscaler for SWG for Three Reasons
+TSI Group has two main aims in deploying an SWG. The first is to deal with attacks that conventional VPN and firewalls cannot stop.
+
+"We've always inspected communications with the firewall and blocked traffic from malicious websites, but in recent years there are more attacks that disguise themselves as legitimate sites, slip past the firewall's judgment and get people to download files with viruses. We think adding an SWG will further strengthen our ability to block this kind of communication," says Mr. Sato.
+
+The second aim is to improve the safety of telework PCs. When a telework PC accesses a website directly, the traffic does not pass through the firewall installed on the internal network, creating a direct path that bypasses it. Putting an SWG in the path of this traffic lets TSI block attacks on it.
+
+TSI adopted Zscaler Internet Access (ZIA) as its SWG. Mr. Matsui explains there were three main reasons.
+
+First, ZIA met TSI Group's selection criteria. These included "offering functions that anticipate the move to zero trust," "imposing little burden or impact on work even when used by people with limited IT literacy," and "being a cloud-delivered security tool."
+
+Second, Zscaler's strong position in the industry. Zscaler has been named a Leader in the Gartner Magic Quadrant for 12 years. TSI judged that, including such evaluations, Zscaler had clear advantages over other vendors.
+
+Third, TSI could work with Zscaler as a long-term partner, not just a seller of licenses.
+
+"Zscaler stayed close to us on planning for three years even before ZIA was sold to us, and made many proposals to us. Even now it keeps making proposals, recommendations and support with our management goals in view. Through this relationship we became convinced it's a partner with whom we can build long-term trust. That is hard to come by, and it was the biggest deciding factor," says Mr. Matsui.
+
+### Expecting Zscaler to Keep Being a Partner
+As of November 2023, TSI Group is in the middle of deploying ZIA. The plan is to deploy first at headquarters, securing more than 1,000 employees, and then to consider rolling it out to nearly 900 physical stores nationwide. (Rollout was ongoing as of March 2024.)
+
+Mr. Matsui recalls that, on the way to advancing toward zero trust security, TSI also worked proactively to win over its management.
+
+"Getting management to understand new security proposals is hard in any industry, not only apparel. So we took up recent incidents that had an impact in our own industry and explained, as plainly as we could, what caused them and what impact they had on business, management, customers and stakeholders. As a result, it came to be treated as a management issue that 'can't wait,' and we were able to secure a special budget for this three-year plan."
+
+Of course, deploying ZIA is only the first step of the three-year plan, and TSI will continue its security efforts. What matters, he says, is recognizing that the conventional approach can no longer cope and moving away from symptomatic fixes.
+
+"Security measures from now on can't just solve the problem in front of us. They need to look at least three years ahead and be able to adapt flexibly to changes in the world. What we're doing now is only laying the foundation. We want Zscaler to continue as a member of this three-year project and support the promotion of security strategy across the entire TSI Group," says Mr. Matsui.
+
+## Additional Data Attributes
+- **Products:** Zscaler Internet Access (ZIA); Zscaler Zero Trust Exchange (ZTE)
+- **Solutions:** Zscaler Internet Access (ZIA)
+- **Related Customer Stories:** Sojitz Corporation; Open House Group Co., Ltd.; Balmuda Inc.

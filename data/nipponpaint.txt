@@ -1,0 +1,74 @@
+# Nippon Paint Corporate Solutions Strengthens Security at Its Domestic Sites with Zscaler Cloud Services, Securing Safety Without Burdening Users
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Nippon Paint Corporate Solutions Co., Ltd.
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/nipponpaint
+- **Slug:** nipponpaint
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** Nippon Paint Corporate Solutions Co., Ltd.
+- **Description:** The Nippon Paint Group is a leading company in its industry and supplies paint globally. Its paints are indispensable to society, used on the interiors and exteriors of automobiles, buildings, apartments and houses, as heat-shielding paint for road paving, and as ship-bottom paint that helps cut CO2 emissions while ships are underway. The group runs a broad range of businesses that solve social issues through paint. For security at its domestic group companies, it deployed Zscaler's cloud-based services. It uses Zscaler Internet Access (ZIA) as a secure web gateway to secure internet use. It then went on to deploy Zscaler Private Access (ZPA), which provides secure remote access, in preparation for moving away from thin clients.
+- **Industry:** Manufacturing
+- **Headquarters:** 2-1-2 Oyodo-kita, Kita-ku, Osaka, Japan
+- **Size:** Zscaler users: 4,300 (total across domestic group companies, as of December 31, 2023)
+
+## Executive Summary
+
+### Challenges
+- Network security at the domestic group companies had a pile of problems
+- Perimeter defense at the internet gateway and handling of access logs needed attention
+- The group wanted to move away from thin clients, which had degraded the user experience
+
+### Results & Impact
+- Zscaler's cloud-based services secure safety across the whole company
+- ZIA blocks threats coming from the internet
+- Secure device connections through ZPA pave the way away from thin clients
+
+## Featured Quotes
+
+> "Running security operations with limited staff is extremely difficult, and with Zscaler we can work with room to spare. We can show our security measures externally, operations take less effort, and we've built an environment we can rely on."
+> — **Makoto Kawaguchi, Group Manager, Server & Network Group, System Infrastructure Office, IT & Solutions Department, Nippon Paint Corporate Solutions Co., Ltd.**
+
+## Customer Case Study
+
+### Moving Away from Weak Security: Blocking Threats at the Gateway with ZIA
+Nippon Paint Corporate Solutions supports the businesses of domestic companies in the Nippon Paint Group, which operates broadly across the paint industry, including highly specialized paints. It builds and operates the ICT infrastructure and information systems of the group companies. Makoto Kawaguchi of the IT & Solutions Department, who is in charge of the group's servers and networks, says he "recognized from the beginning that there were problems with the network and security." Defense at the gateway to the internet was weak, and the company wasn't even collecting access logs adequately. It started making improvements in 2020 to get out of this situation.
+
+The first problem it tackled was protecting the gateway between the internet and the company. To block threats there, it introduced a secure web gateway (SWG). "On-premises equipment is costly and takes effort to run, and it's hard to keep up with new threat patterns, so we considered SaaS products first. With SaaS products, being able to use access log management at the same time was also attractive," says Mr. Kawaguchi.
+
+When it looked at several SaaS products that could provide an SWG, "there weren't many vendors offering SWG as SaaS at the time, and from their track record and what the supplying vendor told us, we judged Zscaler's ZIA to be effective," he says.
+
+ZIA of course met the functional requirements too. The premise was to affect operations as little as possible, so it was important that migration from the existing environment, which used proxy servers, be easy. Being able to use it through single sign-on (SSO) from Azure AD was also welcome. "We could use ZIA without increasing user authentication, which was a relief," Mr. Kawaguchi recalls. Looking ahead, its strong affinity with SIEM, which collects log data from security devices and automatically detects and reports threats, and with SD-WAN, which controls networks with software, was another factor in choosing ZIA. The company began operating ZIA across the entire group in 2021 and moved to deal with threats at the internet gateway.
+
+### Remote Access Without Installing a New Client App: Resolving the Usability Problems of Thin Clients
+While dealing with threats from the internet, the company had not touched the problems of the thin client system used for work. The screen-transfer thin client system secured a certain level of security, but some applications, such as web conferencing, could not be used in the thin client environment, so a PC was needed as an endpoint. "We were investing twice, in thin client servers and in PCs as endpoints, and the burden was growing. The thin client system was degrading user experience, and the poor usability had become visible to the point of affecting work," says Mr. Kawaguchi.
+
+The company therefore decided to eventually retire thin clients and do all work on PCs. The problem was security for access from outside the company, which had been secured by screen transfer. "It was hard to consider introducing a VPN, whose vulnerabilities have been pointed out, so we looked at cloud-based remote access solutions. That's how we chose ZPA."
+
+The company already used ZIA and had Zscaler Client Connector (ZCC), Zscaler's client application, on every PC. The biggest reason for choosing ZPA was that it could be used without installing a new client app or training people on a different login method.
+
+"Since ZCC is already installed, with ZPA you just apply a policy. If a user has to perform a new procedure that takes one minute, once a day, and they work 200 days a year, that adds up to an enormous number of person-hours across the whole company. With ZPA there's no new effort for users," says Mr. Kawaguchi. The company began deploying ZPA in 2023 and intends to retire its thin client servers in fiscal 2024 or later.
+
+In parallel with ZPA, the company also deployed Zscaler Digital Experience (ZDX), a cloud platform that comprehensively monitors communication from the user's device to SaaS. "We've only just introduced it, but we expect ZDX to make faults visible and cut the downtime caused by failures," says Mr. Kawaguchi.
+
+### Using an Assessment as the Yardstick: ZIA Is Effective at Blocking Threats
+The Nippon Paint Group has deployed Zscaler's cloud-based services one after another, from ZIA to ZPA to ZDX, but it did not add products blindly. "To improve on where we started, we first worked with a vendor on an assessment of our security posture. Specifically, we evaluated security and availability using information security standards and information security guidelines used overseas as references. Without knowing where we stand, we can't even set goals," Mr. Kawaguchi recalls. Having numbers to back it up also made it easier to make the case for Zscaler to management.
+
+"After deploying Zscaler's cloud-based services, we're exceeding our target values. When business partners ask about our security requirements, we can answer right away that we meet them. Because we moved ahead of the curve, there turned out to be a benefit externally as well."
+
+Mr. Kawaguchi, who looks after servers and networks, feels the benefits too. "With ZIA, we now get reports of threats it has blocked. Being able to see the threats and the record of what's been blocked gives us the reassurance that we're properly protected. We're not hearing complaints like 'hard to use' or 'hard to connect' from internal users, so I think we're running in a good state."
+
+There were challenges before operation stabilized. "When we introduced ZIA, it's true that a large number of blocks occurred until the whitelist and blacklist operations stabilized. Tuning the SSL inspection we introduced to check for threats in SSL-encrypted traffic also took some effort. We were able to find the right balance by consulting with Zscaler and the deployment vendor, which helped," says Mr. Kawaguchi.
+
+Looking ahead, Mr. Kawaguchi says, "Zscaler is complete as a cloud-based service. So I expect new technologies to be handled smoothly, and I'd like to work on data leak prevention in the future." Security is endless, and new threats and new defenses keep demanding a response, so he says Zscaler, a reassuring cloud-based service, earns a high level of trust. "It's reassuring that Zscaler doesn't just provide security products but proposes overall security from our point of view," says Mr. Kawaguchi, who rates Zscaler highly as a solution partner.
+
+## Additional Data Attributes
+- **Products:** Zscaler Zero Trust Exchange (ZTE); Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Digital Experience (ZDX)
+- **Solutions:** Zscaler Private Access (ZPA); Zscaler Digital Experience (ZDX); Zscaler Internet Access (ZIA)
+- **Related Customer Stories:** SBS Holdings, Inc.; Shionogi & Co., Ltd.; TSI Holdings Co., Ltd.

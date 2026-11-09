@@ -1,0 +1,85 @@
+# Fukuoka Hibiki Shinkin Bank Automates Whitelist Maintenance with ZIA and Expects 80% Lower Costs
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Fukuoka Hibiki Shinkin Bank
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/fukuokahibiki
+- **Slug:** fukuokahibiki
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** Fukuoka Hibiki Shinkin Bank
+- **Description:** Fukuoka Hibiki Shinkin Bank marked its 100th anniversary in 2024. Across Fukuoka Prefecture, where its head office is located, and in Shimonoseki City in Yamaguchi Prefecture and Nakatsu City in Oita Prefecture, it supports the lives of local people. It is affectionately known as "Hibishin." The bank had long achieved a solid defense through perimeter security. But as it expanded its use of cloud services, centered on Microsoft 365, the effort of frequently adding entries to the whitelist on its UTM (unified threat management) became a problem. This challenge led the bank to look at zero trust security with Zscaler products, and it now uses Zscaler for internet access and remote access.
+- **Industry:** Financial Services and Insurance
+- **Headquarters:** 2-8-1 Ogura, Yahatahigashi-ku, Kitakyushu, Fukuoka, Japan
+- **Size:** 557 employees (as of March 31, 2023)
+
+## Executive Summary
+
+### Challenges
+- With the conventional whitelist approach to permitting access, destination URLs and IP addresses change frequently, so handling it in-house had reached its limit
+- Remote access through virtual desktops (VDI) over a closed-network SIM was reported to be slow
+
+### Results & Impact
+- With ZIA, whitelist updates are automated on the cloud side, reducing workload
+- The existing UTM can be scaled down, and costs are expected to fall by 80%
+- ZPA speeds up remote access and also helps with iPhone security, among other benefits
+
+## Featured Quotes
+
+> "Registering entries on the UTM whitelist is no longer necessary. Access to Microsoft 365 and other services is controlled on the cloud side, which has significantly lightened our workload."
+> — **Atsushi Yoshida, Executive Officer, General Manager of the Systems Department and Head of the DX Promotion Office, Fukuoka Hibiki Shinkin Bank**
+
+> "ZPA has made the VDI environment comfortable. We're definitely getting the benefit of higher speed with ZPA. We can now use web conferencing comfortably."
+> — **Masayuki Miyaji, Senior Specialist, Systems Department, Fukuoka Hibiki Shinkin Bank**
+
+## Customer Case Study
+
+### Microsoft 365 Use Pushes UTM Whitelist Management to Its Limit
+The Systems Department of Fukuoka Hibiki Shinkin Bank handles the bank's information systems from end to end, including server management, PC maintenance, software development and management, and cybersecurity. Atsushi Yoshida, Executive Officer, General Manager of the Systems Department and Head of the DX Promotion Office, says: "It's a tradition for us to handle everything ourselves, from software development to network management and security, without relying on SIers." Every member of the Systems Department, including Mr. Yoshida, has branch experience. The thinking is that without knowing the work unique to financial institutions, you can't do the development that's needed.
+
+A turning point came for the bank's Systems Department when the bank shifted its policy toward using the Microsoft 365 cloud service as well as software built in-house. "When using cloud services such as Microsoft 365, we connected through our perimeter-security UTM (unified threat management) system using a whitelist approach," says Mr. Yoshida.
+
+The URLs and IP addresses used to connect to cloud services change irregularly, at least about once every six months. There are announcements, but unless the bank checks proactively and registers the changes, it can't connect to the service. An in-house operation could only go so far, and the time to renew the UTM was drawing near.
+
+"So around July 2022 we began considering a move from perimeter security with UTM to zero trust security," says Masayuki Miyaji, Senior Specialist in the Systems Department. The minimum requirements were to be able to operate the same way as the UTM whitelist approach and to run the virtual desktop (VDI) product that the bank used on its closed network.
+
+Around the same time, "there was also talk of lending iPhones to staff for calls and internet access. We needed to think about internet-side security measures for the iPhones too," says Mr. Yoshida.
+
+### Choosing Zscaler Products That Meet the Requirements and Have a Track Record in Financial Institutions
+The bank looked at several zero trust security products. The first product it ran a PoC on could not run the existing VDI product, one of the requirements. "On investigation, we found that at the time that product could only use TCP as a private access port, so the UDP used by our existing VDI product couldn't get through," says Mr. Miyaji. That led the bank to look at Zscaler.
+
+"When we talked to Zscaler, it turned out that Zscaler Internet Access (ZIA), which provides secure access to the internet and SaaS, had been used with our existing VDI product. We had also seen its many deployments at financial institutions, so it became a strong candidate," says Mr. Yoshida. Beyond reducing the whitelist work around Microsoft 365, Zscaler products had other features that appealed to the bank.
+
+One was moving away from remote access over a closed network. The bank had provided access from outside by putting a closed-network SIM in tablets and using remote access through the VDI environment over a closed-network connection. But mobile lines using closed-network SIMs have bandwidth limits, and screen-transfer VDI caused delays that frustrated staff. "Zscaler has Zscaler Private Access (ZPA), a remote access solution, and with it we can do remote access over the internet without closed-network SIMs. We expected VDI use to become smoother," says Mr. Yoshida.
+
+A further tailwind was that when iPhones are introduced, a user with multiple devices is counted as one user, so internet access security can be consolidated on Zscaler with no additional licenses.
+
+> "ZPA has made the VDI environment comfortable. We're definitely getting the benefit of higher speed with ZPA. We can now use web conferencing comfortably."
+> — **Masayuki Miyaji, Senior Specialist, Systems Department, Fukuoka Hibiki Shinkin Bank**
+
+### Scaling Down the UTM with 80% Cost Savings Expected and Far Less List Maintenance
+After weighing everything, Fukuoka Hibiki Shinkin Bank decided to adopt Zscaler products. It began full-scale deployment in spring 2023 with 700 IDs of ZIA, and ZPA started operating in June 2024, timed with the renewal of its tablets.
+
+On deploying ZIA, Mr. Yoshida says: "We used it first in the Systems Department and switched over in about a month. No special settings were needed on the client side, so we could deploy early." Still, not everything went smoothly. "The whitelist settings for Microsoft 365 were very easy. But we also had to create whitelists for other services, and the user interface differs from our previous UTM, so it took some trial and error to get used to it. Still, I felt that going through the difficulty of building it ourselves was part of the learning for long-term operation."
+
+What are the actual results? "Above all, not having to maintain the Microsoft 365 URLs is a big reduction in workload. We no longer get internal inquiries about being unable to connect," says Mr. Yoshida. The benefits don't stop there. The bank was able to scale down its existing UTM significantly while keeping some of its functions. "We expect a cost reduction of 80 percent over five years," he says.
+
+Mr. Miyaji, who used ZPA, brought in as a replacement for the closed-network SIM for remote access, ahead of its June 2024 rollout, says: "We're definitely getting the benefit of higher speed. VDI runs smoothly, and we can now join web conferences, which wasn't possible over the closed-network SIM connection. When working remotely we used to need two devices, one for VDI and one for web conferencing. Now we need only one."
+
+As of July 2024, about 60 percent of staff had been lent an iPhone, and the bank plans to extend this to all staff. For internet access from iPhones, security is ensured by blacklist-based restrictions through ZIA.
+
+Mr. Yoshida says of the Zscaler products the bank has been rolling out: "So far the evaluation is excellent. When we think about promoting zero trust security in the future, I feel that already having Zscaler in place may become the backbone of the story." One example is that the existing VDI environment could become unnecessary thanks to the security provided by ZIA and ZPA, allowing convenient remote access with fat-client devices.
+
+In addition, "we're also considering introducing browser isolation with Zscaler Browser Isolation. At the moment we have a separate environment for internet connection, apart from the one for work, but if we can use Browser Isolation, we can get safe internet connection on a single device," says Mr. Miyaji.
+
+"The Financial Services Agency is pointing toward zero trust because security based on boundary separation is becoming difficult. Fukuoka Hibiki Shinkin Bank had originally been committed to defending firmly with a perimeter, but introducing Zscaler changed our thinking. Security can't be something we say we're still considering. We'll take an agile approach to zero trust security: try it, withdraw if it doesn't work and continue if it does," says Mr. Yoshida, expressing the bank's drive to get ahead of coming changes in financial institution security.
+
+## Additional Data Attributes
+- **Products:** Zscaler Zero Trust Exchange (ZTE); Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA)
+- **Solutions:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA)
+- **Related Customer Stories:** The Bank of Saga, Ltd.; Dai-ichi Life Holdings, Inc.; The 77 Bank, Ltd.

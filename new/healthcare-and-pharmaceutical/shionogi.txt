@@ -1,0 +1,92 @@
+# Shionogi Adopts Zscaler to Raise Convenience and Security Together, Making It the Linchpin of Its Hybrid IT Infrastructure
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Shionogi & Co., Ltd.
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/shionogi
+- **Slug:** shionogi
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** Shionogi & Co., Ltd.
+- **Description:** In June 2020, Shionogi formulated the "SHIONOGI Group Vision (2030 Vision)." It is evolving from a "drug discovery-based pharmaceutical company" that supplies mainly prescription drugs into a "HaaS (Healthcare as a Service) company" that provides healthcare services. To support this, Shionogi is also moving its IT infrastructure to a hybrid cloud, and it uses Zscaler to secure it. Shionogi introduced Zscaler in 2020 to solve frequent delays in internet access through the data center, connection delays on the VPN as telework spread rapidly, and inadequate monitoring and control of mobile device communications, and it has seen good results. Going forward, Zscaler is expected to contribute even more as the linchpin of the security architecture for its hybrid cloud infrastructure.
+- **Industry:** Healthcare and Pharmaceutical
+- **Headquarters:** 3-1-8 Doshomachi, Chuo-ku, Osaka, Japan
+- **Size:** 5,680 employees, consolidated (as of the end of March 2023)
+
+## Executive Summary
+
+### Challenges
+- Internet access went through the data center, causing frequent delays. At the same time, increased working from home had begun to cause connection delays on the VPN, and monitoring of mobile device communications was inadequate
+
+### Results & Impact
+- All communications, including those from mobile devices and devices within sites, can be monitored and controlled in one place
+- When collaborating with users outside the company, Shionogi can respond quickly by changing settings in Zscaler
+- Shionogi is now moving its entire IT infrastructure to a hybrid cloud, and Zscaler is expected to be the linchpin of the security architecture there as well
+
+## Featured Quotes
+
+> "Zscaler's concept matches what we want to do. We hope you'll continue to hold to that direction and way of thinking without wavering."
+> — **Ryohei Nishimura, Group Leader, IT Frontier Group, IT & Digital Solutions Unit, IT & Digital Solutions Department, DX Promotion Division, Shionogi & Co., Ltd.**
+
+> "We chose Zscaler for three main reasons: its global track record, its strong compatibility with the IDaaS, EDR and MDM products we had already deployed, and its ability to fix the source IP address."
+> — **Maraki Nasu, IT Frontier Group, IT & Digital Solutions Unit, IT & Digital Solutions Department, DX Promotion Division, Shionogi & Co., Ltd.**
+
+## Customer Case Study
+
+### Moving IT Infrastructure to a Hybrid Model to Realize the Corporate Vision
+Shionogi & Co., Ltd. was founded in 1878 as "Shionogi Saburo Shoten" and has a history of more than 140 years. Since its founding, under the basic policy of "always providing the best medicines needed to protect people's health," it has stayed committed to in-house drug discovery and has created many prescription medicines. In June 2020 it formulated the "SHIONOGI Group Vision (2030 Vision)," setting out a new direction for the next ten years. It aims to strengthen the capabilities built through prescription drug discovery and, with that as its core, to collaborate with diverse partners to build a new platform for healthcare services, creating the future of healthcare.
+
+"This vision is closely tied to our IT strategy," says Ryohei Nishimura, Group Leader of the IT Frontier Group in the IT & Digital Solutions Unit. To keep taking on new challenges, to keep responding to increasingly sophisticated and individualized medical and social needs, and to work with a wide range of people, IT must meet many new needs, he explains.
+
+"How can IT best support what the company wants to do as a business? We're still exploring this in many ways, and one thing we've been working on recently is moving our IT infrastructure to a hybrid cloud. Until now we used public cloud in places, but basically we built our systems on-premises. From here on, we'll need to build an environment where people can use resources safely and securely wherever and whatever they are, and deliver them quickly. By providing IT infrastructure that makes that possible, we want to respond to the many new needs that will arise."
+
+Securing the entire hybrid cloud is naturally a requirement, and Shionogi uses Zscaler for that. But the original purpose was different, recalls Maraki Nasu of the IT Frontier Group in the IT & Digital Solutions Unit.
+
+"We decided to adopt Zscaler in 2020, but the idea of a hybrid cloud hadn't been clearly set out yet. There were three main reasons we looked into it then."
+
+### Three Challenges Behind the Decision to Adopt Zscaler
+The first reason was frequent network delays. "Our network at the time always routed internet use through the data center. Traffic from every site concentrated there when accessing the internet, and we often couldn't reach the internet at all, which was a nuisance for users," says Mr. Nasu.
+
+The second was growing load from remote connections. In 2020, the first state of emergency was declared as COVID-19 spread, and many companies shifted to telework. Shionogi also introduced company-wide working from home around then. But the VPN-based remote connection environment of the time had not been designed for company-wide work from home and could not keep up with the growing number of people doing so, Mr. Nasu recalls.
+
+The third was a growing need to monitor and secure mobile device communications. "This is a bit of a different context, but for PCs we monitored communications by routing them through the proxy and firewall in the data center. For mobile devices such as iOS, we managed the devices with MDM but couldn't adequately monitor communications or apply security measures."
+
+To solve these problems, Shionogi began considering a secure gateway and compared several SASE products before selecting Zscaler. Mr. Nasu explains why:
+
+"First we built a comparison table, but every product met the required functions, and it was hard to make a decisive comparison from the feature list alone. From other angles, though, there were three deciding factors."
+
+### Visibility and Control of All Communications with Zscaler
+The first deciding factor was track record. Shionogi valued that Zscaler is widely used around the world.
+
+The second was strong compatibility with the IDaaS, EDR, MDM and other products Shionogi already used. Integrating properly with them was a must for product selection.
+
+The third was Zscaler's ability to fix the source IP address. By then Shionogi had decided to move security functions to the cloud, but various on-premises business systems remained and some of the SaaS it used applied IP address restrictions. The ability to fix the outbound IP address was therefore very attractive.
+
+Mr. Nishimura adds that he found Zscaler comparatively interesting. "From the first time I saw it, I felt it was a challenging product. It had several features that other vendors hadn't yet implemented, and I really wanted to try it."
+
+What benefits has Shionogi actually seen from Zscaler?
+
+"It may sound obvious, but the first I'd cite is that we can now see and control all communications, including mobile," says Mr. Nasu. Monitoring and securing mobile device communications was one of the key goals when selecting Zscaler. After deployment, communications from devices at every site, not only mobile devices, can all be seen and controlled in one place through Zscaler. "From an IT governance standpoint, I think this has been very good."
+
+When it introduced Zscaler, Shionogi also replaced the wireless LAN at each site and introduced local breakout at the same time. Combining them has improved convenience. Sites now go straight out to the internet instead of through the data center, and passing through Zscaler at that exit makes it easier to secure communication speed while keeping security in place.
+
+Shionogi also integrates with EDR. This lets it check the configuration and certificate status of the EDR in use and apply access control that takes device-side risk into account.
+
+Mr. Nasu cites one more benefit: finer-grained remote access control for VDI. "When accessing via VDI remotely, users used to be able to reach any resource from the internal VDI. Now, with Zscaler's application controls, they can only reach the resources that relate to them."
+
+### Zscaler Remains the Linchpin of Security
+"Just using it with local breakout has made us dramatically more flexible," says Mr. Nishimura. Avoiding communication bottlenecks while securing every site's internet access has been hugely significant, he notes. "It's also important that we can monitor and set security centrally in Zscaler, rather than adjusting settings on each server or resource. As we collaborate with a wide variety of people outside the company, we'll need to be able to set right away how far each account can go."
+
+As Shionogi moves its IT infrastructure to the hybrid cloud, expectations for Zscaler are higher still. It is expected to play an important role as the linchpin of the security architecture.
+
+"We're still thinking up new things and trying new improvements every day. What we want from Zscaler is to keep its direction, philosophy and concept steady and unwavering. Zscaler's concept matches what we want to do. We want to keep Zscaler as our security foundation and move forward with integrating the entire hybrid cloud environment," says Mr. Nishimura.
+
+## Additional Data Attributes
+- **Products:** Zscaler Zero Trust Exchange (ZTE); Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA)
+- **Solutions:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA)
+- **Related Customer Stories:** The Bank of Saga, Ltd.; Japan External Trade Organization (JETRO); NEC Corporation

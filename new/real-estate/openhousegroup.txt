@@ -1,0 +1,104 @@
+# Open House Group Moves to Zero Trust Networking and Security to Support Its Rapid Growth
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Open House Group Co., Ltd.
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/openhousegroup
+- **Slug:** openhousegroup
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** Open House Group Co., Ltd.
+- **Description:** Open House Group is a comprehensive real estate group that has set record sales and operating profit for ten consecutive fiscal years through September 2022. As its business grew rapidly, the operational burden on its system infrastructure rose sharply. To solve this at the root and establish a foundation for further growth, the group set out to rethink its networking and security. It adopted a zero trust network built on Zscaler. Deployment began in December 2022, and company-wide rollout started just four months later. In October 2022 the group published its "DX White Paper," in which the zero trust network built here is positioned as a key element of its security measures.
+- **Industry:** Real Estate
+- **Headquarters:** JP Tower 20F (general reception) and 21F, 2-7-2 Marunouchi, Chiyoda-ku, Tokyo, Japan
+- **Size:** 4,493 employees, consolidated (as of the end of September 2022)
+
+## Executive Summary
+
+### Challenges
+- Rapid business growth sharply increased the burden of system operations, and a review of the system infrastructure became urgent to support future growth
+
+### Results & Impact
+- Resolved a range of problems with the legacy network and security
+- Delivered an easy-to-use environment that users don't have to think about
+- Live logs make it easy to experiment with settings, and the team's understanding of zero trust deepened in a short time
+
+## Featured Quotes
+
+> "We chose Zscaler mainly for three reasons: it's easy to use, it doesn't go down, and it doesn't slow us down. Zscaler is also investing in infrastructure at an overwhelming pace, and we valued it as a company that can keep pace with us as we aim to be No. 1 in the real estate industry."
+> — **Kensuke Saeki, Section Chief, Application Group, Information Systems Department, Open House Group Co., Ltd.**
+
+## Customer Case Study
+
+### System Operations Wearing Thin Behind Rapid Growth
+Open House Group keeps growing quickly in real estate, with businesses that include selling and brokering residential property, developing detached homes and condominiums, and building custom homes. It listed on the First Section of the Tokyo Stock Exchange in 2013, its sixteenth year since founding, and it also runs a U.S. real estate investment business overseas. In the nine years since listing it has grown sales tenfold, and sales are expected to exceed 1 trillion yen in the fiscal year ending September 2023.
+
+"Behind this rapid growth, we have always felt growing pains," says Mr. Ito of the Information Systems Department at Open House Group. As sales grew, so did headcount, offices and group companies, and the number of devices and systems to manage in IT grew rapidly with them. "On top of that, with DX, we were moving from on-premises to the cloud and making more active use of data, and the traffic flowing across our network was rising sharply as well."
+
+More devices, systems and traffic also meant more security incidents. Operating the way it always had, the team could no longer keep up with incident response. Even as operations staff worked desperately, others' opinion of them declined. Work piled up on a few individuals, and fatigue set in. They couldn't hand tasks over to newer colleagues because they were too busy, and a feeling took hold that "working hard doesn't pay off." With little time to hand over operations, and with hiring costs rising in recent years, they also couldn't simply recruit new people.
+
+"To get out of this negative loop, we needed to fundamentally rethink infrastructure operations and overhaul the network structure itself," Mr. Ito says. That is why the team decided to adopt SASE.
+
+The first step was to clarify the problems in networking and security. Mr. Saeki of the Information Systems Department explains:
+
+"Our old network connected each site to a data center in the Kanto area. We reached internal systems there, and internet and public cloud traffic also went through the data center. That created three major problems in networking and four in security."
+
+> "Behind our rapid growth, we have always felt growing pains. To get out of the negative loop of mounting operational burden, we needed to fundamentally rethink infrastructure operations and overhaul the network structure itself."
+> — **Yu Ito, Section Chief, Infrastructure Group, Information Systems Department, Open House Group Co., Ltd.**
+
+### Focusing on Ease of Use as Well as "Never Down" and "Lower Risk"
+The team sorted the problems as follows.
+
+**Networking challenges**
+1. Inadequate BCP because everything was concentrated in one data center. As traffic grew rapidly, network connections were increasingly unstable.
+2. Delays, because each site reached the internet through the data center.
+3. Rising costs when adding sites or handling M&A, because every site had to connect to the data center.
+
+**Security challenges**
+1. Security appliances were installed on-premises, so keeping up with the latest threats took effort, and the appliances were also a single point of failure.
+2. Protection against internal misuse and attacks was insufficient.
+3. With M&A and new companies, proxy servers meeting each company's required standards were set up one after another, leading to proxy sprawl and a growing management burden.
+4. Security governance was inconsistent, including at overseas sites.
+
+In building infrastructure to solve these problems, "never down" and "lower risk" were naturally essential. But to avoid holding back the company's growth, Mr. Saeki says, two more requirements had to be met: users shouldn't have to think about it, and it had to be easy to use.
+
+"At first we had many ideas, such as upgrading the existing equipment, building an in-house team, or using an operations outsourcer, but in the end we decided on Zscaler. There are three main reasons." (Mr. Saeki)
+
+First, Zscaler is easy to use and users don't notice it. Users can reach both internal and external resources without being aware of which is which.
+
+Second, it doesn't go down. "We compared other services, and Zscaler delivers overwhelming availability of 99.999%." (Mr. Saeki)
+
+Third, it doesn't slow you down. It had always been accepted that adding security functions meant more communication between appliances and therefore delays. Zscaler delivers all security functions as a single service, and patented technology keeps communication from being delayed, so a high level of security comes without latency.
+
+Beyond these technical features, Mr. Saeki adds, there is another important point: the scale and speed of Zscaler's infrastructure investment. "We, too, are expanding at tremendous speed with the aim of becoming No. 1 in the real estate industry. In the end we chose Zscaler as a company that can keep up with us at that same pace."
+
+### Live Logs Speed Up Learning the Right Settings
+Deployment of Zscaler began in December 2022, with a trial in one section of the IT department.
+
+"At first we couldn't get the settings right, and some sites weren't reachable. We worked through each issue by identifying the cause and fixing them one by one," recalls Mr. Watanabe of the Information Systems Department. Zscaler's live log feature played a key role. "When we try a new setting, we can see the result immediately. That let us isolate problems quickly and deepen our understanding of zero trust in a short time."
+
+A pilot rollout began in February 2023. The team deployed Zscaler Client Connector to the PCs of the Information Systems Department and neighboring departments using its IT asset management tool. Silent installation required no user action at all, so users simply logged in to Zscaler and started using it, and the transition went smoothly.
+
+Company-wide rollout started in April 2023 and is proceeding in stages. In July 2023, when users are expected to be used to Zscaler, the company plans to make Zscaler mandatory on PCs across the company, so that internet access is not possible without being logged in. In August 2023 the company plans to extend it from PCs to company smartphones, making access from outside to internal applications more secure still.
+
+> "We were able to start the company-wide rollout four months after we began deployment. That's because Zscaler covers a wide range of functions, live logs make trial and error easy, and vendor support and the official manuals are thorough."
+> — **Yu Watanabe, Infrastructure Group, Information Systems Department, Open House Group Co., Ltd.**
+
+### An Important Element of the Group's DX Strategy
+There are two things to note about Open House Group's deployment of Zscaler. One is that it went from starting deployment to beginning company-wide rollout in just four months. Mr. Watanabe puts this down to the wide range of functions Zscaler covers, the ease of trial and error with live logs, and thorough vendor support and manuals.
+
+The other is that the group is deploying Zscaler's three main services, Zscaler Internet Access (ZIA), Zscaler Private Access (ZPA) and Zscaler Digital Experience (ZDX), at the same time. Mr. Watanabe explains that using ZPA in place of the old VPN and ZIA for secure internet access gives users a clear, simple environment. Visualizing performance with ZDX also makes it easier to pinpoint causes when users have questions, which the team expects to reduce operational effort.
+
+In October 2022, Open House Group published its "DX White Paper," which sets out its overall DX strategy and future initiatives. Achieving SASE with Zscaler is positioned there as an important element of its security measures.
+
+"Zscaler is an essential solution for us. By providing an environment where people can use applications and the internet safely anytime, anywhere, we will raise productivity and respond quickly as the business expands." (Mr. Watanabe)
+
+## Additional Data Attributes
+- **Products:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Digital Experience (ZDX)
+- **Solutions:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Digital Experience (ZDX)
+- **Related Customer Stories:** Sojitz Corporation; Japan External Trade Organization (JETRO); Shindengen Electric Manufacturing Co., Ltd.; The Bank of Saga, Ltd.

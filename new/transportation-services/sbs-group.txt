@@ -1,0 +1,93 @@
+# SBS Holdings Achieves a Network "Paradigm Shift" with Zscaler and Realizes M&A Synergies in a Short Time
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** SBS Holdings, Inc.
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/sbs-group
+- **Slug:** sbs-group
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** SBS Holdings, Inc.
+- **Description:** The SBS Group has grown rapidly through active M&A of national-brand logistics companies. It is now making a "paradigm shift" from a conventional network centered on closed networks to a zero trust network built on Zscaler. The aim is to make the network migration of acquired subsidiaries smoother, so that the new value created through M&A synergies can be realized in a short time. SBS chose Zscaler for its zero trust network because it takes very little time to set up and is easy to roll out in stages. It has already cut network migration time significantly and has also improved security and user experience.
+- **Industry:** Transportation Services
+- **Headquarters:** 25F Sumitomo Fudosan Shinjuku Grand Tower, 8-17-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo, Japan
+- **Size:** 23,562 employees, consolidated (as of the end of December 2023)
+
+## Executive Summary
+
+### Challenges
+- SBS had grown quickly through an aggressive M&A strategy, but network migration took time and effort, which lengthened the time it took to create value from synergies
+
+### Results & Impact
+- Significantly shorter time to integrate the networks of acquired subsidiaries
+- Value from M&A synergies realized sooner
+- Better security and a better user experience
+
+## Featured Quotes
+
+> "We adopted Zscaler for zero trust because I was surprised at how easily the environment could be built. The ability to roll it out in stages was also a big source of reassurance."
+> — **Takeshi Miyazaki, Section Manager, IT Infrastructure Strategy Section, Group IT Infrastructure Division, SBS Holdings, Inc.**
+
+## Customer Case Study
+
+### SBS Group's M&A Is Not "Sell and Done"
+Since its founding in 1987 with what was then a groundbreaking service, same-day delivery in the Tokyo metropolitan area, the SBS Group has kept growing rapidly. In 2022, its 35th year, consolidated net sales passed 454.4 billion yen and operating income exceeded 21.8 billion yen. This growth is supported by a combination of diverse logistics functions spread across the globe, an innovative ability to propose solutions, and a speed that few can match. With these, the group continues to lead a "paradigm shift in logistics."
+
+But there is another factor in the group's growth that must not be overlooked: its continued aggressive M&A strategy.
+
+After listing on JASDAQ in 2003, SBS acquired Yukijirushi Logistics (now SBS Flec) in 2004 and Tokyu Logistic, TL Transport and Odakyu Transport (all now SBS Logicom) in 2005. It has since acquired the logistics subsidiaries of several major Japanese companies, and in 2021 it acquired Furukawa Logistics (now SBS Furukawa Logistics). Total investment over these 20 years is about 83 billion yen. Through PMI (post-merger integration, the process of integrating after M&A), the group has raised corporate value, growing sales 24-fold and operating income 56-fold.
+
+"Over these 20 years, companies that carry national-brand logistics have joined the group one after another," recalls Takeshi Miyazaki, Section Manager of the IT Infrastructure Strategy Section in SBS Holdings' Group IT Infrastructure Division. He explains the group's style of M&A:
+
+"The new transport subsidiaries joining the SBS Group don't cut ties with their former parent companies, who were the sellers. We don't buy all of the shares either, and a certain amount of stock stays with the former parent. We do M&A this way because the former parent continues to expect the subsidiary to play the role of 'carrier.' In other words, the relationship with the former parent is maintained as a customer relationship."
+
+The biggest reason sellers sell while continuing to expect their former subsidiaries to serve as carriers is that joining SBS, a group specialized in transportation, makes more advanced transportation possible than keeping the company as their own transport subsidiary. SBS Group's M&A is meant not as "sell and done" for the seller, but as something that creates more value than before.
+
+### Changing the Approach to Shorten Network Migration
+To make this kind of M&A succeed, Mr. Miyazaki points out, it is important that the acquired transport subsidiary moves smoothly from the seller group's IT network to the SBS Group's network.
+
+"When we sell a subsidiary while maintaining a customer relationship, not only must there be no major trouble in the network migration, the security level after migration must also stay high. The parent companies of the firms we've acquired evaluated this carefully before choosing us as their M&A counterpart. If we had not met that expectation, we would not have been able to carry out so many M&A deals over these 20 years, nor would we have achieved the rapid growth that came with them."
+
+In the past, though, network migration posed a big challenge. Because the approach centered on closed networks, building a dedicated network for each acquired subsidiary and integrating it into the SBS Group's intranet required planning that took nearly a year.
+
+"With the conventional approach, risk analysis took three to four months and connection testing took about six months. That required a lot of advance planning and investment, and a lot of effort. What we got in return was the same security level and user access as the existing environment, so the added value for the investment was never large. There was also the problem that it took time for M&A synergies to appear."
+
+To solve this, the SBS Group decided to move away from the closed-network idea of "connecting users and applications through an extended network." It deployed a zero trust network built on Zscaler. This was a paradigm shift to a world in which "you decide who can access what, over any network."
+
+### Two Reasons SBS Chose Zscaler for Zero Trust
+The SBS Group began considering a zero trust network in October 2020. Mr. Miyazaki explains why it chose Zscaler.
+
+"I found Zscaler Private Access myself and tested how it behaved, and I was impressed by how little time it takes to build the environment. To make a test environment, I followed a demo video titled 'Create a Zscaler Private Access environment,' made by someone who had joined Zscaler only two months earlier, and a document called 'Your First ZPA.' I thought I could probably do this myself, started building, and it was done in just one day. Honestly, I was surprised that a remote connection environment could be created so easily."
+
+If the team could build a test environment this easily on its own, he was convinced that bringing in an integrator would certainly get it done. This was the biggest reason for adopting Zscaler.
+
+"Once you deploy Zscaler and prepare the PAC file (proxy auto-config file), you can build a zero trust network right away. Compared with building a perimeter-style network centered on closed networks, PMI that used to take nearly a year is cut to a few months. That had a very big impact."
+
+Ease of rolling out in stages was also highly valued. There is a common misconception that moving to a zero trust network is difficult and burdensome. With Zscaler's overlay technology, existing infrastructure doesn't have to be changed all at once. You can proceed lightly, like flipping the opponent's pieces one by one in Othello.
+
+"Being able to roll out in stages gave us great peace of mind. Even if it failed, we hadn't yet made a large investment, so we could redo it with little damage. We had evaluated this beforehand, but trying it ourselves made us feel it again."
+
+### Highly Satisfied with Zscaler, Now Strengthening Defenses Against Cyberattacks
+In March 2021, SBS began building a Zscaler PoC environment and started the PoC the following month. Based on the results, it decided in August 2021 to deploy Zscaler Private Access (ZPA) and Zscaler Internet Access (ZIA). It began building the production environment in October 2021, and general users started using it in November of that year.
+
+As a result, SBS has set up a framework in which everything from risk analysis to connection testing for an acquired company's network migration takes only three months. It has brought forward by nearly six months the time it takes to create new value from M&A synergies. Of course, the effort needed for network migration and integration has dropped substantially, and the security level is higher than before.
+
+Zscaler's benefits don't stop there. The user experience has improved as well.
+
+"One is faster access to cloud services. We use Microsoft 365 as the foundation for everyday information sharing and communication, and access to it has become dramatically faster. Users tell us things like 'it's a lot faster now' and 'thanks for putting in something good.' That makes me happy, and I really feel glad we put Zscaler in."
+
+The user experience when accessing the intranet from outside the company has also improved. The connection-start steps that were needed with the previous VPN are gone, and access is faster. Mr. Miyazaki says users tell him it is practically no different from being connected to the internal LAN.
+
+Mr. Miyazaki says he is already fully satisfied with the zero trust network built on Zscaler. On secure user access and user experience, he says there's "nothing more I'd ask for." He also points out that the cyberattack surface remains a major challenge for the future. Zscaler announced Zscaler Risk360 in June 2023, and in the next stage SBS intends to strengthen its defenses against cyberattacks, including adopting and using it.
+
+SBS Group has succeeded in a "network paradigm shift" with Zscaler. Its M&A strategy is set to accelerate further and bring even greater growth than before.
+
+## Additional Data Attributes
+- **Products:** Zscaler Zero Trust Exchange (ZTE); Zscaler Private Access (ZPA); Zscaler Internet Access (ZIA)
+- **Solutions:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA)
+- **Related Customer Stories:** The Bank of Saga, Ltd.; NEC Corporation; Japan External Trade Organization (JETRO)

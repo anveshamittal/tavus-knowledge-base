@@ -1,0 +1,80 @@
+# JICA Makes Access Safe and Convenient Across Information Systems Spread Around the World with Zscaler and the Cloud
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Japan International Cooperation Agency (JICA)
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/jica
+- **Slug:** jica
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** Japan International Cooperation Agency (JICA)
+- **Description:** Japan supports the social and economic development of developing countries within the framework of Official Development Assistance (ODA). Among these efforts, the Japan International Cooperation Agency (JICA) is the organization that centrally carries out bilateral aid, which is direct assistance to partner countries. It operates from its headquarters in Tokyo and 15 domestic offices, plus about 100 offices around the world. With so many sites, it is essential to be able to reach information assets from inside and outside Japan, but the previous setup had many restrictions and drew complaints. To further improve its remote work environment under work style reform, and to cope with lockdowns overseas during COVID-19, JICA moved its information systems to the cloud and built secure internet access and remote access using Zscaler solutions.
+- **Industry:** Federal and Government
+- **Headquarters:** Nibancho Center Building, 5-25 Nibancho, Chiyoda-ku, Tokyo, Japan
+- **Size:** 1,968 employees (as of January 1, 2023)
+
+## Executive Summary
+
+### Challenges
+- With more than 100 sites in Japan and overseas, JICA needed a remote access environment that lets staff securely reach the agency's internal information assets whenever they need to. The previous environment had many restrictions on access, such as the number of simultaneous connections, and users inside the agency wanted improvements
+
+### Results & Impact
+- By moving to the cloud, including SaaS, and adopting Zscaler solutions, JICA gave its users a work environment that works regardless of where they are
+- Duplicate investment in items such as PCs for business trips is no longer needed, reducing costs from purchase through management
+- With Zscaler as the catalyst, JICA plans to retire dedicated lines at its overseas offices and expects cost benefits ahead
+
+## Featured Quotes
+
+> "With Zscaler, people can now reach our systems easily and safely from anywhere in the world. Being able to do the agency's work almost as well outside the office as inside it has had a big impact."
+> — **Yuichi Ichikawa, Manager, System Section 1, Information Systems Department, Japan International Cooperation Agency (JICA)**
+
+> "I appreciate that Zscaler connects automatically. The Zscaler environment has become the norm, and I can't now imagine a work environment without it."
+> — **Masayo Tesaki, Assistant Manager, System Section 1, Information Systems Department, Japan International Cooperation Agency (JICA)**
+
+> "Zscaler will let us cut back dramatically on dedicated infrastructure lines. We're looking forward to the effect of secure access over internet lines, which lets us reduce expensive dedicated lines."
+> — **Chihiro Tsubomatsu, Contract Specialist, System Section 1, Information Systems Department, Japan International Cooperation Agency (JICA)**
+
+## Customer Case Study
+
+### Many Restrictions on Reaching Information Assets: Solving Them While Moving Infrastructure to the Cloud
+For JICA, with sites all over the world, sharing information is essential. Yuichi Ichikawa, Manager of System Section 1 in JICA's Information Systems Department, says: "New information is constantly being collected and generated around the world, it is used in a wide range of ways, and its importance keeps growing. In that situation, it's important to build and maintain an environment where people can reach the information they need more quickly while keeping it secure."
+
+But before COVID-19, JICA's information system infrastructure, in the interest of safety, could hardly be called flexible when it came to remote access. "There was a way to reach information assets from outside the office, but its functions and the content you could reach were limited. And because of the number of connection licenses, it was a restrictive environment where people couldn't use it freely when they needed to," says Mr. Ichikawa.
+
+Masayo Tesaki of System Section 1 recalls: "The existing remote access system required applications and wasn't easy to use, and when COVID-19 suddenly began, we didn't have enough accounts to support staff working from home." During the pandemic, JICA got through by sharing limited licenses, with an operation along the lines of "I've finished, so the next person can go ahead." The Information Systems Department also managed remote access reservations. This hindered users' convenience and put a heavy load on the department. "We were hearing calls from all over the organization to improve it," Mr. Ichikawa says.
+
+Around that time, the Information Systems Department had been considering a move from its previous on-premises-centered systems to the cloud, aiming for a form that lets people reach information assets safely and easily from anywhere in the world. "That plan was brought forward by the spread of COVID-19, and we suddenly started moving from on-premises to the cloud and making active use of SaaS. At the same time, deploying a cloud proxy product to give safe internet access when using SaaS was also a major pillar of our infrastructure renewal," says Mr. Ichikawa.
+
+### Zscaler: Fast and Easy to Deploy, with Uniform Service at Overseas Offices Around the World
+For the infrastructure renewal, JICA consulted the consulting firm that it had commissioned to manage its computer systems. The goal was to move information assets to the cloud, using SaaS and other tools, and to enable secure access from every site. With work concentrating on the network during COVID-19, JICA also needed a way to build the environment quickly. Security and ease of deployment were equally important requirements.
+
+"For the cloud proxy, the consulting firm proposed Zscaler's product. They judged that Zscaler, which has many sites to connect to, was right for JICA's situation with its many overseas offices," says Masayo Tesaki.
+
+JICA rolled out in several steps, testing as it went. First it moved communication and some information assets to the cloud and trialed Zscaler Internet Access (ZIA) as the cloud proxy. "We began trial deployment of the Zscaler product and the access-destination data in June 2020. We adopted Microsoft Teams as the communication tool, and OneDrive and SharePoint Online for data sharing," says Mr. Ichikawa. ZIA performs security checks on access to the internet and to SaaS.
+
+The trial at domestic offices showed that it was practical and effective. At the end of 2020, JICA expanded its use of the cloud further. It moved email from on-premises to the cloud (Exchange Online) and adopted Azure AD (now Microsoft Entra ID) as its directory service. It introduced Microsoft Intune for operations management and Microsoft Sentinel as its SIEM (Security Information and Event Management) solution. At the same time, it advanced the deployment of Zscaler Internet Access (ZIA) at its domestic offices and had deployed 3,000 licenses by the start of fiscal 2021.
+
+After building a track record in Japan, JICA moved cloud adoption and Zscaler deployment to its overseas offices. Mr. Ichikawa, who in 2021 was stationed at an overseas JICA office, says: "Unlike our domestic offices, where standard PCs are in place, at overseas offices the PC makers and specs differ, and it was difficult to take uniform action. Even so, we explained to the IT staff at each office that business continuity would be hard without Zscaler, and we moved the environment forward."
+
+Chihiro Tsubomatsu, a contract specialist in System Section 1 of the Information Systems Department, values how easy it was to deploy: "Zscaler's solution is easy for anyone to set up, so everyone, including at overseas offices, moved smoothly to the new environment." ZIA deployment was complete at all sites by March 2021.
+
+In parallel with the ZIA rollout to overseas offices, JICA introduced Zscaler Private Access (ZPA), which provides secure remote access, in November 2021. This made it possible to reach not only information assets on SaaS but also existing business systems. The number of licenses came to about 6,600.
+
+### Working Regardless of Where Users Are, and Helping Cut Infrastructure Costs
+With the move to the cloud and Zscaler, JICA's work has become smoother. "With both ZIA and ZPA in place, people can do almost the same work outside the office as inside," says Mr. Ichikawa. Users do not need to wait their turn for remote access or go through connection procedures. When they open their PC, they have an environment in which both SaaS and business systems are accessible. Masayo Tesaki also says: "It's a stress-free environment where you connect right away, and it's been a real help. We got inquiries to the Information Systems Department at first, but now that operation is stable, there are almost none."
+
+Cost benefits are starting to appear. Previously, JICA kept separate office PCs and PCs for business trips and lent them out as needed. Now one PC can be used in the office and when out. This has greatly improved users' convenience, and eliminating the purchase and maintenance cost of business-trip PCs is significant. "We've cut not only the number of PCs but also the licenses for the software that goes with them, and the licenses for the old remote access environment, which leads to cost savings," says Masayo Tesaki.
+
+JICA also expects benefits on the network side. Chihiro Tsubomatsu, who manages JICA's network, says: "Our overseas offices have been using IP-VPN over dedicated lines, with internet lines as backup. Zscaler makes secure internet access possible, so we plan to retire the dedicated lines within fiscal 2024 and save costs."
+
+Mr. Ichikawa says: "We still have information assets on-premises. By shifting them to the cloud as soon as possible, we expect that the cost of on-premises assets and their maintenance will no longer be needed." Zscaler will keep supporting JICA's work as an infrastructure that delivers safe, stress-free work at sites around the world.
+
+## Additional Data Attributes
+- **Products:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Zero Trust Exchange (ZTE)
+- **Solutions:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA)
+- **Related Customer Stories:** Japan External Trade Organization (JETRO); Sojitz Corporation; NEC Corporation

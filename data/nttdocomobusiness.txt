@@ -1,0 +1,103 @@
+# NTT DOCOMO BUSINESS Builds a Scalable Zero Trust Environment for 54,000 IDs, Strengthening Security and Halving Costs in the Long Term
+
+> Moving from a perimeter defense model with Zscaler
+> Delivering an unchanged work environment even when working remotely
+
+**Customer Name:** NTT DOCOMO BUSINESS, Inc.
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/nttdocomobusiness
+- **Slug:** nttdocomobusiness
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** NTT DOCOMO BUSINESS, Inc.
+- **Description:** A core company of the NTT DOCOMO Group, providing ICT services and solutions and international telecommunications services to corporate customers
+- **Industry:** High Tech
+- **Headquarters:** Otemachi Place West Tower, 2-3-1 Otemachi, Chiyoda-ku, Tokyo, Japan
+- **Size:** 9,350 employees (as of the end of March 2025)
+
+## Executive Summary
+
+### Challenges
+- Access to internal systems from outside required a dedicated device and SSL-VPN, which was a heavy burden. Many tasks also assumed working from the office, and the VPN's configuration and management were constrained
+- The previous web protection environment could only set the same access permissions for all employees. Managing permissions when the sales department accessed external tenants was a particular challenge
+- User authentication information was scattered across several on-premises environments and could not be managed in an integrated way. Security measures were also limited to controls at the IP address and TCP/IP level
+
+### Phased Journey
+- From 2022, the company ran verification and PoCs of ZPA and ZIA, focusing on checking compatibility with internal systems and evaluating operational efficiency with a view to migrating from the existing environment
+- From May 2023, full-scale rollout began. The number of contracted users grew to 49,000 IDs, with ID-based authentication integrated with Microsoft Entra ID and policies set by department and group
+- In August 2024, total users reached about 54,000 IDs. The company continues to optimize operations, including category filters, application control and tenant control
+
+### Results & Impact
+- An environment where users can access resources securely from a single work device. Flexible control for each application delivers both security and convenience
+- By linking ZIA with internal services, the company built a system that collects and automatically analyzes communication logs in real time. Incident detection is more accurate and faster, and signs of anomalies are caught early
+- The time administrators spend configuring devices fell from four weeks to as little as one week. On-premises equipment has been reduced, and costs are expected to be half of the previous level in the long term
+
+## Featured Quotes
+
+> "With Zscaler, we gained a higher level of security and a major improvement in operational efficiency. We now have an environment where people can access internal resources securely with just one work device."
+> — **Kuniharu Tamai, Senior Manager, Digital Innovation Division, Digital Transformation Promotion Department, NTT DOCOMO BUSINESS, Inc.**
+
+> "Zero trust is built on ID-based authentication and authorization and on log-based access control. On top of that, it is important to put in place log analysis that makes threats visible and a mechanism that automates auditing and response."
+> — **Tsutomu Kondo, Senior Staff, Third Group, Solution Services Division, Kansai Branch, NTT DOCOMO BUSINESS, Inc.**
+
+> "The burden of handling requests is much lower, and administrators' work efficiency has improved greatly. By moving to policy management by ID and group, we cut the time for configuration work from four weeks to as little as one week."
+> — **Rui Yagishita, Digital Innovation Division, Digital Transformation Promotion Department, NTT DOCOMO BUSINESS, Inc.**
+
+> "New features and improvements are applied automatically in Zscaler, so there is no update work. The management portal is also easier to use. And automating system-to-system integration through APIs reduces human error."
+> — **Daiki Umebayashi, Digital Innovation Division, Digital Transformation Promotion Department, NTT DOCOMO BUSINESS, Inc.**
+
+## Customer Case Study
+For companies that put cloud first in their IT strategy, "zero trust" is an essential security measure. NTT DOCOMO BUSINESS, Inc. (formerly NTT Communications Corporation), which provides comprehensive ICT services to corporate customers, adopted Zscaler Internet Access (ZIA) and Zscaler Private Access (ZPA) to move itself and its group companies to zero trust. It moved away from its on-premises-centered network, raising its security level and greatly improving operational efficiency, even in remote environments. Armed with what it learned in-house, it is also supporting customers' zero trust adoption through its reseller business.
+
+### Leading Group-Wide Zero Trust in Pursuit of Its "DX Enabler" Mission
+NTT DOCOMO BUSINESS, Inc. (NTT DOCOMO BUSINESS) is centered on comprehensive ICT services for corporate customers. As a platform provider for industry and regional DX, it supports Japanese companies' efforts from many angles, including AI, IoT, digital BPO, regional revitalization and corporate DX support.
+
+Under its new structure, in security it is moving itself and its group companies to zero trust as an essential measure for the cloud-first era. It joined the DOCOMO Group in 2022 and in 2025 changed its name from NTT Communications Corporation to NTT DOCOMO BUSINESS, Inc. Zscaler's Zscaler Internet Access (ZIA) and Zscaler Private Access (ZPA) support that effort on the technology side.
+
+### A Complicated Network Configuration Became a Heavy Burden for Users and Administrators
+NTT DOCOMO BUSINESS adopted Zscaler in 2022. Tsutomu Kondo, who at the time belonged to the Digital Transformation Promotion Department and led the deployment project, explains the reason: "We judged that the conventional network environment could not meet future needs."
+
+At the time, the company used a network configuration centered on on-premises equipment, consolidating internet traffic at gateways inside its data centers. As a result, traffic was concentrated in one place, and communication delays and heavy load were a chronic problem. When remote work surged during COVID-19, there were cases where the gateways reached their processing limits and became overloaded.
+
+Access from the outside also had issues. Connecting to internal systems required a dedicated device and SSL-VPN, which was not only a heavy operational burden on users but also, because of the VPN's complexity, a hindrance to work flexibility. With the other vendor's cloud proxy service that the company had used to protect web traffic, flexible access control was difficult. Rui Yagishita of the Digital Innovation Division in the Digital Transformation Promotion Department recalls: "With the service we used before, we couldn't set detailed policies by user or group, and because we could only apply the same access permissions to all employees, it was hard to control according to the work being done."
+
+With the existing ID management solution, ID information was scattered across several on-premises environments, making integrated security control difficult. Changing a security policy required firewall configuration work, and in some cases it took up to four weeks from request to completion. Kuniharu Tamai, Senior Manager of the Digital Innovation Division, recalls: "As a result, it was a big burden for both users and administrators. Handling hundreds of configuration requests a year significantly reduced work efficiency and wasted resources."
+
+> "Zero trust is built on ID-based authentication and authorization and on log-based access control. On top of that, it is important to put in place log analysis that makes threats visible and a mechanism that automates auditing and response."
+> — **Tsutomu Kondo, Senior Staff, Third Group, Solution Services Division, Kansai Branch, NTT DOCOMO BUSINESS, Inc.**
+
+### Building an Authentication Foundation Linked with Entra ID on Zscaler's Flexible Control
+To solve these problems, NTT DOCOMO BUSINESS decided to adopt Zscaler. Mr. Kondo says: "What decided it for us were ease of deployment and operation, affinity with our internal security foundation, and stability in operation and flexible controllability."
+
+Rui Yagishita adds: "The management portal's UI is intuitive, and changing settings and managing policies is much simpler than before. I also found it easy to use because you can set policies flexibly on an ID and application basis, and see visually how users are linked to resources." That Zscaler achieves zero trust through risk-based authentication and context-based access control was also reassuring.
+
+Deployment proceeded in stages. In January 2022 the company began verifying Zscaler Private Access (ZPA), and in October of the same year it expanded to verifying Zscaler Internet Access (ZIA), at a scale of 1,300 IDs, to provide secure access to the internet and applications. At this stage, with migration from the existing environment in view, it focused on checking compatibility with internal systems and evaluating operational efficiency.
+
+After about a year of verification, it began full-scale rollout to group companies from May 2023. It expanded the contracted IDs to 49,000, built ID-based authentication linked with Microsoft Entra ID (Entra ID) and set fine-grained policies by ID group. In August 2024 it added 5,000 IDs, bringing the total to about 54,000.
+
+> "The burden of handling requests is much lower, and administrators' work efficiency has improved greatly. By moving to policy management by ID and group, we cut the time for configuration work from four weeks to as little as one week."
+> — **Rui Yagishita, Digital Innovation Division, Digital Transformation Promotion Department, NTT DOCOMO BUSINESS, Inc.**
+
+### Real-Time Log Analysis Detects Incidents, and the Know-How Is Applied as a Reseller
+In 2025, about two years have passed since full-scale operation began. Mr. Tamai says: "We now have an environment where people can access internal resources securely with just one work device. The biggest effects of introducing Zscaler are a higher security level and a major improvement in operational efficiency."
+
+Daiki Umebayashi of the Digital Innovation Division also explains: "We can now control each user's access rights precisely and remove unnecessary permissions. Production work that previously could only be done by coming into the office can now be done in a remote environment, which has also led to a lower rate of office attendance."
+
+Along with deploying Zscaler, the company also renewed its ID management mechanism. Building on the existing ID management system, it passes ID information to Entra ID through an ID governance tool and applies security policies to Zscaler automatically. Mr. Tamai says: "When information such as personnel transfers or retirements is registered in the ID management system, the access rights in all related systems are updated automatically. User management work at the scale of 54,000 IDs has become much more efficient, and human error has been reduced."
+
+Another reason Mr. Kondo says "decided us on Zscaler" was how easy log analysis is. By linking ZIA with "WideAngle," an NTT DOCOMO BUSINESS service that the company itself uses (an integrated risk management service that combines a SOC and an analysis platform), it built a system that collects and automatically analyzes the communication logs of tens of thousands of employees in real time. This greatly improved the accuracy and speed of incident detection. Mr. Tamai explains: "With this link, we can continuously monitor employee activity and immediately spot signs of anomalies."
+
+NTT DOCOMO BUSINESS is also a reseller that has received awards from Zscaler as a resale partner year after year. It plans to make full use of the knowledge and operating know-how gained in the deployment project to provide services that are strong in consulting from the customer's perspective. The Digital Transformation Promotion Department has made its own efforts into a showcase of best practices, and has formed a DX promotion team to deliver value to customers and help solve their challenges, establishing a structure to respond to consultations from in-house sales staff.
+
+> "New features and improvements are applied automatically in Zscaler, so there is no update work. The management portal is also easier to use. And automating system-to-system integration through APIs reduces human error."
+> — **Daiki Umebayashi, Digital Innovation Division, Digital Transformation Promotion Department, NTT DOCOMO BUSINESS, Inc.**
+
+## Additional Data Attributes
+- **Key Stats:** One-quarter (configuration work period cut from four weeks to as little as one week); 9,350 (access rights updated automatically through more efficient ID management); less than one-half (cost expected to halve through reduced on-premises equipment)
+- **Products:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Zero Trust Exchange (ZTE)
+- **Solutions:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Zero Trust Exchange (ZTE)
+- **Related Customer Stories:** NTT DOCOMO, INC. | NTT DOCOMO SOLUTIONS, INC.; NEC Corporation; ADK Holdings Inc.

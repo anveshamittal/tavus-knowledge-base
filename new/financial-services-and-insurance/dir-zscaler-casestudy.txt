@@ -1,0 +1,74 @@
+# Zscaler and Daiwa Institute of Research Deploy Zscaler Zero Trust Security Solutions at Daiwa Securities
+
+> Strengthening security for 19,000 business devices
+
+**Customer Name:** Daiwa Securities Co., Ltd.
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/press/dir-zscaler-casestudy
+- **Slug:** dir-zscaler-casestudy
+- **Page Type:** press_release
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** ja (translated to English)
+- **Published:** Tokyo, Japan, September 21, 2022
+
+## Customer Snapshot
+- **Title:** Daiwa Securities Co., Ltd.
+- **Description:** Completed deployment of Zscaler Internet Access (ZIA) and decided to deploy Zscaler Private Access (ZPA). Working with Daiwa Institute of Research to strengthen security for 19,000 business devices (12,000 2-in-1 devices and 7,000 smartphones).
+- **Industry:** Financial Services and Insurance
+- **Headquarters:** Not stated on the page
+- **Size:** 19,000 business devices (12,000 2-in-1 devices, 7,000 smartphones)
+
+## Executive Summary
+### Challenges
+- Since Covid-19, the spread of remote work has increased access to a wide variety of services from many locations and devices
+- Need to respond to increasingly sophisticated cybercrime, such as supply chain attacks
+
+### Phased Journey
+- Phase 1: Deploy ZIA (implementation completed March 2022)
+- Phase 2: Deploy ZPA (implementation scheduled for completion in March 2023). Strengthens the security of communications to servers and applications on-premises and in the cloud
+
+### Results & Impact
+- Secure, best-path internet access from both inside and outside the company
+- High-volume traffic control: controlling 90 million transactions and 4 TB of traffic per day
+- Improved capability and accuracy in responding to external threat detection
+
+## Featured Quotes
+> "In our zero trust strategy, we believe 'continuity', the ability to keep adapting to business changes and threats, is essential. To achieve this, we need not only more advanced security environments, but also improvements in organization, processes, and education, as well as a shift in mindset toward security. Together with Zscaler's zero trust security solutions, Daiwa Institute of Research will support our customers' security measures, also drawing on Zscaler's global, cutting-edge expertise."
+> — **Hiroshi Yoshimoto, Senior Advisor, SI & Infrastructure, Daiwa Institute of Research**
+
+> "We are delighted that Daiwa Securities will be using our zero trust security solutions through Daiwa Institute of Research. As more companies invest in solutions to strengthen their cybersecurity posture, we are confident that, as an industry leader in zero trust and SSE (Security Service Edge), we can help customers rapidly transform and strengthen their cybersecurity strategies. Together with Daiwa Institute of Research, we will continue to promote the adoption of Zscaler products to contribute to our customers' improved security."
+> — **Ravi Gaddadiri, Country Manager, Zscaler Japan K.K.**
+
+## Customer Case Study
+### Overview
+Zscaler Japan K.K., the Japanese subsidiary of Zscaler (NASDAQ: ZS, headquartered in California, USA), a leader in cloud security, announced that together with Daiwa Institute of Research, Ltd. (DIR), it has completed deployment of its zero trust security solution Zscaler Internet Access (ZIA) at Daiwa Securities Co., Ltd. (Daiwa Securities) and has decided to deploy Zscaler Private Access (ZPA).
+
+ZIA is a cloud-based solution that provides centrally managed, multilayered defense for internet traffic from various locations and a wide range of devices. It offers multiple security functions, including URL filtering, antivirus, content inspection, and sandboxing, enabling integrated implementation and management of internet access security regardless of location or device.
+
+As supply chains expand through mutual use of public cloud services and partner company systems, cybercrime is becoming more sophisticated, including "supply chain attacks" that impersonate partner companies. Since Covid-19, the spread of remote work among Daiwa Securities employees has increased access to diverse services from various locations and devices. To address these trends, Daiwa Securities decided to deploy ZIA to strengthen security for communications outside the company, such as to public cloud services, covering the business devices employees use in offices, branches, homes, and elsewhere: 2-in-1 devices (12,000) and smartphones (7,000). Implementation of ZIA was completed in March of this year.
+
+The main results Daiwa Securities has achieved so far through the ZIA deployment are as follows:
+
+- Secure, best-path internet access from both inside and outside the company
+- High-volume traffic control: controlling 90 million transactions and 4 TB of traffic per day
+- Improved capability and accuracy in responding to external threat detection
+
+Daiwa Institute of Research is tackling Daiwa Securities' security enhancement in two phases. Phase 1 corresponds to the ZIA deployment described above. In Phase 2, it will use Zscaler's Zscaler Private Access (ZPA) to strengthen the security of communications to servers and applications on-premises and in the cloud. ZPA is a cloud-delivered ZTNA service that provides secure access to all private applications without the need for a remote access VPN. Implementation of ZPA is scheduled for completion in March 2023. Through the ZPA deployment, the aim is to eliminate the attack surface, accelerate the shift to the cloud, and enable collaboration with business partner companies. Ultimately, by realizing an all-internet zero trust security strategy that does not depend on leased lines, the project will reduce cost and complexity and contribute to greater business agility.
+
+### About Zscaler
+Zscaler (NASDAQ: ZS) accelerates secure digital transformation that is more efficient, agile, and resilient. The Zscaler Zero Trust Exchange platform protects numerous customers from cyberattacks and data loss by securely connecting users, devices, and applications from anywhere. Distributed across more than 200 public exchanges and edge locations worldwide, and thousands of private exchange locations, the SASE-based Zero Trust Exchange is the world's largest inline cloud security platform.
+
+### Media Contacts
+Traintracks Inc. (Zscaler PR agency), Ishida, Komaki, zscaler@traintracks.jp
+
+Chandini Rai, APJ PR Manager, crai@zscaler.com
+
+* For the press release issued by Daiwa Institute of Research regarding this announcement, please see the link on the original page.
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Internet Access (ZIA) (per site metadata gathered earlier; not on the pasted page text)
+- **root.solutions[0].name:** Zscaler Internet Access (ZIA)
+- **root.solutions[1].name:** Zscaler Private Access (ZPA)
+- **root.region:** Japan
+- **root.content_type:** Press Release

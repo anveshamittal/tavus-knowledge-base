@@ -1,0 +1,96 @@
+# ADK Moves from "Site-by-Site Security" to "Cloud-Native Centralized Management," and Integrates Systems Nimbly During M&A
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** ADK Holdings Inc.
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/adk
+- **Slug:** adk
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** ADK Holdings Inc.
+- **Description:** A full-service advertising company that makes full use of data and technology to deliver integrated marketing with a focus on customer experience
+- **Industry:** Services
+- **Headquarters:** Toranomon Hills Mori Tower, 1-23-1 Toranomon, Minato-ku, Tokyo, Japan
+- **Size:** Approximately 2,600 employees (consolidated)
+
+## Executive Summary
+
+### Challenges
+- As ransomware attacks become more sophisticated, stronger security became urgent for a company that handles customers' confidential information
+- Managing firewalls site by site had become complex, and delays in operations and management caused by a shortage of staff were a security risk
+- The move to remote work during COVID-19 increased traffic over the VPN and exposed the limits of the existing infrastructure, and the complex authentication steps when connecting to the VPN were a burden on users
+
+### Phased Journey
+- Rolled out in parallel with PC replacement to Windows 11. After preliminary verification in the IT department and a pilot of about 200 devices, rollout to about 20 sites and 3,000 people was completed in three months, from July to September 2024
+- VPN was kept running in parallel during the transition to provide a backup if problems occurred
+- Rapid rollout was possible because most existing applications had already become SaaS and because of the cooperation of the deployment partner
+
+### Results & Impact
+- Help desk handling time was cut in half, with centralized security policy management, visibility into user behavior and better convenience
+- It is easier to see PC operating status and license usage, which also helps optimize IT asset management
+- Time to build infrastructure when opening a new site fell from three to six months to one month. System rollout during M&A is also smoother
+
+## Featured Quotes
+
+> "We can now secure internet communication and manage user behavior appropriately. Before, some users kept working from home without connecting to the VPN, which meant PC updates weren't being applied."
+> — **Takashi Shibasaki, Executive Officer and Group CIO, ADK Holdings Inc.**
+
+> "In the old VPN environment, complex operations were needed and the burden on users was obvious. It was also hard to identify the cause of problems, but with Zscaler, the operational burden on users has been greatly reduced."
+> — **Makoto Okuyama, General Manager, IT Platform Department, Group IT Division, ADK Holdings Inc.**
+
+> "Isolating problems when they occur has become much easier. We used to need individual measures because there were multiple security checkpoints. With Zscaler, centralized control in the cloud resolved this."
+> — **Keisuke Sue, Security Management Group, Information Security Department, ADK Holdings Inc.**
+
+## Customer Case Study
+ADK Holdings Inc., a full-service advertising company built around communication, has taken on a renewal of its IT infrastructure. The trigger was the ransomware damage that kept hitting companies close to home. For a company that handles clients' confidential information within the group, it was a danger that could not be ignored. Site-by-site security also raised risk. Every M&A deal or new site meant installing another firewall, and a shortage of staff delayed rollouts and left operations and management reactive. ADK decided to adopt Zscaler, which can be managed centrally from the cloud. In parallel with the move to Windows 11, it rolled out to about 20 sites and about 3,000 people, strengthening security and improving operational efficiency at the same time.
+
+### Old-Fashioned Attitudes in a Company with a Long Japanese History
+Since 2019, ADK Holdings Inc. (ADK Group) has operated under a four-company holding company structure, as a group that brings together professional units in marketing, creative and content businesses.
+
+In Japan, it covers the whole country with its Tokyo headquarters, seven branch offices and four offices, forming the best team across the boundaries of department, job type and site to help solve its clients' challenges.
+
+But ADK's IT strategy reflected "the typical thinking of a company dependent on SIers about IT systems." Takashi Shibasaki, Group Executive Officer and CIO of ADK Holdings, explains: "Advertising and marketing is a B2B business, but we tend to deliver services flexibly to fit each client's needs, and as a result our dependence on internal systems is low. Except in some departments, the idea of 'transforming business with IT' had trouble taking root."
+
+Still, with the recent trends toward digitalization and stronger governance, momentum grew inside the company to review its IT infrastructure and strengthen its security posture. A major trigger was the ransomware damage at various large companies in Japan.
+
+These security incidents were not someone else's problem for ADK Group. It handles highly confidential information such as clients' new product and campaign information, and it has an animation production company within the group. It therefore decided to advance its security measures at the same time as modernizing the entire IT infrastructure. Makoto Okuyama, General Manager of the IT Platform Department in the Group IT Division, recalls the challenges at the time:
+
+"Our previous IT infrastructure connected to the corporate network at headquarters through firewalls installed at each site. So as new sites opened and companies were integrated through M&A, new firewalls had to be installed, and having firewall settings spread across sites was also a factor that raised security risk."
+
+The shift to full remote work during COVID-19 then exposed the limits of the existing infrastructure. Every employee began to use video conferencing systems such as Teams, and traffic far exceeded expectations. For example, in a meeting of 10 people, when one is absent the other nine all use video, and combined with connections through the VPN the network load rose sharply. Yet increasing bandwidth was inefficient given the balance of cost and headcount.
+
+### Rolling Out to About 20 Sites and 3,000 Users in Three Months
+ADK adopted Zscaler to solve these problems. The deciding factors were Zscaler's licensing model and support structure, and the usability of centralized, cloud-based management. With a little over 3,000 employees and one PC per person, a per-site or usage-based charging model would have sent costs soaring.
+
+Mr. Shibasaki says: "We spent about three months on the PoC (proof of concept). During that time, Zscaler's staff carefully explained the benefits and the operating costs in ADK's environment. The pre-deployment support was thorough, and the quick response of their engineers was a big plus." Mr. Okuyama adds: "Technically, we liked the performance gain from connecting directly to large internet exchange points (IX), the affinity with Microsoft Azure and AWS, and cloud-based central management. Until then it was hard to make judgments during incidents because we had no logs. With Zscaler, of course, we can get logs, and they're easy to read, which we appreciated."
+
+The deployment project was effectively completed in 10 months. The process started with preliminary verification in the IT department, went through a pilot of about 200 devices and then moved to full rollout. ADK put a priority on the internal user experience and replaced PCs with Windows 11 alongside the Zscaler rollout, which was a tailwind. Rollout to about 20 sites and 3,000 users was completed in the short span of three months, July to September 2024.
+
+### Stronger Security and Better Management Efficiency at the Same Time
+Zscaler greatly improved work efficiency. Keisuke Sue of the Security Management Group in the Information Security Department says: "When working on-site at client locations, people now have the same working environment as in the office. Easy access through single sign-on removed the complex authentication steps required when connecting to the VPN. User convenience has improved dramatically, and the reception has been very good."
+
+The speed of site rollout also increased greatly. For example, adding a BPO (Business Process Outsourcing) center, which previously took three to six months to install a dedicated line, can now be done in one month. Mr. Shibasaki explains: "System integration is smooth even when we do M&A or set up a joint venture."
+
+The simpler network configuration also makes troubleshooting easier. According to Mr. Okuyama, the help desk's handling time for remote connection issues has fallen to about half of what it was before deployment.
+
+Greater visibility into user behavior and finer security controls are further benefits. Mr. Sue explains:
+
+"We can now set fine-grained policies, such as allowing only downloads on file sharing sites, and identify and manage unauthorized SaaS. This lets both the IT Platform Department and the Information Security Department focus on their routine tasks."
+
+### Looking Toward a Cloud-Native Environment
+Going forward, ADK plans to use the knowledge gained from deployment to accelerate the reform of its business systems. Specifically, it will move to serverless and containers and build its own development environment, aiming to integrate with its digital foundation for the business.
+
+For IT staff considering Zscaler, Mr. Shibasaki advises "first clarify your own company's challenges," and adds:
+
+"Allow enough time for verification, identify your traffic and take stock of existing applications. Make a plan that puts user experience first. And above all, it is important to change how you think. Move away from the conventional idea of 'protecting sites' and turn toward using a cloud-native environment. That is not just an infrastructure change; it leads to balancing security and usability and to greater business agility."
+
+## Additional Data Attributes
+- **Key Stats:** 3,000 people (company-wide rollout); 50% (help desk handling time cut by about half); one-sixth (time to roll out a new site of about 100 people)
+- **Products:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA)
+- **Solutions:** Accelerating M&A and Business Separation; Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Zero Trust Exchange (ZTE)
+- **Related Customer Stories:** TSI Holdings Co., Ltd.; BASE, Inc.; Nippon Paint Corporate Solutions Co., Ltd.

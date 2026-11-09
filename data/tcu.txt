@@ -1,0 +1,92 @@
+# Tokyo City University Puts "Don't Even Trust Traffic from Inside Campus" Zero Trust into Practice, Rebuilding Its Campus Network for Both Security and Convenience
+
+> Zscaler protects an environment unique to a university, with a mix of many kinds of devices
+> A secure communications foundation that works anywhere strongly supports DX, and flexibly handles the consolidation of administrative offices and remote work
+
+**Customer Name:** Tokyo City University
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/tcu
+- **Slug:** tcu
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27T17:44:02.724Z
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** Tokyo City University
+- **Description:** Tokyo City University is one of very few universities in Japan born of students' enthusiasm: it was founded with students who sought an "ideal of education" at its center. It is a highly specialized comprehensive university with diverse fields of research, including science and engineering, architecture, urban environment, information, urban life, human sciences and data science.
+- **Industry:** Education
+- **Headquarters:** 1-28-1 Tamazutsumi, Setagaya-ku, Tokyo, Japan
+- **Size:** 1,223 employees (consolidated; faculty and part-time lecturers of Gotoh Educational Corporation, as of the end of October 2025)
+
+## Executive Summary
+
+### Challenges
+- Student BYOD, which began in 2021, diversified the devices not managed by the university, and conventional perimeter security reached its limits in ensuring safety
+- The university has a network environment unique to universities, with students, full-time faculty and staff, part-time lecturers, joint researchers, temporary staff, outsourcing partner companies and maintenance contractors all coming and going, and with connection sources hard to identify. This made it harder to enforce security policies than at an ordinary company
+- With the relocation and consolidation of administrative offices, free-address seating and remote work advanced, so a mechanism for secure access from anywhere became essential
+
+### Phased Journey
+- In 2017 the university began researching zero trust environments. After comparing options such as VDI, it chose a zero trust architecture
+- After deciding to deploy in October 2022, it rolled out from August 2023 to 335 university administrative staff. On the premise of "trusting nothing," even on campus, all communications go through Zscaler
+- From 2024 it considered deploying to affiliated schools, completing everything from requirements definition to rollout in about six months. In October 2025 it added licenses and expanded to several institutions
+
+### Results & Impact
+- Administrative staff can work securely regardless of location, with secure information sharing through the cloud
+- Automatic authentication at PC startup builds security that doesn't depend on IT literacy, and a unified policy applies to a variety of employment types
+- Identity-based access control lets the university integrate systems securely with affiliated schools without waiting for physical integration. This accelerates the consolidation of common business systems and contributes to group-wide DX
+
+## Featured Quotes
+
+> "A university is a special environment where people in many roles, such as students and faculty, bring in all kinds of devices. We judged that zero trust, which does not assume a perimeter, was the best fit, and we adopted Zscaler for its ease of implementation and operability."
+> — **Akihiko Ono, Manager, DX Promotion Section, DX Promotion Department, Management Strategy Bureau, Tokyo City University Group, Gotoh Educational Corporation**
+
+> "Because I can securely access the university's systems from anywhere, I get both work efficiency and peace of mind in a role where I frequently visit affiliated schools."
+> — **Yusuke Hoshino, DX Promotion Section, DX Promotion Department, Management Strategy Bureau, Tokyo City University Group, Gotoh Educational Corporation**
+
+## Customer Case Study
+As the cloud shift and student BYOD (Bring Your Own Device) accelerate, and many kinds of devices connect from inside and outside the campus, it is hard for university networks to stay safe with conventional perimeter security alone. To solve this, Tokyo City University, part of Gotoh Educational Corporation, built a zero trust foundation centered on Zscaler Internet Access (ZIA) and Zscaler Private Access (ZPA). It redesigned all communications, including the campus network, on the premise of "trusting nothing," creating an environment where people can work securely regardless of location or device. Access control based on identity, independent of the network, delivers a new security model that strongly supports both staff work styles and DX across the whole group, including affiliated schools.
+
+### "University-Specific Diversity" Unlike a Company Becomes the Challenge
+Tokyo City University is a comprehensive university that pursues distinctive education and research under the philosophy of "human resource development and academic research to bring about sustainable social development." It has several campuses in the Setagaya and Yokohama areas and a wide range of faculties, including engineering, information, urban life and environment. As the "Tokyo City University Group of Gotoh Educational Corporation," it also operates six institutions: two combined junior and senior high schools, an elementary school, a kindergarten, a high school in Nagano Prefecture and a driving school. It actively promotes mathematics and data science education across the university, industry-government-academia projects and hands-on learning that tackles local issues.
+
+"The Tokyo City University Group brings together undergraduate and graduate students, pupils, faculty and staff, part-time lecturers, researchers and many other kinds of people. So the range of users of our IT infrastructure is incomparably wider than at an ordinary company. That is exactly why an environment where anyone can access information safely is essential," says Akihiko Ono, Manager of the DX Promotion Section in the DX Promotion Department of the Management Strategy Bureau at Tokyo City University.
+
+### BYOD, Work Style Reform and the Cloud Shift Advance at Once
+Several background factors led Tokyo City University to overhaul its IT foundation substantially. The first was the renewal of the administrative PC environment and the change in how Tokyo City University Group staff work. The university's administrative office had long used "network-boot devices" that start up over the network, a "previous-generation" setup with fixed seats and identical machines.
+
+COVID-19 then advanced remote work, and the corporation's administrative office was moved from Shibuya to the Setagaya Campus and consolidated, increasing the number of staff. Mr. Ono explains: "We introduced free-address seating at that time, so we needed a portable PC environment and the infrastructure to support it."
+
+The second factor was the full-scale arrival of BYOD for all students. Under the "one device per student" policy, large numbers of PCs not managed by the university connected to the campus network, and a mix of many kinds of devices became the norm. As a result, the perimeter model that protects by separating the inside and outside of the university with a firewall could no longer keep things safe.
+
+The last factor was the full move from the campus file server to Microsoft 365 (SharePoint). Mr. Ono says: "Staff work style changes, student BYOD and the cloud shift all came together at the same time, so conventional perimeter defense was at its limit. When we thought about a mechanism that lets people access safely anytime, from anywhere, on any device, the zero trust approach was the answer."
+
+### Virtual Desktops Reach Their Limits, and "Zscaler Became the Natural Choice"
+In fact, before starting serious consideration of zero trust, Tokyo City University had also looked at VDI. But in a university environment where many kinds of devices are brought in, device performance limits, operational load and cost were issues, and it judged that VDI would not be effective enough.
+
+Asked why it chose Zscaler from among many zero trust solutions, Mr. Ono says: "Besides ease of deployment and operation, we valued the flexibility of migrating in stages without major changes to the network configuration." Yusuke Hoshino of the DX Promotion Section also says: "When I joined the university, the zero trust environment was already in place in the university administrative departments. No special operations are needed and there is no burden on users, which is a big advantage."
+
+It also valued that Zscaler secures "safety on the assumption of diverse environments," which VDI could not solve, while allowing for future expansion.
+
+> "Because I can securely access the university's systems from anywhere, I get both work efficiency and peace of mind in a role where I frequently visit affiliated schools."
+> — **Yusuke Hoshino, DX Promotion Section, DX Promotion Department, Management Strategy Bureau, Tokyo City University Group, Gotoh Educational Corporation**
+
+### A "Proactive Foundation" That Protects the Whole Group Makes DX Possible
+Tokyo City University decided to adopt ZIA and ZPA in October 2022 and has deployed 335 licenses to university administrative staff since August 2023. ZIA processes all internet-bound communication securely in the cloud, and ZPA gives zero trust access to on-campus systems without a VPN, so work can be done safely on business trips and at affiliated schools.
+
+Mr. Hoshino describes the benefit: "Even with a transfer from Setagaya to the Yokohama Campus, or to an affiliated school, people can take their device and pick up work smoothly."
+
+An even bigger effect comes from Zscaler's identity-based access control. It evaluates safety starting from "who accesses which app, from which device," regardless of IP address or the network of the connection source. This has accelerated system integration with affiliated schools. Because authentication and communication foundations can be shared without waiting for physical network integration, connecting common business systems can proceed safely and quickly.
+
+Going forward, the university plans to speed up the consolidation of back-office operations further. Mr. Hoshino says: "While making clear which areas should be shared and which should remain separate for each school, we want to improve business efficiency across the group."
+
+Mr. Ono also looks ahead: "With the zero trust foundation in place, we have the base to accelerate DX across the whole group. As next steps, we want to push further into things like data integration and the standardization of business processes."
+
+The goal of the Tokyo City University Group is a world in which "users just start up their PC and work in a secure environment without thinking about it." The zero trust environment built with Zscaler is evolving beyond security measures into a "standard foundation for the future" that supports the group's DX.
+
+"Security is an area where people tend not to want to change how things work. That is exactly why it is important to take a step before problems occur. Network safety is the foundation of protecting an organization's value, and we believe zero trust is a 'must-have, unavoidable item' for achieving it," says Mr. Ono.
+
+## Additional Data Attributes
+- **Key Stats:** 181.7 million (rapidly growing traffic of about 180 million processed quickly); 11,682 (security threats blocked in three months); six (institutions, from kindergarten to high school and a driving school, rolled out to in parallel)
+- **Products:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Zero Trust Exchange (ZTE)
+- **Solutions:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Zero Trust Exchange (ZTE)

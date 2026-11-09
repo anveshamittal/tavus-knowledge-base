@@ -1,0 +1,68 @@
+# Okasan Securities Group Builds Its Remote Work Environment Fast with ZIA, and Stable Operations and Ease of Use Cut Operational Load by 20%
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Okasan Securities Group Inc.
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/okasan
+- **Slug:** okasan
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** Okasan Securities Group Inc.
+- **Description:** Okasan Securities Group puts face-to-face service first and supports comprehensive asset management tailored to each customer's investment style and life plan. In its previous medium-term management plan, which ran from April 2020 to March 2023, it set a goal as part of its digitalization efforts: a remote work environment in which employees can work anywhere while reaching customers more closely. The company moved away from its closed network based on conventional perimeter security and built a remote work environment protected by zero trust security using Zscaler products. After three and a half years, it values stable operation and ease of use, and is considering expanding its use of Zscaler products.
+- **Industry:** Financial Services and Insurance
+- **Headquarters:** Muromachi Higashi Mitsui Building, 2-2-1 Nihonbashi-Muromachi, Chuo-ku, Tokyo, Japan
+- **Size:** 3,281 employees, consolidated (as of March 31, 2024)
+
+## Executive Summary
+
+### Challenges
+- While it was still considering infrastructure for remote work, COVID-19 arrived and the environment needed to be built quickly. The company needed to be able to use cloud services, such as Microsoft 365, securely
+
+### Results & Impact
+- No problems in the three and a half years since ZIA was deployed, giving a stable remote work environment
+- Ease of use, including rich reporting, cut operational workload by 20%
+- Shorter lead time and lower cost when opening new sites, enabling a speedy store strategy
+
+## Featured Quotes
+
+> "We haven't had any major outages since deployment, and we have come to trust Zscaler. Cloud services often have outages. Stable operation is a very important point for a securities company."
+> — **Jun Komatsuda, Deputy Manager, Group Systems Planning Department, Okasan Securities Group Inc.**
+
+## Customer Case Study
+
+### COVID-19 Makes Remote Work Urgent, and Zscaler Enables Secure SaaS Use
+"Just as we were starting to seriously consider remote work with the launch of our previous medium-term plan, COVID-19 suddenly left us unable to come to the office. We needed a solution that could enable remote work all at once, on a short timeline, for about 1,700 sales staff across the Okasan Securities Group," Jun Komatsuda recalls. Mr. Komatsuda is Deputy Manager in the Group Systems Planning Department at Okasan Securities Group, a key person in IT strategy who formulates the group-wide IT strategy while overseeing measures at group companies including Okasan Securities.
+
+At the time, the company was moving toward business use of Microsoft 365, a cloud service, to promote digitalization. In addition to laptops and tablets as devices, it had planned to introduce smartphones linked to an IP-PBX, from which staff would make calls showing the branch's main number. It was looking for a way to let every device, smartphones included, use Microsoft 365 services safely.
+
+"We also considered VPN, but from an overall perspective, given the risk of insufficient connection capacity during COVID-19 and the difficulty of accessing Microsoft 365 safely from a variety of devices, we decided to turn to a zero trust network model," says Mr. Komatsuda. As the first step, the company looked at introducing a cloud proxy service.
+
+At first it ran a PoC with another cloud proxy service, but running traffic through that proxy made processing heavy, and it was judged difficult to operate. When it asked a vendor it was working with, the vendor recommended Zscaler Internet Access (ZIA). Functionally, the company found that with ZIA it could use cloud services such as Microsoft 365, Zoom and LINE WORKS through the cloud proxy. "We ran a PoC and it worked smoothly, so we decided to adopt it right away," says Mr. Komatsuda.
+
+ZIA was to be used on every device that connects to the internet, including the desktop PCs, laptops, tablets and smartphones lent to employees. About 3,300 licenses are in operation. The build was fast: design started in October 2020 and the service went live the following January.
+
+### High Trust and Ease of Use Cut Operational Workload by 20%
+Okasan Securities Group has operated ZIA for nearly three and a half years, from January 2021 to June 2024, when this story was reported. Mr. Komatsuda says of its effects: "Cloud services often have outages, but ZIA has had no major outage in three and a half years, and we have very high confidence in it." For a securities firm where a system outage can be fatal, stable operation is a critical factor.
+
+The company also trusts it in terms of functionality. "In the administrator portal we can produce log reports graphically. With the firewall from another vendor that we used before, the security operator would import logs, analyze them to fit the data we wanted and create reports. With ZIA, we can produce reports from the angle we need right in the portal, and when there is suspicious access we can click to drill down and see what happened. This improved the efficiency of our security operators," says Mr. Komatsuda.
+
+He adds on usability: "When selecting products, it is important to scrutinize functional requirements, but for non-functional requirements like usability that directly affect operations, the front line generally doesn't speak up loudly. For the operations and infrastructure engineers who struggle after deployment, it is worth noting that Zscaler products are very easy to use. Even though it is an overseas product, it is localized into Japanese down to the details, so our engineers can make active use of it."
+
+In ZIA, permissions can be set by service from the portal, and settings automatically follow when a service changes its URLs. This has also helped reduce operational workload. "With the conventional firewall, we had to configure blocking work by command line when URLs changed, but this led to a reduction in burden that felt like 20 percent. Our security team is currently five people, so that works out to saving about one person's worth of effort," Mr. Komatsuda explains.
+
+With ZIA, plus infrastructure such as Microsoft 365 and the IP-PBX in place, remote work can be done freely, achieving a first step toward the goal set in the previous medium-term plan. Mr. Komatsuda also cites easier site setup as a benefit. "Previously, each site needed at least about five lines installed, with lead time and cost from contract to construction. Now, with mobile lines on smartphones and tablets, securities sales operations can be carried out. Taking advantage of this, and based on our store strategy, we were able to quickly open 11 sites in the Tokyo metropolitan area, called satellite places, and one site in Kikuyo Town, Kumamoto Prefecture."
+
+### Extending to Remote Access and Toward Unified Management of the Security Platform
+Having confirmed ZIA's stable operation and ease of use over three and a half years of operation, Okasan Securities Group plans to expand its use of Zscaler products. It currently uses Azure Virtual Desktop, a VDI (desktop virtualization) service, to remotely access its core systems. Because it is a multi-session VDI, flexibility is low, which has become an issue. Headquarters departments use many software tools, but remote access limits their use. "We looked for a solution that would let us remotely access safely from remote laptops and found Zscaler Private Access (ZPA). If we can use remote access freely with Zscaler products, which we trust, it will lead to higher productivity. We are now going through the procedures for adoption," says Mr. Komatsuda.
+
+On the outlook, Mr. Komatsuda says: "We'll entrust Zscaler with what it can handle and lower operational load and costs. We'd like to move forward with using Zscaler as our cloud security platform." The company aims for a centralized management structure that takes advantage of the benefits of a single platform.
+
+## Additional Data Attributes
+- **Products:** Zscaler Zero Trust Exchange (ZTE); Zscaler Internet Access (ZIA)
+- **Solutions:** Zscaler Internet Access (ZIA)
+- **Related Customer Stories:** Dai-ichi Life Holdings, Inc.; The Bank of Saga, Ltd.; Fukuoka Hibiki Shinkin Bank

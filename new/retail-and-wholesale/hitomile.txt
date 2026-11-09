@@ -1,0 +1,103 @@
+# Hitomile (formerly Kakuyasu Group) Moves Beyond a Separated Network, Cuts Two PCs per Person to One and Halves Operating Costs
+
+> Highly valuing Zscaler's cloud-native platform, along with its global track record and stability
+> Also expected to support group restructuring and the listing review process
+
+**Customer Name:** Hitomile Co., Ltd. (formerly Kakuyasu Group)
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/hitomile
+- **Slug:** hitomile
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** Hitomile Co., Ltd.
+- **Description:** A platform company that builds on alcoholic beverage sales, strengthens "logistics" and delivers a wide variety of products
+- **Industry:** Retail and Wholesale
+- **Headquarters:** 2-3-1 Toshima, Kita-ku, Tokyo, Japan
+- **Size:** 1,992 employees (as of the end of March 2025, consolidated, excluding officers)
+
+## Executive Summary
+
+### Challenges
+- To transform its business model, the company is moving its core systems to the cloud, and a zero trust architecture became essential for the network as well
+- Its separated network meant two PCs per person, and two per store, which broke up work flows
+- PC management tended to be complicated, and each of the two networks needed its own maintenance
+
+### Phased Journey
+- Purchased ZIA and ZPA licenses directly through AWS Marketplace and carried out the deployment entirely in-house
+- For the first two months, the service was offered to a few executives, starting with limited functions such as access to file servers and groupware
+- About three months later it was distributed to about 100 staff in roles such as HR and general affairs, and three months after that ZIA and ZPA had been distributed to all headquarters employees, a total of 500 users
+
+### Results & Impact
+- Moved away from a closed-network-dependent setup, achieving high work efficiency in which work flows stay unbroken wherever people are
+- Zscaler accelerated the move to the cloud. The migration of on-premises servers to the cloud, originally planned over three years and including the platform for the next core system, is scheduled to be completed in six months
+- Moving away from a separated network avoids needing two PCs, and an unneeded closed network can be cancelled, so operating costs are expected to halve
+
+## Featured Quotes
+
+> "I'm relieved that we've achieved what we long wanted: getting away from the separated network. The network connection cost per user falls to one-fifth, and because we can cancel one closed network, network operating costs also halve."
+> — **Tomoki Murayama, Executive Officer in charge of System Planning & Development Department and System Services Department, Hitomile Co., Ltd.**
+
+> "The deciding factors were its track record and stability in the global market. Being able to eliminate the attack surface was another point in its favor."
+> — **Shinichi Sato, Senior Manager, System Services Department, Hitomile Co., Ltd.**
+
+## Customer Case Study
+Hitomile Co., Ltd. (formerly Kakuyasu Group) has as a subsidiary Kakuyasu Co., Ltd., which runs the "Nandemo Sakeya Kakuyasu" liquor stores. Over the past several years Hitomile has been seeking to get away from a separated network that stalled its PC users' work flows.
+
+In October 2024, the company moved to renew its core systems and move them to the cloud. With this as the opportunity, it aimed to build a network using a zero trust architecture and adopted Zscaler's ZIA and ZPA, which provide comprehensive network protection.
+
+With Zscaler, the company escaped the separated network and can now move its core systems to the cloud at an accelerating pace. It has also contributed greatly to improved employee work efficiency and lower network connection and operating costs.
+
+### A Separated Network Built Against Ransomware: Inconvenient and Costly
+Hitomile Co., Ltd. (Hitomile) is a retail and distribution company with a subsidiary, Kakuyasu Co., Ltd. (Kakuyasu), which operates "Nandemo Sakeya Kakuyasu," selling alcoholic beverages and more at more than 250 locations in the Tokyo metropolitan area, Kansai and Kyushu. Alcohol sales to restaurants, a focus area, account for about 70% of sales.
+
+The separated network the company had been using was a major management issue. It was a system split into two networks, one cut off from the outside and one for connecting to the internet, and was introduced as a countermeasure after the company suffered a ransomware attack in September 2020. But it required two PCs per headquarters employee and two PCs at each store, which was not only inconvenient but also costly.
+
+For example, when someone wanted to look up information about a rare sake a customer had ordered, they had to start up another PC, which broke up the work flow each time. The closed-network SIMs used in PCs for remote work were capped at 7 gigabytes a month and were used up quickly if the camera was on during an online meeting. Each PC needed maintenance for a different network, which made the work complicated and weighed on management and operations.
+
+### Zero Trust Becomes the Goal with the Core System Renewal, and Zscaler Is Chosen for Its Track Record and Stability
+In October 2024, the company decided to renew its core systems. It would move systems it had operated on-premises fully to the cloud, and in doing so it decided to adopt a zero trust security architecture for the network too.
+
+There were reasons specific to retail and distribution for adopting zero trust. Many different kinds of people are involved in distributing products, including store staff, drivers and part-time workers, and turnover is high. To ensure security in that environment, the system itself needs to be strong rather than relying on individual literacy.
+
+Because the core system renewal was running at the same time, the budget was not generous. The company had first considered solutions specialized in file sharing and data protection, but when it requested quotes for Zscaler Internet Access (ZIA) and Zscaler Private Access (ZPA), they turned out to fit within the budget.
+
+Planned restructuring of subsidiaries to expand the business and strengthen profitability also encouraged adoption. Hitomile, as the holding company, drives management functions and group-wide strategy, including M&A. Among the operating companies, Kakuyasu handles alcohol sales, Hito Smile (formerly Meiwa Bussan) sells non-alcohol products and Hitomile Logistics (formerly Daiwa Kyuso) handles logistics. Zscaler, which can deliver comprehensive network protection centered on the Zscaler Zero Trust Exchange, was well suited to making it easy for separate operating companies to join the network.
+
+The company also has its sights on a future listing on the Tokyo Stock Exchange Prime Market, so it had to consider that governance and compliance would be examined closely.
+
+After running a PoC centered on ZPA, the company formally decided to adopt Zscaler. Shinichi Sato explains the reasons for selection:
+
+"What finally decided it was the track record and stability in the global market. It was reassuring that prominent companies use Zscaler. In the PoC we focused on verifying access to the core systems, and we could connect without problems. We also value the architecture, which lets you connect without punching holes in the firewall, in other words eliminating the attack surface. We also considered it as a technology that can underpin group restructuring and the Prime listing review beyond it, and as a result we chose Zscaler."
+
+### Buying 500 Licenses of ZIA and ZPA Directly and Deploying Entirely In-House
+To make the most of its budget, the company bought Zscaler licenses directly through AWS Marketplace and decided to carry out deployment itself. Mr. Sato recalls: "Zscaler had clearly said it would provide support, and the GUI for settings was easy to understand, so we had no particular concerns."
+
+Deployment proceeded by expanding the connection targets in stages. For the first two months, the company offered a limited set of functions to executives, such as access to file servers and groupware. It then distributed ZIA and ZPA to 500 users in phases: staff roles such as HR and general affairs, and then all headquarters users. There was one incident early on in which access was not possible from an overseas business trip, but with appropriate support from Zscaler, the schedule was not delayed.
+
+> "The deciding factors were its track record and stability in the global market. Being able to eliminate the attack surface was another point in its favor."
+> — **Shinichi Sato, Senior Manager, System Services Department, Hitomile Co., Ltd.**
+
+### Moving Beyond the Separated Network: Better Work Efficiency and Significant Cost Reductions
+With Zscaler, Hitomile has escaped the separated network. Tomoki Murayama says:
+
+"I'm relieved that we've achieved what we long wanted: getting away from the separated network. Thanks to Zscaler, the cloud migration of the on-premises servers that support our current internal systems, and of the platform for the next core system, is accelerating. A deployment plan that we originally thought would take three years is on track to finish in six months. Not only can we cancel one closed network and halve network operating costs, but where we used to hand out two SIM cards per user, one is now enough, so the monthly cost falls to one-fifth."
+
+Ending two-PC use has also greatly raised users' work efficiency. When internet connectivity is needed, users can choose an appropriate internet line rather than being limited to a SIM card on a closed network, so work flows continue without breaks, and there is no need to turn off the camera in online meetings. Executives have also given it excellent reviews.
+
+From the system administrator's perspective, Mr. Sato says it is a relief that access to core systems is now provided by ZPA instead of a technology like VPN that still carries vulnerabilities.
+
+"Zscaler is a solution that's easier to deploy than you'd imagine. If you're hesitating over adoption, I'd recommend that you can also buy directly and build it yourselves," says Mr. Murayama.
+
+Going forward, the company is considering placing company-issued smartphones and the smartphone-type handheld terminals used for store inspections under Zscaler as well. It plans eventually to increase the number of licenses to 3,000 and to consider solutions for management and analysis.
+
+With the restructuring of the group, the systems department has moved to the holding company. In line with that, Hitomile's security policy was announced in November 2025. Hitomile is moving on to its next stage, aiming to strengthen governance and compliance across the group.
+
+## Additional Data Attributes
+- **Key Stats:** 6 months (part of a three-year cloud migration plan now expected to finish in six months); one-fifth (SIM connection cost per employee cut to about 20%); one-half (operating cost of the overall system environment expected to halve)
+- **Products:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Zero Trust Exchange (ZTE)
+- **Solutions:** Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA); Zscaler Zero Trust Exchange (ZTE)
+- **Related Customer Stories:** TSI Holdings Co., Ltd.; Sojitz Corporation; SBS Holdings, Inc.

@@ -1,0 +1,95 @@
+# Mizuho Leasing Moves Its IT Infrastructure to the Cloud for Further Growth and Chooses Zscaler as the Security Foundation Underneath It
+
+> with the Zscaler Zero Trust Exchange
+
+**Customer Name:** Mizuho Leasing Company, Limited
+
+## Metadata
+- **Url:** https://www.zscaler.com/jp/customers/mizuho-ls
+- **Slug:** mizuho-ls
+- **Page Type:** customer_story
+- **Scraped At:** 2026-10-27 (page text pasted manually by the user)
+- **Language:** en (translated from ja)
+
+## Customer Snapshot
+- **Title:** Mizuho Leasing Company, Limited
+- **Description:** Mizuho Leasing Company, Limited changed to its current name in March 2019 and provides comprehensive financial services to corporate customers. To support the further business growth targeted by its "Medium-Term Management Plan 2025," it is moving its IT infrastructure fully to the cloud. It chose Zscaler to deliver the zero trust security that firms up that foundation, for three reasons: "functional completeness," "internet capacity" and "application performance visibility." In particular, it highly values that Zscaler covers the functions it needs in a single package and is easy to deploy and operate. It also points to the fast pace at which new features are added as a major attraction. Going forward, Mizuho Leasing aims to make full use of these features to advance its IT infrastructure further.
+- **Industry:** Financial Services and Insurance
+- **Headquarters:** 1-2-6 Toranomon, Minato-ku, Tokyo, Japan
+- **Size:** 2,176 employees, consolidated (as of the end of March 2024)
+
+## Executive Summary
+
+### Challenges
+- To support further business growth, the company is renewing its IT infrastructure around the cloud. Security, as the foundation under it, had to be rethought from the ground up
+
+### Results & Impact
+- A wide range of functions required for zero trust security can be deployed in a single package
+- Network bandwidth has been expanded more than 1,000 times, removing the old bottleneck
+- Performance visibility is expected to let the company respond proactively even when slowdowns occur
+
+## Featured Quotes
+
+> "To build and run this well with a small team, you should choose something that covers the functions you need in a single package. Zscaler has the components we need and can simplify operations in one package, so we considered it the best fit for us."
+> — **Shinya Miyatani, General Manager, Digital Promotion Department (concurrently Information Systems Department), Mizuho Leasing Company, Limited**
+
+## Customer Case Study
+
+### Deciding to Move to the Cloud to Keep Pace with Business Change
+Founded in 1969 as a comprehensive leasing company centered on The Industrial Bank of Japan (now Mizuho Bank, Ltd.), Mizuho Leasing grew mainly around finance for "things" such as leases and installment sales. In October 2019 it changed its name from IBJ Leasing Co., Ltd. to Mizuho Leasing Company, Limited. Today it is a comprehensive financial services group that actively operates in Japan and overseas. Through alliances with partners including the Mizuho Group and the Marubeni Group, it aims to evolve into a "multi-solution platformer" that goes beyond finance. It is expanding its business domains by combining its existing finance functions with business investment functions that involve holding assets, and with service functions that use digital technology.
+
+"Our guiding principle is to collaborate with a variety of partners, broaden the range of products we handle and create new value," says Shinya Miyatani, General Manager of the Digital Promotion Department at Mizuho Leasing. Through the three keywords of challenge, transformation and growth in its "Medium-Term Management Plan 2025," formulated in May 2023, the company is driving further business growth over the three years to 2025.
+
+To grow the business over the medium to long term, the IT systems that support it must also be in good order. The company plans a large-scale system investment of about 10 billion yen, and its infrastructure renewal is a particular focus.
+
+"Our current IT infrastructure uses an on-premises data center together with partial use of the cloud," says Mr. Miyatani. But it was already technically aging, and the company had not expected business, collaboration partners and remote work to expand at such a pace, so it is hard for the infrastructure to keep up with the changes of today.
+
+To keep up better with business change, Mizuho Leasing decided on a full move to the cloud. It is migrating all of its center-side IT infrastructure to the cloud, centered on Microsoft Azure. Devices, once assumed to be used mainly in the office, will move to an internet-based setup, creating a "new workplace" in which employees can comfortably use productive tools regardless of location.
+
+As the foundation under all this, security also had to be rethought from the ground up.
+
+### Achieving Zero Trust with Zscaler for Three Reasons
+Mizuho Leasing's security had been based on a "perimeter security" model. But as it planned a full move to the cloud, it felt that this model had reached its limits. Mr. Miyatani points to two main reasons.
+
+The first was that perimeter security itself could no longer deal with ever-evolving cyberattacks. "When Emotet was rampant a few years ago, we realized that 'inside the perimeter is safe' no longer holds true," he says.
+
+The second was that moving to a cloud-centered infrastructure while keeping perimeter security would turn the perimeter itself into a bottleneck.
+
+"Business growth requires communication, collaboration and productivity gains, but if the perimeter becomes a bottleneck, it is hard to advance them. In fact, with our previous infrastructure it was hard to hold two-way communication among hundreds of people. And because our existing applications assume use inside the company, they need a certain level of network performance, and some could not be used outside the company."
+
+The company considered moving to zero trust security to resolve these problems at the root. It judged this to be a must for removing the bottleneck at the perimeter while ensuring the safety of devices that are increasingly dispersed.
+
+In considering adoption, it compared several major solutions in every respect, and Zscaler's solution was chosen.
+
+"Zscaler met our needs in many areas, but three points mattered most to us: functional completeness, internet capacity and application performance visibility."
+
+### A Wide Range of Functions in One Package
+On "functional completeness," Mr. Miyatani explains:
+
+"A large company can take a 'best of breed' approach, choosing the best solution for each function and combining them, but that isn't realistic at our scale. To build and run this well with a small team, we thought we should choose something that covers the functions we need in a single package. Achieving zero trust security in practice means implementing a wide range of functions, such as authentication and authorization, access control and anomaly detection. Zscaler has these components and can simplify operations in one package, so we considered it the best fit for us."
+
+The company also valued that Zscaler Private Access (ZPA) lets it secure access to on-premises systems at the same level as cloud access. "We can't move everything to the cloud at once. That ZPA can secure existing systems with the same architecture is something we consider unique to Zscaler."
+
+On "internet capacity," he says:
+
+"Our existing perimeter security connected to the internet at roughly a few hundred Mbps, and capacity was completely insufficient. Expanding it ourselves, even to a few Gbps, would take an enormous investment and effort. With Zscaler, a backbone of hundreds of Gbps is already in place. In other words, by connecting to Zscaler's network we get scalability on the order of thousands of times."
+
+To transform communication, some users have already started video communication, and with Zscaler it can be used comfortably anywhere. Problems like "the file is too heavy to download" have also been resolved, and in some cases macros that didn't work from outside the company before now run comfortably.
+
+### Using Added Features Fully to Advance the Infrastructure Further
+On "application performance visibility," Mr. Miyatani says this is a feature the company wants to use actively from now on.
+
+"The moment system infrastructure moves to the cloud, service levels basically become 'best effort.' We have to operate our IT infrastructure on the premise that a service delivered over the internet can suddenly slow down worldwide one day. The problem is that we can't tell when it will happen, or even whether it is happening right now. In a cloud-centered world, that uneasy situation is always with us."
+
+But such unease arises because things are not known or visible, he points out. If Zscaler Digital Experience (ZDX) makes things visible and the company can tell where the cause lies when a slowdown occurs, it becomes easier to take proactive steps, such as guiding users, offering alternatives or deciding on partial restrictions. "To use the cloud, which is best effort by nature, with confidence and well, this kind of visibility feature should be very attractive."
+
+On top of these features, he says deployment of Zscaler's solutions was smoother and less burdensome than expected. It is easy to start small and improve as you go, and when new features appeared, they could be added naturally without major changes.
+
+He also points out that Zscaler's features are evolving faster than expected, which is another major benefit of choosing it.
+
+"When this project started a few years ago, we drew up a roadmap: step one, more advanced security; step two, more advanced security operations; and step three, more advanced cloud performance management. But in just the last few years Zscaler has added many features, including Zscaler Business Insights, and we can now do more than we originally thought. For example, if we offload DLP functions to the network layer with Zscaler Data Protection, the burden on the upper layers drops at once. By making active use of new features like these, we expect to advance our infrastructure even further."
+
+## Additional Data Attributes
+- **Products:** Zscaler Zero Trust Exchange (ZTE); Zscaler Internet Access (ZIA); Zscaler Private Access (ZPA)
+- **Solutions:** Zscaler Private Access (ZPA); Zscaler Internet Access (ZIA)
+- **Related Customer Stories:** The Bank of Saga, Ltd.; Dai-ichi Life Holdings, Inc.; The 77 Bank, Ltd.

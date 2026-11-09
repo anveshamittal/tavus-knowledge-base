@@ -1,0 +1,163 @@
+# Carrier Accelerates Secure Digital Transformation with Zscaler
+
+> Zero trust security deployed to 56,000 employees in 160 countries in just nine days
+
+**Customer Name:** Carrier
+
+## Metadata
+- **Url:** https://www.zscaler.com/resources/videos/carrier-accelerates-secure-digital-transformation-zscaler
+- **Japan Site Url:** https://www.zscaler.com/jp/customers/carrier
+- **Slug:** carrier
+- **Page Type:** video_case_study
+- **Scraped At:** 2026-10-28 (transcribed from the customer video; no page text or captions are published)
+- **Language:** en
+- **Transcription:** Whisper large-v3-turbo, reviewed against the on-screen text cards and speaker caption
+
+## Customer Snapshot
+- **Title:** Carrier
+- **Description:** Carrier is a leading provider of healthy, safe, intelligent, and sustainable building and cold chain solutions. Recently established as an independent company with more than a century of history, Carrier operates in three business segments: HVAC, refrigeration, and fire, security and safety. During the pandemic its cold chain technology helped safely distribute COVID-19 vaccines by keeping them at the prescribed sub-zero temperatures. Carrier moved from a hub-and-spoke, data-center-centric network secured with firewalls and VPNs to a cloud-native zero trust architecture on the Zscaler Zero Trust Exchange, rolling it out to its global workforce in nine days.
+- **Industry:** Manufacturing
+- **Headquarters:** Not stated in the video
+- **Size:** About 56,000 employees serving customers in more than 160 countries
+
+## Executive Summary
+### Challenges
+- A traditional hub-and-spoke architecture backhauled most traffic through heavy data centers
+- Castle-and-moat security built on firewalls, with heavy reliance on VPNs for remote access, was costly and complex to operate
+- The pandemic sent everyone home at once, and the business still had to keep operating
+- Mergers, acquisitions and divestitures required lengthy hygiene assessments and network onboarding, adding risk and cost
+
+### Results & Impact
+- Zero trust security deployed to 56,000 employees in 160 countries in nine days, right before COVID-19
+- VPNs retired quickly as users moved to the zero trust infrastructure
+- Users connect to the applications they need, not to the corporate network, with device posture checked quickly
+- Solved M&A problems: acquired or divested groups no longer need to be put on Carrier's network, so no new vulnerabilities are introduced
+- Time to onboard an acquired organization is down to hours, with minimized up-front planning
+- Dramatically improved risk posture and reduced costs for acquisitions and divestitures
+
+## Featured Quotes
+> "Zscaler allowed us to really deploy a security stack very quickly."
+> — **Nicole Darden Ford — Global VP and CISO — Carrier**
+
+> "We were able to actually roll it out in nine days right before COVID-19, before the pandemic."
+> — **Nicole Darden Ford — Global VP and CISO — Carrier**
+
+> "So I look at Zscaler and I look at it as the Tylenol for my headache, right? So Zscaler has solved so many problems for me as it relates to M&A."
+> — **Nicole Darden Ford — Global VP and CISO — Carrier**
+
+> "And so the risk posture for us as an organization has dramatically improved. And the time to onboard is like hours, right?"
+> — **Nicole Darden Ford — Global VP and CISO — Carrier**
+
+## Customer Case Study
+
+### A Century-Old Company, Newly Independent
+Carrier is a leading provider of healthy, safe, intelligent, and sustainable building and cold chain solutions. It has been around for more than a century and, at the time of the video, was in its second year as an independent company. Carrier operates in three business segments: HVAC, refrigeration, and fire, security and safety, and it has applied technology across many of its brands. During the pandemic, Carrier's cold chain technology helped safely distribute COVID-19 vaccines, keeping them at the prescribed sub-zero temperatures. The company does all of this with a global workforce of about 56,000 employees serving customers in more than 160 countries.
+
+### Moving Beyond Hub-and-Spoke and VPNs
+Carrier ran a very traditional hub-and-spoke architecture built around heavy data centers, backhauling most of its traffic through them. Security followed a castle-and-moat model based on firewalls, with a heavy reliance on virtual private networks for remote access. That approach was costly and very complex to operate. Carrier wanted a modern, cloud-native platform with more local internet breakouts, so every endpoint would be fully serviced with the right level of performance.
+
+### Core Principles: Cloud, SaaS, Zero Trust and Identity
+Carrier anchored its program on core principles: being cloud-native, embracing cloud and SaaS so the business can pivot quickly, and leveraging zero trust. In cybersecurity, the key focus areas were identity and access management, with the program built on least-privilege access so users only have the access they need. Zscaler allowed Carrier to deploy a security stack very quickly, giving people secure access anytime and anywhere while checking the security posture of their devices.
+
+### A Nine-Day Rollout Before the Pandemic
+Carrier made a big bet on Zscaler as its platform of choice and rolled it out in nine days, right before COVID-19 sent the workforce home. The deployment was a cross-functional effort across the infrastructure, application, cybersecurity and business teams. Carrier set up a war room, deployed the solution to key stakeholders first, and tested extensively to make sure their applications worked over Zscaler Internet Access (ZIA) and Zscaler Private Access (ZPA). Users could reach the applications they absolutely needed without being placed on the network, which kept everyone safe, including employees who had not traditionally worked remotely. Carrier retired its VPNs quickly and, within nine days, had transitioned everybody to its zero trust infrastructure.
+
+### Simplifying Mergers, Acquisitions and Divestitures
+Zscaler has solved many M&A problems for Carrier. Because users connect to applications rather than the network, Carrier no longer has to put new users on its network when it acquires or divests an organization, so it does not introduce new vulnerabilities into its environment. Previously, Carrier carried out thorough hygiene evaluations of organizations it planned to buy or divest, followed by a lengthy process to onboard them. That is no longer necessary. Carrier's risk posture has dramatically improved, the time to onboard is down to hours, far less up-front planning is required, and the cost of an acquisition or divestiture has fallen.
+
+### Positioned for the Next Few Decades
+Nicole Darden Ford describes the result as monumental: a better digital program for Carrier that has positioned the company for the next few decades.
+
+## Video Testimonial & Transcript
+**Title:** Carrier Deploys Zero Trust Security in 9 Days with Zscaler
+**Description:** Carrier enabled secure work from anywhere in just nine days with the Zscaler Zero Trust Exchange. Implementing a zero trust architecture helped Carrier reduce costs, simplify M&A, and securely embrace the cloud and SaaS.
+**URL:** https://fast.wistia.net/embed/iframe/zxg83rwoij
+**Provider:** wistia
+**Video ID:** zxg83rwoij
+**Duration:** 404.372 seconds
+**Thumbnail URL:** https://embed-ssl.wistia.com/deliveries/68e57d748cfc37e4a10c7bf40254658f.webp
+
+### Tagged Segments
+- **[Nicole Darden Ford (Global VP and CISO, Carrier)]** [Segment #1] (self_introduction - Company overview and business segments): "Carrier is a leading provider of healthy, safe, intelligent, and sustainable building and cold chain solutions. We're in year two as an independent company, and we've been around for more than a century. We operate in three business segments. They are HVAC, refrigeration, and fire security and safety."
+- **[Nicole Darden Ford (Global VP and CISO, Carrier)]** [Segment #2] (self_introduction - Cold chain and global scale): "During the pandemic, our cold chain technology has helped safely distribute COVID vaccines. For example, keeping the vaccines at the prescribed sub-zero temperature needed. We do all of this with a global workforce of about 56,000 employees who serve customers in more than 160 countries."
+- **[Nicole Darden Ford (Global VP and CISO, Carrier)]** [Segment #3] (challenges - Hub-and-spoke architecture and VPNs): "So we had a very traditional hub-and-spoke architecture, right? Heavy data centers. We were backhauling most of our traffic through our data centers. More of a castle and moat security methodology leveraged based on firewalls. And a heavy reliance on virtual private networks for remote access. Really costly and very complex to operate."
+- **[Nicole Darden Ford (Global VP and CISO, Carrier)]** [Segment #4] (challenges - Need for a modern cloud-native platform): "And so we wanted to go to something that was a little bit more modern, cloud-native, and really focused on providing more local breakouts, which really ensures that the endpoint is being fully serviced and has the right amount of performance."
+- **[Nicole Darden Ford (Global VP and CISO, Carrier)]** [Segment #5] (products_and_solutions - Core principles: cloud, SaaS, zero trust, identity): "We anchored on, you know, core principles like being cloud-native and leveraging zero trust. And specifically in cybersecurity for our program, it was to make sure and put a key focus in areas like identity and access management. You have to have core principles. And ours were really embracing cloud and SaaS, right? Because those really allow you to kind of pivot very quickly."
+- **[Nicole Darden Ford (Global VP and CISO, Carrier)]** [Segment #6] (products_and_solutions - Least privilege and fast deployment): "Zscaler, I got to tell you, really helped us to develop the right type of security infrastructure. And I think when you lean into tools like this and you focus on key areas like identity and access management, which really you anchor your program on things like least privilege and making sure that users only have the access that they need. Zscaler allowed us to really deploy a security stack very quickly. And it really helped us in areas like making sure that people had access anytime, anywhere and being able to check the security posture of their devices very quickly."
+- **[Nicole Darden Ford (Global VP and CISO, Carrier)]** [Segment #7] (deployment - Nine-day rollout before COVID-19): "You have to make bets on technology. And that's what we did. We made a huge bet on Zscaler. We were able to actually roll it out in nine days right before COVID-19, before the pandemic. We made a decision anchored on Zscaler as the platform of choice."
+- **[Nicole Darden Ford (Global VP and CISO, Carrier)]** [Segment #8] (deployment - Cross-functional war room with ZIA and ZPA): "We had our infrastructure team and our application team and our cyber team and our business teams together really kind of thinking through how are we going to deploy? Everybody's going home. We still need to operate the business. So we set up a war room and we started to deploy the solution in ways to our key stakeholders and a lot of testing went into making sure that their applications were using ZIA and ZPA, which are two of the Zscaler products."
+- **[Nicole Darden Ford (Global VP and CISO, Carrier)]** [Segment #9] (results - Users off the network, VPNs retired): "And for us as a security team, it really helped us because they're not in the network. So it really kept everybody safe and secure, especially users that we needed to get up to speed on their digital acumen. It meant that we retired it very quickly. We were able to, over time, start to really divert people and transition them to our zero trust infrastructure. Again, like I said, nine days, we were able to transition everybody over."
+- **[Nicole Darden Ford (Global VP and CISO, Carrier)]** [Segment #10] (results - Solving M&A without network onboarding): "So I look at Zscaler and I look at it as the Tylenol for my headache, right? So Zscaler has solved so many problems for me as it relates to M&A. Technically, I don't have to put new users on my network. So I'm not introducing more vulnerabilities to my environment by actually onboarding a new group through an acquisition or divesting of an organization, right? It provides maximum protection for me."
+- **[Nicole Darden Ford (Global VP and CISO, Carrier)]** [Segment #11] (results - Risk posture, onboarding in hours, lower cost): "And so the risk posture for us as an organization has dramatically improved. And the time to onboard is like hours, right? We don't have to do as much planning on the front end, which we used to do when we needed to onboard new organizations or divest. So it's been a huge sea change for us as it relates to the planning, the cost of a divestiture or acquisition, as well as ensuring that we're not introducing additional risk to the organization."
+
+### Full Transcript Sentences
+- Carrier is a leading provider of healthy, safe, intelligent, and sustainable building and cold chain solutions.
+- We're in year two as an independent company, and we've been around for more than a century.
+- We operate in three business segments. They are HVAC, refrigeration, and fire security and safety.
+- We've leveraged the power of technology across many of our brands.
+- And in the times that we're living, our products and services are meant to inspire confidence.
+- As well as during the pandemic, our cold chain technology has helped safely distribute COVID vaccines.
+- For example, keeping the vaccines at the prescribed sub-zero temperature needed.
+- We do all of this with a global workforce of about 56,000 employees who serve customers in more than 160 countries.
+- So we had a very traditional hub-and-spoke architecture, right?
+- Heavy data centers. We were backhauling most of our traffic through our data centers.
+- More of a castle and moat security methodology leveraged based on firewalls.
+- And a heavy reliance on virtual private networks for remote access.
+- Really costly and very complex to operate.
+- And so we wanted to go to something that was a little bit more modern, cloud-native, and really focused on providing more local breakouts, which really ensures that the endpoint is being fully serviced and has the right amount of performance.
+- We anchored on, you know, core principles like being cloud-native and leveraging zero trust.
+- And specifically in cybersecurity for our program, it was to make sure and put a key focus in areas like identity and access management.
+- You have to have core principles. And ours were really embracing cloud and SaaS, right?
+- SaaS, right? Because those really allow you to kind of pivot very quickly.
+- And this helped us immensely.
+- Zscaler, I got to tell you, really helped us to develop the right type of security infrastructure.
+- And I think when you lean into tools like this and you focus on key areas like identity and access management, which really you anchor your program on things like least privilege and making sure that users only have the access that they need.
+- Zscaler allowed us to really deploy a security stack very quickly.
+- And it really helped us in areas like making sure that people had access anytime, anywhere and being able to check the security posture of their devices very quickly.
+- So all of those things really help and make it more safe and secure.
+- You have to make bets on technology. And that's what we did.
+- We made a huge bet on Zscaler.
+- We were able to actually roll it out in nine days right before COVID-19, before the pandemic.
+- We made a decision anchored on Zscaler as the platform of choice.
+- There was a lot of people involved in making it happen.
+- We had our infrastructure team and our application team and our cyber team and our business teams together really kind of thinking through how are we going to deploy?
+- Everybody's going home. We still need to operate the business.
+- So we set up a war room and we started to deploy the solution in ways to our key stakeholders and a lot of testing went into making sure that their applications were using ZIA and ZPA, which are two of the Zscaler products.
+- Together, we were able to make sure that not only can they can they get into the environment, but they can get to applications that they absolutely need.
+- And for us as a security team, it really helped us because they're not in the network.
+- So it really kept everybody safe and secure, especially users that we needed to get up to speed on their digital acumen.
+- Users that don't traditionally remote in. And we were so, so, so fortunate to have Zscaler work with us and partner with us to do that.
+- It meant that we retired it very quickly.
+- We were able to, over time, start to really divert people and transition them to our zero trust infrastructure.
+- Again, like I said, nine days, we were able to transition everybody over.
+- We had a ton of confidence in Zscaler and its ability to protect those users.
+- And I think that that meant all the difference for us.
+- So I look at Zscaler and I look at it as the Tylenol for my headache, right?
+- So Zscaler has solved so many problems for me as it relates to M&A.
+- Technically, I don't have to put new users on my network.
+- So I'm not introducing more vulnerabilities to my environment by actually onboarding a new group through an acquisition or divesting of an organization, right?
+- It provides maximum protection for me.
+- And because the users are not on the network, I'm not as concerned about things that I used to be concerned about.
+- I used to be concerned about hygiene, right?
+- And we would do thorough evaluation and assessments of organizations that we're going to purchase or divest of just to kind of make sure that we understood what the hygiene level was.
+- Because then we would have to do a very lengthy process to actually onboard them into our environment.
+- And that I don't have to do because they're not on my network.
+- And so the risk posture for us as an organization has dramatically improved.
+- And the time to onboard is like hours, right?
+- We don't have to do as much planning on the front end, which we used to do when we needed to onboard new organizations or divest.
+- So it's been a huge sea change for us as it relates to the planning, the cost of a divestiture or acquisition, as well as ensuring that we're not introducing additional risk to the organization.
+- I can tell you it was it was monumental and what we've been able to provide is a like for better program, digital digital program for Carrier that has really positioned them for the next few decades.
+
+### On-Screen Text Cards
+56,000 employees · 160 countries · Hub & spoke network worked well for the data center centric world · Costly and complex · Modern cloud-native platform · Fast endpoint experience · Key focus on: Identity, Access Management · Embrace cloud and SaaS · Transform security · Least privilege access · Secure work from anywhere · Deployed in 9 days · Cross-functional initiative: Infrastructure, Applications, Cybersecurity, Business · Zscaler Internet Access · Zscaler Private Access · Connect users to applications, not the corporate network · Retired VPNs · Transition to a zero trust architecture · Eliminated headaches · Solved M&A problems · Not introducing vulnerabilities · Maximum protection · Eliminated hygiene concerns · Dramatically improved risk posture · Minimized planning requirements · Reduced costs
+
+## Additional Unprocessed Data Attributes
+- **root.products[0].name:** Zscaler Internet Access (ZIA)
+- **root.products[0].url:** https://www.zscaler.com/products/zscaler-internet-access
+- **root.products[1].name:** Zscaler Private Access (ZPA)
+- **root.products[1].url:** https://www.zscaler.com/products/zscaler-private-access
+- **root.solutions[0].name:** Ransomware
+- **root.solutions[0].url:** https://www.zscaler.com/products-and-solutions/ransomware-protection
+- **root.solutions[1].name:** Zero Trust App Access
+- **root.region:** Americas
+- **root.customer_type:** Video
