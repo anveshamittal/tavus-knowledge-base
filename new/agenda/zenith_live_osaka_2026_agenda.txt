@@ -1,7 +1,7 @@
 ZENITH LIVE 2026 - OSAKA AGENDA
 ============================================================
 ------------------------------------------------------------
-City: Note: All times in venue-local time (JST). Zenith Live '26 Osaka takes place on Tuesday 24 November 2026, 12:00-19:00 (registration opens 11:30, keynote starts 13:00), at Knowledge Capital Congrès Convention Center, Osaka. Sessions run in two parallel tracks, Track A and Track B. Session titles, content and speakers may change without notice.
+City: Note: All times in venue-local time (JST). Zenith Live '26 Osaka takes place on Tuesday 24 November 2026, 12:00-19:00 (registration opens 11:30, keynote starts 13:00), at Knowledge Capital Congrès Convention Center, Osaka. Sessions run in Room I, Room II and Room III. Six Zscaler booths (1 Zscaler for Users, 2 Discover Your AI Security Risks, 3 Secure Every AI Interaction, 4 Data Security, 5 Agentic SecOps, 6 Zero Trust Branch & Cloud) and nine sponsor booths are in the exhibition hall. Session titles, content and speakers may change without notice.
 
 ------------------------------------------------------------
 City: Osaka
@@ -9,9 +9,9 @@ Session/Activity Name: Zscaler for Beginners: Why Customers Choose Zscaler, in 3
 Session Type: Breakout Session (lunch provided)
 Start Time: 12:00
 End Time: 12:40
-Zone / Hall: Track A (A-1)
+Zone / Hall: Room III (Room Ⅲ), session A-1
 Track / Theme: Zscaler Introduction
-Related Booth:
+Related Booth: Zscaler for Users (Booth 1); Zero Trust Branch & Cloud (Booth 6)
 Session Description (Attendee-Facing): Among the many zero trust solutions available, why do so many companies keep choosing Zscaler? Built around its cloud-native architecture, this session explains in plain terms how Zscaler simplifies increasingly complex access management, user protection and site-to-site connectivity, and what sets it apart. Designed for first-timers, it gives a complete overview as a first step towards evaluating Zscaler. Advance entry required.
 Speaker Name: Naoki Oishi (Senior Sales Engineer, Zscaler Japan)
 
@@ -21,9 +21,9 @@ Session/Activity Name: AI Security from Zero: AI-Era Cyberattacks and Governance
 Session Type: Breakout Session (lunch provided)
 Start Time: 12:00
 End Time: 12:40
-Zone / Hall: Track B (B-1)
+Zone / Hall: Room II (Room Ⅱ), session B-1
 Track / Theme: AI Security
-Related Booth:
+Related Booth: Discover Your AI Security Risks (Booth 2); Secure Every AI Interaction (Booth 3)
 Session Description (Attendee-Facing): Do you know what "AI-powered cyberattacks" look like? Governance to protect AI itself, covering shadow AI, data leakage, LLM vulnerabilities and excessive permissions, is also urgent. This session answers the question "why do we need AI security now?", covering the latest threat trends and how Zscaler protects organisations. Advance entry required.
 Speaker Name: Ding Yafeng (Sales Engineer, Zscaler Japan)
 
@@ -33,9 +33,9 @@ Session/Activity Name: Keynote: Zero Trust in the AI Era
 Session Type: Keynote (simultaneous interpretation)
 Start Time: 13:00
 End Time: 14:30
-Zone / Hall: Keynote (KN-1)
+Zone / Hall: Room I (Room Ⅰ), session KN-1
 Track / Theme: Keynote
-Related Booth:
+Related Booth: All six Zscaler solution booths
 Session Description (Attendee-Facing): AI accelerates business transformation but is rapidly expanding the attack surface. This keynote sets out a security strategy built on zero trust: responding to the new risks agentic AI brings, using AI to make operations more efficient, and advancing security operations to counter increasingly sophisticated attacks, with practical insights drawn from leading customers.
 Speaker Name: Sanjay Yadave (Senior Vice President, Asia Pacific & Japan, Zscaler); Santanu Dutt (VP, Solutions Consulting, Zscaler); Takayoshi Takaoka (Evangelist & Senior Product Marketing Manager, Zscaler Japan); Akira Nakabayashi (Executive Officer and CDIO, Eternal Hospitality Group)
 
@@ -45,9 +45,9 @@ Session/Activity Name: Simplicity and Resilience Together: Network Renewal with 
 Session Type: Customer Case Study
 Start Time: 14:50
 End Time: 15:30
-Zone / Hall: Track A (A-2)
+Zone / Hall: Room II (Room Ⅱ), session A-2
 Track / Theme: Zero Trust Network Transformation
-Related Booth:
+Related Booth: Zscaler for Users (Booth 1); Zero Trust Branch & Cloud (Booth 6)
 Session Description (Attendee-Facing): The real story of Furuno Electric's security overhaul and the network and infrastructure transformation it achieved by adopting Zscaler. The session covers moving off legacy VPN, improving usability with local breakout, and how the challenges along the way were solved. It also shares practical, operations-level know-how for running Zscaler reliably and handling common user enquiries, plus how Okta integration automated identity consolidation and account management, and how CrowdStrike integration strengthened security and automated operations.
 Speaker Name: Shinji Tamura (Manager, IT Security & Infrastructure Section, IT Department, Furuno Electric)
 
@@ -57,9 +57,9 @@ Session/Activity Name: Accelerate Every Side of Your AI Strategy Securely: The Z
 Session Type: Breakout Session
 Start Time: 14:50
 End Time: 15:30
-Zone / Hall: Track B (B-2)
+Zone / Hall: Room I (Room Ⅰ), session B-2
 Track / Theme: AI Security
-Related Booth:
+Related Booth: Discover Your AI Security Risks (Booth 2); Secure Every AI Interaction (Booth 3)
 Session Description (Attendee-Facing): As AI adoption accelerates, tackling data leakage, governance and usage visibility becomes essential. This session shows how Zscaler's unified security platform protects everything from generative AI use to AI application development and operations, so organisations can pursue their AI strategy safely.
 Speaker Name: Tomomitsu Korogi (Senior Sales Engineer, Zscaler Japan)
 
@@ -69,9 +69,9 @@ Session/Activity Name: Building a Global Zero Trust Platform That Users and Admi
 Session Type: Customer Case Study
 Start Time: 15:50
 End Time: 16:30
-Zone / Hall: Track A (A-3)
+Zone / Hall: Room II (Room Ⅱ), session A-3
 Track / Theme: Zero Trust Network Transformation
-Related Booth:
+Related Booth: Zscaler for Users (Booth 1); Zero Trust Branch & Cloud (Booth 6)
 Session Description (Attendee-Facing): Prompted by user and administrator frustration with the legacy network and security platform, and by incidents that occurred on it, Daicel rebuilt a global zero trust platform with Zscaler at its core. From a practitioner's perspective, this session covers the design and operational choices that got users and administrators to migrate willingly, the key decisions made for the organisation as a whole, and the side benefits and lessons learned after completion. Same content as the Tokyo session.
 Speaker Name: Masakazu Daito (Principal Staff, Systems Group, Digital Strategy Promotion Center, Daicel Corporation)
 
@@ -81,9 +81,9 @@ Session/Activity Name: Secure Wherever You Are and Whatever You Connect: How Zer
 Session Type: Breakout Session
 Start Time: 15:50
 End Time: 16:30
-Zone / Hall: Track B (B-3)
+Zone / Hall: Room I (Room Ⅰ), session B-3
 Track / Theme: Zero Trust Everywhere
-Related Booth:
+Related Booth: Zscaler for Users (Booth 1); Zero Trust Branch & Cloud (Booth 6)
 Session Description (Attendee-Facing): With cloud adoption, remote work and the arrival of AI, what companies connect now goes far beyond employee PCs to factory equipment, cloud systems and AI. Traditional VPNs and firewalls struggle to keep up. This session explains in plain terms the Zero Trust Everywhere approach, which protects all traffic without connecting networks directly, and offers tips for putting it into practice.
 Speaker Name: Hajime Mizuno (Senior Sales Engineer, Zscaler Japan)
 
@@ -93,9 +93,9 @@ Session/Activity Name: Rewriting the SOC Playbook: Contain AI-Driven Attacks Ins
 Session Type: Breakout Session
 Start Time: 16:50
 End Time: 17:30
-Zone / Hall: Track A (A-4)
+Zone / Hall: Room I (Room Ⅰ), session A-4
 Track / Theme: Agentic SecOps
-Related Booth:
+Related Booth: Agentic SecOps (Booth 5)
 Session Description (Attendee-Facing): Faster AI-driven attacks and floods of alerts are pushing traditional SOCs to their limits. This session explains Zscaler Agentic SecOps, which combines vast telemetry with autonomous AI: threat detection without false positives, automatic log correlation that visualises attack scenarios, and inline controls that isolate threats autonomously within a short time, a next-generation defence approach that transforms SOC operations.
 Speaker Name: Takahiro Saito (Sales Engineer, Zscaler Japan)
 
@@ -105,9 +105,9 @@ Session/Activity Name: Data Protection Strategy for the AI Era: Next-Generation 
 Session Type: Breakout Session
 Start Time: 16:50
 End Time: 17:30
-Zone / Hall: Track B (B-4)
+Zone / Hall: Room II (Room Ⅱ), session B-4
 Track / Theme: Protect Data Everywhere
-Related Booth:
+Related Booth: Data Security (Booth 4)
 Session Description (Attendee-Facing): With generative AI and SaaS driving a sharp rise in data leakage risk, fragmented controls are no longer enough. This session presents Zscaler's integrated DLP and DSPM platform and its latest roadmap, with practical methods for building and running strong data security: consistent data visibility from endpoint to cloud, and operational automation that removes complexity.
 Speaker Name: Kenjiro Yajima (Senior Sales Engineer, Zscaler Japan)
 
