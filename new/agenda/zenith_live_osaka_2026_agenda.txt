@@ -1,7 +1,7 @@
 ZENITH LIVE 2026 - OSAKA AGENDA
 ============================================================
 ------------------------------------------------------------
-City: Note: All times in venue-local time (JST). Zenith Live '26 Osaka takes place on Tuesday 24 November 2026, 12:00-19:00 (registration opens 11:30, keynote starts 13:00), at Knowledge Capital Congrès Convention Center, Osaka. Sessions run in Room I, Room II and Room III. Six Zscaler booths (Z-1 Zero Trust Branch & Cloud, Z-2 Zscaler for Users, Z-3 Agentic SecOps, Z-4 Discover Your AI Security Risks, Z-5 Secure Every AI Interaction, Z-6 Data Security) and nine sponsor booths (S-1 to S-9) are in the exhibition hall. For directions, visitors ask at the reception desk (受付). Session titles, content and speakers may change without notice.
+City: Note: All times in venue-local time (JST). Zenith Live '26 Osaka takes place on Tuesday 24 November 2026, 12:00-19:00 (registration opens 11:30, keynote starts 13:00), at Knowledge Capital Congrès Convention Center, Osaka. Sessions run in Room I, Room II and Room III. Six Zscaler booths (Z-1 Zero Trust Branch & Cloud, Z-2 Zscaler for Users, Z-3 Data Security, Z-4 Secure Every AI Interaction, Z-5 Discover Your AI Security Risks, Z-6 Agentic SecOps) and nine sponsor booths (S-1 to S-9) are in the exhibition hall. For directions, visitors ask at the reception desk (受付). Session titles, content and speakers may change without notice.
 
 ------------------------------------------------------------
 City: Osaka
@@ -23,7 +23,7 @@ Start Time: 12:00
 End Time: 12:40
 Zone / Hall: Room II (Room Ⅱ), session B-1
 Track / Theme: AI Security
-Related Booth: Discover Your AI Security Risks (Booth Z-4); Secure Every AI Interaction (Booth Z-5)
+Related Booth: Discover Your AI Security Risks (Booth Z-5); Secure Every AI Interaction (Booth Z-4)
 Session Description (Attendee-Facing): Do you know what "AI-powered cyberattacks" look like? Governance to protect AI itself, covering shadow AI, data leakage, LLM vulnerabilities and excessive permissions, is also urgent. This session answers the question "why do we need AI security now?", covering the latest threat trends and how Zscaler protects organisations. Advance entry required.
 Speaker Name: Ding Yafeng (Sales Engineer, Zscaler Japan)
 
@@ -59,7 +59,7 @@ Start Time: 14:50
 End Time: 15:30
 Zone / Hall: Room I (Room Ⅰ), session B-2
 Track / Theme: AI Security
-Related Booth: Discover Your AI Security Risks (Booth Z-4); Secure Every AI Interaction (Booth Z-5)
+Related Booth: Discover Your AI Security Risks (Booth Z-5); Secure Every AI Interaction (Booth Z-4)
 Session Description (Attendee-Facing): As AI adoption accelerates, tackling data leakage, governance and usage visibility becomes essential. This session shows how Zscaler's unified security platform protects everything from generative AI use to AI application development and operations, so organisations can pursue their AI strategy safely.
 Speaker Name: Tomomitsu Korogi (Senior Sales Engineer, Zscaler Japan)
 
@@ -95,7 +95,7 @@ Start Time: 16:50
 End Time: 17:30
 Zone / Hall: Room I (Room Ⅰ), session A-4
 Track / Theme: Agentic SecOps
-Related Booth: Agentic SecOps (Booth Z-3)
+Related Booth: Agentic SecOps (Booth Z-6)
 Session Description (Attendee-Facing): Faster AI-driven attacks and floods of alerts are pushing traditional SOCs to their limits. This session explains Zscaler Agentic SecOps, which combines vast telemetry with autonomous AI: threat detection without false positives, automatic log correlation that visualises attack scenarios, and inline controls that isolate threats autonomously within a short time, a next-generation defence approach that transforms SOC operations.
 Speaker Name: Takahiro Saito (Sales Engineer, Zscaler Japan)
 
@@ -107,7 +107,7 @@ Start Time: 16:50
 End Time: 17:30
 Zone / Hall: Room II (Room Ⅱ), session B-4
 Track / Theme: Protect Data Everywhere
-Related Booth: Data Security (Booth Z-6)
+Related Booth: Data Security (Booth Z-3)
 Session Description (Attendee-Facing): With generative AI and SaaS driving a sharp rise in data leakage risk, fragmented controls are no longer enough. This session presents Zscaler's integrated DLP and DSPM platform and its latest roadmap, with practical methods for building and running strong data security: consistent data visibility from endpoint to cloud, and operational automation that removes complexity.
 Speaker Name: Kenjiro Yajima (Senior Sales Engineer, Zscaler Japan)
 
